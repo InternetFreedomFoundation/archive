@@ -31,3 +31,12 @@ Transfer the contents of `newhugosite/content` and `newhugosite/layouts` to [con
 > To build manually run `hugo` from the root of the directory.
 
 This generates the static website to the `public/` directory by default
+
+## Roadmap
+
+- [ ] create webhook from ghost posts
+- [ ] consume webhook, build and deploy new posts using hugo
+
+## License
+
+Everything inside `content` directory is [CC-BY](https://choosealicense.com/licenses/cc-by-4.0/), everything else is [MIT](https://choosealicense.com/licenses/mit/).
