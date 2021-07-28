@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>pegasus on Internet Freedom Foundation</title>
-    <link>https://internerfreedom.in/categories/pegasus/</link>
+    <link>https://internetfreedomfoundation.github.io/archive/categories/pegasus/</link>
     <description>Recent content in pegasus on Internet Freedom Foundation</description>
     <image>
-      <url>https://internerfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://internerfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://internetfreedomfoundation.github.io/archive/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://internetfreedomfoundation.github.io/archive/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 05:28:30 +0000</lastBuildDate><atom:link href="https://internerfreedom.in/categories/pegasus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 05:28:30 +0000</lastBuildDate><atom:link href="https://internetfreedomfoundation.github.io/archive/categories/pegasus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IFF’s Statement on Hacking Revelations made by the Pegasus Project</title>
-      <link>https://internerfreedom.in/post/iffs-statement-on-hacking-revelations-made-by-the-pegasus-project/</link>
+      <link>https://internetfreedomfoundation.github.io/archive/post/iffs-statement-on-hacking-revelations-made-by-the-pegasus-project/</link>
       <pubDate>Mon, 19 Jul 2021 05:28:30 +0000</pubDate>
       
-      <guid>https://internerfreedom.in/post/iffs-statement-on-hacking-revelations-made-by-the-pegasus-project/</guid>
+      <guid>https://internetfreedomfoundation.github.io/archive/post/iffs-statement-on-hacking-revelations-made-by-the-pegasus-project/</guid>
       <description>Read our statement in response to the revelations made by the Pegasus Project which revealed that over 300 verified Indian mobile telephone numbers were targeted by the Israeli spyware firm, NSO Group.</description>
     </item>
     
