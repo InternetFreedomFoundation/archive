@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cyber security on Internet Freedom Foundation</title>
+    <link>https://internerfreedom.in/categories/cyber-security/</link>
+    <description>Recent content in cyber security on Internet Freedom Foundation</description>
+    <image>
+      <url>https://internerfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://internerfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Jul 2021 12:16:53 +0000</lastBuildDate><atom:link href="https://internerfreedom.in/categories/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Women’s safety on the internet has to account for intersectionality</title>
+      <link>https://internerfreedom.in/post/womens-safety-on-the-internet-intersectionality/</link>
+      <pubDate>Mon, 19 Jul 2021 12:16:53 +0000</pubDate>
+      
+      <guid>https://internerfreedom.in/post/womens-safety-on-the-internet-intersectionality/</guid>
+      <description>In light of recent incident wherein women belonging to the Muslim community were targeted, we have written to the NCW &amp;amp; DCW with our recommendations as well as to GoDaddy.com asking them to remove the domain registered with them.</description>
+    </item>
+    
+    <item>
+      <title>Cybersec Charcha: Conflicts, Nation-States, and Cybercrime</title>
+      <link>https://internerfreedom.in/post/cybersec-charcha-conflicts-nation-states-and-cybercrime/</link>
+      <pubDate>Thu, 24 Jun 2021 09:18:25 +0000</pubDate>
+      
+      <guid>https://internerfreedom.in/post/cybersec-charcha-conflicts-nation-states-and-cybercrime/</guid>
+      <description>In today’s edition of Cybersec Charcha, we’ll be exploring the growing role of Nation State Actors in cyberattacks, some important headlines from the past month in the cybersecurity space and some expert advice that we received on the last edition of Cybersec Charcha.</description>
+    </item>
+    
+    <item>
+      <title>Our recommendations to protect Indians against data breaches</title>
+      <link>https://internerfreedom.in/post/our-recommendations-to-protect-indians-against-data-breaches/</link>
+      <pubDate>Fri, 11 Jun 2021 06:47:10 +0000</pubDate>
+      
+      <guid>https://internerfreedom.in/post/our-recommendations-to-protect-indians-against-data-breaches/</guid>
+      <description>In view of the rise in data breaches, we write to MEITY with recommendations to prevent data breaches and provide redressal against them.</description>
+    </item>
+    
+    <item>
+      <title>Cybersec Charcha: Understanding the booming ransomware industry</title>
+      <link>https://internerfreedom.in/post/cybersec-charcha/</link>
+      <pubDate>Thu, 27 May 2021 07:03:27 +0000</pubDate>
+      
+      <guid>https://internerfreedom.in/post/cybersec-charcha/</guid>
+      <description>In the second edition of Cybersec Charcha, we are taking a deep dive into understanding the unregulated ransomware industry, what a ransomware attack means and the consequences it can have.</description>
+    </item>
+    
+  </channel>
+</rss>

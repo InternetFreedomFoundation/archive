@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social Media on Internet Freedom Foundation</title>
+    <link>https://internerfreedom.in/tags/social-media/</link>
+    <description>Recent content in Social Media on Internet Freedom Foundation</description>
+    <image>
+      <url>https://internerfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://internerfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Jul 2021 06:33:51 +0000</lastBuildDate><atom:link href="https://internerfreedom.in/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DMCA Infringements: Much Ado About Copying?</title>
+      <link>https://internerfreedom.in/post/dmca-infringements-much-ado-about-copying/</link>
+      <pubDate>Tue, 27 Jul 2021 06:33:51 +0000</pubDate>
+      
+      <guid>https://internerfreedom.in/post/dmca-infringements-much-ado-about-copying/</guid>
+      <description>In this explainer, we provide an insight into how the Digital Millennium Copyright Act came to be, how it affects us as Indian users of the internet and what we can do to peacefully coexist with DMCA.</description>
+    </item>
+    
+  </channel>
+</rss>
