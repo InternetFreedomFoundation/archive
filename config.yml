@@ -11,125 +11,125 @@ buildExpired: false
 # googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Internet Freedom Foundation
-    description: "ExampleSite description"
-    keywords: [IFF]
-    author: Internet Freedom Foundation
-    # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
-    DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Internet Freedom Foundation
+  description: "ExampleSite description"
+  keywords: [IFF]
+  author: Internet Freedom Foundation
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: false
-    hidemeta: false
-    hideSummary: false
-    showtoc: true
-    tocopen: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
 
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: "/archive/iff-icon-125.png"
-        favicon16x16: "/archive/iff-icon-125.png"
-        favicon32x32: "/archive/iff-icon-125.png"
-        apple_touch_icon: "/archive/iff-icon-125.png"
-        safari_pinned_tab: "/archive/iff-icon-125.png"
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/archive/iff-icon-125.png"
+    favicon16x16: "/archive/iff-icon-125.png"
+    favicon32x32: "/archive/iff-icon-125.png"
+    apple_touch_icon: "/archive/iff-icon-125.png"
+    safari_pinned_tab: "/archive/iff-icon-125.png"
 
-    label:
-        text: "IFF"
-        icon: /archive/iff-logo-600x250.png
-        iconHeight: 40
+  label:
+    text: "IFF"
+    icon: /archive/iff-logo-600x250.png
+    iconHeight: 40
 
-    # profile-mode
-    profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        # imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
-        imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    # imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
-    # home-info mode
-    homeInfoParams:
-        Title: "We The People"
-        Content: >
-          - IFF is your advocate to protect and advance constitutional freedoms in a digital society
-          
-          - Born out of the [SaveTheInternet.in](https://internetfreedom.in/campaigns-savetheinternet) movement for net neutrality, IFF works on a range of [issues](https://internetfreedom.in/issues) including net neutrality, free expression, privacy and innovation.
+  # home-info mode
+  homeInfoParams:
+    Title: "We The People"
+    Content: >
+      - IFF is your advocate to protect and advance constitutional freedoms in a digital society
 
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/internetfreedom"
-        - name: instagram
-          url: "https://www.instagram.com/internetfreedom.in/?hl=en"
-        - name: github
-          url: "https://github.com/internetfreedomfoundation"
-        - name: youtube
-          url: "https://www.youtube.com/channel/UCahIqRDjhvhuocX3BJdxfQQ"
-        - name: Forum
-          url: "https://forum.internetfreedom.in"
+      - Born out of the [SaveTheInternet.in](https://internetfreedom.in/campaigns-savetheinternet) movement for net neutrality, IFF works on a range of [issues](https://internetfreedom.in/issues) including net neutrality, free expression, privacy and innovation.
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
-    #     bing:
-    #         SiteVerificationTag: "XYZabc"
-    #     yandex:
-    #         SiteVerificationTag: "XYZabc"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/internetfreedom"
+    - name: instagram
+      url: "https://www.instagram.com/internetfreedom.in/?hl=en"
+    - name: github
+      url: "https://github.com/internetfreedomfoundation"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCahIqRDjhvhuocX3BJdxfQQ"
+    - name: Forum
+      url: "https://forum.internetfreedom.in"
 
-    cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+  #     bing:
+  #         SiteVerificationTag: "XYZabc"
+  #     yandex:
+  #         SiteVerificationTag: "XYZabc"
 
-    editPost:
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
     URL: "https://github.com/InternetFreedomFoundation/archive/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-    # for search
-    # https://fusejs.io/api/options.html
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: ["title", "permalink", "slug", "content"]
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "slug", "content"]
 menu:
-    main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: About
-          url: about/
-          weight: 10
-        - name: Categories
-          url: categories/
-          weight: 10
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: About
+      url: about/
+      weight: 10
+    - name: Categories
+      url: categories/
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
@@ -141,7 +141,7 @@ menu:
 #         style: monokai
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
