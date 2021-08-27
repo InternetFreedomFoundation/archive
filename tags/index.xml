@@ -9,22 +9,445 @@
       <link>https://internetfreedomfoundation.github.io/archive/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Jul 2021 06:33:51 +0000</lastBuildDate><atom:link href="https://internetfreedomfoundation.github.io/archive/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 09:44:56 +0000</lastBuildDate><atom:link href="https://internetfreedomfoundation.github.io/archive/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Copyright</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/copyright/</link>
-      <pubDate>Tue, 27 Jul 2021 06:33:51 +0000</pubDate>
+      <title>DOT</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/dot/</link>
+      <pubDate>Thu, 26 Aug 2021 09:44:56 +0000</pubDate>
       
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/copyright/</guid>
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/dot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Net Neutrality</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/net-neutrality/</link>
+      <pubDate>Thu, 26 Aug 2021 09:44:56 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/net-neutrality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRAI</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/trai/</link>
+      <pubDate>Thu, 26 Aug 2021 09:44:56 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/trai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accesstointernet</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/accesstointernet/</link>
+      <pubDate>Tue, 24 Aug 2021 01:57:06 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/accesstointernet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DigitalJustice</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/digitaljustice/</link>
+      <pubDate>Tue, 24 Aug 2021 01:57:06 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/digitaljustice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Data</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/health-data/</link>
+      <pubDate>Tue, 24 Aug 2021 01:57:06 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/health-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital Rights</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/digital-rights/</link>
+      <pubDate>Sat, 21 Aug 2021 05:55:51 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/digital-rights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFF Explainer</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/iff-explainer/</link>
+      <pubDate>Sat, 21 Aug 2021 05:55:51 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/iff-explainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surveillance</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/surveillance/</link>
+      <pubDate>Sat, 21 Aug 2021 05:55:51 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/surveillance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anuradha Bhasin</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/anuradha-bhasin/</link>
+      <pubDate>Thu, 19 Aug 2021 09:34:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/anuradha-bhasin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet shutdowns</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/internet-shutdowns/</link>
+      <pubDate>Thu, 19 Aug 2021 09:34:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/internet-shutdowns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meghalaya</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/meghalaya/</link>
+      <pubDate>Thu, 19 Aug 2021 09:34:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/meghalaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legislative Brief</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/legislative-brief/</link>
+      <pubDate>Wed, 18 Aug 2021 09:54:43 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/legislative-brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parliament</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/parliament/</link>
+      <pubDate>Wed, 18 Aug 2021 09:54:43 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/parliament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>it act</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/it-act/</link>
+      <pubDate>Tue, 17 Aug 2021 05:51:02 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/it-act/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ITRules</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/itrules/</link>
+      <pubDate>Tue, 17 Aug 2021 05:51:02 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/itrules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/legal/</link>
+      <pubDate>Tue, 17 Aug 2021 05:51:02 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/privacy/</link>
+      <pubDate>Mon, 16 Aug 2021 14:05:02 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SaveOurPrivacy</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/saveourprivacy/</link>
+      <pubDate>Mon, 16 Aug 2021 14:05:02 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/saveourprivacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supreme Court</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/supreme-court/</link>
+      <pubDate>Mon, 16 Aug 2021 14:05:02 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/supreme-court/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facial recognition</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/facial-recognition/</link>
+      <pubDate>Mon, 16 Aug 2021 07:37:05 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/facial-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Panoptic</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/project-panoptic/</link>
+      <pubDate>Mon, 16 Aug 2021 07:37:05 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/project-panoptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arsenal</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/arsenal/</link>
+      <pubDate>Thu, 12 Aug 2021 07:10:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/arsenal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BhimaKoregaon</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/bhimakoregaon/</link>
+      <pubDate>Thu, 12 Aug 2021 07:10:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/bhimakoregaon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pegasus</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/pegasus/</link>
+      <pubDate>Thu, 12 Aug 2021 07:10:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/pegasus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intermediary</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/intermediary/</link>
+      <pubDate>Wed, 11 Aug 2021 12:06:42 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/intermediary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madras HC</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/madras-hc/</link>
+      <pubDate>Wed, 11 Aug 2021 12:06:42 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/madras-hc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BSNL</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/bsnl/</link>
+      <pubDate>Mon, 09 Aug 2021 09:06:54 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/bsnl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access to Information</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/access-to-information/</link>
+      <pubDate>Fri, 06 Aug 2021 12:28:38 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/access-to-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cybersec charcha</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/cybersec-charcha/</link>
+      <pubDate>Thu, 05 Aug 2021 12:22:20 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/cybersec-charcha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cybersecurity</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/cybersecurity/</link>
+      <pubDate>Thu, 05 Aug 2021 12:22:20 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Protection</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/data-protection/</link>
+      <pubDate>Thu, 05 Aug 2021 12:22:20 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/data-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data security</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/data-security/</link>
+      <pubDate>Thu, 05 Aug 2021 12:22:20 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/data-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spyware</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/spyware/</link>
+      <pubDate>Thu, 05 Aug 2021 12:22:20 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/spyware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freespeech</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/freespeech/</link>
+      <pubDate>Thu, 05 Aug 2021 06:55:16 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/freespeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeitY</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/meity/</link>
+      <pubDate>Thu, 05 Aug 2021 06:55:16 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/meity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mha</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/mha/</link>
+      <pubDate>Thu, 05 Aug 2021 06:55:16 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/mha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transparency</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/transparency/</link>
+      <pubDate>Thu, 05 Aug 2021 06:55:16 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Right to Information</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/right-to-information/</link>
+      <pubDate>Tue, 03 Aug 2021 10:16:36 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/right-to-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>66A</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/66a/</link>
+      <pubDate>Mon, 02 Aug 2021 06:45:08 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/66a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RightToMeme</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/righttomeme/</link>
+      <pubDate>Mon, 02 Aug 2021 06:45:08 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/righttomeme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zombietracker</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/zombietracker/</link>
+      <pubDate>Mon, 02 Aug 2021 06:45:08 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/zombietracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Media</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/social-media/</link>
-      <pubDate>Tue, 27 Jul 2021 06:33:51 +0000</pubDate>
+      <pubDate>Fri, 30 Jul 2021 12:06:42 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/twitter/</link>
+      <pubDate>Fri, 30 Jul 2021 12:06:42 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebsiteBlocking</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/websiteblocking/</link>
+      <pubDate>Fri, 30 Jul 2021 12:06:42 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/websiteblocking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhatTheBlock</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/whattheblock/</link>
+      <pubDate>Fri, 30 Jul 2021 12:06:42 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/whattheblock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDPB</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/pdpb/</link>
+      <pubDate>Wed, 28 Jul 2021 05:47:15 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/pdpb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PrivacyofThePeople</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/privacyofthepeople/</link>
+      <pubDate>Wed, 28 Jul 2021 05:47:15 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/privacyofthepeople/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://internetfreedomfoundation.github.io/archive/tags/copyright/</link>
+      <pubDate>Tue, 27 Jul 2021 06:33:51 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/tags/copyright/</guid>
       <description></description>
     </item>
     
@@ -56,83 +479,11 @@
     </item>
     
     <item>
-      <title>Data Protection</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/data-protection/</link>
-      <pubDate>Mon, 26 Jul 2021 05:55:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/data-protection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/privacy/</link>
-      <pubDate>Mon, 26 Jul 2021 05:55:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RTI</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/rti/</link>
       <pubDate>Mon, 26 Jul 2021 05:55:49 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/rti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SaveOurPrivacy</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/saveourprivacy/</link>
-      <pubDate>Mon, 26 Jul 2021 05:55:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/saveourprivacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital Rights</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/digital-rights/</link>
-      <pubDate>Sat, 24 Jul 2021 07:52:56 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/digital-rights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legislative Brief</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/legislative-brief/</link>
-      <pubDate>Sat, 24 Jul 2021 07:52:56 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/legislative-brief/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parliament</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/parliament/</link>
-      <pubDate>Sat, 24 Jul 2021 07:52:56 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/parliament/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PDPB</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/pdpb/</link>
-      <pubDate>Thu, 22 Jul 2021 06:47:15 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/pdpb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PrivacyofThePeople</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/privacyofthepeople/</link>
-      <pubDate>Thu, 22 Jul 2021 06:47:15 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/privacyofthepeople/</guid>
       <description></description>
     </item>
     
@@ -173,33 +524,6 @@
     </item>
     
     <item>
-      <title>freespeech</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/freespeech/</link>
-      <pubDate>Mon, 19 Jul 2021 12:16:53 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/freespeech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pegasus</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/pegasus/</link>
-      <pubDate>Mon, 19 Jul 2021 05:28:30 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/pegasus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surveillance</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/surveillance/</link>
-      <pubDate>Mon, 19 Jul 2021 05:28:30 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/surveillance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Censorship</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/censorship/</link>
       <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
@@ -227,92 +551,11 @@
     </item>
     
     <item>
-      <title>intermediary</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/intermediary/</link>
-      <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/intermediary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>it act</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/it-act/</link>
-      <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/it-act/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ITRules</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/itrules/</link>
-      <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/itrules/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MeitY</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/meity/</link>
-      <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/meity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transparency</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/transparency/</link>
-      <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/transparency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/twitter/</link>
-      <pubDate>Fri, 16 Jul 2021 13:04:38 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>66A</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/66a/</link>
-      <pubDate>Thu, 15 Jul 2021 10:52:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/66a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>criminal law</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/criminal-law/</link>
       <pubDate>Thu, 15 Jul 2021 10:52:49 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/criminal-law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legal</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/legal/</link>
-      <pubDate>Thu, 15 Jul 2021 10:52:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/legal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mha</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/mha/</link>
-      <pubDate>Thu, 15 Jul 2021 10:52:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/mha/</guid>
       <description></description>
     </item>
     
@@ -326,33 +569,6 @@
     </item>
     
     <item>
-      <title>Supreme Court</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/supreme-court/</link>
-      <pubDate>Thu, 15 Jul 2021 10:52:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/supreme-court/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zombietracker</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/zombietracker/</link>
-      <pubDate>Thu, 15 Jul 2021 10:52:49 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/zombietracker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health Data</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/health-data/</link>
-      <pubDate>Thu, 15 Jul 2021 08:11:03 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/health-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Delhi Government</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/delhi-government/</link>
       <pubDate>Tue, 13 Jul 2021 07:09:02 +0000</pubDate>
@@ -362,47 +578,11 @@
     </item>
     
     <item>
-      <title>IFF Explainer</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/iff-explainer/</link>
-      <pubDate>Tue, 13 Jul 2021 07:09:02 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/iff-explainer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DigitalJustice</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/digitaljustice/</link>
-      <pubDate>Mon, 12 Jul 2021 12:27:00 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/digitaljustice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WebsiteBlocking</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/websiteblocking/</link>
-      <pubDate>Mon, 12 Jul 2021 12:27:00 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/websiteblocking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cabinet</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/cabinet/</link>
       <pubDate>Sat, 10 Jul 2021 06:27:34 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/cabinet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DOT</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/dot/</link>
-      <pubDate>Sat, 10 Jul 2021 06:27:34 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/dot/</guid>
       <description></description>
     </item>
     
@@ -434,15 +614,6 @@
     </item>
     
     <item>
-      <title>Madras HC</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/madras-hc/</link>
-      <pubDate>Fri, 09 Jul 2021 09:09:26 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/madras-hc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>OTT</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/ott/</link>
       <pubDate>Fri, 09 Jul 2021 09:09:26 +0000</pubDate>
@@ -452,38 +623,11 @@
     </item>
     
     <item>
-      <title>Access to Information</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/access-to-information/</link>
-      <pubDate>Thu, 08 Jul 2021 06:39:23 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/access-to-information/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Net Neutrality</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/net-neutrality/</link>
-      <pubDate>Thu, 08 Jul 2021 06:39:23 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/net-neutrality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AgriStack</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/agristack/</link>
       <pubDate>Tue, 06 Jul 2021 06:17:27 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/agristack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RightToMeme</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/righttomeme/</link>
-      <pubDate>Mon, 05 Jul 2021 07:43:48 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/righttomeme/</guid>
       <description></description>
     </item>
     
@@ -524,24 +668,6 @@
     </item>
     
     <item>
-      <title>facial recognition</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/facial-recognition/</link>
-      <pubDate>Sun, 04 Jul 2021 04:45:56 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/facial-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project Panoptic</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/project-panoptic/</link>
-      <pubDate>Sun, 04 Jul 2021 04:45:56 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/project-panoptic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>vaccines</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/vaccines/</link>
       <pubDate>Sun, 04 Jul 2021 04:45:56 +0000</pubDate>
@@ -569,15 +695,6 @@
     </item>
     
     <item>
-      <title>internet shutdowns</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/internet-shutdowns/</link>
-      <pubDate>Fri, 25 Jun 2021 07:24:21 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/internet-shutdowns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>keep us online</title>
       <link>https://internetfreedomfoundation.github.io/archive/tags/keep-us-online/</link>
       <pubDate>Fri, 25 Jun 2021 07:24:21 +0000</pubDate>
@@ -592,15 +709,6 @@
       <pubDate>Fri, 25 Jun 2021 07:24:21 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/shutdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cybersec charcha</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/cybersec-charcha/</link>
-      <pubDate>Thu, 24 Jun 2021 09:18:25 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/cybersec-charcha/</guid>
       <description></description>
     </item>
     
@@ -646,24 +754,6 @@
       <pubDate>Fri, 18 Jun 2021 05:45:15 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/misinformation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>accesstointernet</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/accesstointernet/</link>
-      <pubDate>Mon, 14 Jun 2021 05:06:21 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/accesstointernet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TRAI</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/trai/</link>
-      <pubDate>Mon, 14 Jun 2021 05:06:21 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/trai/</guid>
       <description></description>
     </item>
     
@@ -772,15 +862,6 @@
       <pubDate>Thu, 06 May 2021 06:37:43 +0000</pubDate>
       
       <guid>https://internetfreedomfoundation.github.io/archive/tags/algorithmic-bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WhatTheBlock</title>
-      <link>https://internetfreedomfoundation.github.io/archive/tags/whattheblock/</link>
-      <pubDate>Wed, 21 Apr 2021 05:32:20 +0000</pubDate>
-      
-      <guid>https://internetfreedomfoundation.github.io/archive/tags/whattheblock/</guid>
       <description></description>
     </item>
     

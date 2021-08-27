@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arsenal on Internet Freedom Foundation</title>
+    <link>https://internetfreedomfoundation.github.io/archive/categories/arsenal/</link>
+    <description>Recent content in Arsenal on Internet Freedom Foundation</description>
+    <image>
+      <url>https://internetfreedomfoundation.github.io/archive/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://internetfreedomfoundation.github.io/archive/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Aug 2021 07:10:24 +0000</lastBuildDate><atom:link href="https://internetfreedomfoundation.github.io/archive/categories/arsenal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Arsenal Reports: The rise of targeted surveillance in India</title>
+      <link>https://internetfreedomfoundation.github.io/archive/post/the-arsenal-reports-bhima-koregaon-arrests/</link>
+      <pubDate>Thu, 12 Aug 2021 07:10:24 +0000</pubDate>
+      
+      <guid>https://internetfreedomfoundation.github.io/archive/post/the-arsenal-reports-bhima-koregaon-arrests/</guid>
+      <description>The reports by Arsenal Consulting show that  some of the BK-16 were surveilled and incriminating documents planted on their computers. We analyse what this means for the rise of targeted surveillance in India in light of the recent Pegasus revelations.</description>
+    </item>
+    
+  </channel>
+</rss>
