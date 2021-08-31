@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://internetfreedomfoundation.github.io/archive/sitemap.xml
+Sitemap: https://archive.internetfreedom.in/sitemap.xml
