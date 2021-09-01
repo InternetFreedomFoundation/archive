@@ -42,15 +42,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/archive/iff-icon-125.png"
-    favicon16x16: "/archive/iff-icon-125.png"
-    favicon32x32: "/archive/iff-icon-125.png"
-    apple_touch_icon: "/archive/iff-icon-125.png"
-    safari_pinned_tab: "/archive/iff-icon-125.png"
+    favicon: "/iff-icon-125.png"
+    favicon16x16: "/iff-icon-125.png"
+    favicon32x32: "/iff-icon-125.png"
+    apple_touch_icon: "/iff-icon-125.png"
+    safari_pinned_tab: "/iff-icon-125.png"
 
   label:
     text: "IFF"
-    icon: /archive/iff-logo-600x250.png
+    icon: /iff-logo-600x250.png
     iconHeight: 40
 
   # profile-mode
