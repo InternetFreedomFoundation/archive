@@ -9,7 +9,16 @@
       <link>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Aug 2021 12:22:20 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 06:23:03 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don’t penalise cybersecurity researchers!</title>
+      <link>https://archive.internetfreedom.in/post/dont-penalise-cybersecurity-researchers/</link>
+      <pubDate>Wed, 13 Oct 2021 06:23:03 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/dont-penalise-cybersecurity-researchers/</guid>
+      <description>We wrote to CERT-IN regarding their new Responsible Vulnerability Disclosure and Coordination Policy that penalises cybersecurity researchers for vulnerability disclosures. Such a policy would make researchers reluctant about reporting vulnerabilities and so a robust disclosure mechanism is needed.</description>
+    </item>
+    
     <item>
       <title>#4 Cybersec Charcha: A Global overview of the state of surveillance after the pegasus revelations</title>
       <link>https://archive.internetfreedom.in/post/4-cybersec-charcha-a-global-overview-of-the-state-of-surveillance-after-the-pegasus-revelations/</link>
