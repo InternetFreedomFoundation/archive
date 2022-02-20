@@ -25,7 +25,7 @@ On November 10, 2021, Project Panoptic, partnering with Amnesty International an
 
 Authorities in India have a lengthy record of using facial recognition technology in contexts where human rights are at stake, with recent examples including enforcing [COVID-19 lockdown measures](https://internetfreedom.in/hyderabad-police-force-people-to-remove-their-masks-before-photographing-them-we-sent-a-legal-notice-saveourprivacy/), [identifying voters in municipal elections](https://panoptic.in/case-study/illegal-use-of-facial-recognition-for-voter-verification-in-telangana), and [policing protests](https://panoptic.in/case-study/the-delhi-police-must-stop-its-facial-recognition-system). The rights of Muslims, Dalits, Adivasis, Transgender communities, and historically disadvantaged sections of society, are particularly at risk by mass surveillance.
 
-{{< gallery caption=""How Your Face is Used to Track You" by Tanu Sathaye" >}}
+{{< gallery caption="'How Your Face is Used to Track You' by Tanu Sathaye" >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/11/New-India-Comic--white-background--3.png" width="1910" height="1169" >}}{{< /gallery >}}
 
 The research in India marks the latest phase of Amnesty International’s Ban The Scan campaign, following research into [surveillance in New York City](https://www.amnesty.org/en/latest/press-release/2021/01/ban-dangerous-facial-recognition-technology-that-amplifies-racist-policing/) published earlier this year. The Hyderabad research is in partnership with the [Internet Freedom Foundation](https://internetfreedom.in/)’s [Project Panoptic](https://panoptic.in/) and [Article 19](https://www.article19.org/).
