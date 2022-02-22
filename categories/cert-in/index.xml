@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CERT-In on Internet Freedom Foundation</title>
+    <link>https://archive.internetfreedom.in/categories/cert-in/</link>
+    <description>Recent content in CERT-In on Internet Freedom Foundation</description>
+    <image>
+      <url>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Feb 2022 14:02:56 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/categories/cert-in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Student data exposed on Andhra Pradesh Government Examination website!</title>
+      <link>https://archive.internetfreedom.in/post/ap-gov-students-data-leak/</link>
+      <pubDate>Fri, 04 Feb 2022 14:02:56 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ap-gov-students-data-leak/</guid>
+      <description>tl;dr
+Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vulnerability exposing the sensitive personal information of minors. This existed on the website of the Directorate of Government Examinations, Government of Andhra Pradesh’s for the 2021 examinations. While this functionality itself has been removed, to prevent it from occurring again assisted by Sai, we have written to them and CERT-In.</description>
+    </item>
+    
+    <item>
+      <title>Over to you MeitY: IFF&#39;s representation on CERT-In&#39;s Responsible Vulnerability Disclosure and Coordination Policy</title>
+      <link>https://archive.internetfreedom.in/post/over-to-you-meity/</link>
+      <pubDate>Fri, 10 Dec 2021 05:07:31 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/over-to-you-meity/</guid>
+      <description>CERT-In responded to our representation on the Responsible Vulnerability Disclosure and Coordination Policy and clarified that the Policy is following the existing provisions of the law. Therefore, now we ask MeitY to amend the law to provide a safe harbour for security researchers.</description>
+    </item>
+    
+  </channel>
+</rss>

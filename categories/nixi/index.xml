@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NIXI on Internet Freedom Foundation</title>
+    <link>https://archive.internetfreedom.in/categories/nixi/</link>
+    <description>Recent content in NIXI on Internet Freedom Foundation</description>
+    <image>
+      <url>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Feb 2022 05:40:08 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/categories/nixi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIXI’s justification for 2 domains per person? National Security</title>
+      <link>https://archive.internetfreedom.in/post/nixis-domain-cap/</link>
+      <pubDate>Tue, 15 Feb 2022 05:40:08 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/nixis-domain-cap/</guid>
+      <description>In December 2021, NIXI published an undated notice stating that if any entity wants to register for more than two [dot]in domains, they&amp;rsquo;ll have to seek written permission from the NIXI CEO. In our RTI request, NIXI responded stating that the notice was issued for &amp;ldquo;national security&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

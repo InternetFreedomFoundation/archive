@@ -9,7 +9,495 @@
       <link>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 10:45:37 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 05:18:00 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Government&#39;s got your number (and more) #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/the-governments-got-your-number-and-more/</link>
+      <pubDate>Tue, 22 Feb 2022 05:18:00 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/the-governments-got-your-number-and-more/</guid>
+      <description>We wrote to the Department of Telecommunications warning them about the privacy implications of the extension of the retention period for call records and internet usage data to two years through recent amendments.</description>
+    </item>
+    
+    <item>
+      <title>#SocialMediaComplianceWatch: analysis of Social Media Compliance Reports for the month of December 2021</title>
+      <link>https://archive.internetfreedom.in/post/ssmi-compliance-december/</link>
+      <pubDate>Fri, 18 Feb 2022 12:23:17 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ssmi-compliance-december/</guid>
+      <description>Google (including YouTube), Facebook, Instagram (now Meta), ShareChat, Snap, Twitter and WhatsApp have released their reports under Rule 4(1)(d) of the IT Rules 2021 for the month of Dec &amp;lsquo;21. The latest of these was published by Meta and was made available in late Jan &amp;lsquo;22. We&amp;rsquo;ve analysed them.</description>
+    </item>
+    
+    <item>
+      <title>Summary of India Digital Ecosystem Architecture (InDEA) 2.0</title>
+      <link>https://archive.internetfreedom.in/post/summary-of-indea-2-0/</link>
+      <pubDate>Wed, 16 Feb 2022 05:05:13 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/summary-of-indea-2-0/</guid>
+      <description>In this post, we have presented a non-opinionated summary of MeitY&amp;rsquo;s InDEA 2.0 paper, focussing on the data-rights-centric parts of the document. Through this summary, we hope to better inform public awareness and increase public participation on the issue.</description>
+    </item>
+    
+    <item>
+      <title>NIXI’s justification for 2 domains per person? National Security</title>
+      <link>https://archive.internetfreedom.in/post/nixis-domain-cap/</link>
+      <pubDate>Tue, 15 Feb 2022 05:40:08 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/nixis-domain-cap/</guid>
+      <description>In December 2021, NIXI published an undated notice stating that if any entity wants to register for more than two [dot]in domains, they&amp;rsquo;ll have to seek written permission from the NIXI CEO. In our RTI request, NIXI responded stating that the notice was issued for &amp;ldquo;national security&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Comments to the TRAI for the, &#34;Consultation Paper on Regulatory Framework for Promoting Data Economy Through Establishment of Data Centres, Content Delivery Networks, and Interconnect Exchanges&#34;</title>
+      <link>https://archive.internetfreedom.in/post/trai-cdn-consultation/</link>
+      <pubDate>Mon, 14 Feb 2022 09:25:07 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/trai-cdn-consultation/</guid>
+      <description>IFF responded to TRAI’s consultation paper which sought the establishment of Data Centres, Content Delivery Networks, and Interconnect Exchanges. We submitted our comments as obvious issues of innovation that serve users, net neutrality and data protection emerge for consideration.</description>
+    </item>
+    
+    <item>
+      <title>IFF provides inputs to UN on Internet Shutdowns</title>
+      <link>https://archive.internetfreedom.in/post/ohchr-internet-shutdowns-submission/</link>
+      <pubDate>Fri, 11 Feb 2022 07:12:15 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ohchr-internet-shutdowns-submission/</guid>
+      <description>The submission to United Nations analyses the legal basis of internet shutdowns in India, the instances of disruptions, their impact on human rights and the efforts by the Indian Government to improve internet connectivity.</description>
+    </item>
+    
+    <item>
+      <title>#SocialMediaComplianceWatch: analysis of Social Media Compliance Reports of November, 2021</title>
+      <link>https://archive.internetfreedom.in/post/ssmi-compliance-november/</link>
+      <pubDate>Wed, 09 Feb 2022 07:26:41 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ssmi-compliance-november/</guid>
+      <description>Google (including YouTube), Facebook, Instagram, ShareChat, Snap, Twitter and WhatsApp have released their reports in compliance with Rule 4(1)(d) of the IT Rules 2021 for the month of November, 2021.</description>
+    </item>
+    
+    <item>
+      <title>Student data exposed on Andhra Pradesh Government Examination website!</title>
+      <link>https://archive.internetfreedom.in/post/ap-gov-students-data-leak/</link>
+      <pubDate>Fri, 04 Feb 2022 14:02:56 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ap-gov-students-data-leak/</guid>
+      <description>tl;dr
+Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vulnerability exposing the sensitive personal information of minors. This existed on the website of the Directorate of Government Examinations, Government of Andhra Pradesh’s for the 2021 examinations. While this functionality itself has been removed, to prevent it from occurring again assisted by Sai, we have written to them and CERT-In.</description>
+    </item>
+    
+    <item>
+      <title>CIC admonishes the MHA and seeks confirmation on affidavit of destruction of surveillance data</title>
+      <link>https://archive.internetfreedom.in/post/cic-admonishes-the-mha-and-seeks-confirmation-on-affidavit-of-destruction-of-surveillance-data/</link>
+      <pubDate>Fri, 04 Feb 2022 07:27:37 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/cic-admonishes-the-mha-and-seeks-confirmation-on-affidavit-of-destruction-of-surveillance-data/</guid>
+      <description>IFF had filed six RTIs with the MHA seeking data on the e-surveillance. MHA first denied information on grounds of national security and later claimed that the data did not exist. CIC has admonished the CPIO for changing its stance and sought confirmation on non-availability of data on affidavit.</description>
+    </item>
+    
+    <item>
+      <title>Conflicted sentiments: Analysing Budget 2022-23 trends</title>
+      <link>https://archive.internetfreedom.in/post/budget-session-2022-23/</link>
+      <pubDate>Thu, 03 Feb 2022 14:30:43 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/budget-session-2022-23/</guid>
+      <description>Budget 2022-2023 evokes conflicted sentiments. IFF attempts to analyse the highs and lows of the Union Budget, with a special focus on DoT, MeitY and MIB.</description>
+    </item>
+    
+    <item>
+      <title>Legislative Brief on Digital Rights for Budget Session 2022</title>
+      <link>https://archive.internetfreedom.in/post/legislative-brief-budget-session-2022/</link>
+      <pubDate>Thu, 03 Feb 2022 05:41:49 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/legislative-brief-budget-session-2022/</guid>
+      <description>As the Budget Session of the Parliament commences, we have prepared our third legislative brief on digital rights to highlight some of the focus areas within the larger issues of technology policies and digital rights that call for the extensive deliberation in the houses of the Parliament.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transparency: A Right to Information Report for January 2022</title>
+      <link>https://archive.internetfreedom.in/post/transparency-report-jan-2022/</link>
+      <pubDate>Wed, 02 Feb 2022 06:05:13 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/transparency-report-jan-2022/</guid>
+      <description>Since our last report for the month of December, IFF has filed 10 RTI requests and 2 first appeals. In this post, we give you an overview of the requests filed and an analysis of the responses we have received from the different public authorities.</description>
+    </item>
+    
+    <item>
+      <title>Gauhati HC allows IFF&#39;s intervention application in petition challenging the constitutionality of internet shutdown rules #KeepItOn</title>
+      <link>https://archive.internetfreedom.in/post/gauhati-hc-internet-shutdown-rules-update/</link>
+      <pubDate>Tue, 01 Feb 2022 09:07:34 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/gauhati-hc-internet-shutdown-rules-update/</guid>
+      <description>At a hearing dated January 31, 2022, IFF&amp;rsquo;s intervention application challenging the Telecom Suspension Rules, 2017 has been allowed by the Gauhati High Court, and IFF has been impleaded in the case. IFF is now allowed to assist the Court with oral and written submissions in the proceedings.</description>
+    </item>
+    
+    <item>
+      <title>IFF explains DigiYatra: Turbulence ahead</title>
+      <link>https://archive.internetfreedom.in/post/digiyatra-part-2/</link>
+      <pubDate>Sat, 29 Jan 2022 06:09:42 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/digiyatra-part-2/</guid>
+      <description>In the second part of our series on the Ministry of Civil Aviation&amp;rsquo;s DigiYatra Scheme, we analyse how the collected personal data may end up commercialised even as the Scheme fails to deliver on its promised convenience.</description>
+    </item>
+    
+    <item>
+      <title>Revealed: Over two thousand news publishers furnished their details to the MIB, despite Bombay HC’s stay</title>
+      <link>https://archive.internetfreedom.in/post/revealed-two-thousand-news-publishers-furnished-details-to-mib/</link>
+      <pubDate>Tue, 25 Jan 2022 06:26:52 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/revealed-two-thousand-news-publishers-furnished-details-to-mib/</guid>
+      <description>IFF filed an RTI Application to find out whether the MIB has issued notices for information to news publishers, and to which publishers. The MIB has admitted that it has indeed issued two such notices, and that more than two thousand publishers have responded to these notices!</description>
+    </item>
+    
+    <item>
+      <title>#SocialMediaComplianceWatch: analysis of Social Media Compliance Reports of October, 2021</title>
+      <link>https://archive.internetfreedom.in/post/compliance-report-oct/</link>
+      <pubDate>Fri, 21 Jan 2022 09:33:33 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/compliance-report-oct/</guid>
+      <description>Social Media platforms have released their reports for Oct  2021 in compliance with Rule 4(1)(d), IT Rules 2021. They continue to suffer from the same shortcomings, which exhibits lack of effort on the part of the SSMIs and the govt. to further transparency and accountability in platform governance.</description>
+    </item>
+    
+    <item>
+      <title>#PrivacyofthePeople: Alexa, Google, Siri, we hear for you?</title>
+      <link>https://archive.internetfreedom.in/post/privacy-of-the-people-voice-assistants/</link>
+      <pubDate>Wed, 19 Jan 2022 07:16:45 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/privacy-of-the-people-voice-assistants/</guid>
+      <description>Voice-enabled AI assistants like Alexa, Google Assistant and Siri reside not only on our smartphones but also in millions of bedrooms. The intimacy they enjoy presents a range of privacy risks that can be mitigated by a user centric, rights focussed, data protection law.</description>
+    </item>
+    
+    <item>
+      <title>The dangers of DigiYatra &amp; facial recognition enabled paperless air travel #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/dangers-of-digiyatra/</link>
+      <pubDate>Tue, 18 Jan 2022 06:05:11 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/dangers-of-digiyatra/</guid>
+      <description>You may think that using your face as a boarding pass would make travelling so much better. However, can it have a downside as well? Read our explainer to know more.</description>
+    </item>
+    
+    <item>
+      <title>IFF writes to the Parliamentary Standing Committee on IT on the “Bulli Bai” and “Sulli Deals” Incidents</title>
+      <link>https://archive.internetfreedom.in/post/iff-writes-to-the-standing-committee-bulli-bai-and-sulli-deals/</link>
+      <pubDate>Mon, 17 Jan 2022 05:27:08 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/iff-writes-to-the-standing-committee-bulli-bai-and-sulli-deals/</guid>
+      <description>The Mumbai and Delhi Police have arrested the perpetrators of the fake online auction of Muslim women. But what took so long? We wrote to the Standing Committee with a few recommendations</description>
+    </item>
+    
+    <item>
+      <title>IFF explains: An Election Commission vulnerability that could expose your phone number!</title>
+      <link>https://archive.internetfreedom.in/post/ec-vulnerability-ph-number/</link>
+      <pubDate>Sat, 15 Jan 2022 09:38:44 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ec-vulnerability-ph-number/</guid>
+      <description>A vulnerability in the ECI’s National Voters Service Portal website was exposed by an independent security researcher in December last year. The vulnerability allowed access to un-redacted, registered phone numbers of voters. The vulnerability was eventually patched by the ECI IT team.</description>
+    </item>
+    
+    <item>
+      <title>IFF releases the second edition of the Connectivity Tracker #MapTheDigitalDivide</title>
+      <link>https://archive.internetfreedom.in/post/iff-second-edition-connectivity-tracker/</link>
+      <pubDate>Fri, 14 Jan 2022 07:48:27 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/iff-second-edition-connectivity-tracker/</guid>
+      <description>IFF’s #connectivitytracker for Jan 2022 is here!  In this edition of the report, we analyze the data on telecom and internet connectivity, digital divide in the context of access to online education, and the progress of government schemes aimed at improving internet access.</description>
+    </item>
+    
+    <item>
+      <title>A challenge to internet shutdown rules: Gauhati HC agrees to hear IFF&#39;s application</title>
+      <link>https://archive.internetfreedom.in/post/gauhati-hc-intervention/</link>
+      <pubDate>Thu, 13 Jan 2022 08:25:58 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/gauhati-hc-intervention/</guid>
+      <description>Gauhati High Court agreed to hear IFF&amp;rsquo;s application question rules which empower the government to suspend internet services without any judicial/independent oversight.</description>
+    </item>
+    
+    <item>
+      <title>Amina writes to the National Commission for Women and the Telangana State Women’s Commission against targeted harassment of Muslim Women</title>
+      <link>https://archive.internetfreedom.in/post/iff-assists-amina-targeted-by-bulli-bai-app/</link>
+      <pubDate>Tue, 11 Jan 2022 08:31:50 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/iff-assists-amina-targeted-by-bulli-bai-app/</guid>
+      <description>After much furore around the Bulli Bai incident, some arrests have been made and the investigation is still pending. One of the victims of this incident wrote to the National Commission of Women and the Telangana State Women Commission seeking their intervention in ensuring fair investigation.</description>
+    </item>
+    
+    <item>
+      <title>IFF submits its comments on the Draft Health Data Retention Policy</title>
+      <link>https://archive.internetfreedom.in/post/iff-comments-on-draft-health-data-retention/</link>
+      <pubDate>Thu, 06 Jan 2022 14:08:07 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/iff-comments-on-draft-health-data-retention/</guid>
+      <description>IFF has provided our comments on the Consultation Paper on Proposed Health Data Retention Policy. In our comments, we have tried to highlight the harms of mandatory data retention, issues around a fragmented healthcare regime and data portability issues.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transparency: A Right to Information Report for December 2021</title>
+      <link>https://archive.internetfreedom.in/post/digital-transparency-report-for-december-2021/</link>
+      <pubDate>Tue, 04 Jan 2022 05:43:28 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/digital-transparency-report-for-december-2021/</guid>
+      <description>Since our last report for the month of November, IFF has filed 21 RTI requests and 5 first appeals. In this post, we give you an overview of the requests filed and an analysis of the responses we have received from the different public authorities.</description>
+    </item>
+    
+    <item>
+      <title>Telangana High Court issues notice in India’s first legal challenge to the deployment of Facial Recognition Technology</title>
+      <link>https://archive.internetfreedom.in/post/telangana-high-court-issues-notice-in-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology/</link>
+      <pubDate>Mon, 03 Jan 2022 06:43:37 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/telangana-high-court-issues-notice-in-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology/</guid>
+      <description>Telangana High Court has issued notice in a petition by Mr. S.Q. Masood challenging the deployment of Facial Recognition Technology in Telangana. IFF provided legal support.</description>
+    </item>
+    
+    <item>
+      <title>2021: New beginnings in digital security</title>
+      <link>https://archive.internetfreedom.in/post/digisec-review-2021/</link>
+      <pubDate>Thu, 30 Dec 2021 10:47:14 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/digisec-review-2021/</guid>
+      <description>2021 was an important year for us because we did a lot of new things. Over this short year end catch up on digital security, we’ll walk you through what we did, our achievements and disappointments, and more importantly what we learned and our path ahead in 2022.</description>
+    </item>
+    
+    <item>
+      <title>2021: Building a stronger IFF with Community and Operations</title>
+      <link>https://archive.internetfreedom.in/post/ops-review-2021/</link>
+      <pubDate>Thu, 30 Dec 2021 07:45:11 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ops-review-2021/</guid>
+      <description>Fundraising : In numbers IFF’s fundraising model is based on individualised giving and the membership programme (recurring donations) has always been at the core of it. Over the past year, our membership base grew to 427 recurring donors, donating at an average of Rs. 800 on a month to month basis. However, after the new RBI guidelines on recurring transactions came into effect on October 1, 2021, we witnessed a 70% drop off in memberships, shaving off Rs.</description>
+    </item>
+    
+    <item>
+      <title>2021: Bringing public policy closer to the public</title>
+      <link>https://archive.internetfreedom.in/post/policy-review-2021/</link>
+      <pubDate>Wed, 29 Dec 2021 05:27:00 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/policy-review-2021/</guid>
+      <description>tl;dr Throughout 2021, we have tried to respond to the various policy initiatives and projects launched by the Central and State governments with meaningful and privacy-respecting policy analysis. We have also utilized the Right to Information Act, 2005 to bring accountability in the working of every public authority.
+Consultations Parliamentary engagement The importance of digital rights has grown leaps and bounds in recent times.</description>
+    </item>
+    
+    <item>
+      <title>2021 : Digital Transparency informs public debate</title>
+      <link>https://archive.internetfreedom.in/post/transparency-review-2021/</link>
+      <pubDate>Tue, 28 Dec 2021 03:11:41 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/transparency-review-2021/</guid>
+      <description>tl;dr Throughout 2021, we have tried to raise awareness around the various policies and projects that the Central and State government have developed and introduced. By utilising the Right to Information Act, 2005 as well as the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 (‘IT Rules 2021’), we have tried to bring transparency &amp;amp; accountability in the working of every public authority and significant social media intermediary.</description>
+    </item>
+    
+    <item>
+      <title>2021: A year of standing for your digital rights in courts</title>
+      <link>https://archive.internetfreedom.in/post/2021-lit-year-review/</link>
+      <pubDate>Mon, 27 Dec 2021 07:14:44 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/2021-lit-year-review/</guid>
+      <description>As a digital liberties organisation, IFF’s mission statement is to ensure that Indian citizens can use the internet with liberties guaranteed by the Constitution. To that end, we engage in strategic litigation to defend the rights of the litigants that approach us and make incremental changes in society. In 2020, as all of us relied on digital connections more than ever, issues such as access to the internet, surveillance, censorship and data protection gained prominence.</description>
+    </item>
+    
+    <item>
+      <title>Winter Session 2021: A Digital Rights Review</title>
+      <link>https://archive.internetfreedom.in/post/winter-session-2021/</link>
+      <pubDate>Sat, 25 Dec 2021 10:37:07 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/winter-session-2021/</guid>
+      <description>The Winter session saw frequent disruptions. However, with the JPC reports being tabled, the Parliament proved to be crucial for digital rights.</description>
+    </item>
+    
+    <item>
+      <title>We take action against Hack-for-Hire firm Belltrox #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/meta-belltrox-hack-for-hire/</link>
+      <pubDate>Fri, 24 Dec 2021 10:26:47 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/meta-belltrox-hack-for-hire/</guid>
+      <description>Based on recent disclosures from Meta-Facebook, we have filed a criminal compliant against Delhi-based hack-for-hire firm Belltrox.</description>
+    </item>
+    
+    <item>
+      <title>Dissent is democratic: Looking at the dissent notes in the report of the JPC #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/pdpb-jpc-report-dissent-notes/</link>
+      <pubDate>Thu, 23 Dec 2021 10:34:07 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/pdpb-jpc-report-dissent-notes/</guid>
+      <description>In the final report of the Joint Parliamentary Committee on the Personal Data Protection Bill, 2019, 8 Members of Parliament have filed dissent notes against the final recommendations. In this post, we look at what the MPs are saying and explain the various amendments proposed by them.</description>
+    </item>
+    
+    <item>
+      <title>IFF wrote to the MHA and the DOT seeking implementation of the recommendations made on internet shutdowns by the Standing Committee on Communication and Information Technology</title>
+      <link>https://archive.internetfreedom.in/post/shutdowns-report-dot-mha/</link>
+      <pubDate>Wed, 22 Dec 2021 07:32:44 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/shutdowns-report-dot-mha/</guid>
+      <description>tl;dr The Standing Committee on Communication and Information Technology (‘Standing Committee’) released its report on ‘Suspension of telecom services/internet and its impact (‘Report’) on December 1, 2021 highlighting several important recommendations taking into account the guidelines issued by the Supreme Court in Anuradha Bhasin v Union of India, and representations made by various stakeholders (including IFF) working on the issue of internet shutdowns.</description>
+    </item>
+    
+    <item>
+      <title>Need for surveillance reform stronger than ever in light of the Draft Data Protection Bill, 2021 #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/surveillance-reform-pdpb/</link>
+      <pubDate>Tue, 21 Dec 2021 05:08:23 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/surveillance-reform-pdpb/</guid>
+      <description>The Draft Data Protection Bill, 2021 is here but does it protect Indian citizens against over-broad government surveillance? The answer is a disappointing no.</description>
+    </item>
+    
+    <item>
+      <title>Comparing the Draft Data Protection Bill, 2021 with its predecessors</title>
+      <link>https://archive.internetfreedom.in/post/comparing-pdpb/</link>
+      <pubDate>Fri, 17 Dec 2021 11:49:26 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/comparing-pdpb/</guid>
+      <description>How have user rights fared through the multiple iterations of India&amp;rsquo;s data protection law? In this post, we compare the latest version of the Bill to earlier versions to fund out.</description>
+    </item>
+    
+    <item>
+      <title>Key Takeaways: The JPC Report and the Data Protection Bill, 2021 #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/key-takeaways-the-jpc-report-and-the-data-protection-bill-2021-saveourprivacy-2/</link>
+      <pubDate>Thu, 16 Dec 2021 12:58:43 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/key-takeaways-the-jpc-report-and-the-data-protection-bill-2021-saveourprivacy-2/</guid>
+      <description>The report of the JPC on the PDPB was finally tabled in Parliament on December 16, 2021. Read on to learn about the 10 key takeaways from the report on issues such as user consent, user rights, the nature of the proposed Data Protection Authority, and exemptions granted to governments.</description>
+    </item>
+    
+    <item>
+      <title>Over to you MeitY: IFF&#39;s representation on CERT-In&#39;s Responsible Vulnerability Disclosure and Coordination Policy</title>
+      <link>https://archive.internetfreedom.in/post/over-to-you-meity/</link>
+      <pubDate>Fri, 10 Dec 2021 05:07:31 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/over-to-you-meity/</guid>
+      <description>CERT-In responded to our representation on the Responsible Vulnerability Disclosure and Coordination Policy and clarified that the Policy is following the existing provisions of the law. Therefore, now we ask MeitY to amend the law to provide a safe harbour for security researchers.</description>
+    </item>
+    
+    <item>
+      <title>#SocialMediaComplianceWatch: analysis of Social Media Compliance Reports of September, 2021</title>
+      <link>https://archive.internetfreedom.in/post/ssmis-compliance-reports-for-september/</link>
+      <pubDate>Thu, 09 Dec 2021 06:07:39 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/ssmis-compliance-reports-for-september/</guid>
+      <description>SSMI reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 have been analysed for the month of September.</description>
+    </item>
+    
+    <item>
+      <title>Progress of Pegasus investigations around the world #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/progress_of_pegasus_investigations/</link>
+      <pubDate>Wed, 08 Dec 2021 05:13:13 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/progress_of_pegasus_investigations/</guid>
+      <description>Countries around the world were rocked by the Pegasus revelations. We take a look at the actions being taken in other jurisdictions in light of the shocking reports.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transparency: A Right to Information Report for November 2021</title>
+      <link>https://archive.internetfreedom.in/post/digital-transparency-a-right-to-information-report-for-november-2021/</link>
+      <pubDate>Tue, 07 Dec 2021 06:11:51 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/digital-transparency-a-right-to-information-report-for-november-2021/</guid>
+      <description>Since our last report for the month of September, IFF has filed 37 RTI requests and 1 first appeal. Here is an overview of the requests filed and an analysis of the responses we have received from the different public authorities.</description>
+    </item>
+    
+    <item>
+      <title>Concerned with frequent internet suspensions, Parliamentary Committee recommends an overhaul.</title>
+      <link>https://archive.internetfreedom.in/post/concerned-with-frequent-internet-suspensions-parliamentary-committee-recommends-an-overhaul/</link>
+      <pubDate>Sat, 04 Dec 2021 08:44:17 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/concerned-with-frequent-internet-suspensions-parliamentary-committee-recommends-an-overhaul/</guid>
+      <description>The Standing Committee on IT has published its report on ‘Suspension of telecom services/internet and its impact’. The report has a range of recommendations including a review of the legal regime for suspension of internet services and establishing a database of internet shutdown orders.</description>
+    </item>
+    
+    <item>
+      <title>DHC directs CIC to decide IFF’s appeals within 8 weeks</title>
+      <link>https://archive.internetfreedom.in/post/dhc-directs-cic-to-decide-iffs-appeals-within-8-weeks/</link>
+      <pubDate>Thu, 02 Dec 2021 08:08:54 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/dhc-directs-cic-to-decide-iffs-appeals-within-8-weeks/</guid>
+      <description>Delhi High Court directs CIC to decide IFF&amp;rsquo;s appeals which seek statistical data regarding the surveillance orders under Section 69 of the Information Technology Act, 2000.</description>
+    </item>
+    
+    <item>
+      <title>The National Digital Education Architecture: An explainer</title>
+      <link>https://archive.internetfreedom.in/post/the-national-digital-education-architecture-an-explainer-2/</link>
+      <pubDate>Wed, 01 Dec 2021 05:13:44 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/the-national-digital-education-architecture-an-explainer-2/</guid>
+      <description>In our latest explainer, we look at the National Digital Education Architecture, detailing what this policy entails and exploring its legislative and policy origins. We also explore issues of a lack of internet access, low digital literacy, and an inadequate consent framework.</description>
+    </item>
+    
+    <item>
+      <title>One year of #ProjectPanoptic</title>
+      <link>https://archive.internetfreedom.in/post/a-year-since-project-panoptic/</link>
+      <pubDate>Mon, 29 Nov 2021 04:55:35 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/a-year-since-project-panoptic/</guid>
+      <description>As we celebrate the one year anniversary of our Project Panoptic, we take a look back at everything we have been able to achieve through the project and what we aim to do moving forward.</description>
+    </item>
+    
+    <item>
+      <title>The Joint Parliamentary Committee on the Personal Data Protection Bill, 2019 has adopted its final report. What now? #SaveOurPrivacy</title>
+      <link>https://archive.internetfreedom.in/post/the-joint-parliamentary-committee-on-the-personal-data-protection-bill-2019-has-adopted-its-final-report-what-now/</link>
+      <pubDate>Fri, 26 Nov 2021 06:46:15 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/the-joint-parliamentary-committee-on-the-personal-data-protection-bill-2019-has-adopted-its-final-report-what-now/</guid>
+      <description>The JPC on the Personal Data Protection Bill, 2019 has adopted the final version of its report and is expected to table it in Parliament during the upcoming Winter Session. Here, we look at the possible ways forward for the PDPB and highlight some of the issues that may emerge from the final report.</description>
+    </item>
+    
+    <item>
+      <title>Dead and Alive: Affidavits filed by States and High Courts reveal 470 pending cases under the struck down S.66A</title>
+      <link>https://archive.internetfreedom.in/post/dead-and-alive-affidavits-filed-by-8-states-and-high-courts-reveal-470-pending-cases-under-the-struck-down-s-66a/</link>
+      <pubDate>Thu, 25 Nov 2021 05:38:13 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/dead-and-alive-affidavits-filed-by-8-states-and-high-courts-reveal-470-pending-cases-under-the-struck-down-s-66a/</guid>
+      <description>States and High courts reveal that 470 cases are pending under the struck down S.66A, in response to an application filed by PUCL.</description>
+    </item>
+    
+    <item>
+      <title>#PrivacyofThePeople: Society and community management apps</title>
+      <link>https://archive.internetfreedom.in/post/privacyofthepeople-society-and-community-management-apps/</link>
+      <pubDate>Wed, 24 Nov 2021 06:26:01 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/privacyofthepeople-society-and-community-management-apps/</guid>
+      <description>What are the privacy implications of society and community management apps that resident associations are increasingly adopting in Tier 1 and Tier 2 cities across India? IFF analyses user rights from harm and consent-based frameworks, and how the upcoming data protection law may protect users.</description>
+    </item>
+    
+    <item>
+      <title>Whither net neutrality? On the urgent need to implement the TRAI’s recommendations on net neutrality</title>
+      <link>https://archive.internetfreedom.in/post/whither-net-neutrality-on-the-urgent-need-to-implement-the-trai-recommendations-on-net-neutrality/</link>
+      <pubDate>Tue, 23 Nov 2021 04:56:10 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/whither-net-neutrality-on-the-urgent-need-to-implement-the-trai-recommendations-on-net-neutrality/</guid>
+      <description>We wrote to the Minister for Telecommunications, Ashwini Vaishnaw to highlight the lack of implementation of TRAI’s recommendations regarding the enforcement of net neutrality principles by ISPs, which included establishing an independent Multi Stakeholder Body by the DoT.</description>
+    </item>
+    
+    <item>
+      <title>IFF releases Legislative Brief on Digital Rights for Winter Session 2021</title>
+      <link>https://archive.internetfreedom.in/post/iff-releases-legislative-br/</link>
+      <pubDate>Fri, 19 Nov 2021 06:54:42 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/iff-releases-legislative-br/</guid>
+      <description>Before the commencement of the Winter Session of the Parliament, we have prepared our second Legislative Brief on Digital Rights. In our brief, we highlight some of the focus areas within the larger issue of digital rights that call for the extensive deliberation in Parliament.</description>
+    </item>
+    
+    <item>
+      <title>“The use of FRT does not require any anchoring legislation” - The Meghalaya Government</title>
+      <link>https://archive.internetfreedom.in/post/the-use-of-frt-does-not-require-any-anchoring-legislation-the-meghalaya-government/</link>
+      <pubDate>Thu, 18 Nov 2021 06:34:25 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/the-use-of-frt-does-not-require-any-anchoring-legislation-the-meghalaya-government/</guid>
+      <description>Mr. Lyngdoh, a law student, sent a legal notice to the Meghalaya Govt. seeking reconsideration of use of FRT for pensioners in view of the possible privacy concerns. The Meghalaya Govt. in its response has explained its position which we have analysed.</description>
+    </item>
+    
+    <item>
+      <title>Social Science researchers move Delhi High Court to protect LibGen &amp; SciHub</title>
+      <link>https://archive.internetfreedom.in/post/social-science-researchers-move-delhi-high-court-to-protect-libgen-scihub/</link>
+      <pubDate>Tue, 16 Nov 2021 11:11:10 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/social-science-researchers-move-delhi-high-court-to-protect-libgen-scihub/</guid>
+      <description>A group of social science researchers have filed an intervention application, with legal support from IFF, highlighting the adverse impact any decision to block LibGen and SciHub will have on them.  A Joint Registrar of the Delhi High Court has issued notice.</description>
+    </item>
+    
+    <item>
+      <title>[Revealed] Jaipur Internet Shutdown Orders: Cut, Copy, Paste!</title>
+      <link>https://archive.internetfreedom.in/post/revealed-jaipur-internet-shutdown-orders-cut-copy-paste-keep-it-on/</link>
+      <pubDate>Tue, 16 Nov 2021 09:22:15 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/revealed-jaipur-internet-shutdown-orders-cut-copy-paste-keep-it-on/</guid>
+      <description>We filed RTI applications to determine the extent of the Rajasthan government’s compliance with directions in Anuradha Bhasin. We have received a response from the Jaipur DC, who issued 30 Internet shutdown orders, which follow an identical copy, cut, paste format — same as Udaipur!</description>
+    </item>
+    
     <item>
       <title>IFF submits its comments on the Draft Approach Paper for creating a Digital Address Code</title>
       <link>https://archive.internetfreedom.in/post/iff-submits-its-comments-on-the-draft-approach-paper-for-creating-a-digital-address-code/</link>
@@ -1111,6 +1599,15 @@ State Security and Surveillance</title>
     
     <item>
       <title>IFF keeps pushing against secrecy in surveillance. CIC orders MHA to adjudicate on our request for transparency.</title>
+      <link>https://archive.internetfreedom.in/post/cic-orders-mha-to-adjudicate-on-our-request-for-transparency/</link>
+      <pubDate>Wed, 19 May 2021 07:53:44 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/cic-orders-mha-to-adjudicate-on-our-request-for-transparency/</guid>
+      <description>In 2018, we filed six RTIs seeking the number of e-surveillance orders issued by the Home Ministry in 2016-18. The information was denied to us. Two years later, in response to our second appeal, the CIC has held that our request was improperly denied.</description>
+    </item>
+    
+    <item>
+      <title>IFF keeps pushing against secrecy in surveillance. CIC orders MHA to adjudicate on our request for transparency.</title>
       <link>https://archive.internetfreedom.in/post/iff-keeps-pushing-against-secrecy-in-surveillance-cic-orders-mha-to-adjudicate-on-our-request-for-transparency/</link>
       <pubDate>Wed, 19 May 2021 07:53:44 +0000</pubDate>
       
@@ -1422,6 +1919,15 @@ State Security and Surveillance</title>
       
       <guid>https://archive.internetfreedom.in/post/tandav-case-study/</guid>
       <description>Documents accessed through RTI paint a grim picture for creativity and diversity of content for online streaming platforms in India.</description>
+    </item>
+    
+    <item>
+      <title>#StartFromScratch: The data bill series part #1!</title>
+      <link>https://archive.internetfreedom.in/post/startfromscratch-the-data-bill-series-part-one/</link>
+      <pubDate>Fri, 26 Mar 2021 11:02:00 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/startfromscratch-the-data-bill-series-part-one/</guid>
+      <description>As a part of our new series #Startfromscratch on the Personal Data Protection Bill, 2019, we explain the importance of protecting one&amp;rsquo;s data online, the need for data protection legislation, and a brief history of the Bill.</description>
     </item>
     
     <item>
