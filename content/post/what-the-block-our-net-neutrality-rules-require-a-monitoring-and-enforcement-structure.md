@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship", "Free", "keep us online", "Net Neutrality", "savetheinternet"]
+author = 'Joanne DCunha'
+categories = ['Censorship', 'Free', 'keep us online', 'Net Neutrality', 'savetheinternet']
 date = 2019-03-09T05:30:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/IMG_2524.jpg"
-slug = "what-the-block-our-net-neutrality-rules-require-a-monitoring-and-enforcement-structure"
-summary = "A particularly concerning threat to net neutrality, looms the web. IFF has been engaging with users for a few months gathering evidence of extensive blocking. We summarise this to you and explain how this is a violation of Net Neutrality. "
-tags = ["Censorship", "Free", "keep us online", "Net Neutrality", "savetheinternet"]
-title = "What the block! Our net neutrality rules require a monitoring and enforcement structure #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2019/03/IMG_2524.jpg'
+slug = 'what-the-block-our-net-neutrality-rules-require-a-monitoring-and-enforcement-structure'
+summary = 'A particularly concerning threat to net neutrality, looms the web. IFF has been engaging with users for a few months gathering evidence of extensive blocking. We summarise this to you and explain how this is a violation of Net Neutrality. '
+tags = ['Censorship', 'Free', 'keep us online', 'Net Neutrality', 'savetheinternet']
+title = 'What the block! Our net neutrality rules require a monitoring and enforcement structure #SaveTheInternet'
 
 +++
 

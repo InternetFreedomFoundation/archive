@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy", "Surveillance", "Project Panoptic"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy', 'Surveillance', 'Project Panoptic']
 date = 2020-02-20T12:32:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Copy-of-Facial-Recognition-Twitter-3.png"
-slug = "problems-with-facial-recognition-systems-operating-in-a-legal-vacuum"
-summary = "While the obvious problem with introduction of facial recognition in India is that a faulty system with a high error rate may be implemented, the implementation of an accurate FRT system also raises serious privacy concerns."
-tags = ["Privacy", "Surveillance", "Project Panoptic"]
-title = "Problems with Facial Recognition Technology Operating in a Legal Vacuum"
+image = 'https://internetfreedom.in/content/images/2020/02/Copy-of-Facial-Recognition-Twitter-3.png'
+slug = 'problems-with-facial-recognition-systems-operating-in-a-legal-vacuum'
+summary = 'While the obvious problem with introduction of facial recognition in India is that a faulty system with a high error rate may be implemented, the implementation of an accurate FRT system also raises serious privacy concerns.'
+tags = ['Privacy', 'Surveillance', 'Project Panoptic']
+title = 'Problems with Facial Recognition Technology Operating in a Legal Vacuum'
 
 +++
 

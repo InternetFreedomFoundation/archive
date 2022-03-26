@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Data Protection", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Data Protection', 'Privacy']
 date = 2020-07-22T05:38:39Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/Aarogya-Setu-survey-3.png"
-slug = "aarogya-setu-air-travel-survey"
-summary = "Take this survey about use of Aarogya Setu for air travel so we can identify the scale of the problem and take appropriate remedial measures."
-tags = ["aarogyasetu", "Data Protection", "Privacy"]
-title = "Survey about use of Aarogya Setu for air travel #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/07/Aarogya-Setu-survey-3.png'
+slug = 'aarogya-setu-air-travel-survey'
+summary = 'Take this survey about use of Aarogya Setu for air travel so we can identify the scale of the problem and take appropriate remedial measures.'
+tags = ['aarogyasetu', 'Data Protection', 'Privacy']
+title = 'Survey about use of Aarogya Setu for air travel #SaveOurPrivacy'
 
 +++
 

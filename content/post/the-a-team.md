@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Parliament"]
+author = 'Joanne DCunha'
+categories = ['Parliament']
 date = 2019-09-21T07:28:16Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-14.PNG"
-slug = "the-a-team"
-summary = "Parliamentary Committees are incredibly vital our parliamentary and legislative processes. As a new Committee has been formed, we write to them with a few suggestions. "
-tags = ["Parliament"]
-title = "We are excited and look forward to working closely with the Standing Committee on Information Technology!"
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-14.PNG'
+slug = 'the-a-team'
+summary = 'Parliamentary Committees are incredibly vital our parliamentary and legislative processes. As a new Committee has been formed, we write to them with a few suggestions. '
+tags = ['Parliament']
+title = 'We are excited and look forward to working closely with the Standing Committee on Information Technology!'
 
 +++
 

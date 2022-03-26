@@ -1,14 +1,14 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Censorship", "RightToMeme", "SaveOurPrivacy"]
+author = 'IFF Public Policy Team'
+categories = ['Censorship', 'RightToMeme', 'SaveOurPrivacy']
 date = 2019-02-01T07:10:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-01-at-12.17.06-PM-2.png"
-slug = "we-urge-meity-to-press-reboot-on-the-intermediary-rules-saveourprivacy-righttomeme"
-summary = "We urge MEITY to recall the Draft of “The Information Technology [Intermediary Guidelines (Amendment) Rules] 2018 and then start afresh. "
-tags = ["Censorship", "RightToMeme", "SaveOurPrivacy"]
-title = "We urge MEITY to press reboot on the Intermediary Rules #SaveOurPrivacy #RightToMeme"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-01-at-12.17.06-PM-2.png'
+slug = 'we-urge-meity-to-press-reboot-on-the-intermediary-rules-saveourprivacy-righttomeme'
+summary = 'We urge MEITY to recall the Draft of “The Information Technology [Intermediary Guidelines (Amendment) Rules] 2018 and then start afresh. '
+tags = ['Censorship', 'RightToMeme', 'SaveOurPrivacy']
+title = 'We urge MEITY to press reboot on the Intermediary Rules #SaveOurPrivacy #RightToMeme'
 
 +++
 

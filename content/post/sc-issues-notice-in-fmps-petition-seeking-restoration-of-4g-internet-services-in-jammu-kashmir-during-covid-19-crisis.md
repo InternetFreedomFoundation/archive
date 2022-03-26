@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Covid", "internet shutdowns", "Legal", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Covid', 'internet shutdowns', 'Legal', 'Supreme Court']
 date = 2020-04-09T09:28:26Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/04/FMP-v-J-K-SC-hearing-1.png"
-slug = "sc-issues-notice-in-fmps-petition-seeking-restoration-of-4g-internet-services-in-jammu-kashmir-during-covid-19-crisis"
-summary = "Today, a 3 judge bench of the Supreme Court issued notice in a petition filed by Foundation for Media Professionals against the internet slowdown in Jammu & Kashmir during the COVID-19 crisis. "
-tags = ["Covid", "internet shutdowns", "Legal", "Supreme Court"]
-title = "SC issues notice in FMP’s petition seeking restoration of 4G internet services in Jammu & Kashmir during COVID-19 crisis #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/04/FMP-v-J-K-SC-hearing-1.png'
+slug = 'sc-issues-notice-in-fmps-petition-seeking-restoration-of-4g-internet-services-in-jammu-kashmir-during-covid-19-crisis'
+summary = 'Today, a 3 judge bench of the Supreme Court issued notice in a petition filed by Foundation for Media Professionals against the internet slowdown in Jammu & Kashmir during the COVID-19 crisis. '
+tags = ['Covid', 'internet shutdowns', 'Legal', 'Supreme Court']
+title = 'SC issues notice in FMP’s petition seeking restoration of 4G internet services in Jammu & Kashmir during COVID-19 crisis #KeepUsOnline'
 
 +++
 

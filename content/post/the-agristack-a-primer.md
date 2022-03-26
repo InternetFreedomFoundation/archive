@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["algorithmic bias", "big tech", "Policy", "AgriStack"]
+author = 'Rohin Garg'
+categories = ['algorithmic bias', 'big tech', 'Policy', 'AgriStack', 'Agriculture']
 date = 2020-12-04T11:53:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/AGRISTACK--2--1.png"
-slug = "the-agristack-a-primer"
+image = 'https://internetfreedom.in/content/images/2020/12/AGRISTACK--2--1.png'
+slug = 'the-agristack-a-primer'
 summary = "IFF has a published an explainer on the 'AgriStack' proposed by the Centre. Through the explainer we hope to provide an introduction to the 'Agristack' and it's potential benefits and drawbacks, with a larger aim of starting a public conversation about this issue. "
-tags = ["algorithmic bias", "big tech", "Policy", "AgriStack"]
-title = "The AgriStack: A Primer #SaveOurPrivacy"
+tags = ['algorithmic bias', 'big tech', 'Policy', 'AgriStack', 'Agriculture']
+title = 'The AgriStack: A Primer #SaveOurPrivacy'
 
 +++
 

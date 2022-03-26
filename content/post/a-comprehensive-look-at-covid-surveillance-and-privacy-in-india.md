@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Surveillance", "SaveOurPrivacy"]
+author = 'Apar Gupta'
+categories = ['Surveillance', 'SaveOurPrivacy']
 date = 2020-04-13T08:13:37Z
-description = ""
+description = ''
 draft = false
-slug = "a-comprehensive-look-at-covid-surveillance-and-privacy-in-india"
-summary = "IFF has authored a comprehensive working paper to inform public policy formation in India, including a substantive analysis of the use and publication of health data, specific development of surveillance technologies and deployment of contact tracing through device applications."
-tags = ["Surveillance", "SaveOurPrivacy"]
-title = "A comprehensive look at Covid Surveillance and Privacy in India #SaveOurPrivacy"
+slug = 'a-comprehensive-look-at-covid-surveillance-and-privacy-in-india'
+summary = 'IFF has authored a comprehensive working paper to inform public policy formation in India, including a substantive analysis of the use and publication of health data, specific development of surveillance technologies and deployment of contact tracing through device applications.'
+tags = ['Surveillance', 'SaveOurPrivacy']
+title = 'A comprehensive look at Covid Surveillance and Privacy in India #SaveOurPrivacy'
 
 +++
 

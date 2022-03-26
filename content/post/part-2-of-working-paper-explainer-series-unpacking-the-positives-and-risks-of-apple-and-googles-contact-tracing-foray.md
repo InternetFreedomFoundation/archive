@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["big tech", "competition", "IFFresearch", "Surveillance", "SaveOurPrivacy", "Privacy", "Policy", "innovation", "Covid"]
+author = 'Sidharth Deb'
+categories = ['big tech', 'competition', 'IFFresearch', 'Surveillance', 'SaveOurPrivacy', 'Privacy', 'Policy', 'innovation', 'Covid']
 date = 2020-04-17T12:01:38Z
-description = ""
+description = ''
 draft = false
-slug = "part-2-of-working-paper-explainer-series-unpacking-the-positives-and-risks-of-apple-and-googles-contact-tracing-foray"
+slug = 'part-2-of-working-paper-explainer-series-unpacking-the-positives-and-risks-of-apple-and-googles-contact-tracing-foray'
 summary = "IFF’s Working Paper on Privacy Prescriptions for Technology Interventions on COVID-19 in India, affords significant space to the issue of contact tracing technologies. It offers a preliminary breakdown of the Apple and Google's proposed partnership to provide a digital contact tracing solution."
-tags = ["big tech", "competition", "IFFresearch", "Surveillance", "SaveOurPrivacy", "Privacy", "Policy", "innovation", "Covid"]
-title = "Unpacking the positives and risks of Apple and Google’s contact tracing foray #SaveOurPrivacy"
+tags = ['big tech', 'competition', 'IFFresearch', 'Surveillance', 'SaveOurPrivacy', 'Privacy', 'Policy', 'innovation', 'Covid']
+title = 'Unpacking the positives and risks of Apple and Google’s contact tracing foray #SaveOurPrivacy'
 
 +++
 

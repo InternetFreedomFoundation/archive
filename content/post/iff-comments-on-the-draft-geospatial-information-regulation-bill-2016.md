@@ -1,12 +1,12 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Geospatial Bill", "SaveTheMap", "Crowdsourcing", "Policy", "Filings", "Submission", "Consultations"]
+author = 'IFF Public Policy Team'
+categories = ['Geospatial Bill', 'SaveTheMap', 'Crowdsourcing', 'Policy', 'Filings', 'Submission', 'Consultations']
 date = 2016-06-05T07:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "iff-comments-on-the-draft-geospatial-information-regulation-bill-2016"
-tags = ["Geospatial Bill", "SaveTheMap", "Crowdsourcing", "Policy", "Filings", "Submission", "Consultations"]
-title = "IFF Comments on the Draft Geospatial  Information Regulation Bill, 2016"
+slug = 'iff-comments-on-the-draft-geospatial-information-regulation-bill-2016'
+tags = ['Geospatial Bill', 'SaveTheMap', 'Crowdsourcing', 'Policy', 'Filings', 'Submission', 'Consultations']
+title = 'IFF Comments on the Draft Geospatial  Information Regulation Bill, 2016'
 
 +++
 

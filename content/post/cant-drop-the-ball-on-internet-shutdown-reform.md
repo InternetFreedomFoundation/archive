@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "keep us online"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'keep us online']
 date = 2020-04-04T05:38:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/04/Internet-Shutdowns-3-1.png"
-slug = "cant-drop-the-ball-on-internet-shutdown-reform"
-summary = "We wrote to the Department of Telecommunications and the Ministry of Parliamentary Affairs urging for review of the Telecom Suspension Rules 2017 based on public consultation and economic impact assessment. "
-tags = ["internet shutdowns", "keep us online"]
-title = "Can’t Drop the Ball on Internet Shutdown Reform #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/04/Internet-Shutdowns-3-1.png'
+slug = 'cant-drop-the-ball-on-internet-shutdown-reform'
+summary = 'We wrote to the Department of Telecommunications and the Ministry of Parliamentary Affairs urging for review of the Telecom Suspension Rules 2017 based on public consultation and economic impact assessment. '
+tags = ['internet shutdowns', 'keep us online']
+title = 'Can’t Drop the Ball on Internet Shutdown Reform #KeepUsOnline'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["66A", "intermediary"]
+author = 'Farkhanda Zahoor'
+categories = ['66A', 'intermediary']
 date = 2020-03-24T07:54:18Z
-description = ""
+description = ''
 draft = false
-slug = "marking-the-5-year-anniversary-of-the-shreya-singhal-judgement"
-summary = "5 years ago a division bench of the Supreme Court composed of Justices Chalameshwar and Nariman laid down an important foundation for internet freedom that is today under threat. "
-tags = ["66A", "intermediary"]
-title = "Marking the 5 year anniversary of the Shreya Singhal Judgement #FreeToMeme"
+slug = 'marking-the-5-year-anniversary-of-the-shreya-singhal-judgement'
+summary = '5 years ago a division bench of the Supreme Court composed of Justices Chalameshwar and Nariman laid down an important foundation for internet freedom that is today under threat. '
+tags = ['66A', 'intermediary']
+title = 'Marking the 5 year anniversary of the Shreya Singhal Judgement #FreeToMeme'
 
 +++
 

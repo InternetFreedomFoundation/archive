@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship"]
+author = 'Joanne DCunha'
+categories = ['Censorship']
 date = 2019-09-06T06:44:21Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-4.PNG"
-slug = "a-certifiable-dampener"
-summary = "The Ministry of Information and Broadcasting brings back into the discussion certification of online viewing content. We write on the need for a transparent and public consultation and highlight concerns with certification. "
-tags = ["Censorship"]
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-4.PNG'
+slug = 'a-certifiable-dampener'
+summary = 'The Ministry of Information and Broadcasting brings back into the discussion certification of online viewing content. We write on the need for a transparent and public consultation and highlight concerns with certification. '
+tags = ['Censorship']
 title = "A 'Certifiable' Dampener: The Ministry of Information and Broadcasting wants certification of online viewing content."
 
 +++

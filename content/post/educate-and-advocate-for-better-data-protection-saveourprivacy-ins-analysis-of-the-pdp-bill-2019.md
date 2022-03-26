@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Data Protection", "Privacy", "SaveOurPrivacy"]
+author = 'Apar Gupta'
+categories = ['Data Protection', 'Privacy', 'SaveOurPrivacy']
 date = 2020-01-25T06:39:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.46.11-AM.png"
-slug = "educate-and-advocate-for-better-data-protection-saveourprivacy-ins-analysis-of-the-pdp-bill-2019"
+image = 'https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.46.11-AM.png'
+slug = 'educate-and-advocate-for-better-data-protection-saveourprivacy-ins-analysis-of-the-pdp-bill-2019'
 summary = "Read SaveOurPrivacy.in's analysis of the PDP Bill, 2019. This helps you form your views and participate in the invitation to public comments invited by the Joint Parliamentary Committee. "
-tags = ["Data Protection", "Privacy", "SaveOurPrivacy"]
-title = "Educate and advocate for better privacy protection before the Data Protection JPC"
+tags = ['Data Protection', 'Privacy', 'SaveOurPrivacy']
+title = 'Educate and advocate for better privacy protection before the Data Protection JPC'
 
 +++
 

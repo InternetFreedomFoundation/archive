@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Data Protection", "Privacy", "Legal", "Kerala High Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Data Protection', 'Privacy', 'Legal', 'Kerala High Court']
 date = 2020-08-26T07:30:48Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Kerala-HC-Aarogya-Setu-2-2.png"
-slug = "kerala-hc-aarogya-setu"
-summary = "On 24 August, the Kerala HC heard a writ petition regarding third party data sharing and mandatory imposition of the Aarogya Setu app."
-tags = ["aarogyasetu", "Data Protection", "Privacy", "Legal", "Kerala High Court"]
-title = "Kerala HC to hear Aarogya Setu petitions in September 2020 #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/08/Kerala-HC-Aarogya-Setu-2-2.png'
+slug = 'kerala-hc-aarogya-setu'
+summary = 'On 24 August, the Kerala HC heard a writ petition regarding third party data sharing and mandatory imposition of the Aarogya Setu app.'
+tags = ['aarogyasetu', 'Data Protection', 'Privacy', 'Legal', 'Kerala High Court']
+title = 'Kerala HC to hear Aarogya Setu petitions in September 2020 #SaveOurPrivacy'
 
 +++
 

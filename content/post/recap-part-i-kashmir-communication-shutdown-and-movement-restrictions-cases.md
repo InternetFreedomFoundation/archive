@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Legal", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Legal', 'Supreme Court']
 date = 2019-11-28T05:31:57Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Petitioners_-The-orders-don-t-comply-with-statutory-requirements-under-the-Telecom-Suspension-Rules-2017-and-Section-144--Cr.P.C-.png"
-slug = "recap-part-i-kashmir-communication-shutdown-and-movement-restrictions-cases"
-summary = "Part I of the Recap summarizes the arguments made by the petitioners and the government about statutory compliance of the orders issued under the Telecom Suspension Rules 2017 and Section 144, Cr.P.C."
-tags = ["internet shutdowns", "Legal", "Supreme Court"]
-title = "Recap Part I: Kashmir Communication Shutdown and Movement Restrictions Cases"
+image = 'https://internetfreedom.in/content/images/2019/11/Petitioners_-The-orders-don-t-comply-with-statutory-requirements-under-the-Telecom-Suspension-Rules-2017-and-Section-144--Cr.P.C-.png'
+slug = 'recap-part-i-kashmir-communication-shutdown-and-movement-restrictions-cases'
+summary = 'Part I of the Recap summarizes the arguments made by the petitioners and the government about statutory compliance of the orders issued under the Telecom Suspension Rules 2017 and Section 144, Cr.P.C.'
+tags = ['internet shutdowns', 'Legal', 'Supreme Court']
+title = 'Recap Part I: Kashmir Communication Shutdown and Movement Restrictions Cases'
 
 +++
 

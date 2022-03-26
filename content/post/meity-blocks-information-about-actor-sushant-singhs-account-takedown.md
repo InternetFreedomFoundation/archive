@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["Access to Information", "Censorship", "freespeech", "intermediary", "ITRules", "MeitY", "Right to Information", "RTI", "Social Media", "transparency", "Twitter"]
+author = 'Tanmay Singh'
+categories = ['Access to Information', 'Censorship', 'freespeech', 'intermediary', 'ITRules', 'MeitY', 'Right to Information', 'RTI', 'Social Media', 'transparency', 'Twitter']
 date = 2021-08-30T12:47:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Sushant-Singh-update-4.jpeg"
-slug = "meity-blocks-information-about-actor-sushant-singhs-account-takedown"
-summary = "Twitter unilaterally and arbitrarily suspended the account of Sushant Singh (@sushant_says) twice, i.e. on February 1 and May 26, 2021. We helped him file RTI requests with the Meity, DoT and MHA. Meity invoked the 2009 Blocking Rules and the RTI Act to deny information to Mr. Singh."
-tags = ["Access to Information", "Censorship", "freespeech", "intermediary", "ITRules", "MeitY", "Right to Information", "RTI", "Social Media", "transparency", "Twitter"]
-title = "MeitY blocks information about Actor Sushant Singh’s account takedown"
+image = 'https://internetfreedom.in/content/images/2021/08/Sushant-Singh-update-4.jpeg'
+slug = 'meity-blocks-information-about-actor-sushant-singhs-account-takedown'
+summary = 'Twitter unilaterally and arbitrarily suspended the account of Sushant Singh (@sushant_says) twice, i.e. on February 1 and May 26, 2021. We helped him file RTI requests with the Meity, DoT and MHA. Meity invoked the 2009 Blocking Rules and the RTI Act to deny information to Mr. Singh.'
+tags = ['Access to Information', 'Censorship', 'freespeech', 'intermediary', 'ITRules', 'MeitY', 'Right to Information', 'RTI', 'Social Media', 'transparency', 'Twitter']
+title = 'MeitY blocks information about Actor Sushant Singh’s account takedown'
 
 +++
 

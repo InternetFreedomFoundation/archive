@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Censorship", "Filings", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Censorship', 'Filings', 'Legal']
 date = 2020-01-23T06:50:13Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Subodh-Gupta-Defamation-Suit-Twitter.png"
-slug = "indian-journalists-union-defends-right-of-journalists-to-report-on-metoo-allegations"
+image = 'https://internetfreedom.in/content/images/2020/01/Subodh-Gupta-Defamation-Suit-Twitter.png'
+slug = 'indian-journalists-union-defends-right-of-journalists-to-report-on-metoo-allegations'
 summary = "In the latest hearing in Subodh Gupta's defamation suit, IJU emphasized that news reports cannot be de-indexed without providing the journalists a hearing and argued there was a distinction between merely republishing defamatory allegations and reporting on them."
-tags = ["Censorship", "Filings", "Legal"]
+tags = ['Censorship', 'Filings', 'Legal']
 title = "Indian Journalists Union defends media's right to report on MeToo allegations"
 
 +++

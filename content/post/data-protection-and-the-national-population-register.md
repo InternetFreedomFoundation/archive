@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Data Protection", "Privacy", "Submission"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Data Protection', 'Privacy', 'Submission']
 date = 2020-02-28T11:09:23Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/NPR-Problems-1.png"
-slug = "data-protection-and-the-national-population-register"
+image = 'https://internetfreedom.in/content/images/2020/02/NPR-Problems-1.png'
+slug = 'data-protection-and-the-national-population-register'
 summary = "IFF's brief highlights how NPR violates data protection principles of lawfulness, consent, purpose limitation, data minimization and accountability. Based on this case study, the brief identifies various loopholes in the PDP Bill and recommends necessary changes to the Joint Parliamentary Committee."
-tags = ["Data Protection", "Privacy", "Submission"]
-title = "Data Protection and the National Population Register #SaveOurPrivacy"
+tags = ['Data Protection', 'Privacy', 'Submission']
+title = 'Data Protection and the National Population Register #SaveOurPrivacy'
 
 +++
 

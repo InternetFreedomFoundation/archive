@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["savetheinternet", "SaveOurPrivacy", "Net Neutrality"]
+author = 'Apar Gupta'
+categories = ['savetheinternet', 'SaveOurPrivacy', 'Net Neutrality']
 date = 2019-01-10T14:04:01Z
-description = ""
+description = ''
 draft = false
-slug = "tell-us-if-your-isp-is-blocking-any-proxy-or-vpns-we-promise-to-seek-remedy-savetheinternet-saveourprivacy"
-summary = "Folks! Do report any blocking of proxy or VPNs by your ISP. This is a net neutrality violation and undermines your privacy. "
-tags = ["savetheinternet", "SaveOurPrivacy", "Net Neutrality"]
-title = "Tell us if your ISP is blocking any proxy websites or VPNs. We promise to seek remedy. #SaveTheInternet #SaveOurPrivacy"
+slug = 'tell-us-if-your-isp-is-blocking-any-proxy-or-vpns-we-promise-to-seek-remedy-savetheinternet-saveourprivacy'
+summary = 'Folks! Do report any blocking of proxy or VPNs by your ISP. This is a net neutrality violation and undermines your privacy. '
+tags = ['savetheinternet', 'SaveOurPrivacy', 'Net Neutrality']
+title = 'Tell us if your ISP is blocking any proxy websites or VPNs. We promise to seek remedy. #SaveTheInternet #SaveOurPrivacy'
 
 +++
 

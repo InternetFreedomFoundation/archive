@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Net Neutrality"]
+author = 'Apar Gupta'
+categories = ['Net Neutrality']
 date = 2018-11-15T03:26:05Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/11/Screenshot-2018-11-15-at-12.45.21-AM.png"
-slug = "our-summary-of-the-ott-consultation-paper-savingtheinternet"
-summary = "The OTT Consultation Paper released on November 12, 2018 by TRAI runs into close to 42 pages and to make the best use of your time and get you to read it we made a 5 page summary."
-tags = ["Net Neutrality"]
-title = "Our Summary of the OTT Consultation Paper #SaveTheInternet #NetNeutrality"
+image = 'https://internetfreedom.in/content/images/2018/11/Screenshot-2018-11-15-at-12.45.21-AM.png'
+slug = 'our-summary-of-the-ott-consultation-paper-savingtheinternet'
+summary = 'The OTT Consultation Paper released on November 12, 2018 by TRAI runs into close to 42 pages and to make the best use of your time and get you to read it we made a 5 page summary.'
+tags = ['Net Neutrality']
+title = 'Our Summary of the OTT Consultation Paper #SaveTheInternet #NetNeutrality'
 
 +++
 

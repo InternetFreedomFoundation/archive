@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet", "transparency", "Surveillance", "SaveOurPrivacy"]
+author = 'Rohin Garg'
+categories = ['accesstointernet', 'transparency', 'Surveillance', 'SaveOurPrivacy']
 date = 2021-04-01T09:19:33Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/Election-1.png"
-slug = "2021assemblyelections"
-summary = "With state elections incoming, we thought we would do our bit for #electionfever by analysing the manifestos of political parties across the spectrum. Our analysis is guided by our focus areas and is meant to help voters understand how political parties are looking at these issues."
-tags = ["accesstointernet", "transparency", "Surveillance", "SaveOurPrivacy"]
-title = "#ElectionFever: What do party manifestos have in store for tech and digital rights?"
+image = 'https://internetfreedom.in/content/images/2021/04/Election-1.png'
+slug = '2021assemblyelections'
+summary = 'With state elections incoming, we thought we would do our bit for #electionfever by analysing the manifestos of political parties across the spectrum. Our analysis is guided by our focus areas and is meant to help voters understand how political parties are looking at these issues.'
+tags = ['accesstointernet', 'transparency', 'Surveillance', 'SaveOurPrivacy']
+title = '#ElectionFever: What do party manifestos have in store for tech and digital rights?'
 
 +++
 

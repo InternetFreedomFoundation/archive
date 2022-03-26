@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["mha"]
+author = 'Anushka Jain'
+categories = ['mha']
 date = 2021-02-23T12:20:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/Sometimes-the-bad-things-that-happen-in-our-lives-put-us-directly-on-the-path-to-the-best-things-that-will-ever-happen-to-us.-1.png"
-slug = "cyber-volunteer"
-summary = "A new programme allows citizens to register themselves as \"unlawful content flaggers\" to report online content for removal. Mindful of the chilling effect this could have on free speech on the internet, we wrote to the MHA highlighting our concerns related to the programme. "
-tags = ["mha"]
+image = 'https://internetfreedom.in/content/images/2021/02/Sometimes-the-bad-things-that-happen-in-our-lives-put-us-directly-on-the-path-to-the-best-things-that-will-ever-happen-to-us.-1.png'
+slug = 'cyber-volunteer'
+summary = 'A new programme allows citizens to register themselves as "unlawful content flaggers" to report online content for removal. Mindful of the chilling effect this could have on free speech on the internet, we wrote to the MHA highlighting our concerns related to the programme. '
+tags = ['mha']
 title = "MHA's new programme allows volunteers to report \"anti-national\" online content for removal"
 
 +++

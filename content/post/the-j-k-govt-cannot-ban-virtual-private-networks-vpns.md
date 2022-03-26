@@ -1,14 +1,14 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["internet shutdowns", "Shutdown", "keep us online"]
+author = 'Farkhanda Zahoor'
+categories = ['internet shutdowns', 'Shutdown', 'keep us online']
 date = 2020-02-27T11:00:05Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Virtual-Private-Networks-are-not-illegal--yet-1.png"
-slug = "the-j-k-govt-cannot-ban-virtual-private-networks-vpns"
-summary = "Internet Freedom Foundation wrote to the Home Department of Jammu and Kashmir and key central government departments about the unlawful blocking of access to virtual private networks (VPNs) in J&K. "
-tags = ["internet shutdowns", "Shutdown", "keep us online"]
-title = "The J&K Govt cannot ban Virtual Private Networks (VPNs) #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/02/Virtual-Private-Networks-are-not-illegal--yet-1.png'
+slug = 'the-j-k-govt-cannot-ban-virtual-private-networks-vpns'
+summary = 'Internet Freedom Foundation wrote to the Home Department of Jammu and Kashmir and key central government departments about the unlawful blocking of access to virtual private networks (VPNs) in J&K. '
+tags = ['internet shutdowns', 'Shutdown', 'keep us online']
+title = 'The J&K Govt cannot ban Virtual Private Networks (VPNs) #KeepUsOnline'
 
 +++
 

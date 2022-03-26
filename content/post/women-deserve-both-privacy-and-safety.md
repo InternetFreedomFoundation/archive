@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Policy", "SaveOurPrivacy", "Surveillance"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Policy', 'SaveOurPrivacy', 'Surveillance']
 date = 2020-01-28T05:24:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/WCD-CCTV-Representation-Horizontal-4.png"
-slug = "women-deserve-both-privacy-and-safety"
-summary = "The WCD Ministry has approved use of the Nirbhaya Fund for large scale installation of CCTV cameras. This kind of mass video surveillance without adequate safeguards is likely to be ineffective and counterproductive."
-tags = ["Policy", "SaveOurPrivacy", "Surveillance"]
-title = "Women deserve both privacy and safety"
+image = 'https://internetfreedom.in/content/images/2020/01/WCD-CCTV-Representation-Horizontal-4.png'
+slug = 'women-deserve-both-privacy-and-safety'
+summary = 'The WCD Ministry has approved use of the Nirbhaya Fund for large scale installation of CCTV cameras. This kind of mass video surveillance without adequate safeguards is likely to be ineffective and counterproductive.'
+tags = ['Policy', 'SaveOurPrivacy', 'Surveillance']
+title = 'Women deserve both privacy and safety'
 
 +++
 

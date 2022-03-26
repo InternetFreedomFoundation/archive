@@ -1,12 +1,12 @@
 +++
-author = "Rohin Garg"
+author = 'Rohin Garg'
 date = 2020-12-14T06:44:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/AI-for-all-1.png"
-slug = "ensuring-true-ai-for-all"
+image = 'https://internetfreedom.in/content/images/2020/12/AI-for-all-1.png'
+slug = 'ensuring-true-ai-for-all'
 summary = "IFF has submitted its comments on NITI Aayog's draft Working Document: Enforcement Mechanisms for Responsible #AIforAll, highlighting the following issues: need for concrete  principles, role of the oversight body, robust regulation for the private sector, and risk assessment based restrictions ."
-title = "Going beyond hashtags: how to ensure AI technology truly benefits everyone"
+title = 'Going beyond hashtags: how to ensure AI technology truly benefits everyone'
 
 +++
 

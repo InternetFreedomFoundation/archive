@@ -1,12 +1,12 @@
 +++
 author = 'Tejasi Panjiar'
-categories = ['Budget2022']
+categories = ['Budget2022', 'Economy']
 date = 2022-02-03T14:30:43Z
 description = ''
 draft = false
 slug = 'budget-session-2022-23'
 summary = 'Budget 2022-2023 evokes conflicted sentiments. IFF attempts to analyse the highs and lows of the Union Budget, with a special focus on DoT, MeitY and MIB.'
-tags = ['Budget2022']
+tags = ['Budget2022', 'Economy']
 title = 'Conflicted sentiments: Analysing Budget 2022-23 trends'
 
 +++

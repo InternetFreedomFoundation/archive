@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["Surveillance", "SaveOurPrivacy"]
+author = 'Farkhanda Zahoor'
+categories = ['Surveillance', 'SaveOurPrivacy']
 date = 2020-04-14T12:26:50Z
-description = ""
+description = ''
 draft = false
-slug = "is-aarogya-setu-privacy-first-nope-but-it-could-be-if-the-government-wanted"
-summary = "IFF’s Working Paper, analyses the Aarogya Setu application, highlights how it is inconsistent with the right to privacy, is conceivably a risk toward a permanent system of mass surveillance, and suggests clear recommendations to arrest these risks."
-tags = ["Surveillance", "SaveOurPrivacy"]
-title = "Is Aarogya Setu privacy-first? Nope, but it could be-- If the government wanted.           #SaveOurPrivacy"
+slug = 'is-aarogya-setu-privacy-first-nope-but-it-could-be-if-the-government-wanted'
+summary = 'IFF’s Working Paper, analyses the Aarogya Setu application, highlights how it is inconsistent with the right to privacy, is conceivably a risk toward a permanent system of mass surveillance, and suggests clear recommendations to arrest these risks.'
+tags = ['Surveillance', 'SaveOurPrivacy']
+title = 'Is Aarogya Setu privacy-first? Nope, but it could be-- If the government wanted.           #SaveOurPrivacy'
 
 +++
 

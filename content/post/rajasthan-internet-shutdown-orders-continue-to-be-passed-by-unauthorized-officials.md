@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "RTI"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'RTI']
 date = 2019-12-09T11:51:10Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/How-do-you-prevent-cheating-in-exams--Option-A_-Proper-invigilation--signal-jammers--transparent-stationery-boxes....-Option-B_-Shut-down-the-internet-in-the-whole-city.png"
-slug = "rajasthan-internet-shutdown-orders-continue-to-be-passed-by-unauthorized-officials"
-summary = "Rajasthan internet shutdown orders continue to be issued by Divisional Commissioners who lack authority to suspend telecom services. Further, many orders were issued in circumstances which do not seem to satisfy the public emergency/public safety requirement under the law."
-tags = ["internet shutdowns", "RTI"]
-title = "Rajasthan internet shutdown orders continue to be issued by unauthorized officials"
+image = 'https://internetfreedom.in/content/images/2019/12/How-do-you-prevent-cheating-in-exams--Option-A_-Proper-invigilation--signal-jammers--transparent-stationery-boxes....-Option-B_-Shut-down-the-internet-in-the-whole-city.png'
+slug = 'rajasthan-internet-shutdown-orders-continue-to-be-passed-by-unauthorized-officials'
+summary = 'Rajasthan internet shutdown orders continue to be issued by Divisional Commissioners who lack authority to suspend telecom services. Further, many orders were issued in circumstances which do not seem to satisfy the public emergency/public safety requirement under the law.'
+tags = ['internet shutdowns', 'RTI']
+title = 'Rajasthan internet shutdown orders continue to be issued by unauthorized officials'
 
 +++
 

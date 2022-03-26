@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["RTI"]
+author = 'Joanne DCunha'
+categories = ['RTI']
 date = 2019-04-30T06:06:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Capture-21.PNG"
-slug = "why-hide-need-for-transparency"
-summary = "IFF filed and RTI with the Department of Commerce on the Draft E-Commerce Policy to which an exemption was claimed. The lack of transparency in such proceedings is raising a cause of concern. "
-tags = ["RTI"]
-title = "Constructive public policy sprouts only in sunshine, not darkness #RTI #TechPolicy"
+image = 'https://internetfreedom.in/content/images/2019/04/Capture-21.PNG'
+slug = 'why-hide-need-for-transparency'
+summary = 'IFF filed and RTI with the Department of Commerce on the Draft E-Commerce Policy to which an exemption was claimed. The lack of transparency in such proceedings is raising a cause of concern. '
+tags = ['RTI']
+title = 'Constructive public policy sprouts only in sunshine, not darkness #RTI #TechPolicy'
 
 +++
 

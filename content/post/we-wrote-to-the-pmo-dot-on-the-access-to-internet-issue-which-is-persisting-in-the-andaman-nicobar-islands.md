@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["accesstointernet", "Coronavirus", "Covid", "DOT"]
+author = 'Anushka Jain'
+categories = ['accesstointernet', 'Coronavirus', 'Covid', 'DOT']
 date = 2020-06-26T08:10:14Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-the-pmo-dot-on-the-access-to-internet-issue-which-is-persisting-in-the-andaman-nicobar-islands"
-summary = "We have written to the Prime Minister’s Office and the Department of Telecommunications highlighting the prevalent issues in A&N Islands and providing certain recommendations. "
-tags = ["accesstointernet", "Coronavirus", "Covid", "DOT"]
-title = "We wrote to the PMO & DoT on the Access to Internet issue which is persisting in the Andaman & Nicobar Islands #DigitalAndamans #4GforAll"
+slug = 'we-wrote-to-the-pmo-dot-on-the-access-to-internet-issue-which-is-persisting-in-the-andaman-nicobar-islands'
+summary = 'We have written to the Prime Minister’s Office and the Department of Telecommunications highlighting the prevalent issues in A&N Islands and providing certain recommendations. '
+tags = ['accesstointernet', 'Coronavirus', 'Covid', 'DOT']
+title = 'We wrote to the PMO & DoT on the Access to Internet issue which is persisting in the Andaman & Nicobar Islands #DigitalAndamans #4GforAll'
 
 +++
 

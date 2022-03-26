@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Net Neutrality", "savetheinternet", "TRAI"]
+author = 'Apar Gupta'
+categories = ['Net Neutrality', 'savetheinternet', 'TRAI']
 date = 2018-11-30T04:45:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/11/Screenshot-2018-11-29-at-9.37.38-PM.png"
-slug = "help-the-trai-set-its-digital-priorities-for-2019"
-summary = "We wrote a letter to the TRAI asking it to involve the public in determining its regulatory priorities for next year. Your voice matters. Reach out to us, let us know issues and problems you would like to be addressed in 2019. "
-tags = ["Net Neutrality", "savetheinternet", "TRAI"]
-title = "Help the TRAI set its digital priorities for 2019 #AskTRAI"
+image = 'https://internetfreedom.in/content/images/2018/11/Screenshot-2018-11-29-at-9.37.38-PM.png'
+slug = 'help-the-trai-set-its-digital-priorities-for-2019'
+summary = 'We wrote a letter to the TRAI asking it to involve the public in determining its regulatory priorities for next year. Your voice matters. Reach out to us, let us know issues and problems you would like to be addressed in 2019. '
+tags = ['Net Neutrality', 'savetheinternet', 'TRAI']
+title = 'Help the TRAI set its digital priorities for 2019 #AskTRAI'
 
 +++
 

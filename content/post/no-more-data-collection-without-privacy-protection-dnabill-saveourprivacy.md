@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Privacy", "Data Protection"]
+author = 'Apar Gupta'
+categories = ['Privacy', 'Data Protection']
 date = 2018-12-11T10:26:03Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/12/save-our-privacy-1.svg"
-slug = "no-more-data-collection-without-privacy-protection-dnabill-saveourprivacy"
-summary = "In the present winter session of parliment a key proposal impacting our privacy may pass into law. The, DNA Technology (Use and Application) Regulation Bill, 2018 is up for consideration & passage and we need to oppose it."
-tags = ["Privacy", "Data Protection"]
-title = "“No more data collection without privacy protection” #DNABill #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2018/12/save-our-privacy-1.svg'
+slug = 'no-more-data-collection-without-privacy-protection-dnabill-saveourprivacy'
+summary = 'In the present winter session of parliment a key proposal impacting our privacy may pass into law. The, DNA Technology (Use and Application) Regulation Bill, 2018 is up for consideration & passage and we need to oppose it.'
+tags = ['Privacy', 'Data Protection']
+title = '“No more data collection without privacy protection” #DNABill #SaveOurPrivacy'
 
 +++
 

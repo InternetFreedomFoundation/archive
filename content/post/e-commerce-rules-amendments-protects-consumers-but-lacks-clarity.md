@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Consumer Protection", "Consultations", "competition"]
+author = 'Yashaswini'
+categories = ['Consumer Protection', 'Consultations', 'competition']
 date = 2021-07-20T07:47:25Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Ecommerce---Twitter-header--1--1.png"
-slug = "e-commerce-rules-amendments-protects-consumers-but-lacks-clarity"
-summary = "The recently proposed changes to the e-commerce rules, seek to  ensure consumer protection against unfair trade practices However, in a bid to create a more robust compliance mechanism, the rules run the risk of creating greater fault lines in India’s e-commerce industry."
-tags = ["Consumer Protection", "Consultations", "competition"]
-title = "E-commerce Rules amendments: Protects consumers but lacks clarity"
+image = 'https://internetfreedom.in/content/images/2021/07/Ecommerce---Twitter-header--1--1.png'
+slug = 'e-commerce-rules-amendments-protects-consumers-but-lacks-clarity'
+summary = 'The recently proposed changes to the e-commerce rules, seek to  ensure consumer protection against unfair trade practices However, in a bid to create a more robust compliance mechanism, the rules run the risk of creating greater fault lines in India’s e-commerce industry.'
+tags = ['Consumer Protection', 'Consultations', 'competition']
+title = 'E-commerce Rules amendments: Protects consumers but lacks clarity'
 
 +++
 

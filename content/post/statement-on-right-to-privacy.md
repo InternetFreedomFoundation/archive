@@ -1,10 +1,10 @@
 +++
-author = "Karthik"
+author = 'Karthik'
 date = 2017-08-24T11:24:09Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2017/08/privacyisright-victory-1.png"
-slug = "statement-on-right-to-privacy"
+image = 'https://internetfreedom.in/content/images/2017/08/privacyisright-victory-1.png'
+slug = 'statement-on-right-to-privacy'
 title = "Internet Freedom Foundation's statement on the Right to Privacy judgement"
 
 +++

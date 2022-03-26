@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["RightsCon2021"]
+author = 'Anushka Jain'
+categories = ['RightsCon2021']
 date = 2021-06-02T09:43:03Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Copy-of-RightsCon-consolidated-info--2--1.png"
-slug = "iff-at-rightscon-2021"
-summary = "Excited about RightsCon 2021? We are too! Find out which panels we are participating in."
-tags = ["RightsCon2021"]
-title = "IFF at RightsCon 2021!"
+image = 'https://internetfreedom.in/content/images/2021/06/Copy-of-RightsCon-consolidated-info--2--1.png'
+slug = 'iff-at-rightscon-2021'
+summary = 'Excited about RightsCon 2021? We are too! Find out which panels we are participating in.'
+tags = ['RightsCon2021']
+title = 'IFF at RightsCon 2021!'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Policy", "Submission"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Policy', 'Submission']
 date = 2019-12-23T12:29:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/More-Power-to-the-People.-1.png"
-slug = "say-no-to-overregulation-of-digital-news-media-and-social-media"
-summary = "In its current form, the RPP Bill is plagued by definitional confusion and lack of a clearly stated purpose. We urge the government to start from a clean slate by publishing a whitepaper and conducting public consultation."
-tags = ["Policy", "Submission"]
-title = "Say no to overregulation of digital news media"
+image = 'https://internetfreedom.in/content/images/2019/12/More-Power-to-the-People.-1.png'
+slug = 'say-no-to-overregulation-of-digital-news-media-and-social-media'
+summary = 'In its current form, the RPP Bill is plagued by definitional confusion and lack of a clearly stated purpose. We urge the government to start from a clean slate by publishing a whitepaper and conducting public consultation.'
+tags = ['Policy', 'Submission']
+title = 'Say no to overregulation of digital news media'
 
 +++
 

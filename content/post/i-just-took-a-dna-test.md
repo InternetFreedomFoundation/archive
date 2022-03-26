@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "Surveillance", "Submission", "Policy"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'Surveillance', 'Submission', 'Policy']
 date = 2019-11-19T05:32:08Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Capture--1.png"
-slug = "i-just-took-a-dna-test"
-summary = "The DNA Bill has been re-introduced in the Lok Sabha and also referred to the Standing Committee on Science and Technology which has invited comments. We had a lot of comments. "
-tags = ["Privacy", "Surveillance", "Submission", "Policy"]
-title = "IFF submits comments to the Standing Committee on Science & Tech highlighting worries with the DNA Bill, 2019."
+image = 'https://internetfreedom.in/content/images/2019/11/Capture--1.png'
+slug = 'i-just-took-a-dna-test'
+summary = 'The DNA Bill has been re-introduced in the Lok Sabha and also referred to the Standing Committee on Science and Technology which has invited comments. We had a lot of comments. '
+tags = ['Privacy', 'Surveillance', 'Submission', 'Policy']
+title = 'IFF submits comments to the Standing Committee on Science & Tech highlighting worries with the DNA Bill, 2019.'
 
 +++
 

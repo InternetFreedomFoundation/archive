@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["transparency", "Project Panoptic", "freespeech", "Net Neutrality"]
+author = 'Anushka Jain'
+categories = ['transparency', 'Project Panoptic', 'freespeech', 'Net Neutrality', 'RTIReport']
 date = 2021-06-08T06:44:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/May-RTI-2021-1.png"
-slug = "digital-transparency-a-right-to-information-report-for-may-2021"
-summary = "Since our last report in the month of April, IFF has filed 32 RTI requests and 1 first appeal. Here, we give you an overview of the requests filed and explain why demanding transparency from government authorities is one of the key elements in our fight to protect digital rights."
-tags = ["transparency", "Project Panoptic", "freespeech", "Net Neutrality"]
-title = "Digital Transparency: A Right to Information Report for May, 2021"
+image = 'https://internetfreedom.in/content/images/2021/06/May-RTI-2021-1.png'
+slug = 'digital-transparency-a-right-to-information-report-for-may-2021'
+summary = 'Since our last report in the month of April, IFF has filed 32 RTI requests and 1 first appeal. Here, we give you an overview of the requests filed and explain why demanding transparency from government authorities is one of the key elements in our fight to protect digital rights.'
+tags = ['transparency', 'Project Panoptic', 'freespeech', 'Net Neutrality', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for May, 2021'
 
 +++
 

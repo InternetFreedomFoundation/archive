@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "Supreme Court", "internet shutdowns"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'Supreme Court', 'internet shutdowns']
 date = 2019-10-01T11:32:46Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Capture-3.PNG"
-slug = "fmp-and-ijus-intervention-permitted-in-anuradha-bhasins-petition"
+image = 'https://internetfreedom.in/content/images/2019/10/Capture-3.PNG'
+slug = 'fmp-and-ijus-intervention-permitted-in-anuradha-bhasins-petition'
 summary = "The Supreme Court allows Foundation for Media Professionals and Indian Journalists Union to intervene in Anuradha Bhasin's petition against the communication shutdown in Kashmir. "
-tags = ["Filings", "Supreme Court", "internet shutdowns"]
+tags = ['Filings', 'Supreme Court', 'internet shutdowns']
 title = "FMP's and IJU's intervention permitted in Anuradha Bhasin's petition"
 
 +++

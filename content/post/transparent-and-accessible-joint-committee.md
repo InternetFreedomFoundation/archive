@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Data Protection"]
+author = 'Joanne DCunha'
+categories = ['Data Protection']
 date = 2019-12-20T06:25:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/Capture-6.png"
-slug = "transparent-and-accessible-joint-committee"
-summary = "To ensure people are brought to the forefront in determining their own data protection regime, we write to the Joint Parliamentary Committee with a few suggestions. "
-tags = ["Data Protection"]
-title = "We need a transparent and accessible Joint Parliamentary Committee on Data Protection!"
+image = 'https://internetfreedom.in/content/images/2019/12/Capture-6.png'
+slug = 'transparent-and-accessible-joint-committee'
+summary = 'To ensure people are brought to the forefront in determining their own data protection regime, we write to the Joint Parliamentary Committee with a few suggestions. '
+tags = ['Data Protection']
+title = 'We need a transparent and accessible Joint Parliamentary Committee on Data Protection!'
 
 +++
 

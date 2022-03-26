@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["TRAI", "DigitalJustice", "accesstointernet"]
+author = 'Yashaswini'
+categories = ['TRAI', 'DigitalJustice', 'accesstointernet']
 date = 2021-06-14T05:06:21Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/On-the-need-for-citizen-oriented-growth-in-the-telecom-sector--1--1.png"
-slug = "on-the-need-for-citizen-oriented-growth-in-the-telecom-sector"
+image = 'https://internetfreedom.in/content/images/2021/06/On-the-need-for-citizen-oriented-growth-in-the-telecom-sector--1--1.png'
+slug = 'on-the-need-for-citizen-oriented-growth-in-the-telecom-sector'
 summary = "IFF submitted comments to TRAI's Supplementary Consultation Paper on Roadmap to Promote Broadband Connectivity and Enhanced Broadband Speed. Here, we highlighted the need for direct performance based incentives and about issues with public wifi networks that must be addressed."
-tags = ["TRAI", "DigitalJustice", "accesstointernet"]
-title = "On the need for citizen oriented growth in the telecom sector"
+tags = ['TRAI', 'DigitalJustice', 'accesstointernet']
+title = 'On the need for citizen oriented growth in the telecom sector'
 
 +++
 

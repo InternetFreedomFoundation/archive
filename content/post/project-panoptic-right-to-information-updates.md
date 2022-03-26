@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "facial recognition", "Project Panoptic", "Privacy", "Surveillance", "transparency"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'facial recognition', 'Project Panoptic', 'Privacy', 'Surveillance', 'transparency']
 date = 2020-12-01T05:00:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/PROJECT-PANOPTIC-UPDATES-FROM-TELANGANA--DELHI-POLICE---KOLKATA-POLICE-3.png"
-slug = "project-panoptic-right-to-information-updates"
-summary = "Replies to RTI requests filed with the Delhi Police, the Kolkata Police and the Telangana State Technology Services shed light on how these public authorities are using their FRT systems. "
-tags = ["Data Protection", "facial recognition", "Project Panoptic", "Privacy", "Surveillance", "transparency"]
-title = "Project Panoptic: Right to Information Updates from Delhi Police, Kolkata Police and Telangana State Technology Services"
+image = 'https://internetfreedom.in/content/images/2020/12/PROJECT-PANOPTIC-UPDATES-FROM-TELANGANA--DELHI-POLICE---KOLKATA-POLICE-3.png'
+slug = 'project-panoptic-right-to-information-updates'
+summary = 'Replies to RTI requests filed with the Delhi Police, the Kolkata Police and the Telangana State Technology Services shed light on how these public authorities are using their FRT systems. '
+tags = ['Data Protection', 'facial recognition', 'Project Panoptic', 'Privacy', 'Surveillance', 'transparency']
+title = 'Project Panoptic: Right to Information Updates from Delhi Police, Kolkata Police and Telangana State Technology Services'
 
 +++
 

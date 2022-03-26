@@ -1,13 +1,13 @@
 +++
-author = "Tanmay Singh"
-categories = ["Data Protection", "PDPB", "Privacy", "SaveOurPrivacy", "RTI"]
+author = 'Tanmay Singh'
+categories = ['Data Protection', 'PDPB', 'Privacy', 'SaveOurPrivacy', 'RTI']
 date = 2021-05-26T06:15:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Apar-v-MeitY-1.png"
-slug = "meity-response-was-grossly-improper"
-summary = "CIC directed the CPIO to re-visit our original RTI and provide a revised reply and info, if (comments on consultation on PDPB). However, the CPIO simply cited the same exemption under S.8 of the RTI Act that she had provided before the CIC."
-tags = ["Data Protection", "PDPB", "Privacy", "SaveOurPrivacy", "RTI"]
+image = 'https://internetfreedom.in/content/images/2021/05/Apar-v-MeitY-1.png'
+slug = 'meity-response-was-grossly-improper'
+summary = 'CIC directed the CPIO to re-visit our original RTI and provide a revised reply and info, if (comments on consultation on PDPB). However, the CPIO simply cited the same exemption under S.8 of the RTI Act that she had provided before the CIC.'
+tags = ['Data Protection', 'PDPB', 'Privacy', 'SaveOurPrivacy', 'RTI']
 title = "Despite CIC’s observation that MeitY's response to us was “grossly improper,\" MeitY issues the same response again #SaveOurPrivacy"
 
 +++

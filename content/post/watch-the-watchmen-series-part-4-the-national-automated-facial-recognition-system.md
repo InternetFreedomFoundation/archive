@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["facial recognition", "Project Panoptic", "WatchtheWatchmen", "Surveillance", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['facial recognition', 'Project Panoptic', 'WatchtheWatchmen', 'Surveillance', 'SaveOurPrivacy']
 date = 2020-10-07T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "watch-the-watchmen-series-part-4-the-national-automated-facial-recognition-system"
+slug = 'watch-the-watchmen-series-part-4-the-national-automated-facial-recognition-system'
 summary = "In the fourth part of our \"Watch the Watchmen\" series which aims to develop and use a national database of photographs which is to be used in conjunction with a facial recognition technology system by Central and State security agencies to swiftly identify criminals. \n"
-tags = ["facial recognition", "Project Panoptic", "WatchtheWatchmen", "Surveillance", "SaveOurPrivacy"]
-title = "Watch the Watchmen Series Part 4 : The National Automated Facial Recognition System"
+tags = ['facial recognition', 'Project Panoptic', 'WatchtheWatchmen', 'Surveillance', 'SaveOurPrivacy']
+title = 'Watch the Watchmen Series Part 4 : The National Automated Facial Recognition System'
 
 +++
 

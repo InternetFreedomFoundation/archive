@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Net Neutrality"]
+author = 'Apar Gupta'
+categories = ['Net Neutrality']
 date = 2018-10-18T08:52:01Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/10/Screen-Shot-2018-10-18-at-2.02.30-PM.png"
-slug = "another-step-forward-in-indias-leadership-on-net-neutrality"
-summary = "DOT makes important license amendments acting on TRAI recommendations. The landscape will now shift from rulemaking to enforcement."
-tags = ["Net Neutrality"]
-title = "Another step forward in India’s leadership on #NetNeutrality #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2018/10/Screen-Shot-2018-10-18-at-2.02.30-PM.png'
+slug = 'another-step-forward-in-indias-leadership-on-net-neutrality'
+summary = 'DOT makes important license amendments acting on TRAI recommendations. The landscape will now shift from rulemaking to enforcement.'
+tags = ['Net Neutrality']
+title = 'Another step forward in India’s leadership on #NetNeutrality #SaveTheInternet'
 
 +++
 

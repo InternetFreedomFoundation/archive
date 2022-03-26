@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "Privacy", "Surveillance", "WatchtheWatchmen"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'Privacy', 'Surveillance', 'WatchtheWatchmen']
 date = 2020-09-02T04:51:57Z
-description = ""
+description = ''
 draft = false
-slug = "watch-the-watchmen-part-1-the-national-intelligence-grid"
-summary = "We take a closer look at the proposed National Intelligence Grid which aims to tackle terror threats in the country and is scheduled go live on December 31, 2020."
-tags = ["Data Protection", "Privacy", "Surveillance", "WatchtheWatchmen"]
-title = "Watch the Watchmen Series Part 1 : The National Intelligence Grid"
+slug = 'watch-the-watchmen-part-1-the-national-intelligence-grid'
+summary = 'We take a closer look at the proposed National Intelligence Grid which aims to tackle terror threats in the country and is scheduled go live on December 31, 2020.'
+tags = ['Data Protection', 'Privacy', 'Surveillance', 'WatchtheWatchmen']
+title = 'Watch the Watchmen Series Part 1 : The National Intelligence Grid'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Surveillance", "Data Protection", "Legal"]
+author = 'Apar Gupta'
+categories = ['Surveillance', 'Data Protection', 'Legal']
 date = 2020-04-26T09:04:30Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/04/Privacy-breach-in-times-of-Covid-19-4--1.png"
-slug = "legal-notice-to-becil-for-its-tender-to-procure-employee-tracking-smartwatches-and-a-mass-surveillance-system"
-summary = "IFF has sent a legal notice to a government entity BECIL that intends to procure two items (amongst a larger procurement of various other medical safety devices), i.e.  “Personnel Tracking GPS Solution” and the “Covid–19 Patient Tracking Tool”. "
-tags = ["Surveillance", "Data Protection", "Legal"]
+image = 'https://internetfreedom.in/content/images/2020/04/Privacy-breach-in-times-of-Covid-19-4--1.png'
+slug = 'legal-notice-to-becil-for-its-tender-to-procure-employee-tracking-smartwatches-and-a-mass-surveillance-system'
+summary = 'IFF has sent a legal notice to a government entity BECIL that intends to procure two items (amongst a larger procurement of various other medical safety devices), i.e.  “Personnel Tracking GPS Solution” and the “Covid–19 Patient Tracking Tool”. '
+tags = ['Surveillance', 'Data Protection', 'Legal']
 title = "Legal Notice to BECIL for it's tender to procure employee tracking smartwatches and a Covid-19 mass surveillance system #SaveOurPrivacy"
 
 +++

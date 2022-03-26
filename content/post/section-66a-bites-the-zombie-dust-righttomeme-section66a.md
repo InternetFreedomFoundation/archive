@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Section66A", "RightToMeme"]
+author = 'Joanne DCunha'
+categories = ['Section66A', 'RightToMeme']
 date = 2019-02-16T06:48:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-16-at-12.16.41-PM.png"
-slug = "section-66a-bites-the-zombie-dust-righttomeme-section66a"
-summary = "Yesterday, February 15, 2019, a series of directions were issued by the Court to not only close existing Section 66A cases but also prevent fresh registrations. This is a tremendous victory against the dead Section 66A."
-tags = ["Section66A", "RightToMeme"]
-title = "Section 66A bites ‘zombie’ dust. SC issues fresh directions. #RightToMeme #Section66A"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-16-at-12.16.41-PM.png'
+slug = 'section-66a-bites-the-zombie-dust-righttomeme-section66a'
+summary = 'Yesterday, February 15, 2019, a series of directions were issued by the Court to not only close existing Section 66A cases but also prevent fresh registrations. This is a tremendous victory against the dead Section 66A.'
+tags = ['Section66A', 'RightToMeme']
+title = 'Section 66A bites ‘zombie’ dust. SC issues fresh directions. #RightToMeme #Section66A'
 
 +++
 

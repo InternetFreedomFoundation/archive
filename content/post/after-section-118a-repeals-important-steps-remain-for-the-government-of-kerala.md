@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Censorship", "freespeech", "Kerala High Court", "Supreme Court", "transparency"]
+author = 'Anushka Jain'
+categories = ['Censorship', 'freespeech', 'Kerala High Court', 'Supreme Court', 'transparency']
 date = 2020-12-02T08:04:59Z
-description = ""
+description = ''
 draft = false
-slug = "after-section-118a-repeals-important-steps-remain-for-the-government-of-kerala"
-summary = "Read our proposals to the Government of Kerala to help avoid any overbroad or unnecessary criminalisation of online speech while also making sure abuse, threats or any of the harms that emerge on social media can be checked."
-tags = ["Censorship", "freespeech", "Kerala High Court", "Supreme Court", "transparency"]
-title = "After Section 118A repeal important steps remain for the Government of Kerala"
+slug = 'after-section-118a-repeals-important-steps-remain-for-the-government-of-kerala'
+summary = 'Read our proposals to the Government of Kerala to help avoid any overbroad or unnecessary criminalisation of online speech while also making sure abuse, threats or any of the harms that emerge on social media can be checked.'
+tags = ['Censorship', 'freespeech', 'Kerala High Court', 'Supreme Court', 'transparency']
+title = 'After Section 118A repeal important steps remain for the Government of Kerala'
 
 +++
 

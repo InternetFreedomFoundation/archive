@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy", "Data Protection"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy', 'Data Protection']
 date = 2020-01-15T04:52:16Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Copy-of-Protect-Security-Researchers.png"
-slug = "security-researchers-need-legislative-protection-from-vexatious-lawsuits"
-summary = "Security researchers, vulnerability testers and journalists need to be protected,  especially when reporting on data breaches in India. "
-tags = ["Privacy", "Data Protection"]
-title = "Security researchers need legislative protection for responsible disclosure"
+image = 'https://internetfreedom.in/content/images/2020/01/Copy-of-Protect-Security-Researchers.png'
+slug = 'security-researchers-need-legislative-protection-from-vexatious-lawsuits'
+summary = 'Security researchers, vulnerability testers and journalists need to be protected,  especially when reporting on data breaches in India. '
+tags = ['Privacy', 'Data Protection']
+title = 'Security researchers need legislative protection for responsible disclosure'
 
 +++
 

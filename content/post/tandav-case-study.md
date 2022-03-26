@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["ITRules", "intermediary", "Censorship", "OTT"]
+author = 'Apar Gupta'
+categories = ['ITRules', 'intermediary', 'Censorship', 'OTT']
 date = 2021-03-27T07:48:55Z
-description = ""
+description = ''
 draft = false
-slug = "tandav-case-study"
+slug = 'tandav-case-study'
 summary = "Documents accessed through RTI paint a grim picture for creativity and diversity of content for online streaming platforms in India. \n"
-tags = ["ITRules", "intermediary", "Censorship", "OTT"]
-title = "Tandav is a Case Study for OTT censorship under the IT Rules, 2021 #LetUsChill"
+tags = ['ITRules', 'intermediary', 'Censorship', 'OTT']
+title = 'Tandav is a Case Study for OTT censorship under the IT Rules, 2021 #LetUsChill'
 
 +++
 

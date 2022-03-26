@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["accesstointernet", "Censorship", "internet shutdowns", "savetheinternet", "Telecom", "Supreme Court"]
+author = 'Tanmay Singh'
+categories = ['accesstointernet', 'Censorship', 'internet shutdowns', 'savetheinternet', 'Telecom', 'Supreme Court']
 date = 2021-09-10T05:53:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/Harayana-header--1.jpeg"
-slug = "as-the-farmers-protests-see-widespread-internet-shutdowns-iff-writes-to-the-haryana-home-ministry-urging-restraint"
-summary = "Between September 7 and 9, 2021, internet services were suspended in four districts of Haryana due to ongoing farmers’ protests. The order is not available on the Government websites and does not lay out a factual justification. We wrote to the Haryana government to officially publish all orders."
-tags = ["accesstointernet", "Censorship", "internet shutdowns", "savetheinternet", "Telecom", "Supreme Court"]
-title = "As the farmers’ protests saw widespread internet shutdowns, IFF wrote to the Haryana Home Ministry urging restraint"
+image = 'https://internetfreedom.in/content/images/2021/09/Harayana-header--1.jpeg'
+slug = 'as-the-farmers-protests-see-widespread-internet-shutdowns-iff-writes-to-the-haryana-home-ministry-urging-restraint'
+summary = 'Between September 7 and 9, 2021, internet services were suspended in four districts of Haryana due to ongoing farmers’ protests. The order is not available on the Government websites and does not lay out a factual justification. We wrote to the Haryana government to officially publish all orders.'
+tags = ['accesstointernet', 'Censorship', 'internet shutdowns', 'savetheinternet', 'Telecom', 'Supreme Court']
+title = 'As the farmers’ protests saw widespread internet shutdowns, IFF wrote to the Haryana Home Ministry urging restraint'
 
 +++
 

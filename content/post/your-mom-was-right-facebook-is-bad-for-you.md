@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["facebook", "misinformation", "hate speech", "whistleblower"]
+author = 'Anushka Jain'
+categories = ['facebook', 'misinformation', 'hate speech', 'whistleblower']
 date = 2021-10-27T04:26:22Z
-description = ""
+description = ''
 draft = false
-slug = "your-mom-was-right-facebook-is-bad-for-you"
-summary = "In light of the recent whistleblower revelations against Facebook, which allege that Facebook is well aware of the harms it causes but chooses to prioritise profit, we wrote to the Parliamentary Standing Committee on IT asking them to initiate an inquiry. "
-tags = ["facebook", "misinformation", "hate speech", "whistleblower"]
-title = "Your mom was right: Facebook is bad for you!"
+slug = 'your-mom-was-right-facebook-is-bad-for-you'
+summary = 'In light of the recent whistleblower revelations against Facebook, which allege that Facebook is well aware of the harms it causes but chooses to prioritise profit, we wrote to the Parliamentary Standing Committee on IT asking them to initiate an inquiry. '
+tags = ['facebook', 'misinformation', 'hate speech', 'whistleblower']
+title = 'Your mom was right: Facebook is bad for you!'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Net Neutrality", "savetheinternet", "Consultations"]
+author = 'Apar Gupta'
+categories = ['Net Neutrality', 'savetheinternet', 'Consultations']
 date = 2018-12-06T06:07:58Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-11.37.33-AM-2.png"
-slug = "understanding-trais-most-recent-over-the-top-consultation-paper-savetheinternet-netneutrality"
-tags = ["Net Neutrality", "savetheinternet", "Consultations"]
-title = "Understanding TRAI’s most recent “Over-The-Top” Consultation Paper #SaveTheInternet #NetNeutrality"
+image = 'https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-11.37.33-AM-2.png'
+slug = 'understanding-trais-most-recent-over-the-top-consultation-paper-savetheinternet-netneutrality'
+tags = ['Net Neutrality', 'savetheinternet', 'Consultations']
+title = 'Understanding TRAI’s most recent “Over-The-Top” Consultation Paper #SaveTheInternet #NetNeutrality'
 
 +++
 

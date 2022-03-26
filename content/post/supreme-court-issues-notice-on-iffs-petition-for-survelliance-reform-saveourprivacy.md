@@ -1,12 +1,12 @@
 +++
-author = "Apar Gupta"
-categories = ["SaveOurPrivacy", "Supreme Court"]
+author = 'Apar Gupta'
+categories = ['SaveOurPrivacy', 'Supreme Court']
 date = 2019-01-14T08:35:16Z
-description = ""
+description = ''
 draft = false
-slug = "supreme-court-issues-notice-on-iffs-petition-for-survelliance-reform-saveourprivacy"
-summary = "The Supreme Court today agreed to hear a case on the digital snooping powers of the government. "
-tags = ["SaveOurPrivacy", "Supreme Court"]
+slug = 'supreme-court-issues-notice-on-iffs-petition-for-survelliance-reform-saveourprivacy'
+summary = 'The Supreme Court today agreed to hear a case on the digital snooping powers of the government. '
+tags = ['SaveOurPrivacy', 'Supreme Court']
 title = "Supreme Court issues notice on IFF's petition for surveillance reform #SaveOurPrivacy"
 
 +++

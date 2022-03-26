@@ -1,9 +1,9 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-12-23T17:55:10Z
-description = ""
+description = ''
 draft = false
-slug = "trai-suspend-free-basics"
+slug = 'trai-suspend-free-basics'
 title = "Statement on TRAI's order that Reliance temporarily suspend Free Basics"
 
 +++

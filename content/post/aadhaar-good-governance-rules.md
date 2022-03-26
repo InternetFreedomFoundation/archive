@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy", "Data Protection", "aadhaar"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy', 'Data Protection', 'aadhaar']
 date = 2020-10-10T09:30:26Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/10/Aadhaar-blogpost-1.png"
-slug = "aadhaar-good-governance-rules"
-summary = "After the Aadhaar Amendment Act 2019 and the Aadhaar Good Governance Rules 2020, there remain virtually no limitations on the use of Aadhaar authentication, which had earlier been restricted by the SC to only government entities and only for receipt of benefits and subsidies. "
-tags = ["Privacy", "Data Protection", "aadhaar"]
-title = "While India copes with COVID-19, Aadhaar continues its function creep #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/10/Aadhaar-blogpost-1.png'
+slug = 'aadhaar-good-governance-rules'
+summary = 'After the Aadhaar Amendment Act 2019 and the Aadhaar Good Governance Rules 2020, there remain virtually no limitations on the use of Aadhaar authentication, which had earlier been restricted by the SC to only government entities and only for receipt of benefits and subsidies. '
+tags = ['Privacy', 'Data Protection', 'aadhaar']
+title = 'While India copes with COVID-19, Aadhaar continues its function creep #SaveOurPrivacy'
 
 +++
 

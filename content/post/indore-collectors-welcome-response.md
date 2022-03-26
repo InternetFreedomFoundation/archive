@@ -1,13 +1,13 @@
 +++
-author = "Tanmay Singh"
-categories = ["Censorship", "Coronavirus", "Covid", "freespeech"]
+author = 'Tanmay Singh'
+categories = ['Censorship', 'Coronavirus', 'Covid', 'freespeech']
 date = 2021-05-12T16:01:33Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/District-Collector--Indore--issues-an-order-under-S.144-6--CrPC-repealing-paragraph-7-of-the-previous-order--and-replacing-it-with-clearer-and-more-specific-language--limiting-the-prohibition-to-messages-or-posts-on---2--1.png"
-slug = "indore-collectors-welcome-response"
+image = 'https://internetfreedom.in/content/images/2021/05/District-Collector--Indore--issues-an-order-under-S.144-6--CrPC-repealing-paragraph-7-of-the-previous-order--and-replacing-it-with-clearer-and-more-specific-language--limiting-the-prohibition-to-messages-or-posts-on---2--1.png'
+slug = 'indore-collectors-welcome-response'
 summary = "Today, in a major victory for online free speech, the Collector, Indore issued an order repealing paragraph 7 of Indore's 144 order, and replacing it with clearer language, prohibiting only posts \"that pose a danger to public peace, law and order, and health of the public\""
-tags = ["Censorship", "Coronavirus", "Covid", "freespeech"]
+tags = ['Censorship', 'Coronavirus', 'Covid', 'freespeech']
 title = "Indore Collector's welcome response - problematic paragraph repealed"
 
 +++

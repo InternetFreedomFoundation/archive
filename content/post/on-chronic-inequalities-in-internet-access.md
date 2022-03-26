@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet", "4GforAll"]
+author = 'Rohin Garg'
+categories = ['accesstointernet', '4GforAll']
 date = 2021-01-07T06:02:02Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/Internet-Access-blogpost-5.png"
-slug = "on-chronic-inequalities-in-internet-access"
-summary = "Data from the 5th NFHS survey indicates that while internet access is increasing, a significant digital divide remains as a result of issues such as gender gaps and rural-urban gaps. These inequalities are also borne out by other government statistics and our conversations with stakeholders."
-tags = ["accesstointernet", "4GforAll"]
-title = "Bridge the #DigitalDivide: On chronic inequalities in internet access"
+image = 'https://internetfreedom.in/content/images/2021/01/Internet-Access-blogpost-5.png'
+slug = 'on-chronic-inequalities-in-internet-access'
+summary = 'Data from the 5th NFHS survey indicates that while internet access is increasing, a significant digital divide remains as a result of issues such as gender gaps and rural-urban gaps. These inequalities are also borne out by other government statistics and our conversations with stakeholders.'
+tags = ['accesstointernet', '4GforAll']
+title = 'Bridge the #DigitalDivide: On chronic inequalities in internet access'
 
 +++
 

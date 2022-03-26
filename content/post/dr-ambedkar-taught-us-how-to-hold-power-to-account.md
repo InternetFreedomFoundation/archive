@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Statement"]
+author = 'Joanne DCunha'
+categories = ['Statement']
 date = 2019-05-23T08:14:49Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/05/Capture-22.PNG"
-slug = "dr-ambedkar-taught-us-how-to-hold-power-to-account"
-summary = "As India looks to the next 5 years of Government, it is important to ensure the protection of individual liberties stands at the forefront."
-tags = ["Statement"]
-title = "Democracy, first and foremost."
+image = 'https://internetfreedom.in/content/images/2019/05/Capture-22.PNG'
+slug = 'dr-ambedkar-taught-us-how-to-hold-power-to-account'
+summary = 'As India looks to the next 5 years of Government, it is important to ensure the protection of individual liberties stands at the forefront.'
+tags = ['Statement']
+title = 'Democracy, first and foremost.'
 
 +++
 

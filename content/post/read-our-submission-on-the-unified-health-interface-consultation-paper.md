@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["Health Data", "accesstointernet", "DigitalJustice"]
+author = 'Rohin Garg'
+categories = ['Health Data', 'accesstointernet', 'DigitalJustice']
 date = 2021-08-24T01:57:06Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/UHI-Twitter-1.png"
-slug = "read-our-submission-on-the-unified-health-interface-consultation-paper"
-summary = "IFF has submitted its comments on the NDHM’s consultation paper on the Unified Health Interface.Our comments are focused on five key issues: the need for diverse feedback, market capture by the private sector, digital exclusion, financial exploitation, and the need for public digital infrastructure."
-tags = ["Health Data", "accesstointernet", "DigitalJustice"]
+image = 'https://internetfreedom.in/content/images/2021/08/UHI-Twitter-1.png'
+slug = 'read-our-submission-on-the-unified-health-interface-consultation-paper'
+summary = 'IFF has submitted its comments on the NDHM’s consultation paper on the Unified Health Interface.Our comments are focused on five key issues: the need for diverse feedback, market capture by the private sector, digital exclusion, financial exploitation, and the need for public digital infrastructure.'
+tags = ['Health Data', 'accesstointernet', 'DigitalJustice']
 title = "IFF's recommendations for the United Health Interface"
 
 +++
@@ -53,6 +53,8 @@ Thus, we have the following recommendations:
 4. **Financial exploitation and service pricing:** The proposed pricing scheme may result in exorbitant costs for accessing healthcare services. Thus, out of the three components of the pricing scheme, the end user application fee component must be capped for all essential services, at least during the gestation period. This will ensure that citizens, especially in times of dire need, are not exploited by end user applications.
 5. **Need for public digital infrastructure:** Using the private sector to develop the software for the UHI gateway may result in increased costs for citizens. Thus, it is recommended that the government develop the UHI gateway itself, and then subsequently charge health service providers and end user applications a fee for participating in the UHI environment, which can be harmonised with the cap mentioned on end user application fees. This would also allow the government to implement comprehensive protocols for security and consent.
 
+<iframe src="https://drive.google.com/file/d/1OEf0AWGcIkaJFfAKIq6XBVQppTJ8blux/preview" width="580" height="480"></iframe>
+
 ## Important Documents
 
 1. NDHM’s consultation paper on the Unified Health Interface ([**link**](https://ndhm.gov.in/assets/uploads/consultation_papersDocs/UHI_Consultation_Paper.pdf))
@@ -62,6 +64,8 @@ Thus, we have the following recommendations:
 
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

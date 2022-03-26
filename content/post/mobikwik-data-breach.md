@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["Data Protection", "Breaches"]
+author = 'Krishnesh'
+categories = ['Data Protection', 'Breaches']
 date = 2021-03-31T07:50:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/final-mobikwik-data-breach-1.png"
-slug = "mobikwik-data-breach"
-summary = "We have written to the Computer Emergency Response Team (CERT-IN) asking them to initiate an inquiry over the data breach in terms of Section 70B(6) of the Information Technology Act, 2000. In this post, we point out the five steps MobiKwik must take to alleviate the situation."
-tags = ["Data Protection", "Breaches"]
-title = "Kwik to deny a data breach, MobiKwik must move faster to address it"
+image = 'https://internetfreedom.in/content/images/2021/03/final-mobikwik-data-breach-1.png'
+slug = 'mobikwik-data-breach'
+summary = 'We have written to the Computer Emergency Response Team (CERT-IN) asking them to initiate an inquiry over the data breach in terms of Section 70B(6) of the Information Technology Act, 2000. In this post, we point out the five steps MobiKwik must take to alleviate the situation.'
+tags = ['Data Protection', 'Breaches']
+title = 'Kwik to deny a data breach, MobiKwik must move faster to address it'
 
 +++
 

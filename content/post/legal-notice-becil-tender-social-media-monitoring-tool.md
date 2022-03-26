@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Surveillance", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Surveillance', 'Privacy']
 date = 2020-06-19T04:49:34Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/06/BECIL-Tender-Legal-Notice.png"
-slug = "legal-notice-becil-tender-social-media-monitoring-tool"
-summary = "We sent a legal notice to BECIL against a tender for procurement of fact verification and disinformation detection tools which will lead to mass surveillance of social media users."
-tags = ["Surveillance", "Privacy"]
-title = "Surveillance of social media users is not the solution for fake news #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/06/BECIL-Tender-Legal-Notice.png'
+slug = 'legal-notice-becil-tender-social-media-monitoring-tool'
+summary = 'We sent a legal notice to BECIL against a tender for procurement of fact verification and disinformation detection tools which will lead to mass surveillance of social media users.'
+tags = ['Surveillance', 'Privacy']
+title = 'Surveillance of social media users is not the solution for fake news #SaveOurPrivacy'
 
 +++
 

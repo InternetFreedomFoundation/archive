@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Surveillance", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Surveillance', 'Privacy']
 date = 2020-06-01T12:06:42Z
-description = ""
+description = ''
 draft = false
-slug = "aarogya-setu-rwas"
-summary = "We wrote to the government seeking issuance of an advisory which clarifies that Resident Welfare Associations cannot make use of Aarogya Setu mandatory for entry into housing societies."
-tags = ["aarogyasetu", "Surveillance", "Privacy"]
-title = "RWA uncles, please calm down about Aarogya Setu #SaveOurPrivacy"
+slug = 'aarogya-setu-rwas'
+summary = 'We wrote to the government seeking issuance of an advisory which clarifies that Resident Welfare Associations cannot make use of Aarogya Setu mandatory for entry into housing societies.'
+tags = ['aarogyasetu', 'Surveillance', 'Privacy']
+title = 'RWA uncles, please calm down about Aarogya Setu #SaveOurPrivacy'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["AgriStack", "transparency"]
+author = 'Rohin Garg'
+categories = ['AgriStack', 'transparency', 'Agriculture']
 date = 2021-09-15T05:35:46Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/AgriStack-Twitter--1.jpeg"
-slug = "the-case-of-the-missing-consultation-response-missing-submissions-to-the-agristack-consultations"
-summary = "Responses to our RTIs indicate that submissions from some organisations on the Agristack consultation paper were not received. Together with the AIKS, we wrote to the Agristack Working Group and the DACFW, re-submitting our suggestions and asking why they were not received in the first place."
-tags = ["AgriStack", "transparency"]
-title = "The case of the missing consultation response: Missing submissions to the Agristack consultations"
+image = 'https://internetfreedom.in/content/images/2021/09/AgriStack-Twitter--1.jpeg'
+slug = 'the-case-of-the-missing-consultation-response-missing-submissions-to-the-agristack-consultations'
+summary = 'Responses to our RTIs indicate that submissions from some organisations on the Agristack consultation paper were not received. Together with the AIKS, we wrote to the Agristack Working Group and the DACFW, re-submitting our suggestions and asking why they were not received in the first place.'
+tags = ['AgriStack', 'transparency', 'Agriculture']
+title = 'The case of the missing consultation response: Missing submissions to the Agristack consultations'
 
 +++
 

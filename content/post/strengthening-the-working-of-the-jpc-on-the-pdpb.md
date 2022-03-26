@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Parliament", "Data Protection", "PDPB"]
+author = 'Rohin Garg'
+categories = ['Parliament', 'Data Protection', 'PDPB']
 date = 2020-11-25T06:03:59Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/PDP-graphic-1.png"
-slug = "strengthening-the-working-of-the-jpc-on-the-pdpb"
-summary = "The Joint Parliamentary Committee for Personal Data Protection Bill, 2019 is considering a revolutionary legislative proposal. To strengthen its process we request that the JPC work within its mandate and not consider extraneous issues, and that it consider more consultations with civil society."
-tags = ["Parliament", "Data Protection", "PDPB"]
-title = "Strengthening the Joint Parliamentary Committee process on the Personal Data Protection Bill, 2019"
+image = 'https://internetfreedom.in/content/images/2020/11/PDP-graphic-1.png'
+slug = 'strengthening-the-working-of-the-jpc-on-the-pdpb'
+summary = 'The Joint Parliamentary Committee for Personal Data Protection Bill, 2019 is considering a revolutionary legislative proposal. To strengthen its process we request that the JPC work within its mandate and not consider extraneous issues, and that it consider more consultations with civil society.'
+tags = ['Parliament', 'Data Protection', 'PDPB']
+title = 'Strengthening the Joint Parliamentary Committee process on the Personal Data Protection Bill, 2019'
 
 +++
 

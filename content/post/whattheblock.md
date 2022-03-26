@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality", "WebsiteBlocking"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality', 'WebsiteBlocking']
 date = 2019-10-03T05:54:22Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-23.PNG"
-slug = "whattheblock"
-summary = "We put ISPs on notice for illegal website blockings. "
-tags = ["Net Neutrality", "WebsiteBlocking"]
-title = "The dirty secret about website blocking in India... #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-23.PNG'
+slug = 'whattheblock'
+summary = 'We put ISPs on notice for illegal website blockings. '
+tags = ['Net Neutrality', 'WebsiteBlocking']
+title = 'The dirty secret about website blocking in India... #WhatTheBlock'
 
 +++
 

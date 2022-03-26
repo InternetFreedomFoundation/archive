@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "SaveOurPrivacy", "Statement"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'SaveOurPrivacy', 'Statement']
 date = 2019-08-24T06:10:34Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/08/Social_media.png"
-slug = "privacysupreme-two-years-of-the-right-to-privacy"
-summary = "24 August 2019 marks the second anniversary of the Indian Supreme Court’s landmark judgement in KS Puttaswamy v. Union of India. We celebrate and critically appraise this moment as we discuss our next steps in protecting the Right to Privacy."
-tags = ["Privacy", "SaveOurPrivacy", "Statement"]
-title = "#PrivacySupreme: Two years of the Right to Privacy."
+image = 'https://internetfreedom.in/content/images/2019/08/Social_media.png'
+slug = 'privacysupreme-two-years-of-the-right-to-privacy'
+summary = '24 August 2019 marks the second anniversary of the Indian Supreme Court’s landmark judgement in KS Puttaswamy v. Union of India. We celebrate and critically appraise this moment as we discuss our next steps in protecting the Right to Privacy.'
+tags = ['Privacy', 'SaveOurPrivacy', 'Statement']
+title = '#PrivacySupreme: Two years of the Right to Privacy.'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["Data Protection", "DataProtectionTop10", "PDPB"]
+author = 'Rohin Garg'
+categories = ['Data Protection', 'DataProtectionTop10', 'PDPB']
 date = 2021-05-25T09:19:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Copy-of-hair---makeup--1--1.png"
-slug = "dataprotectiontop10-state-security-and-surveillance"
-summary = "In Part 7 of the #DataProtectionTop 10 series, we discuss the provisions in the Bill which enable the State to engage in large scale surveillance. Blanket exemptions without a sound oversight and review mechanism raise concerns. Thus, we recommend that a chapter on surveillance reforms be inserted."
-tags = ["Data Protection", "DataProtectionTop10", "PDPB"]
+image = 'https://internetfreedom.in/content/images/2021/05/Copy-of-hair---makeup--1--1.png'
+slug = 'dataprotectiontop10-state-security-and-surveillance'
+summary = 'In Part 7 of the #DataProtectionTop 10 series, we discuss the provisions in the Bill which enable the State to engage in large scale surveillance. Blanket exemptions without a sound oversight and review mechanism raise concerns. Thus, we recommend that a chapter on surveillance reforms be inserted.'
+tags = ['Data Protection', 'DataProtectionTop10', 'PDPB']
 title = "#DataProtectionTop10: \nState Security and Surveillance"
 
 +++

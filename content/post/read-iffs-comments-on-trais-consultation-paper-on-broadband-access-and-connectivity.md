@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["accesstointernet", "TRAI"]
+author = 'Anushka Jain'
+categories = ['accesstointernet', 'TRAI']
 date = 2020-10-20T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "read-iffs-comments-on-trais-consultation-paper-on-broadband-access-and-connectivity"
-summary = "In our comments, we highlighted the need to revamp the policy and regulatory initiatives surrounding the broadband infrastructure in the country to ensure that every citizen has access to the internet irrespective of their geographical location or social and economic status. "
-tags = ["accesstointernet", "TRAI"]
+slug = 'read-iffs-comments-on-trais-consultation-paper-on-broadband-access-and-connectivity'
+summary = 'In our comments, we highlighted the need to revamp the policy and regulatory initiatives surrounding the broadband infrastructure in the country to ensure that every citizen has access to the internet irrespective of their geographical location or social and economic status. '
+tags = ['accesstointernet', 'TRAI']
 title = "Read IFF's Comments on TRAI's Consultation Paper on Broadband Access and Connectivity"
 
 +++

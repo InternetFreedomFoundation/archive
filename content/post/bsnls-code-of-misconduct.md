@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality']
 date = 2019-09-11T03:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-5.PNG"
-slug = "bsnls-code-of-misconduct"
-summary = "We write to the DOT with the help of reports by our communitry members on the need for investigative action on persisting practice of code injections by BSNL. "
-tags = ["Net Neutrality"]
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-5.PNG'
+slug = 'bsnls-code-of-misconduct'
+summary = 'We write to the DOT with the help of reports by our communitry members on the need for investigative action on persisting practice of code injections by BSNL. '
+tags = ['Net Neutrality']
 title = "BSNL's CODE of Misconduct. We write to the DOT on the need for immediate action."
 
 +++

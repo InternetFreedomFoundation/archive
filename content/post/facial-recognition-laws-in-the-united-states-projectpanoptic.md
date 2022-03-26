@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["facial recognition", "Project Panoptic"]
+author = 'Anushka Jain'
+categories = ['facial recognition', 'Project Panoptic']
 date = 2021-05-03T06:31:06Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/FACIAL-RECOGNITION--AROUNDTHEWORLD-1.png"
-slug = "facial-recognition-laws-in-the-united-states-projectpanoptic"
-summary = "In the first part of our new series on FRT regulation around the world, we will take a look at what are the existing laws regulating FRT in the United States, how they developed and where regulation is headed."
-tags = ["facial recognition", "Project Panoptic"]
-title = "Facial Recognition Laws in the United States #ProjectPanoptic"
+image = 'https://internetfreedom.in/content/images/2021/05/FACIAL-RECOGNITION--AROUNDTHEWORLD-1.png'
+slug = 'facial-recognition-laws-in-the-united-states-projectpanoptic'
+summary = 'In the first part of our new series on FRT regulation around the world, we will take a look at what are the existing laws regulating FRT in the United States, how they developed and where regulation is headed.'
+tags = ['facial recognition', 'Project Panoptic']
+title = 'Facial Recognition Laws in the United States #ProjectPanoptic'
 
 +++
 

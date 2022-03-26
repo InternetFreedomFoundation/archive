@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2018-01-31T11:36:00Z
-description = ""
+description = ''
 draft = false
-slug = "iff-urges-justice-srikrishna-to-uphold-privacy"
-title = "IFF urges Justice Srikrishna to Save Our Privacy"
+slug = 'iff-urges-justice-srikrishna-to-uphold-privacy'
+title = 'IFF urges Justice Srikrishna to Save Our Privacy'
 
 +++
 

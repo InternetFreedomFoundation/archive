@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Censorship"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Censorship', 'Sex Workers']
 date = 2019-07-25T06:31:55Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/Capture-10.PNG"
-slug = "why-is-porn-being-blocked-in-india-whattheblock"
-summary = "RTI response from MeitY reveals that blocking of porn in India is a result of three court orders and ISPs have not been directed to pro-actively block porn websites."
-tags = ["Censorship"]
-title = "Why is porn being blocked in India? #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2019/07/Capture-10.PNG'
+slug = 'why-is-porn-being-blocked-in-india-whattheblock'
+summary = 'RTI response from MeitY reveals that blocking of porn in India is a result of three court orders and ISPs have not been directed to pro-actively block porn websites.'
+tags = ['Censorship', 'Sex Workers']
+title = 'Why is porn being blocked in India? #WhatTheBlock'
 
 +++
 

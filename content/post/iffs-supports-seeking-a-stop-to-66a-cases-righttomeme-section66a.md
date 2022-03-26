@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["66A", "RightToMeme", "Section66A", "DigitalJustice"]
+author = 'Apar Gupta'
+categories = ['66A', 'RightToMeme', 'Section66A', 'DigitalJustice']
 date = 2019-01-07T06:55:39Z
-description = ""
+description = ''
 draft = false
-slug = "iffs-supports-seeking-a-stop-to-66a-cases-righttomeme-section66a"
-summary = "Supreme Court issues notice to check any 66A Cases #RightToMeme #Section66A "
-tags = ["66A", "RightToMeme", "Section66A", "DigitalJustice"]
-title = "Supreme Court issues notice to check any 66A Cases #RightToMeme #Section66A"
+slug = 'iffs-supports-seeking-a-stop-to-66a-cases-righttomeme-section66a'
+summary = 'Supreme Court issues notice to check any 66A Cases #RightToMeme #Section66A '
+tags = ['66A', 'RightToMeme', 'Section66A', 'DigitalJustice']
+title = 'Supreme Court issues notice to check any 66A Cases #RightToMeme #Section66A'
 
 +++
 

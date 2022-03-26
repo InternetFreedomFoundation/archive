@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["savetheinternet", "Net Neutrality"]
+author = 'Joanne DCunha'
+categories = ['savetheinternet', 'Net Neutrality']
 date = 2019-03-26T13:26:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/dshkbkad.PNG"
-slug = "what-a-week-updates-from-savetheinternet-on-website-blocking"
-summary = "As overwhelming support comes in for Net Neutrality enforcements, worrying reports for website blockings emerge. Read the data."
-tags = ["savetheinternet", "Net Neutrality"]
-title = "What a Week! Updates from #SaveTheInternet on Website Blocking"
+image = 'https://internetfreedom.in/content/images/2019/04/dshkbkad.PNG'
+slug = 'what-a-week-updates-from-savetheinternet-on-website-blocking'
+summary = 'As overwhelming support comes in for Net Neutrality enforcements, worrying reports for website blockings emerge. Read the data.'
+tags = ['savetheinternet', 'Net Neutrality']
+title = 'What a Week! Updates from #SaveTheInternet on Website Blocking'
 
 +++
 

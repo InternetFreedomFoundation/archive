@@ -1,11 +1,11 @@
 +++
-author = "Anushka Jain"
+author = 'Anushka Jain'
 date = 2021-03-25T05:48:32Z
-description = ""
+description = ''
 draft = false
-slug = "why-is-the-up-police-not-taking-down-child-porn"
-summary = " The UP Police Women Power Line has recently launched the ‘Hamari Suraksha’ Programme. After looking at the few details of the programme available in the public and information gathered from news sources, we wrote to the UP Police highlighting our concerns. "
-title = "Why is the UP Police not taking down child porn? Also, a privacy fail."
+slug = 'why-is-the-up-police-not-taking-down-child-porn'
+summary = ' The UP Police Women Power Line has recently launched the ‘Hamari Suraksha’ Programme. After looking at the few details of the programme available in the public and information gathered from news sources, we wrote to the UP Police highlighting our concerns. '
+title = 'Why is the UP Police not taking down child porn? Also, a privacy fail.'
 
 +++
 

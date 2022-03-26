@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Parliament"]
+author = 'Joanne DCunha'
+categories = ['Parliament']
 date = 2019-10-24T05:29:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Capture1-5.PNG"
-slug = "meity-briefs"
-summary = "The Standing Committee of IT is holding a meeting on October 25, 2019 where it will be briefed by MEITY on safeguarding citzens online. We flag a few concerns that need addressing."
-tags = ["Parliament"]
-title = "MEITY to brief the Standing Committee on IT, we have a few topics they can talk about."
+image = 'https://internetfreedom.in/content/images/2019/10/Capture1-5.PNG'
+slug = 'meity-briefs'
+summary = 'The Standing Committee of IT is holding a meeting on October 25, 2019 where it will be briefed by MEITY on safeguarding citzens online. We flag a few concerns that need addressing.'
+tags = ['Parliament']
+title = 'MEITY to brief the Standing Committee on IT, we have a few topics they can talk about.'
 
 +++
 

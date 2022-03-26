@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Health Data"]
+author = 'Rohin Garg'
+categories = ['Health Data']
 date = 2021-07-15T08:11:03Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/NDHM-2-Twitter-1.png"
-slug = "analysing-the-ndhms-health-data-management-policy-part-2"
+image = 'https://internetfreedom.in/content/images/2021/07/NDHM-2-Twitter-1.png'
+slug = 'analysing-the-ndhms-health-data-management-policy-part-2'
 summary = "Along with the Centre for Health Equity, Law, and Policy, we have drafted a working paper analysing the NDHM's Health Data Management Policy. Here, we look at issues of consent and confidentiality, data privacy and security, exclusion, and private sector access to health data."
-tags = ["Health Data"]
-title = "Analysing the NDHM’s Health Data Management Policy: Part 2"
+tags = ['Health Data']
+title = 'Analysing the NDHM’s Health Data Management Policy: Part 2'
 
 +++
 

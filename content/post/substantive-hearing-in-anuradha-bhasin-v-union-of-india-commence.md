@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Legal", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Legal', 'Supreme Court']
 date = 2019-11-05T13:36:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/What-should-the-government-do-if-it-fears--22misuse-of-data-services-by-anti-national-elements-22--Hint_-The-right-answer-has-nothing-to-do-with-shutting-down-landlines--2.png"
-slug = "substantive-hearing-in-anuradha-bhasin-v-union-of-india-commence"
-summary = "In today’s hearing, Ms. Vrinda Grover used the govt’s statistics to prove there is no relation between the internet and rise in terrorism and argued there was no application of mind by the govt."
-tags = ["internet shutdowns", "Legal", "Supreme Court"]
-title = "Substantive hearing in Anuradha Bhasin v. Union of India commences"
+image = 'https://internetfreedom.in/content/images/2019/11/What-should-the-government-do-if-it-fears--22misuse-of-data-services-by-anti-national-elements-22--Hint_-The-right-answer-has-nothing-to-do-with-shutting-down-landlines--2.png'
+slug = 'substantive-hearing-in-anuradha-bhasin-v-union-of-india-commence'
+summary = 'In today’s hearing, Ms. Vrinda Grover used the govt’s statistics to prove there is no relation between the internet and rise in terrorism and argued there was no application of mind by the govt.'
+tags = ['internet shutdowns', 'Legal', 'Supreme Court']
+title = 'Substantive hearing in Anuradha Bhasin v. Union of India commences'
 
 +++
 

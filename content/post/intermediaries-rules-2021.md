@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["ITRules"]
+author = 'Krishnesh'
+categories = ['ITRules']
 date = 2021-02-27T04:57:05Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/1-1.png"
-slug = "intermediaries-rules-2021"
-summary = "An overview of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, the “safeguards” it seeks to establish, how they affect your internet usage experience, and your fundamental rights."
-tags = ["ITRules"]
-title = "Deep dive : How the intermediaries rules are anti-democratic and unconstitutional."
+image = 'https://internetfreedom.in/content/images/2021/02/1-1.png'
+slug = 'intermediaries-rules-2021'
+summary = 'An overview of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, the “safeguards” it seeks to establish, how they affect your internet usage experience, and your fundamental rights.'
+tags = ['ITRules']
+title = 'Deep dive : How the intermediaries rules are anti-democratic and unconstitutional.'
 
 +++
 

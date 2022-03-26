@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Censorship", "DigitalJustice", "facebook", "ITRules", "intermediary", "RTI", "Twitter", "WebsiteBlocking", "instagram"]
+author = 'Yashaswini'
+categories = ['Censorship', 'DigitalJustice', 'facebook', 'ITRules', 'intermediary', 'RTI', 'Twitter', 'WebsiteBlocking', 'instagram']
 date = 2021-07-12T12:27:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Account-blocked-header-1.png"
-slug = "was-your-handle-blocked-without-warning-heres-what-you-can-do"
-summary = "Incidents of arbitrary censorship of online speech have significantly risen  in the recent past. We are frequently asked what can be done if one’s account is blocked. We have prepared a step by step explainer to navigate situations of arbitrary account blockings."
-tags = ["Censorship", "DigitalJustice", "facebook", "ITRules", "intermediary", "RTI", "Twitter", "WebsiteBlocking", "instagram"]
-title = "Was your handle blocked without warning? Here’s what you can do."
+image = 'https://internetfreedom.in/content/images/2021/07/Account-blocked-header-1.png'
+slug = 'was-your-handle-blocked-without-warning-heres-what-you-can-do'
+summary = 'Incidents of arbitrary censorship of online speech have significantly risen  in the recent past. We are frequently asked what can be done if one’s account is blocked. We have prepared a step by step explainer to navigate situations of arbitrary account blockings.'
+tags = ['Censorship', 'DigitalJustice', 'facebook', 'ITRules', 'intermediary', 'RTI', 'Twitter', 'WebsiteBlocking', 'instagram']
+title = 'Was your handle blocked without warning? Here’s what you can do.'
 
 +++
 

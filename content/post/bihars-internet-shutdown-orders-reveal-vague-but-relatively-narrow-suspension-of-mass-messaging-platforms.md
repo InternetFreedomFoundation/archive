@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "RTI"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'RTI']
 date = 2019-11-01T06:01:12Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/What-s-as-rare-a-sighting-as-a-unicorn--An-actual-internet-shutdown-order--1.png"
-slug = "bihars-internet-shutdown-orders-reveal-vague-but-relatively-narrow-suspension-of-mass-messaging-platforms"
-summary = "Internet shutdown orders issued by the Bihar Government reveal blocking of specific mass messaging platforms such as Facebook, Twitter, WhatsApp etc. rather than suspension of internet services in their entirety."
-tags = ["internet shutdowns", "RTI"]
-title = "Bihar’s internet shutdown orders reveal vague but relatively narrow suspension of mass messaging platforms"
+image = 'https://internetfreedom.in/content/images/2019/11/What-s-as-rare-a-sighting-as-a-unicorn--An-actual-internet-shutdown-order--1.png'
+slug = 'bihars-internet-shutdown-orders-reveal-vague-but-relatively-narrow-suspension-of-mass-messaging-platforms'
+summary = 'Internet shutdown orders issued by the Bihar Government reveal blocking of specific mass messaging platforms such as Facebook, Twitter, WhatsApp etc. rather than suspension of internet services in their entirety.'
+tags = ['internet shutdowns', 'RTI']
+title = 'Bihar’s internet shutdown orders reveal vague but relatively narrow suspension of mass messaging platforms'
 
 +++
 

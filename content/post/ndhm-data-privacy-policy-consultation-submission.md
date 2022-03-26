@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Health Data", "Data Protection", "SaveOurPrivacy", "Consultations"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Health Data', 'Data Protection', 'SaveOurPrivacy', 'Consultations', 'Sex Workers']
 date = 2020-09-23T06:30:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/09/NDHM-Data-Policy-3-1.png"
-slug = "ndhm-data-privacy-policy-consultation-submission"
-summary = "We wrote to the National Health Authority seeking enactment of general and sectoral data protection laws and meaningful public consultation prior to deployment of any national digital health ID programme. "
-tags = ["Health Data", "Data Protection", "SaveOurPrivacy", "Consultations"]
-title = "Move fast, break things? Not when sensitive health data is at stake! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/09/NDHM-Data-Policy-3-1.png'
+slug = 'ndhm-data-privacy-policy-consultation-submission'
+summary = 'We wrote to the National Health Authority seeking enactment of general and sectoral data protection laws and meaningful public consultation prior to deployment of any national digital health ID programme. '
+tags = ['Health Data', 'Data Protection', 'SaveOurPrivacy', 'Consultations', 'Sex Workers']
+title = 'Move fast, break things? Not when sensitive health data is at stake! #SaveOurPrivacy'
 
 +++
 

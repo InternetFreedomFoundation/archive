@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["AgriStack", "big tech", "Policy"]
+author = 'Rohin Garg'
+categories = ['AgriStack', 'big tech', 'Policy', 'Agriculture']
 date = 2021-06-29T13:31:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Agristack-MoU-Twitter-1.png"
-slug = "mous-for-nothing-and-data-for-free-4-new-mous-signed-between-the-ministry-of-agriculture-and-private-companies-including-amazon-and-patanjali"
-summary = "The Ministry of Agriculture and Farmers’ Welfare has recently signed 4 more MoUs regarding the Agristack with Patanjali Organic Research Institute, ESRI India Technologies, Amazon Web Services, and Star Agribazaar. Here, we analyse these MoUs, and explain what they mean for Indian agriculture."
-tags = ["AgriStack", "big tech", "Policy"]
-title = "MoUs for Nothing and Data for Free: 4 new MoUs signed between the Ministry of Agriculture and private companies, including Amazon and Patanjali"
+image = 'https://internetfreedom.in/content/images/2021/06/Agristack-MoU-Twitter-1.png'
+slug = 'mous-for-nothing-and-data-for-free-4-new-mous-signed-between-the-ministry-of-agriculture-and-private-companies-including-amazon-and-patanjali'
+summary = 'The Ministry of Agriculture and Farmers’ Welfare has recently signed 4 more MoUs regarding the Agristack with Patanjali Organic Research Institute, ESRI India Technologies, Amazon Web Services, and Star Agribazaar. Here, we analyse these MoUs, and explain what they mean for Indian agriculture.'
+tags = ['AgriStack', 'big tech', 'Policy', 'Agriculture']
+title = 'MoUs for Nothing and Data for Free: 4 new MoUs signed between the Ministry of Agriculture and private companies, including Amazon and Patanjali'
 
 +++
 

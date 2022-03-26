@@ -1,14 +1,14 @@
 +++
-author = "Raghav Kaushal"
-categories = ["Parliament"]
+author = 'Raghav Kaushal'
+categories = ['Parliament']
 date = 2020-08-13T08:55:22Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Blog-Post--Parliament-Monsoon-Session---1--1.png"
-slug = "the-pandemic-session-of-parliament-is-vital-for-our-digital-rights-a-call-to-our-lawmakers"
-summary = "As the much awaited Monsoon Session of the Parliament draws near, we put out a list of urgent issues in the digital, and privacy rights domain that need foolproof, and swift redressal."
-tags = ["Parliament"]
-title = "The pandemic session of parliament is vital for our digital rights. A call to our lawmakers!"
+image = 'https://internetfreedom.in/content/images/2020/08/Blog-Post--Parliament-Monsoon-Session---1--1.png'
+slug = 'the-pandemic-session-of-parliament-is-vital-for-our-digital-rights-a-call-to-our-lawmakers'
+summary = 'As the much awaited Monsoon Session of the Parliament draws near, we put out a list of urgent issues in the digital, and privacy rights domain that need foolproof, and swift redressal.'
+tags = ['Parliament']
+title = 'The pandemic session of parliament is vital for our digital rights. A call to our lawmakers!'
 
 +++
 

@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["facial recognition", "Project Panoptic"]
+author = 'Anushka Jain'
+categories = ['facial recognition', 'Project Panoptic']
 date = 2020-07-21T10:28:19Z
-description = ""
+description = ''
 draft = false
-slug = "update-on-iffs-projectpanoptic"
-summary = "IFF’s Project Panoptic aims to bring transparency and accountability to the relevant government stakeholders involved in the deployment and implementation of facial recognition technology (FRT) projects in India. "
-tags = ["facial recognition", "Project Panoptic"]
+slug = 'update-on-iffs-projectpanoptic'
+summary = 'IFF’s Project Panoptic aims to bring transparency and accountability to the relevant government stakeholders involved in the deployment and implementation of facial recognition technology (FRT) projects in India. '
+tags = ['facial recognition', 'Project Panoptic']
 title = "Update on IFF's #ProjectPanoptic"
 
 +++

@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "Supreme Court", "Legal", "internet shutdowns"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'Supreme Court', 'Legal', 'internet shutdowns']
 date = 2019-09-16T08:57:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-10.PNG"
-slug = "foundation-for-media-professionals-approaches-supreme-court-to-support-journalistic-freedom-in-kashmir"
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-10.PNG'
+slug = 'foundation-for-media-professionals-approaches-supreme-court-to-support-journalistic-freedom-in-kashmir'
 summary = "In today's hearing, the SC wondered if the 40 day long suspension of telecom and internet services in Kashmir was a shutdown or breakdown. It finally directed the Govt. to file its response to the writ petition and intervention applications and urged selective restoration of communication channels."
-tags = ["Filings", "Supreme Court", "Legal", "internet shutdowns"]
+tags = ['Filings', 'Supreme Court', 'Legal', 'internet shutdowns']
 title = "Foundation for Media Professionals approaches Supreme Court \nto support journalistic freedom in Kashmir"
 
 +++

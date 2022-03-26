@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2016-07-05T08:37:00Z
-description = ""
+description = ''
 draft = false
-slug = "iff-on-the-pre-consultation-paper-on-net-neutrality"
-title = "IFF Submission to the TRAI on the Net Neutrality Pre-consultation"
+slug = 'iff-on-the-pre-consultation-paper-on-net-neutrality'
+title = 'IFF Submission to the TRAI on the Net Neutrality Pre-consultation'
 
 +++
 

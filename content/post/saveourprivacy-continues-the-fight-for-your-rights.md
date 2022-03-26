@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["SaveOurPrivacy"]
+author = 'Joanne DCunha'
+categories = ['SaveOurPrivacy']
 date = 2019-06-24T06:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/06/save-our-privacy-meta-1.png"
-slug = "saveourprivacy-continues-the-fight-for-your-rights"
-summary = "This budget session of parliament is super important to your privacy. Read on to understand how #SaveOurPrivacy is fighting hard to advance your rights!"
-tags = ["SaveOurPrivacy"]
+image = 'https://internetfreedom.in/content/images/2019/06/save-our-privacy-meta-1.png'
+slug = 'saveourprivacy-continues-the-fight-for-your-rights'
+summary = 'This budget session of parliament is super important to your privacy. Read on to understand how #SaveOurPrivacy is fighting hard to advance your rights!'
+tags = ['SaveOurPrivacy']
 title = "And we can't stop, and we won't stop #SaveOurPrivacy continues..."
 
 +++

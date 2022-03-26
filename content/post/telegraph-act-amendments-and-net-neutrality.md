@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Net Neutrality", "WebsiteBlocking", "savetheinternet"]
+author = 'Rohin Garg'
+categories = ['Net Neutrality', 'WebsiteBlocking', 'savetheinternet']
 date = 2021-05-17T13:44:37Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/internet-freedom-foundation-1.png"
-slug = "telegraph-act-amendments-and-net-neutrality"
-summary = "Recent news report have said that the Telegraph Act, 1885 will be updated to include net enutrality considerations. In light of this, we have written to the DoT highlighting key issues that still persist and providing our recommendations for addressing these issues."
-tags = ["Net Neutrality", "WebsiteBlocking", "savetheinternet"]
-title = "Telegraph Act amendments must protect net neutrality #Savetheinternet"
+image = 'https://internetfreedom.in/content/images/2021/05/internet-freedom-foundation-1.png'
+slug = 'telegraph-act-amendments-and-net-neutrality'
+summary = 'Recent news report have said that the Telegraph Act, 1885 will be updated to include net enutrality considerations. In light of this, we have written to the DoT highlighting key issues that still persist and providing our recommendations for addressing these issues.'
+tags = ['Net Neutrality', 'WebsiteBlocking', 'savetheinternet']
+title = 'Telegraph Act amendments must protect net neutrality #Savetheinternet'
 
 +++
 

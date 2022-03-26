@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-09-28T05:18:13Z
-description = ""
+description = ''
 draft = false
-slug = "submission-to-law-commission-to-scrap-sedition-righttomeme"
-title = "Submission to Law Commission to Scrap Sedition #RightToMeme"
+slug = 'submission-to-law-commission-to-scrap-sedition-righttomeme'
+title = 'Submission to Law Commission to Scrap Sedition #RightToMeme'
 
 +++
 

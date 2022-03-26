@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality", "savetheinternet", "campaign", "Free", "Official Announcement"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality', 'savetheinternet', 'campaign', 'Free', 'Official Announcement']
 date = 2019-03-18T09:20:40Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/WhatsApp-Image-2019-03-18-at-1.45.43-PM.jpeg"
-slug = "savetheinternet-in-is-live"
+image = 'https://internetfreedom.in/content/images/2019/03/WhatsApp-Image-2019-03-18-at-1.45.43-PM.jpeg'
+slug = 'savetheinternet-in-is-live'
 summary = "SaveTheInternet.in is live.\nWith the rampant website blockings being conducted by ISP’s, IFF has taken the step to  activate the SaveTheInternet.in website. It includes a reporting tool and petition to take this movement forward."
-tags = ["Net Neutrality", "savetheinternet", "campaign", "Free", "Official Announcement"]
-title = "SaveTheInternet.in is live."
+tags = ['Net Neutrality', 'savetheinternet', 'campaign', 'Free', 'Official Announcement']
+title = 'SaveTheInternet.in is live.'
 
 +++
 

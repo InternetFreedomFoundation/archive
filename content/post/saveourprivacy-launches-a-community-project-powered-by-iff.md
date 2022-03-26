@@ -1,11 +1,11 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-06-08T06:38:33Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/06/Screen-Shot-2018-06-08-at-12.05.12-PM.png"
-slug = "saveourprivacy-launches-a-community-project-powered-by-iff"
-title = "#SaveOurPrivacy a community project powered by IFF"
+image = 'https://internetfreedom.in/content/images/2018/06/Screen-Shot-2018-06-08-at-12.05.12-PM.png'
+slug = 'saveourprivacy-launches-a-community-project-powered-by-iff'
+title = '#SaveOurPrivacy a community project powered by IFF'
 
 +++
 

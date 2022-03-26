@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Data Protection", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Data Protection', 'Privacy']
 date = 2020-11-18T05:04:56Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/Aarogya-Setu---Liqour-store-workers-1.png"
-slug = "mandatory-imposition-of-aarogya-setu-by-delhi-govt"
-summary = "We wrote to the Delhi Government and its Excise Department urging against mandatory imposition of the Aarogya Setu app. Our alarm bells were rung by a circular issued by the Excise Department which directed licensed wholesale liquor vendors to ensure mandatory use of Aarogya Setu by every worker. "
-tags = ["aarogyasetu", "Data Protection", "Privacy"]
-title = "Mandatory imposition of Aarogya Setu by Delhi Govt is illegal and ineffective #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/11/Aarogya-Setu---Liqour-store-workers-1.png'
+slug = 'mandatory-imposition-of-aarogya-setu-by-delhi-govt'
+summary = 'We wrote to the Delhi Government and its Excise Department urging against mandatory imposition of the Aarogya Setu app. Our alarm bells were rung by a circular issued by the Excise Department which directed licensed wholesale liquor vendors to ensure mandatory use of Aarogya Setu by every worker. '
+tags = ['aarogyasetu', 'Data Protection', 'Privacy']
+title = 'Mandatory imposition of Aarogya Setu by Delhi Govt is illegal and ineffective #SaveOurPrivacy'
 
 +++
 

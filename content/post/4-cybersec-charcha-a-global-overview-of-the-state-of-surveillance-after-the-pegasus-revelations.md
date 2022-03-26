@@ -1,14 +1,14 @@
 +++
-author = "Shivani Singh"
-categories = ["cybersec charcha", "spyware", "pegasus", "Data Protection", "data security", "cybersecurity"]
+author = 'Shivani Singh'
+categories = ['cybersec charcha', 'spyware', 'pegasus', 'Data Protection', 'data security', 'cybersecurity']
 date = 2021-08-05T12:22:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Cybersec-July-header-1.png"
-slug = "4-cybersec-charcha-a-global-overview-of-the-state-of-surveillance-after-the-pegasus-revelations"
-summary = "Your monthly round-up of all things cybersecurity! This edition of Cybersec Charcha focuses on spyware, the Pegasus Project reports and the booming surveillance industry."
-tags = ["cybersec charcha", "spyware", "pegasus", "Data Protection", "data security", "cybersecurity"]
-title = "#4 Cybersec Charcha: A Global overview of the state of surveillance after the pegasus revelations"
+image = 'https://internetfreedom.in/content/images/2021/08/Cybersec-July-header-1.png'
+slug = '4-cybersec-charcha-a-global-overview-of-the-state-of-surveillance-after-the-pegasus-revelations'
+summary = 'Your monthly round-up of all things cybersecurity! This edition of Cybersec Charcha focuses on spyware, the Pegasus Project reports and the booming surveillance industry.'
+tags = ['cybersec charcha', 'spyware', 'pegasus', 'Data Protection', 'data security', 'cybersecurity']
+title = '#4 Cybersec Charcha: A Global overview of the state of surveillance after the pegasus revelations'
 
 +++
 
@@ -76,9 +76,13 @@ A recent report that looks into the [Cost of a Data Breach in 2021 by IBM Securi
 
 Luxembourg’s National Commission for Data Protection has fined the tech giant £636m, claiming their processing of personal data did not comply with EU laws. Amazon claims that their decision is “without merit” and they plan to “defend ourselves vigorously”. The fine comes in the aftermath of increasing regulatory scrutiny of tech giants due to concerns over privacy and misinformation. You can read more about the entire fiasco [here](https://www.bbc.com/news/business-58024116).
 
+<iframe src="https://drive.google.com/file/d/1MywV_WCzJkckz3Ugpo9o77-r53DkLf72/preview" width="580" height="480"></iframe>
+
 IFF is reliant to your support to do our work effectively. If you like the work we do, please consider becoming a member or making a one-time donation!
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

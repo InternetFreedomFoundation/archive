@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2017-05-25T06:32:00Z
-description = ""
+description = ''
 draft = false
-slug = "updates-on-the-whatsapp-case-2"
-title = "Updates on the Whatsapp Case"
+slug = 'updates-on-the-whatsapp-case-2'
+title = 'Updates on the Whatsapp Case'
 
 +++
 

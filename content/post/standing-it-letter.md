@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-04-18T13:34:24Z
-description = ""
+description = ''
 draft = false
-slug = "standing-it-letter"
-title = "Standing Committee on IT must act to Save Our Privacy"
+slug = 'standing-it-letter'
+title = 'Standing Committee on IT must act to Save Our Privacy'
 
 +++
 

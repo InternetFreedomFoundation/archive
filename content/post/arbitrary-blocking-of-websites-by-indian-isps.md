@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Net Neutrality", "accesstointernet", "TRAI"]
+author = 'Rohin Garg'
+categories = ['Net Neutrality', 'accesstointernet', 'TRAI']
 date = 2020-12-21T10:30:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/railwire-3.png"
-slug = "arbitrary-blocking-of-websites-by-indian-isps"
-summary = "Railwire seems to be arbitrarily blocking access to  Reddit and DuckDuckGo. After Railwire subscribers sent us repeated reports on SaveTheInternet.in and also tagged us on social media we wrote to them today asking them to remove these blocks and follow the license conditions for ISPs. "
-tags = ["Net Neutrality", "accesstointernet", "TRAI"]
-title = "Arbitrary blocking of websites by Indian ISPs continues unabated #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2020/12/railwire-3.png'
+slug = 'arbitrary-blocking-of-websites-by-indian-isps'
+summary = 'Railwire seems to be arbitrarily blocking access to  Reddit and DuckDuckGo. After Railwire subscribers sent us repeated reports on SaveTheInternet.in and also tagged us on social media we wrote to them today asking them to remove these blocks and follow the license conditions for ISPs. '
+tags = ['Net Neutrality', 'accesstointernet', 'TRAI']
+title = 'Arbitrary blocking of websites by Indian ISPs continues unabated #WhatTheBlock'
 
 +++
 

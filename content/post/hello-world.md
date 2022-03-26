@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2016-08-15T08:08:00Z
-description = ""
+description = ''
 draft = false
-slug = "hello-world"
-title = "Hello world - and happy Independence Day!"
+slug = 'hello-world'
+title = 'Hello world - and happy Independence Day!'
 
 +++
 

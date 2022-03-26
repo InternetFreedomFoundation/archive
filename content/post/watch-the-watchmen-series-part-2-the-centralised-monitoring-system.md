@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "Surveillance", "WatchtheWatchmen"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'Surveillance', 'WatchtheWatchmen']
 date = 2020-09-14T03:59:44Z
-description = ""
+description = ''
 draft = false
-slug = "watch-the-watchmen-series-part-2-the-centralised-monitoring-system"
-summary = "In the second part of our Watch the Watchmen series, we take a look at the Centralised Monitoring System (CMS) which aims to automate the process of lawful interception & monitoring of telecommunications."
-tags = ["Data Protection", "Surveillance", "WatchtheWatchmen"]
-title = "Watch the Watchmen Series Part 2 : The Centralised Monitoring System"
+slug = 'watch-the-watchmen-series-part-2-the-centralised-monitoring-system'
+summary = 'In the second part of our Watch the Watchmen series, we take a look at the Centralised Monitoring System (CMS) which aims to automate the process of lawful interception & monitoring of telecommunications.'
+tags = ['Data Protection', 'Surveillance', 'WatchtheWatchmen']
+title = 'Watch the Watchmen Series Part 2 : The Centralised Monitoring System'
 
 +++
 

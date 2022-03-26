@@ -1,13 +1,13 @@
 +++
-author = "Yashaswini"
-categories = ["Legislative Brief", "Parliament", "digital Rights"]
+author = 'Yashaswini'
+categories = ['Legislative Brief', 'Parliament', 'digital Rights']
 date = 2021-07-24T07:52:56Z
-description = ""
+description = ''
 draft = false
-slug = "iff-releases-legislative-brief-on-digital-rights-for-the-monsoon-session-of-the-parliament"
-summary = "As the Monsoon Session of the Parliament commences, we have prepared our first legislative brief on digital rights to highlight some of the focus areas within the larger issues of data protection and digital rights that call for the extensive deliberation in the houses of the Parliament. "
-tags = ["Legislative Brief", "Parliament", "digital Rights"]
-title = "IFF Releases Legislative Brief on Digital Rights for the Monsoon Session of the Parliament"
+slug = 'iff-releases-legislative-brief-on-digital-rights-for-the-monsoon-session-of-the-parliament'
+summary = 'As the Monsoon Session of the Parliament commences, we have prepared our first legislative brief on digital rights to highlight some of the focus areas within the larger issues of data protection and digital rights that call for the extensive deliberation in the houses of the Parliament. '
+tags = ['Legislative Brief', 'Parliament', 'digital Rights']
+title = 'IFF Releases Legislative Brief on Digital Rights for the Monsoon Session of the Parliament'
 
 +++
 

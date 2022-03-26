@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Censorship"]
+author = 'Apar Gupta'
+categories = ['Censorship']
 date = 2019-01-17T05:23:20Z
-description = ""
+description = ''
 draft = false
-slug = "we-urge-a-rethink-on-the-proposed-self-censorship-for-video-streaming-platforms"
-summary = "A new proposal for self-censorship for online streaming platforms is being privately considered for endorsement by the Government. It is likely to lead to greater censorship and throttle creativity and freedom of speech. "
-tags = ["Censorship"]
-title = "We urge for a rethink on the proposed self-censorship norms for video streaming platforms"
+slug = 'we-urge-a-rethink-on-the-proposed-self-censorship-for-video-streaming-platforms'
+summary = 'A new proposal for self-censorship for online streaming platforms is being privately considered for endorsement by the Government. It is likely to lead to greater censorship and throttle creativity and freedom of speech. '
+tags = ['Censorship']
+title = 'We urge for a rethink on the proposed self-censorship norms for video streaming platforms'
 
 +++
 

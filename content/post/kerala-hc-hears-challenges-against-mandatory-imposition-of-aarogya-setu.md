@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Data Protection", "Privacy", "Legal", "Kerala High Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Data Protection', 'Privacy', 'Legal', 'Kerala High Court']
 date = 2020-05-12T12:49:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/Kerala-HC-Aarogya-Setu.png"
-slug = "kerala-hc-hears-challenges-against-mandatory-imposition-of-aarogya-setu"
-summary = "The Kerala High Court has directed MeitY to file a response to petitions challenging mandatory imposition of Aarogya Setu and to state on record that data collected by the app will not be misused. "
-tags = ["aarogyasetu", "Data Protection", "Privacy", "Legal", "Kerala High Court"]
-title = "Kerala High Court hears challenges against mandatory imposition of Aarogya Setu"
+image = 'https://internetfreedom.in/content/images/2020/05/Kerala-HC-Aarogya-Setu.png'
+slug = 'kerala-hc-hears-challenges-against-mandatory-imposition-of-aarogya-setu'
+summary = 'The Kerala High Court has directed MeitY to file a response to petitions challenging mandatory imposition of Aarogya Setu and to state on record that data collected by the app will not be misused. '
+tags = ['aarogyasetu', 'Data Protection', 'Privacy', 'Legal', 'Kerala High Court']
+title = 'Kerala High Court hears challenges against mandatory imposition of Aarogya Setu'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["DOT", "PDPB", "Policy", "Privacy", "Telecom", "TRAI"]
+author = 'Rohin Garg'
+categories = ['DOT', 'PDPB', 'Policy', 'Privacy', 'Telecom', 'TRAI']
 date = 2020-12-18T06:47:42Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/1-1.png"
-slug = "privacy-policies-of-telecom-service-providers-or-why-you-shouldnt-just-click-accept"
-summary = "We analysed the privacy of policies of the 4 large telecom service providers to check not only whether they were Puttaswamy-compliant, but also whether they would need updating in the face of the  Personal Data Protection Bill, 2019. We found certain alarming issues in these policies."
-tags = ["DOT", "PDPB", "Policy", "Privacy", "Telecom", "TRAI"]
+image = 'https://internetfreedom.in/content/images/2020/12/1-1.png'
+slug = 'privacy-policies-of-telecom-service-providers-or-why-you-shouldnt-just-click-accept'
+summary = 'We analysed the privacy of policies of the 4 large telecom service providers to check not only whether they were Puttaswamy-compliant, but also whether they would need updating in the face of the  Personal Data Protection Bill, 2019. We found certain alarming issues in these policies.'
+tags = ['DOT', 'PDPB', 'Policy', 'Privacy', 'Telecom', 'TRAI']
 title = "Privacy Policies of Telecom Service Providers - Or Why You Shouldn't Just Click Accept"
 
 +++

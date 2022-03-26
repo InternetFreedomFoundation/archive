@@ -73,12 +73,12 @@ The ideation of a digital address code to bring uniformity to the addresses is a
 2. **Introduce robust security standards for DAC:** Given the permanence principle of DAC, and the potential function creep bundled with sharing one’s DAC with private entities, there will be a persistent fear of breach of such data. In absence of a data protection law, citizens would be left vulnerable to exploitation. Therefore, it is pertinent that the technical architecture of the DAC provides strict control over their data to the users as well as safeguards to prevent unauthorised access.
 3. **Need for consultation and purpose limitation:** The government must ensure that a public consultation is held to define specific use cases for the use and processing of data collected under the DAC database. This would include a ban on unregulated use of DAC data by both private actors and government bodies.
 
-<iframe src="https://drive.google.com/file/d/1KLj5FecSWgPFRgjv8UgVl6dhWm_8gSPc/preview" width="580" height="480"></iframe
+<iframe src="https://drive.google.com/file/d/1KLj5FecSWgPFRgjv8UgVl6dhWm_8gSPc/preview" width="580" height="480"></iframe>
 
 ### Important documents
 
 1. The Department of Posts’ Draft Approach Paper for creating a Digital Address Code **([**link**](https://www.indiapost.gov.in/VAS/Pages/News/IP_Apd_18oct21_c.pdf))**
-2. IFF’s comments on the draft approach paper **(**link**)**
+2. IFF’s comments on the draft approach paper **(**[link](https://drive.google.com/file/d/177Itb_HW_8wYUTXzBd3T1f76tyPAzqlc/view?usp=sharing)**)**
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
 

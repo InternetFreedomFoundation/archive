@@ -1,12 +1,12 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Supreme Court", "internet shutdowns", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Supreme Court', 'internet shutdowns', 'Legal']
 date = 2020-07-16T09:05:11Z
-description = ""
+description = ''
 draft = false
-slug = "fmp-contempt-petition-reply"
-summary = "The Supreme Court has directed the Government to file its reply in a contempt petition relating to the 4G mobile internet ban in Jammu & Kashmir."
-tags = ["Supreme Court", "internet shutdowns", "Legal"]
+slug = 'fmp-contempt-petition-reply'
+summary = 'The Supreme Court has directed the Government to file its reply in a contempt petition relating to the 4G mobile internet ban in Jammu & Kashmir.'
+tags = ['Supreme Court', 'internet shutdowns', 'Legal']
 title = "Supreme Court directs Govt to file its reply in FMP's contempt petition #KeepUsOnline"
 
 +++

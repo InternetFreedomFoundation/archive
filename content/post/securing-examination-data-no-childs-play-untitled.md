@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Privacy", "big tech", "Breaches", "cybercrime", "Data Protection", "RTI", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['Privacy', 'big tech', 'Breaches', 'cybercrime', 'Data Protection', 'RTI', 'SaveOurPrivacy']
 date = 2021-07-26T05:55:49Z
-description = ""
+description = ''
 draft = false
-slug = "securing-examination-data-no-childs-play-untitled"
+slug = 'securing-examination-data-no-childs-play-untitled'
 summary = "Concerned about the threat to children's privacy and safety caused by such data breaches, in July 2021, IFF sent thirty-two representations to the State and Union Territory Commissions for the Protection of Child Rights in India."
-tags = ["Privacy", "big tech", "Breaches", "cybercrime", "Data Protection", "RTI", "SaveOurPrivacy"]
-title = "Securing Examination Data: No Child’s Play"
+tags = ['Privacy', 'big tech', 'Breaches', 'cybercrime', 'Data Protection', 'RTI', 'SaveOurPrivacy']
+title = 'Securing Examination Data: No Child’s Play'
 
 +++
 

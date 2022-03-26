@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2016-01-19T10:32:51Z
-description = ""
+description = ''
 draft = false
-slug = "fb-trai"
-title = "Press Release: STI helps users inform Facebook that they were not informed"
+slug = 'fb-trai'
+title = 'Press Release: STI helps users inform Facebook that they were not informed'
 
 +++
 

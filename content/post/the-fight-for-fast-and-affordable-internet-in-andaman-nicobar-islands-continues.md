@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["accesstointernet", "keep us online", "RTI"]
+author = 'Anushka Jain'
+categories = ['accesstointernet', 'keep us online', 'RTI']
 date = 2020-07-27T04:14:00Z
-description = ""
+description = ''
 draft = false
-slug = "the-fight-for-fast-and-affordable-internet-in-andaman-nicobar-islands-continues"
-summary = "We wrote to Shri Kuldeep Rai Sharma, the Honourable Member of Parliament for the Andaman and Nicobar Islands stating our concerns and urging him to escalate the matter with PMO and MeitY."
-tags = ["accesstointernet", "keep us online", "RTI"]
-title = "The fight for fast and affordable internet in Andaman & Nicobar Islands continues... #4GforAll #InternetinAndaman"
+slug = 'the-fight-for-fast-and-affordable-internet-in-andaman-nicobar-islands-continues'
+summary = 'We wrote to Shri Kuldeep Rai Sharma, the Honourable Member of Parliament for the Andaman and Nicobar Islands stating our concerns and urging him to escalate the matter with PMO and MeitY.'
+tags = ['accesstointernet', 'keep us online', 'RTI']
+title = 'The fight for fast and affordable internet in Andaman & Nicobar Islands continues... #4GforAll #InternetinAndaman'
 
 +++
 

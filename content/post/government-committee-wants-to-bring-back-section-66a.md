@@ -1,11 +1,11 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-10-11T11:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2017/10/66a-recommendation-leak.png"
-slug = "government-committee-wants-to-bring-back-section-66a"
-title = "Urgent Release: Government Committee wants to bring back Section 66A"
+image = 'https://internetfreedom.in/content/images/2017/10/66a-recommendation-leak.png'
+slug = 'government-committee-wants-to-bring-back-section-66a'
+title = 'Urgent Release: Government Committee wants to bring back Section 66A'
 
 +++
 

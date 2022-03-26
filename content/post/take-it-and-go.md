@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship", "Legal"]
+author = 'Joanne DCunha'
+categories = ['Censorship', 'Legal']
 date = 2019-02-20T04:37:23Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-19-at-9.23.26-PM.png"
-slug = "take-it-and-go"
-summary = "The Delhi High Court dismissed a PIL asking for TV style censorship on online video streaming services such as netflix, hotstar and amazon prime. We call for further steps by Government to extend this victory!"
-tags = ["Censorship", "Legal"]
-title = "Thanks to the Delhi High Court for letting us Netflix and chill!"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-19-at-9.23.26-PM.png'
+slug = 'take-it-and-go'
+summary = 'The Delhi High Court dismissed a PIL asking for TV style censorship on online video streaming services such as netflix, hotstar and amazon prime. We call for further steps by Government to extend this victory!'
+tags = ['Censorship', 'Legal']
+title = 'Thanks to the Delhi High Court for letting us Netflix and chill!'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality", "savetheinternet", "Official Announcement"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality', 'savetheinternet', 'Official Announcement']
 date = 2019-03-16T12:12:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/6BFD715D-E8BB-4CDA-9EA6-1E9BA56F42D3.jpeg"
-slug = "savetheinternet"
-summary = "Over the past few months, IFF has identified violations of Net Neutrality through blocking of website access. In light of these current threats to net neutrality, it has taken the step to activate the SaveTheInternet.in website."
-tags = ["Net Neutrality", "savetheinternet", "Official Announcement"]
+image = 'https://internetfreedom.in/content/images/2019/03/6BFD715D-E8BB-4CDA-9EA6-1E9BA56F42D3.jpeg'
+slug = 'savetheinternet'
+summary = 'Over the past few months, IFF has identified violations of Net Neutrality through blocking of website access. In light of these current threats to net neutrality, it has taken the step to activate the SaveTheInternet.in website.'
+tags = ['Net Neutrality', 'savetheinternet', 'Official Announcement']
 title = "Guess who's back, back again? #SaveTheInternet"
 
 +++

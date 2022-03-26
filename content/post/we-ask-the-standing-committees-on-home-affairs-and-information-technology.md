@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Surveillance"]
+author = 'Joanne DCunha'
+categories = ['Surveillance', 'pegasus']
 date = 2019-11-15T08:07:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Capture-6.PNG"
-slug = "we-ask-the-standing-committees-on-home-affairs-and-information-technology"
-summary = "Press reports indicate interest has been showed by the Standing Committee on Home Affairs in examining the matter. We wrote to them with a few suggestions on the issue to take into consideration at their meeting today. "
-tags = ["Surveillance"]
-title = "We provide the Standing Committees on Home Affairs with suggestions as they discuss the Pegasus scandal."
+image = 'https://internetfreedom.in/content/images/2019/11/Capture-6.PNG'
+slug = 'we-ask-the-standing-committees-on-home-affairs-and-information-technology'
+summary = 'Press reports indicate interest has been showed by the Standing Committee on Home Affairs in examining the matter. We wrote to them with a few suggestions on the issue to take into consideration at their meeting today. '
+tags = ['Surveillance', 'pegasus']
+title = 'We provide the Standing Committees on Home Affairs with suggestions as they discuss the Pegasus scandal.'
 
 +++
 

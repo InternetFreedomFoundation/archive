@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-04-23T09:12:27Z
-description = ""
+description = ''
 draft = false
-slug = "joint-statement-by-professors"
-title = "Joint statement on Net Neutrality and the TRAI consultation paper by IIT and IISc professors"
+slug = 'joint-statement-by-professors'
+title = 'Joint statement on Net Neutrality and the TRAI consultation paper by IIT and IISc professors'
 
 +++
 

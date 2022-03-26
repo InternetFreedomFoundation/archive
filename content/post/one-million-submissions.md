@@ -1,12 +1,12 @@
 +++
-author = "SaveTheInternet.in Coalition"
-categories = ["Official Announcement"]
+author = 'SaveTheInternet.in Coalition'
+categories = ['Official Announcement']
 date = 2015-04-23T11:37:26Z
-description = ""
+description = ''
 draft = false
-slug = "one-million-submissions"
-tags = ["Official Announcement"]
-title = "Over One Million Submissions to TRAI in 12 Days"
+slug = 'one-million-submissions'
+tags = ['Official Announcement']
+title = 'Over One Million Submissions to TRAI in 12 Days'
 
 +++
 

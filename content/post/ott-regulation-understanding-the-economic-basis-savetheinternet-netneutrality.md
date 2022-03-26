@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["savetheinternet", "Net Neutrality", "TRAI", "Telecom"]
+author = 'Apar Gupta'
+categories = ['savetheinternet', 'Net Neutrality', 'TRAI', 'Telecom']
 date = 2018-12-07T03:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.23.53-PM.png"
-slug = "ott-regulation-understanding-the-economic-basis-savetheinternet-netneutrality"
-summary = "One of the core questions in the ongoing OTT consultation paper floated by the TRAI are the revenue losses by large telecom companies which would impair future telecom network investment. We look at the data..."
-tags = ["savetheinternet", "Net Neutrality", "TRAI", "Telecom"]
-title = "OTT Regulation: Understanding the economic basis #SaveTheInternet #NetNeutrality"
+image = 'https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.23.53-PM.png'
+slug = 'ott-regulation-understanding-the-economic-basis-savetheinternet-netneutrality'
+summary = 'One of the core questions in the ongoing OTT consultation paper floated by the TRAI are the revenue losses by large telecom companies which would impair future telecom network investment. We look at the data...'
+tags = ['savetheinternet', 'Net Neutrality', 'TRAI', 'Telecom']
+title = 'OTT Regulation: Understanding the economic basis #SaveTheInternet #NetNeutrality'
 
 +++
 

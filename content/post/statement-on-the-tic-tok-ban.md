@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Censorship", "SaveOurPrivacy"]
+author = 'Apar Gupta'
+categories = ['Censorship', 'SaveOurPrivacy']
 date = 2019-04-04T04:20:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Screenshot-2019-04-04-at-9.48.20-AM.png"
-slug = "statement-on-the-tic-tok-ban"
-summary = "We are in the process of conferring with legal counsel and will be taking steps to ensure that the fundamental rights of internet users are considered by the Hon’ble Court. As with all of IFF’s work, subsequent steps and updates will be informed regularly and transparently."
-tags = ["Censorship", "SaveOurPrivacy"]
-title = "Statement on the TikTok Ban"
+image = 'https://internetfreedom.in/content/images/2019/04/Screenshot-2019-04-04-at-9.48.20-AM.png'
+slug = 'statement-on-the-tic-tok-ban'
+summary = 'We are in the process of conferring with legal counsel and will be taking steps to ensure that the fundamental rights of internet users are considered by the Hon’ble Court. As with all of IFF’s work, subsequent steps and updates will be informed regularly and transparently.'
+tags = ['Censorship', 'SaveOurPrivacy']
+title = 'Statement on the TikTok Ban'
 
 +++
 

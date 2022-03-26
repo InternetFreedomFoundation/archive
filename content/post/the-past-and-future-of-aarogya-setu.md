@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["aarogyasetu", "SaveOurPrivacy"]
+author = 'Rohin Garg'
+categories = ['aarogyasetu', 'SaveOurPrivacy']
 date = 2021-03-08T07:09:08Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/Assessing-outcomes-from-Aarogya-Setu-1.png"
-slug = "the-past-and-future-of-aarogya-setu"
-summary = "We are close to a year since the launch of Arogya Setu. This is why we have written to the National Informatics Centre, pointing out that issues with Aarogya Setu have still not been addressed."
-tags = ["aarogyasetu", "SaveOurPrivacy"]
-title = "Hindsight is 20/20: Assessing outcomes from Aarogya Setu"
+image = 'https://internetfreedom.in/content/images/2021/03/Assessing-outcomes-from-Aarogya-Setu-1.png'
+slug = 'the-past-and-future-of-aarogya-setu'
+summary = 'We are close to a year since the launch of Arogya Setu. This is why we have written to the National Informatics Centre, pointing out that issues with Aarogya Setu have still not been addressed.'
+tags = ['aarogyasetu', 'SaveOurPrivacy']
+title = 'Hindsight is 20/20: Assessing outcomes from Aarogya Setu'
 
 +++
 

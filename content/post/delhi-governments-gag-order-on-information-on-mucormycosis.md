@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["mucormycosis", "Censorship", "Health Data", "Delhi Government", "Access to Information"]
+author = 'Yashaswini'
+categories = ['mucormycosis', 'Censorship', 'Health Data', 'Delhi Government', 'Access to Information']
 date = 2021-06-03T06:31:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Delhi-Government-s-gag-order-on-information-on-mucormycosis-1.png"
-slug = "delhi-governments-gag-order-on-information-on-mucormycosis"
-summary = "Recently, the Delhi Government issued a notification prohibiting anyone from sharing any information on mucormycosis without the prior permission of the Government. IFF has sent the Government a legal notice urging it to rescind this overbroad order."
-tags = ["mucormycosis", "Censorship", "Health Data", "Delhi Government", "Access to Information"]
-title = "Delhi Government’s gag order on information on mucormycosis"
+image = 'https://internetfreedom.in/content/images/2021/06/Delhi-Government-s-gag-order-on-information-on-mucormycosis-1.png'
+slug = 'delhi-governments-gag-order-on-information-on-mucormycosis'
+summary = 'Recently, the Delhi Government issued a notification prohibiting anyone from sharing any information on mucormycosis without the prior permission of the Government. IFF has sent the Government a legal notice urging it to rescind this overbroad order.'
+tags = ['mucormycosis', 'Censorship', 'Health Data', 'Delhi Government', 'Access to Information']
+title = 'Delhi Government’s gag order on information on mucormycosis'
 
 +++
 

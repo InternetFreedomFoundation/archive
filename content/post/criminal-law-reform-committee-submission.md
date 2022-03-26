@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["criminal law", "freespeech", "Privacy", "Consultations"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['criminal law', 'freespeech', 'Privacy', 'Consultations']
 date = 2020-09-29T07:02:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/09/Criminal-Law-Reform-Committee-2.png"
-slug = "criminal-law-reform-committee-submission"
-summary = "Our submission reiterates demands to disband the Committee and we have also provided substantive inputs on various issues at the intersection of criminal law and digital rights."
-tags = ["criminal law", "freespeech", "Privacy", "Consultations"]
-title = "We write to the Criminal Law Reform Committee which could make it even easier for TV anchors to read your texts #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/09/Criminal-Law-Reform-Committee-2.png'
+slug = 'criminal-law-reform-committee-submission'
+summary = 'Our submission reiterates demands to disband the Committee and we have also provided substantive inputs on various issues at the intersection of criminal law and digital rights.'
+tags = ['criminal law', 'freespeech', 'Privacy', 'Consultations']
+title = 'We write to the Criminal Law Reform Committee which could make it even easier for TV anchors to read your texts #SaveOurPrivacy'
 
 +++
 

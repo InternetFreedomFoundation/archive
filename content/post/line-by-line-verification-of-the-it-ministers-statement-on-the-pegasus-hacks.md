@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["MeitY", "pegasus", "Surveillance", "Privacy"]
+author = 'Anushka Jain'
+categories = ['pegasus', 'Surveillance', 'Privacy', 'MeitY']
 date = 2021-07-30T08:53:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Copy-of-Copy-of-IG--1--2.png"
-slug = "line-by-line-verification-of-the-it-ministers-statement-on-the-pegasus-hacks"
+image = 'https://internetfreedom.in/content/images/2021/07/Copy-of-Copy-of-IG--1--2.png'
+slug = 'line-by-line-verification-of-the-it-ministers-statement-on-the-pegasus-hacks'
 summary = "In this post, we present to you a line-by-line verification of the IT Minister's statement on Pegasus, wherein we use a constitutional, legal, and people-centric lens to debunk and correct falsehoods and misinterpretations."
-tags = ["MeitY", "pegasus", "Surveillance", "Privacy"]
+tags = ['pegasus', 'Surveillance', 'Privacy', 'MeitY']
 title = "Line-by-line verification of the IT Minister's Statement on the Pegasus Hacks"
 
 +++

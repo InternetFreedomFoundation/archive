@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["DigitalJustice", "Filings", "intermediary", "Legal", "Censorship", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['DigitalJustice', 'Filings', 'intermediary', 'Legal', 'Censorship', 'Privacy']
 date = 2019-07-24T09:22:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/Capture-6.PNG"
-slug = "vanakkam-updates-on-the-aadhaar-social-media-linkage-and-encryption-pil-before-the-madras-hc"
+image = 'https://internetfreedom.in/content/images/2019/07/Capture-6.PNG'
+slug = 'vanakkam-updates-on-the-aadhaar-social-media-linkage-and-encryption-pil-before-the-madras-hc'
 summary = "At today's hearing, IFF placed on record its written submissions highlighting how proposed changes to the product design of social media platforms would harm user privacy and lead to over-broad automated censorship. "
-tags = ["DigitalJustice", "Filings", "intermediary", "Legal", "Censorship", "Privacy"]
-title = "Vanakkam! Updates on the Aadhaar-social media linkage and encryption PIL before the Madras HC"
+tags = ['DigitalJustice', 'Filings', 'intermediary', 'Legal', 'Censorship', 'Privacy']
+title = 'Vanakkam! Updates on the Aadhaar-social media linkage and encryption PIL before the Madras HC'
 
 +++
 

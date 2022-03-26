@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "keep us online"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'keep us online']
 date = 2020-08-05T04:44:57Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/05-August-2020-Statement-1.png"
-slug = "statement-j-k-internet-restrictions-anniversary"
+image = 'https://internetfreedom.in/content/images/2020/08/05-August-2020-Statement-1.png'
+slug = 'statement-j-k-internet-restrictions-anniversary'
 summary = "No citizen of a 21st century democracy should have to live in digital darkness for over a year. Read IFF's statement and call to action to the Parliamentary Standing Committee on IT on the  anniversary of the communication shutdown imposed in Jammu & Kashmir on 05 August 2019."
-tags = ["internet shutdowns", "keep us online"]
-title = "Statement and a Call to Action to the Standing Committee on IT on the One Year Anniversary of Internet Restrictions in J&K #KeepUsOnline"
+tags = ['internet shutdowns', 'keep us online']
+title = 'Statement and a Call to Action to the Standing Committee on IT on the One Year Anniversary of Internet Restrictions in J&K #KeepUsOnline'
 
 +++
 

@@ -1,12 +1,12 @@
 +++
-author = "SaveTheInternet.in Coalition"
-categories = ["Official Announcement"]
+author = 'SaveTheInternet.in Coalition'
+categories = ['Official Announcement']
 date = 2015-04-22T05:52:09Z
-description = ""
+description = ''
 draft = false
-slug = "letter-to-parliamentarians"
-tags = ["Official Announcement"]
-title = "Dear parliamentarians, we are not affiliated with any political party. Net neutrality affects everyone."
+slug = 'letter-to-parliamentarians'
+tags = ['Official Announcement']
+title = 'Dear parliamentarians, we are not affiliated with any political party. Net neutrality affects everyone.'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["SaveOurPrivacy"]
+author = 'Joanne DCunha'
+categories = ['SaveOurPrivacy']
 date = 2019-06-25T06:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/06/save-our-privacy-meta-1-3.png"
-slug = "lest-we-consult-too-much"
-summary = "The Draft Personal Data Protection Bill was first put up for public consultation in August 2018. While there have been many responses, these submissions have not been made public. This lack of transparency is a cause for concern as the Bill moves to Parliament."
-tags = ["SaveOurPrivacy"]
+image = 'https://internetfreedom.in/content/images/2019/06/save-our-privacy-meta-1-3.png'
+slug = 'lest-we-consult-too-much'
+summary = 'The Draft Personal Data Protection Bill was first put up for public consultation in August 2018. While there have been many responses, these submissions have not been made public. This lack of transparency is a cause for concern as the Bill moves to Parliament.'
+tags = ['SaveOurPrivacy']
 title = "The purpose of 'Public' in 'Public Consultation', lest we merely consult."
 
 +++

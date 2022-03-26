@@ -1,12 +1,12 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Net Neutrality", "TRAI"]
+author = 'IFF Public Policy Team'
+categories = ['Net Neutrality', 'TRAI']
 date = 2017-11-29T13:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "trais-recommendations-are-another-big-victory-for-net-neutrality-but-follow-up-action-is-needed"
-tags = ["Net Neutrality", "TRAI"]
-title = "TRAI’s recommendations are another big victory for Net Neutrality  - but follow up action is needed!"
+slug = 'trais-recommendations-are-another-big-victory-for-net-neutrality-but-follow-up-action-is-needed'
+tags = ['Net Neutrality', 'TRAI']
+title = 'TRAI’s recommendations are another big victory for Net Neutrality  - but follow up action is needed!'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Privacy"]
+author = 'Apar Gupta'
+categories = ['Privacy']
 date = 2020-01-13T04:50:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Cyber-Security---Twitter.png"
-slug = "a-cyber-secure-india-starts-with-securing-indians"
-summary = "Our submission to the National Security Council Secretariat for framing of the National Cyber Security Strategy 2020 (NCSS 2020) focusses on protecting individual privacy. "
-tags = ["Privacy"]
-title = "A cyber secure India, starts with securing Indians"
+image = 'https://internetfreedom.in/content/images/2020/01/Cyber-Security---Twitter.png'
+slug = 'a-cyber-secure-india-starts-with-securing-indians'
+summary = 'Our submission to the National Security Council Secretariat for framing of the National Cyber Security Strategy 2020 (NCSS 2020) focusses on protecting individual privacy. '
+tags = ['Privacy']
+title = 'A cyber secure India, starts with securing Indians'
 
 +++
 

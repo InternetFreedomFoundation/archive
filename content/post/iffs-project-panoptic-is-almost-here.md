@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "Surveillance", "Privacy"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'Surveillance', 'Privacy']
 date = 2020-11-06T04:32:07Z
-description = ""
+description = ''
 draft = false
-slug = "iffs-project-panoptic-is-almost-here"
-summary = "The launch of the Project is imminent. Read more about the project here."
-tags = ["Project Panoptic", "Surveillance", "Privacy"]
+slug = 'iffs-project-panoptic-is-almost-here'
+summary = 'The launch of the Project is imminent. Read more about the project here.'
+tags = ['Project Panoptic', 'Surveillance', 'Privacy']
 title = "IFF's Project Panoptic is (almost) here"
 
 +++

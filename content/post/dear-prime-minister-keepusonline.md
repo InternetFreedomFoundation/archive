@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-04-23T03:47:17Z
-description = ""
+description = ''
 draft = false
-slug = "dear-prime-minister-keepusonline"
-title = "Dear Prime Minister KeepUsOnline"
+slug = 'dear-prime-minister-keepusonline'
+title = 'Dear Prime Minister KeepUsOnline'
 
 +++
 

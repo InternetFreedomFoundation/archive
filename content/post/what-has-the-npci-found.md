@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Breaches"]
+author = 'Joanne DCunha'
+categories = ['Breaches']
 date = 2019-10-18T05:09:23Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Here-s-looking-at-you_he_she_they--The-UN-Special-Rapporteur-on-the-right-to-privacy-looks-at-privacy-and-personality.--3-.png"
-slug = "what-has-the-npci-found"
-summary = "The NPCI began an investigation on the TrueCaller security breach that occurred on July 30, 2019. We write to them to enquire on the insight and outcomes of the investigation. "
-tags = ["Breaches"]
-title = "What has the NPCI found on the TrueCaller security breach? We write to them asking just that."
+image = 'https://internetfreedom.in/content/images/2019/10/Here-s-looking-at-you_he_she_they--The-UN-Special-Rapporteur-on-the-right-to-privacy-looks-at-privacy-and-personality.--3-.png'
+slug = 'what-has-the-npci-found'
+summary = 'The NPCI began an investigation on the TrueCaller security breach that occurred on July 30, 2019. We write to them to enquire on the insight and outcomes of the investigation. '
+tags = ['Breaches']
+title = 'What has the NPCI found on the TrueCaller security breach? We write to them asking just that.'
 
 +++
 

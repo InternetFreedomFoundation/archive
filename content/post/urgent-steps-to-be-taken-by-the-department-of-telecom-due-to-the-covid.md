@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Net Neutrality", "keep us online", "Telecom", "TRAI"]
+author = 'Apar Gupta'
+categories = ['Net Neutrality', 'keep us online', 'Telecom', 'TRAI']
 date = 2020-03-18T11:36:53Z
-description = ""
+description = ''
 draft = false
-slug = "urgent-steps-to-be-taken-by-the-department-of-telecom-due-to-the-covid"
-summary = "With many workplaces putting into place work from home plans, voice and data connectivity become critical. To ensure that high quality bandwidth is available to all parts of India we have suggested specific steps to be taken by the Department of Telecom."
-tags = ["Net Neutrality", "keep us online", "Telecom", "TRAI"]
-title = "SOS : Three ways how the Department of Telecom can help #FlattenTheCurve #SaveTheInternet"
+slug = 'urgent-steps-to-be-taken-by-the-department-of-telecom-due-to-the-covid'
+summary = 'With many workplaces putting into place work from home plans, voice and data connectivity become critical. To ensure that high quality bandwidth is available to all parts of India we have suggested specific steps to be taken by the Department of Telecom.'
+tags = ['Net Neutrality', 'keep us online', 'Telecom', 'TRAI']
+title = 'SOS : Three ways how the Department of Telecom can help #FlattenTheCurve #SaveTheInternet'
 
 +++
 

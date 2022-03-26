@@ -1,13 +1,13 @@
 +++
-author = "Yashaswini"
-categories = ["SaveOurPrivacy", "Privacy", "Surveillance", "Clubhouse", "RTI"]
+author = 'Yashaswini'
+categories = ['SaveOurPrivacy', 'Privacy', 'Surveillance', 'Clubhouse', 'RTI']
 date = 2021-06-22T08:53:59Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/The-Stream-is--3--1.png"
-slug = "clubhouse-how-safe-really-is-this-safe-space"
-summary = "In this post, we unfurl some of the key considerations Clubhouse must include while fostering a robust human rights framework for its rapidly growing millions of users."
-tags = ["SaveOurPrivacy", "Privacy", "Surveillance", "Clubhouse", "RTI"]
+image = 'https://internetfreedom.in/content/images/2021/06/The-Stream-is--3--1.png'
+slug = 'clubhouse-how-safe-really-is-this-safe-space'
+summary = 'In this post, we unfurl some of the key considerations Clubhouse must include while fostering a robust human rights framework for its rapidly growing millions of users.'
+tags = ['SaveOurPrivacy', 'Privacy', 'Surveillance', 'Clubhouse', 'RTI']
 title = "ClubHouse: How safe really is this 'safe space'?"
 
 +++

@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Submission", "Policy", "TRAI"]
+author = 'Joanne DCunha'
+categories = ['Submission', 'Policy', 'TRAI']
 date = 2019-12-06T04:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/Capture-1.png"
-slug = "we-must-prevent-cloud-cartel"
-summary = "The TRAI invited comments on a consultation paper that suggested a framework for the registration of industry bodies for cloud services. We make our submission with concerns of jurisdiction, cartelisation and self-regulation. "
-tags = ["Submission", "Policy", "TRAI"]
-title = "We must prevent cloud cartels."
+image = 'https://internetfreedom.in/content/images/2019/12/Capture-1.png'
+slug = 'we-must-prevent-cloud-cartel'
+summary = 'The TRAI invited comments on a consultation paper that suggested a framework for the registration of industry bodies for cloud services. We make our submission with concerns of jurisdiction, cartelisation and self-regulation. '
+tags = ['Submission', 'Policy', 'TRAI']
+title = 'We must prevent cloud cartels.'
 
 +++
 

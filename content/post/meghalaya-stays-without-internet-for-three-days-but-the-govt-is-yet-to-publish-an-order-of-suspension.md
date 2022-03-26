@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["internet shutdowns", "Meghalaya", "Anuradha Bhasin"]
+author = 'Yashaswini'
+categories = ['internet shutdowns', 'Meghalaya', 'Anuradha Bhasin']
 date = 2021-08-19T09:34:24Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Meghalaya-twitter-1.png"
-slug = "meghalaya-stays-without-internet-for-three-days-but-the-govt-is-yet-to-publish-an-order-of-suspension"
-summary = "Since August 15, 2021, internet services have been suspended in four districts of Meghalaya due to ongoing civil unrest. We wrote to the Meghalaya government to publish all orders related to the current internet shutdowns as well as proactively publish any subsequent internet shutdown orders."
-tags = ["internet shutdowns", "Meghalaya", "Anuradha Bhasin"]
-title = "Internet shutdown in Meghalaya without suspension order!"
+image = 'https://internetfreedom.in/content/images/2021/08/Meghalaya-twitter-1.png'
+slug = 'meghalaya-stays-without-internet-for-three-days-but-the-govt-is-yet-to-publish-an-order-of-suspension'
+summary = 'Since August 15, 2021, internet services have been suspended in four districts of Meghalaya due to ongoing civil unrest. We wrote to the Meghalaya government to publish all orders related to the current internet shutdowns as well as proactively publish any subsequent internet shutdown orders.'
+tags = ['internet shutdowns', 'Meghalaya', 'Anuradha Bhasin']
+title = 'Internet shutdown in Meghalaya without suspension order!'
 
 +++
 
@@ -60,6 +60,8 @@ Accordingly, we urged the government of Meghalaya to undertake the following ste
 
 We are hopeful that our suggestions would be taken into consideration by the Meghalaya government. IFF will continue to strive towards greater compliance with the directions of the Supreme Court of India and advocate towards realising the principles enshrined in the _Anuradha Bhasin_ judgment into practice.
 
+<iframe src="https://drive.google.com/file/d/1Kck3AjzEI4n1TFyV0hEDPFBPPVmn8eD7/preview" width="580" height="480"></iframe>
+
 ### Important Documents
 
 1. Representation to the Govt. of Meghalaya seeking compliance with the _Anuradha Bhasin_ judgment ([Link](https://drive.google.com/file/d/1jezNjiorgFjzoOI2XhG57oAqRysN3XAS/view?usp=sharing))
@@ -68,6 +70,8 @@ We are hopeful that our suggestions would be taken into consideration by the Meg
 
 
 <form><script src="[https://checkout.razorpay.com/v1/payment-button.js](https://checkout.razorpay.com/v1/payment-button.js)" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>
+
+
 
 
 

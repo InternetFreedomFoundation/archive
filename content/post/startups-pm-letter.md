@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2016-01-25T08:43:00Z
-description = ""
+description = ''
 draft = false
-slug = "startups-pm-letter"
-title = "Press Release: Over 500 startups sign SaveTheInternet.in’s letter urging Prime Minister Narendra Modi to uphold net neutrality"
+slug = 'startups-pm-letter'
+title = 'Press Release: Over 500 startups sign SaveTheInternet.in’s letter urging Prime Minister Narendra Modi to uphold net neutrality'
 
 +++
 

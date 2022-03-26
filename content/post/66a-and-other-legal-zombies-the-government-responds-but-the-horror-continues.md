@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["IFFresearch", "RightToMeme"]
+author = 'Apar Gupta'
+categories = ['IFFresearch', 'RightToMeme']
 date = 2018-12-19T06:03:53Z
-description = ""
+description = ''
 draft = false
-slug = "66a-and-other-legal-zombies-the-government-responds-but-the-horror-continues"
+slug = '66a-and-other-legal-zombies-the-government-responds-but-the-horror-continues'
 summary = "IFF's study on the continued use of Section 66A leads to a government response. But as fresh cases continue to be registered we press for more."
-tags = ["IFFresearch", "RightToMeme"]
-title = "66A and other Legal Zombies: Government responds but the horror continues #IFFresearch #RightToMeme"
+tags = ['IFFresearch', 'RightToMeme']
+title = '66A and other Legal Zombies: Government responds but the horror continues #IFFresearch #RightToMeme'
 
 +++
 

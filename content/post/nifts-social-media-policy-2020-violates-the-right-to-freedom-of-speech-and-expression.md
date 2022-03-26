@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["Censorship", "freespeech", "NIFT"]
+author = 'Anushka Jain'
+categories = ['Censorship', 'freespeech', 'NIFT']
 date = 2020-08-14T07:57:34Z
-description = ""
+description = ''
 draft = false
-slug = "nifts-social-media-policy-2020-violates-the-right-to-freedom-of-speech-and-expression"
-summary = "We wrote to the Director General of NIFT as well as the Ministry of Textiles asking them to recall the policy which hampers the right to freedom of speech and expression of the students. "
-tags = ["Censorship", "freespeech", "NIFT"]
+slug = 'nifts-social-media-policy-2020-violates-the-right-to-freedom-of-speech-and-expression'
+summary = 'We wrote to the Director General of NIFT as well as the Ministry of Textiles asking them to recall the policy which hampers the right to freedom of speech and expression of the students. '
+tags = ['Censorship', 'freespeech', 'NIFT']
 title = "NIFT's Social Media Policy, 2020 violates the Right to Freedom of Speech and Expression"
 
 +++

@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["WebsiteBlocking", "WhatTheBlock"]
+author = 'Apar Gupta'
+categories = ['WebsiteBlocking', 'WhatTheBlock']
 date = 2020-07-02T09:24:00Z
-description = ""
+description = ''
 draft = false
-slug = "blocking-of-duckduckgo-needs-to-be-reversed-we-wrote-to-the-government-whattheduck"
-summary = "DuckDuckGo is a privacy respecting search engine that has a wide user base in India. Yesterday it was blocked in India due to which we wrote to the DOT and MEITY. "
-tags = ["WebsiteBlocking", "WhatTheBlock"]
-title = "Reverse the block on DuckDuckGo. We wrote to the Government. #WhatTheDuck"
+slug = 'blocking-of-duckduckgo-needs-to-be-reversed-we-wrote-to-the-government-whattheduck'
+summary = 'DuckDuckGo is a privacy respecting search engine that has a wide user base in India. Yesterday it was blocked in India due to which we wrote to the DOT and MEITY. '
+tags = ['WebsiteBlocking', 'WhatTheBlock']
+title = 'Reverse the block on DuckDuckGo. We wrote to the Government. #WhatTheDuck'
 
 +++
 

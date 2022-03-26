@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Parliament"]
+author = 'Apar Gupta'
+categories = ['Parliament']
 date = 2020-07-10T09:28:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/Sheer-Suddenness--1--1.png"
-slug = "letter-to-the-it-standing-committee-for-diverse-actions-that-go-beyond-suddenness"
-summary = "The IT Standing Committee is going to meet soon. We bring to its notice a backlog of issues and flag website blocking (of DuckDuckGo or Reddit), internet shutdowns and facial recognition technology."
-tags = ["Parliament"]
-title = "From, \"sheer suddenness\" to sustained deliberation. A letter to the IT Standing Committee."
+image = 'https://internetfreedom.in/content/images/2020/07/Sheer-Suddenness--1--1.png'
+slug = 'letter-to-the-it-standing-committee-for-diverse-actions-that-go-beyond-suddenness'
+summary = 'The IT Standing Committee is going to meet soon. We bring to its notice a backlog of issues and flag website blocking (of DuckDuckGo or Reddit), internet shutdowns and facial recognition technology.'
+tags = ['Parliament']
+title = 'From, "sheer suddenness" to sustained deliberation. A letter to the IT Standing Committee.'
 
 +++
 

@@ -1,12 +1,12 @@
 +++
-author = "Shivani Singh"
+author = 'Shivani Singh'
 date = 2020-02-05T03:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/WhatsApp-Image-2020-02-04-at-19.53.05.jpeg"
-slug = "iffs-team-2020-effective-motivated-and-community-centric"
-summary = "Meet our team 2020! "
-title = "IFF’s Team 2020  : Effective, motivated and community centric"
+image = 'https://internetfreedom.in/content/images/2020/02/WhatsApp-Image-2020-02-04-at-19.53.05.jpeg'
+slug = 'iffs-team-2020-effective-motivated-and-community-centric'
+summary = 'Meet our team 2020! '
+title = 'IFF’s Team 2020  : Effective, motivated and community centric'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["ecourts", "Submission", "innovation"]
+author = 'Krishnesh'
+categories = ['ecourts', 'Submission', 'innovation']
 date = 2021-05-13T14:03:42Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Copy-of-Armenia--In-use-1.png"
-slug = "ensuring-equity-accessibility-and-transparency-in-court-our-comments-on-the-supreme-courts-draft-vision-document"
-summary = "Read our comments pursuant to the Draft Vision & Roadmap for Phase III of the eCourts Project released by the The eCommittee of the Supreme Court for consultation."
-tags = ["ecourts", "Submission", "innovation"]
+image = 'https://internetfreedom.in/content/images/2021/05/Copy-of-Armenia--In-use-1.png'
+slug = 'ensuring-equity-accessibility-and-transparency-in-court-our-comments-on-the-supreme-courts-draft-vision-document'
+summary = 'Read our comments pursuant to the Draft Vision & Roadmap for Phase III of the eCourts Project released by the The eCommittee of the Supreme Court for consultation.'
+tags = ['ecourts', 'Submission', 'innovation']
 title = "Ensuring Equity, Accessibility and Transparency in Court: Our Comments on the Supreme Court's Draft Vision Document"
 
 +++

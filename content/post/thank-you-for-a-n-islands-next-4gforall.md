@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["4GforAll", "Andaman"]
+author = 'Anushka Jain'
+categories = ['4GforAll', 'Andaman']
 date = 2020-08-11T04:41:25Z
-description = ""
+description = ''
 draft = false
-slug = "thank-you-for-a-n-islands-next-4gforall"
-summary = "We sent a letter of appreciation to our Prime Minister for inaugurating the CANI Project in A&N Islands which will solve their connectivity issues and urged him to prioritise the goal of #4GforAll"
-tags = ["4GforAll", "Andaman"]
-title = "Thank you for A&N Islands.... Next #4GforAll"
+slug = 'thank-you-for-a-n-islands-next-4gforall'
+summary = 'We sent a letter of appreciation to our Prime Minister for inaugurating the CANI Project in A&N Islands which will solve their connectivity issues and urged him to prioritise the goal of #4GforAll'
+tags = ['4GforAll', 'Andaman']
+title = 'Thank you for A&N Islands.... Next #4GforAll'
 
 +++
 

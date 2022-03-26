@@ -1,14 +1,14 @@
 +++
-author = "Anandita Mishra"
-categories = ["internet shutdowns", "competitive exam", "telecom suspension rules", "rajasthan", "Anuradha Bhasin", "REET"]
-date = 2021-09-27T04:46:48Z
-description = ""
+author = 'Anandita Mishra'
+categories = ['internet shutdowns', 'rajasthan', 'Anuradha Bhasin', 'REET', 'competitive exam', 'telecom suspension rules']
+date = 2021-09-27T10:16:48Z
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/Header-1.png"
-slug = "the-internet-cannot-be-suspended-in-entire-districts-to-prevent-cheating-in-exams-iff-writes-to-the-rajasthan-government"
-summary = "IFF writes to the officers of the Rajasthan Government expressing concerns about the unlawful, unnecessary, disproportionate and improperly ordered internet shutdowns on September 26, 2021, purportedly ordered to prevent cheating in the Rajasthan Eligibility Exam for Teachers 2021."
-tags = ["internet shutdowns", "competitive exam", "telecom suspension rules", "rajasthan", "Anuradha Bhasin", "REET"]
-title = "The internet cannot be suspended in entire districts to prevent cheating in exams - IFF writes to the Rajasthan Government."
+image = 'https://internetfreedom.in/content/images/2021/09/Header-1.png'
+slug = 'the-internet-cannot-be-suspended-in-entire-districts-to-prevent-cheating-in-exams-iff-writes-to-the-rajasthan-government'
+summary = 'IFF writes to the officers of the Rajasthan Government expressing concerns about the unlawful, unnecessary, disproportionate and improperly ordered internet shutdowns on September 26, 2021, purportedly ordered to prevent cheating in the Rajasthan Eligibility Exam for Teachers 2021.'
+tags = ['internet shutdowns', 'rajasthan', 'Anuradha Bhasin', 'REET', 'competitive exam', 'telecom suspension rules']
+title = 'The internet cannot be suspended in entire districts to prevent cheating in exams - IFF writes to the Rajasthan Government.'
 
 +++
 
@@ -64,7 +64,7 @@ Access to information via the internet is a fundamental right under the Indian C
 
 (v) follow all guidelines issued by the Supreme Court of India in _Anuradha Bhasin_ in future.
 
-
+<iframe src="https://drive.google.com/file/d/1NpQule_zH3sjspMylVEmDRfyvCa69AyR/preview" width="580" height="480"></iframe>
 
 ## Important Documents
 

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Censorship"]
+author = 'Apar Gupta'
+categories = ['Censorship']
 date = 2019-03-14T09:13:37Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-14-at-2.26.07-PM.png"
-slug = "please-do-not-jail-pugb-users"
-summary = "As per media reports which surfaced yesterday the Rajkot Police Department has arrested 7 youths for playing the PUBG online video game. Clearly things have spiralled out of control. "
-tags = ["Censorship"]
-title = "An Appeal: Please, do not jail PUBG users."
+image = 'https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-14-at-2.26.07-PM.png'
+slug = 'please-do-not-jail-pugb-users'
+summary = 'As per media reports which surfaced yesterday the Rajkot Police Department has arrested 7 youths for playing the PUBG online video game. Clearly things have spiralled out of control. '
+tags = ['Censorship']
+title = 'An Appeal: Please, do not jail PUBG users.'
 
 +++
 

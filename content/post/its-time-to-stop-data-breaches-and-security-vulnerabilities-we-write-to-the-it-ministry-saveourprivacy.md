@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Parliament", "Data Protection", "SaveOurPrivacy", "Breaches"]
+author = 'Apar Gupta'
+categories = ['Parliament', 'Data Protection', 'SaveOurPrivacy', 'Breaches']
 date = 2020-06-05T02:20:00Z
-description = ""
+description = ''
 draft = false
-slug = "its-time-to-stop-data-breaches-and-security-vulnerabilities-we-write-to-the-it-ministry-saveourprivacy"
-summary = "The Committee on IT is meeting on June 10, 2020 to discuss the issue of, \"Citizens data security and privacy\". We are hopeful it puts questions on Aarogya Setu and Data Breaches to the Ministry of IT. "
-tags = ["Parliament", "Data Protection", "SaveOurPrivacy", "Breaches"]
-title = "The Committee on IT is meeting next week! #SaveOurPrivacy"
+slug = 'its-time-to-stop-data-breaches-and-security-vulnerabilities-we-write-to-the-it-ministry-saveourprivacy'
+summary = 'The Committee on IT is meeting on June 10, 2020 to discuss the issue of, "Citizens data security and privacy". We are hopeful it puts questions on Aarogya Setu and Data Breaches to the Ministry of IT. '
+tags = ['Parliament', 'Data Protection', 'SaveOurPrivacy', 'Breaches']
+title = 'The Committee on IT is meeting next week! #SaveOurPrivacy'
 
 +++
 

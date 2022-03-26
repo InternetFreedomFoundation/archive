@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Legal"]
+author = 'Joanne DCunha'
+categories = ['Legal']
 date = 2019-05-17T09:09:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/05/Capture-16.PNG"
-slug = "venom-venom-venom-bsnl-engaging-in-code-injections"
+image = 'https://internetfreedom.in/content/images/2019/05/Capture-16.PNG'
+slug = 'venom-venom-venom-bsnl-engaging-in-code-injections'
 summary = "Documents reports of code injections producing advertisments and images by BSNL's has led us to question security and legality of their actions. We write to BSNL to take necessary recourse in addressing the issue. "
-tags = ["Legal"]
-title = "Venom, venom, venom. BSNL engaging in code injections."
+tags = ['Legal']
+title = 'Venom, venom, venom. BSNL engaging in code injections.'
 
 +++
 

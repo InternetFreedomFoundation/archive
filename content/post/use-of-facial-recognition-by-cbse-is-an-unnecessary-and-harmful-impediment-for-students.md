@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["facial recognition", "Project Panoptic", "Privacy", "RTI", "SaveOurPrivacy", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['facial recognition', 'Project Panoptic', 'Privacy', 'RTI', 'SaveOurPrivacy', 'Surveillance']
 date = 2021-01-21T08:51:40Z
-description = ""
+description = ''
 draft = false
-slug = "use-of-facial-recognition-by-cbse-is-an-unnecessary-and-harmful-impediment-for-students"
-summary = "Read our representation to CBSE highlighting the concerns that come along with the use of facial recognition technology which they have put in place for accessing digital documents. "
-tags = ["facial recognition", "Project Panoptic", "Privacy", "RTI", "SaveOurPrivacy", "Surveillance"]
+slug = 'use-of-facial-recognition-by-cbse-is-an-unnecessary-and-harmful-impediment-for-students'
+summary = 'Read our representation to CBSE highlighting the concerns that come along with the use of facial recognition technology which they have put in place for accessing digital documents. '
+tags = ['facial recognition', 'Project Panoptic', 'Privacy', 'RTI', 'SaveOurPrivacy', 'Surveillance']
 title = "A rose by any other name? CBSE's face matching technology is just facial recognition in disguise"
 
 +++

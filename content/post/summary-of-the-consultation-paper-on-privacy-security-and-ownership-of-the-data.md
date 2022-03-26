@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-09-18T13:44:02Z
-description = ""
+description = ''
 draft = false
-slug = "summary-of-the-consultation-paper-on-privacy-security-and-ownership-of-the-data"
-title = "Summary of the Consultation Paper on Privacy, Security and Ownership of the Data in the Telecom Sector"
+slug = 'summary-of-the-consultation-paper-on-privacy-security-and-ownership-of-the-data'
+title = 'Summary of the Consultation Paper on Privacy, Security and Ownership of the Data in the Telecom Sector'
 
 +++
 

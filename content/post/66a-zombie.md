@@ -1,11 +1,11 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-10-31T06:00:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/10/Screenshot-2018-10-31-at-11.28.16-AM.png"
-slug = "66a-zombie"
-title = "Section 66A and other legal zombies #IFFresearch #RightToMeme"
+image = 'https://internetfreedom.in/content/images/2018/10/Screenshot-2018-10-31-at-11.28.16-AM.png'
+slug = '66a-zombie'
+title = 'Section 66A and other legal zombies #IFFresearch #RightToMeme'
 
 +++
 

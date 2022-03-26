@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Data Protection", "SaveOurPrivacy"]
+author = 'Rohin Garg'
+categories = ['Data Protection', 'SaveOurPrivacy']
 date = 2021-04-03T07:39:28Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/-StartFromScratch_-the-Personal-Data-Protection-Bill--2019-1.png"
-slug = "startfromscratch-an-explainer-on-the-personal-data-protection-bill-2019"
-summary = "Part 2 of our series on the data bill will explain the basics of the Personal Data Protection Bill, 2019. In it, we provide an introduction to the main definitions, the Data Processing Authority is, user rights, and exemptions provided to the government."
-tags = ["Data Protection", "SaveOurPrivacy"]
-title = "#StartFromScratch: An Explainer on the Personal Data Protection Bill, 2019"
+image = 'https://internetfreedom.in/content/images/2021/04/-StartFromScratch_-the-Personal-Data-Protection-Bill--2019-1.png'
+slug = 'startfromscratch-an-explainer-on-the-personal-data-protection-bill-2019'
+summary = 'Part 2 of our series on the data bill will explain the basics of the Personal Data Protection Bill, 2019. In it, we provide an introduction to the main definitions, the Data Processing Authority is, user rights, and exemptions provided to the government.'
+tags = ['Data Protection', 'SaveOurPrivacy']
+title = '#StartFromScratch: An Explainer on the Personal Data Protection Bill, 2019'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Data Protection", "PDPB"]
+author = 'Rohin Garg'
+categories = ['Data Protection', 'PDPB']
 date = 2021-04-08T06:14:45Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/Gender-Equality-2.png"
-slug = "why-is-the-data-bill-being-criticized"
-summary = "In the third edition of #StartFromScratch, we explain the key issues with the Personal Data Protection Bill, 2019."
-tags = ["Data Protection", "PDPB"]
-title = "#StartFromScratch: Why is the data protection bill being criticized?"
+image = 'https://internetfreedom.in/content/images/2021/04/Gender-Equality-2.png'
+slug = 'why-is-the-data-bill-being-criticized'
+summary = 'In the third edition of #StartFromScratch, we explain the key issues with the Personal Data Protection Bill, 2019.'
+tags = ['Data Protection', 'PDPB']
+title = '#StartFromScratch: Why is the data protection bill being criticized?'
 
 +++
 

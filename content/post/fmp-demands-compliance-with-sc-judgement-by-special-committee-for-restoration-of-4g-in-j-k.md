@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Legal", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Legal', 'Supreme Court']
 date = 2020-05-29T10:36:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/J-K-4G-29-May-1.png"
-slug = "fmp-demands-compliance-with-sc-judgement-by-special-committee-for-restoration-of-4g-in-j-k"
+image = 'https://internetfreedom.in/content/images/2020/05/J-K-4G-29-May-1.png'
+slug = 'fmp-demands-compliance-with-sc-judgement-by-special-committee-for-restoration-of-4g-in-j-k'
 summary = "FMP wrote to the Special Committee established by the Supreme Court seeking immediate review of internet restrictions in Jammu & Kashmir within 7 working days and publication of the Committee's recommendations."
-tags = ["internet shutdowns", "Legal", "Supreme Court"]
-title = "FMP demands compliance with SC directions by Special Committee for restoration of 4G in J&K #KeepUsOnline #4GforAll"
+tags = ['internet shutdowns', 'Legal', 'Supreme Court']
+title = 'FMP demands compliance with SC directions by Special Committee for restoration of 4G in J&K #KeepUsOnline #4GforAll'
 
 +++
 

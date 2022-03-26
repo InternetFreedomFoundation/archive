@@ -1,11 +1,11 @@
 +++
-author = "Rohin Garg"
+author = 'Rohin Garg'
 date = 2021-01-19T05:52:35Z
-description = ""
+description = ''
 draft = false
-slug = "health-id-rules-explainer"
-summary = "Given that the proposed health IDs are to be used in the rollout of the COVID-19 vaccine, we thought we would create an explainer on the the Unique Health Identifier Rules, 2021. This explainer is our initial attempt at an analysis, through which we hope to start a public discussion on the issue."
-title = "An Explainer on the Unique Health Identifier rules, 2021"
+slug = 'health-id-rules-explainer'
+summary = 'Given that the proposed health IDs are to be used in the rollout of the COVID-19 vaccine, we thought we would create an explainer on the the Unique Health Identifier Rules, 2021. This explainer is our initial attempt at an analysis, through which we hope to start a public discussion on the issue.'
+title = 'An Explainer on the Unique Health Identifier rules, 2021'
 
 +++
 

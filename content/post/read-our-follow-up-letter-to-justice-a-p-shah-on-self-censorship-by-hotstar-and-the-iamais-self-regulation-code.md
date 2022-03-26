@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["Censorship", "Free"]
+author = 'Sidharth Deb'
+categories = ['Censorship', 'Free']
 date = 2020-03-13T03:16:36Z
-description = ""
+description = ''
 draft = false
-slug = "read-our-follow-up-letter-to-justice-a-p-shah-on-self-censorship-by-hotstar-and-the-iamais-self-regulation-code"
+slug = 'read-our-follow-up-letter-to-justice-a-p-shah-on-self-censorship-by-hotstar-and-the-iamais-self-regulation-code'
 summary = "IFF has written to Justice AP Shah and the Internet and Mobile Association of India (IAMAI). In it we have expressed our concerns of self censorship by Hotstar and pressure by Government to get the entire online content industry to follow the IAMAI's Code for Self-Regulation. "
-tags = ["Censorship", "Free"]
-title = "Read our follow up letter to Justice A.P. Shah on self-censorship by Hotstar and the IAMAI’s self regulation code #LetUsChill"
+tags = ['Censorship', 'Free']
+title = 'Read our follow up letter to Justice A.P. Shah on self-censorship by Hotstar and the IAMAI’s self regulation code #LetUsChill'
 
 +++
 

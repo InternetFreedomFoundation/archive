@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["66A"]
+author = 'Joanne DCunha'
+categories = ['66A']
 date = 2019-10-07T05:28:58Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Capture1-1.PNG"
-slug = "zombie"
+image = 'https://internetfreedom.in/content/images/2019/10/Capture1-1.PNG'
+slug = 'zombie'
 summary = "RTI data reveals that although Courts have actively complied with SC's directions,  the Chief Secretaries and DGP's were sent advisories only during the case, no advisories have been sent after."
-tags = ["66A"]
-title = "To stab or not to stab: is the Zombie really dead?"
+tags = ['66A']
+title = 'To stab or not to stab: is the Zombie really dead?'
 
 +++
 

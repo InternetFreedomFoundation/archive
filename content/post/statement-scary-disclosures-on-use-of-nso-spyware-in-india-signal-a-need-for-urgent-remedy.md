@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Breaches", "SaveOurPrivacy", "Statement", "Surveillance"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Breaches', 'SaveOurPrivacy', 'Statement', 'Surveillance']
 date = 2019-10-31T11:09:12Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/We-will-not-be-cowered--This-is-the-time-to-push-for-surveillance-reform-in-India.png"
-slug = "statement-scary-disclosures-on-use-of-nso-spyware-in-india-signal-a-need-for-urgent-remedy"
+image = 'https://internetfreedom.in/content/images/2019/10/We-will-not-be-cowered--This-is-the-time-to-push-for-surveillance-reform-in-India.png'
+slug = 'statement-scary-disclosures-on-use-of-nso-spyware-in-india-signal-a-need-for-urgent-remedy'
 summary = "News reports have revealed the targeting of lawyers, journalists and activists in India through NSO's illegal spyware, Pegasus. \nWhile these revelations have left many of us shaken, we must demand transparency from the govt and push for surveillance reform in parliament and courts. "
-tags = ["Breaches", "SaveOurPrivacy", "Statement", "Surveillance"]
-title = "Statement: Scary disclosures on use of NSO spyware in India signal a need for urgent reform"
+tags = ['Breaches', 'SaveOurPrivacy', 'Statement', 'Surveillance']
+title = 'Statement: Scary disclosures on use of NSO spyware in India signal a need for urgent reform'
 
 +++
 

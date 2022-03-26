@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["Surveillance", "Supreme Court", "spyware", "SaveOurPrivacy", "Privacy", "pegasus", "Legal"]
+author = 'Krishnesh'
+categories = ['Surveillance', 'Supreme Court', 'spyware', 'SaveOurPrivacy', 'Privacy', 'pegasus', 'Legal']
 date = 2021-10-27T07:46:19Z
-description = ""
+description = ''
 draft = false
-slug = "sc-appoints-a-committee-to-examine-the-use-of-pegasus-spyware-in-india"
-summary = "Supreme Court has appointed a committee of technical experts overseen by Justice R. V. Raveendran, to examine the use of Pegasus Spyware on Indian Citizens. "
-tags = ["Surveillance", "Supreme Court", "spyware", "SaveOurPrivacy", "Privacy", "pegasus", "Legal"]
-title = "SC appoints a committee to examine the use of Pegasus Spyware in India"
+slug = 'sc-appoints-a-committee-to-examine-the-use-of-pegasus-spyware-in-india'
+summary = 'Supreme Court has appointed a committee of technical experts overseen by Justice R. V. Raveendran, to examine the use of Pegasus Spyware on Indian Citizens. '
+tags = ['Surveillance', 'Supreme Court', 'spyware', 'SaveOurPrivacy', 'Privacy', 'pegasus', 'Legal']
+title = 'SC appoints a committee to examine the use of Pegasus Spyware in India'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Raghav Kaushal"
-categories = ["SaveOurPrivacy", "aarogyasetu"]
+author = 'Raghav Kaushal'
+categories = ['SaveOurPrivacy', 'aarogyasetu']
 date = 2020-08-19T05:52:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Blog-Post-Aarogya-Setu-Open-Source-1.png"
-slug = "aarogya-setu-should-be-open-source-now"
-summary = "Four months, after its initial release, the Aarogya Setu app is not open-source in the true sense of the term. Source code releases have been slow and incomplete. This is preventing the Indian tech community from collaborating and contributing."
-tags = ["SaveOurPrivacy", "aarogyasetu"]
-title = "Four months on, Aarogya Setu is still not open-source. WHY and WHEN is what the nation really wants to know! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/08/Blog-Post-Aarogya-Setu-Open-Source-1.png'
+slug = 'aarogya-setu-should-be-open-source-now'
+summary = 'Four months, after its initial release, the Aarogya Setu app is not open-source in the true sense of the term. Source code releases have been slow and incomplete. This is preventing the Indian tech community from collaborating and contributing.'
+tags = ['SaveOurPrivacy', 'aarogyasetu']
+title = 'Four months on, Aarogya Setu is still not open-source. WHY and WHEN is what the nation really wants to know! #SaveOurPrivacy'
 
 +++
 

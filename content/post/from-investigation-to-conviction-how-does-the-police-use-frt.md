@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "facial recognition"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'facial recognition']
 date = 2021-07-02T05:00:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Header---Panoptic-FRT-Accuracy-1.png"
-slug = "from-investigation-to-conviction-how-does-the-police-use-frt"
-summary = "In this post, we look at how the Police uses facial recognition technology based on its accuracy rates as well as analyse the admissibility of FRT based evidence in courts. "
-tags = ["Project Panoptic", "facial recognition"]
-title = "From investigation to conviction: How does the Police use FRT?"
+image = 'https://internetfreedom.in/content/images/2021/07/Header---Panoptic-FRT-Accuracy-1.png'
+slug = 'from-investigation-to-conviction-how-does-the-police-use-frt'
+summary = 'In this post, we look at how the Police uses facial recognition technology based on its accuracy rates as well as analyse the admissibility of FRT based evidence in courts. '
+tags = ['Project Panoptic', 'facial recognition']
+title = 'From investigation to conviction: How does the Police use FRT?'
 
 +++
 

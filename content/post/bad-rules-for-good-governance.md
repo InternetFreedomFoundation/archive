@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["aadhaar", "Privacy"]
+author = 'Rohin Garg'
+categories = ['aadhaar', 'Privacy', 'Economy']
 date = 2021-04-27T07:40:45Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/1-14.png"
-slug = "bad-rules-for-good-governance"
-summary = "We explain why the Aadhaar Good Governances Rules are unconstitutional as they exceed the limits of the Aadhaar Act, violate the Puttaswamy judgement and proportionality test, and are vague and non-voluntary. We have petitioned the Committees on Subordinate Legislation to review the Rules."
-tags = ["aadhaar", "Privacy"]
-title = "Bad Rules for Good Governance"
+image = 'https://internetfreedom.in/content/images/2021/04/1-14.png'
+slug = 'bad-rules-for-good-governance'
+summary = 'We explain why the Aadhaar Good Governances Rules are unconstitutional as they exceed the limits of the Aadhaar Act, violate the Puttaswamy judgement and proportionality test, and are vague and non-voluntary. We have petitioned the Committees on Subordinate Legislation to review the Rules.'
+tags = ['aadhaar', 'Privacy', 'Economy']
+title = 'Bad Rules for Good Governance'
 
 +++
 

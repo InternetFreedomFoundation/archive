@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Filings", "Legal"]
+author = 'Joanne DCunha'
+categories = ['Filings', 'Legal']
 date = 2019-10-22T09:18:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/FB-TP-22-Oct-2019-1.png"
-slug = "facebooks-transfer-petition-in-madras-hc-case-involving-encryption-and-traceability-allowed-after-tamil-nadu-government-withdraws-objections"
+image = 'https://internetfreedom.in/content/images/2019/10/FB-TP-22-Oct-2019-1.png'
+slug = 'facebooks-transfer-petition-in-madras-hc-case-involving-encryption-and-traceability-allowed-after-tamil-nadu-government-withdraws-objections'
 summary = "In today's hearing, the SC allowed Facebook's transfer petition in Antony Clement Rubin v. Union of India after the Tamil Nadu Government withdrew its objections to the transfer."
-tags = ["Filings", "Legal"]
-title = "Facebook’s Transfer Petition in Madras HC case involving encryption and traceability allowed after Tamil Nadu Government withdraws objections"
+tags = ['Filings', 'Legal']
+title = 'Facebook’s Transfer Petition in Madras HC case involving encryption and traceability allowed after Tamil Nadu Government withdraws objections'
 
 +++
 

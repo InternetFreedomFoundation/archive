@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Right to Information", "transparency"]
+author = 'Yashaswini'
+categories = ['Right to Information', 'transparency', 'RTIReport']
 date = 2021-08-03T10:16:36Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/July-transparency-report-header-1.png"
-slug = "digital-transparency-a-right-to-information-report-for-july-2021"
-summary = "Since our last report for the month of June, IFF has filed 29 RTI requests, 3 First Appeals and 3 Second Appeals. Here, we give you an overview of the requests filed and why demanding transparency and accountability from Government authorities is important."
-tags = ["Right to Information", "transparency"]
-title = "Digital Transparency: A Right to Information Report for July, 2021"
+image = 'https://internetfreedom.in/content/images/2021/08/July-transparency-report-header-1.png'
+slug = 'digital-transparency-a-right-to-information-report-for-july-2021'
+summary = 'Since our last report for the month of June, IFF has filed 29 RTI requests, 3 First Appeals and 3 Second Appeals. Here, we give you an overview of the requests filed and why demanding transparency and accountability from Government authorities is important.'
+tags = ['Right to Information', 'transparency', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for July, 2021'
 
 +++
 
@@ -105,11 +105,15 @@ In this regard, we closely follow new regulations that impact our digital entrep
 
 1. The [**Ministry of Consumer Affairs**](https://drive.google.com/file/d/10i9FQmhchlVLbPj8xlBli5O7xyFGaccL/view?usp=sharing) **** requesting information on the representation sent by the Internet Freedom Foundation bearing reference no. [**IFF/2021/072**](https://drive.google.com/file/d/1Sl80KLCj9M_qlj5fMNeegFz_m0qqTFaR/view?usp=sharing) on July 20, 2021
 
+<iframe src="https://drive.google.com/file/d/1Lx0EuD0TikCau0FYu6ksA0Rlp-WReFis/preview" width="580" height="480"></iframe>
+
 ### Important documents
 
 1. Digital Transparency: A Right to Information report for June, 2021 dated July 8, 2021 ([**link**](https://internetfreedom.in/digital-transparency-a-right-to-information-report-for-june-2021/))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

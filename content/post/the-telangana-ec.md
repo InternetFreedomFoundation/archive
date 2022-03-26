@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["facial recognition", "Project Panoptic"]
+author = 'Farkhanda Zahoor'
+categories = ['facial recognition', 'Project Panoptic']
 date = 2020-03-17T08:50:39Z
-description = ""
+description = ''
 draft = false
-slug = "the-telangana-ec"
-summary = "IFF filed RTI requests with the Telangana State Election Commission and Telangana State Technology Services pursuant to the use of Facial Recognition Technology for voter verification in the urban local body elections in Kompally in January, 2020. "
-tags = ["facial recognition", "Project Panoptic"]
-title = "Illegal use of Facial Recognition for Voter Verification in Telangana #ProjectPanoptic"
+slug = 'the-telangana-ec'
+summary = 'IFF filed RTI requests with the Telangana State Election Commission and Telangana State Technology Services pursuant to the use of Facial Recognition Technology for voter verification in the urban local body elections in Kompally in January, 2020. '
+tags = ['facial recognition', 'Project Panoptic']
+title = 'Illegal use of Facial Recognition for Voter Verification in Telangana #ProjectPanoptic'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["drones", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['drones', 'Surveillance']
 date = 2020-03-27T05:11:37Z
-description = ""
+description = ''
 draft = false
-slug = "delhi-police-admits-to-using-drones"
-summary = "With reports now emerging that the Delhi Police is using drones to check for people who are breaking the curfew in Delhi, we examine responses we have received in reply to Right to Information requests filed about the usage of drones in Delhi in February."
-tags = ["drones", "Surveillance"]
-title = "Delhi Police admits to using drones on civilians without any publicly available legal guidelines in place #SaveOurPrivacy"
+slug = 'delhi-police-admits-to-using-drones'
+summary = 'With reports now emerging that the Delhi Police is using drones to check for people who are breaking the curfew in Delhi, we examine responses we have received in reply to Right to Information requests filed about the usage of drones in Delhi in February.'
+tags = ['drones', 'Surveillance']
+title = 'Delhi Police admits to using drones on civilians without any publicly available legal guidelines in place #SaveOurPrivacy'
 
 +++
 

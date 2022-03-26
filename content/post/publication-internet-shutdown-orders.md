@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "keep us online"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'keep us online']
 date = 2020-07-14T12:05:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/Publication-of-Internet-Shutdown-Orders-2.png"
-slug = "publication-internet-shutdown-orders"
-summary = "We wrote to DoT and State Governments of Madhya Pradesh, Meghalaya, Uttar Pradesh and West Bengal seeking proactive publication of internet shutdown orders in accordance with Anuradha Bhasin v. Union of India. "
-tags = ["internet shutdowns", "keep us online"]
-title = "6 months after Anuradha Bhasin v. UoI, state governments are still not publishing internet shutdown orders #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/07/Publication-of-Internet-Shutdown-Orders-2.png'
+slug = 'publication-internet-shutdown-orders'
+summary = 'We wrote to DoT and State Governments of Madhya Pradesh, Meghalaya, Uttar Pradesh and West Bengal seeking proactive publication of internet shutdown orders in accordance with Anuradha Bhasin v. Union of India. '
+tags = ['internet shutdowns', 'keep us online']
+title = '6 months after Anuradha Bhasin v. UoI, state governments are still not publishing internet shutdown orders #KeepUsOnline'
 
 +++
 

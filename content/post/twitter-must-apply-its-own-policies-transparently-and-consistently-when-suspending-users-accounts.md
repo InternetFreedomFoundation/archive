@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["Censorship", "freespeech", "intermediary", "transparency", "Twitter"]
+author = 'Tanmay Singh'
+categories = ['Censorship', 'freespeech', 'intermediary', 'transparency', 'Twitter']
 date = 2021-06-23T04:56:49Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/sushant-singh-and-iff-send-twitter-a-formal-representation-on-its-arbitrary-content-takedown-policies-1.png"
-slug = "twitter-must-apply-its-own-policies-transparently-and-consistently-when-suspending-users-accounts"
-summary = "Twitter unilaterally and arbitrarily suspended the account of Sushant Singh (@sushant_says) twice. He sent a formal representation to Twitter highlighting issues with Twitter’s policies and actions, relating to transparency, free expression and consistency, and urged an open dialogue on its policy."
-tags = ["Censorship", "freespeech", "intermediary", "transparency", "Twitter"]
-title = "Twitter must apply its own policies transparently and consistently when suspending users’ accounts"
+image = 'https://internetfreedom.in/content/images/2021/06/sushant-singh-and-iff-send-twitter-a-formal-representation-on-its-arbitrary-content-takedown-policies-1.png'
+slug = 'twitter-must-apply-its-own-policies-transparently-and-consistently-when-suspending-users-accounts'
+summary = 'Twitter unilaterally and arbitrarily suspended the account of Sushant Singh (@sushant_says) twice. He sent a formal representation to Twitter highlighting issues with Twitter’s policies and actions, relating to transparency, free expression and consistency, and urged an open dialogue on its policy.'
+tags = ['Censorship', 'freespeech', 'intermediary', 'transparency', 'Twitter']
+title = 'Twitter must apply its own policies transparently and consistently when suspending users’ accounts'
 
 +++
 

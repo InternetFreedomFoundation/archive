@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Surveillance", "Privacy", "Statement"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Surveillance', 'Privacy', 'Statement', 'pegasus']
 date = 2020-11-02T05:17:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/NSO-Pegasus-Hack.png"
-slug = "nso-pegasus-hack-one-year-anniversary"
-summary = "Despite multiple government and parliamentary bodies examining the Pegasus hack, a whole year has passed and we still do not know who was responsible for this egregious violation of the privacy of human rights defenders in the country."
-tags = ["Surveillance", "Privacy", "Statement"]
-title = "Statement: One year of inaction, delay and evasion on the NSO-Pegasus hack #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/11/NSO-Pegasus-Hack.png'
+slug = 'nso-pegasus-hack-one-year-anniversary'
+summary = 'Despite multiple government and parliamentary bodies examining the Pegasus hack, a whole year has passed and we still do not know who was responsible for this egregious violation of the privacy of human rights defenders in the country.'
+tags = ['Surveillance', 'Privacy', 'Statement', 'pegasus']
+title = 'Statement: One year of inaction, delay and evasion on the NSO-Pegasus hack #SaveOurPrivacy'
 
 +++
 

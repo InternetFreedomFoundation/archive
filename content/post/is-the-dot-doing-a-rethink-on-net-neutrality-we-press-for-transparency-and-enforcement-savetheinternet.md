@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["DOT", "Net Neutrality", "TRAI"]
+author = 'Yashaswini'
+categories = ['DOT', 'Net Neutrality', 'TRAI']
 date = 2021-08-26T09:44:56Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/DoT-Twitter-1.jpeg"
-slug = "is-the-dot-doing-a-rethink-on-net-neutrality-we-press-for-transparency-and-enforcement-savetheinternet"
-summary = "We were alarmed by a recent report that the Department of Telecommunications (DoT) is citing fiscal constraints in establishing a Multi Stakeholder Body (MSB). We wrote to the DoT, pressing for transparency and enforcement of net neutrality. "
-tags = ["DOT", "Net Neutrality", "TRAI"]
-title = "Is the DoT doing a rethink on net neutrality? We press for transparency and enforcement #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2021/08/DoT-Twitter-1.jpeg'
+slug = 'is-the-dot-doing-a-rethink-on-net-neutrality-we-press-for-transparency-and-enforcement-savetheinternet'
+summary = 'We were alarmed by a recent report that the Department of Telecommunications (DoT) is citing fiscal constraints in establishing a Multi Stakeholder Body (MSB). We wrote to the DoT, pressing for transparency and enforcement of net neutrality. '
+tags = ['DOT', 'Net Neutrality', 'TRAI']
+title = 'Is the DoT doing a rethink on net neutrality? We press for transparency and enforcement #SaveTheInternet'
 
 +++
 
@@ -16,7 +16,7 @@ title = "Is the DoT doing a rethink on net neutrality? We press for transparency
 {{< gallery >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/08/DoT-Twitter.jpeg" width="1600" height="900" >}}{{< /gallery >}}
 
-<form><script src="[https://cdn.razorpay.com/static/widget/subscription-button.js](https://cdn.razorpay.com/static/widget/subscription-button.js)" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+>>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>
 
 ### tl;dr
 
@@ -72,6 +72,8 @@ The [DoT’s Annual Report for 2020-21](https://dot.gov.in/sites/default/files/A
 1. **Operationalise the net neutrality enforcement mechanisms** at the earliest, especially by establishing the multistakeholder body as recommended by the TRAI. The recommendations from the TRAI can go a long way in  averting the massive damages caused upon the fundamental rights as well as the economic opportunities of the citizens by arbitrary and disproportionate internet shutdowns.
 2. **Approach any major policy rethink on Net Neutrality with transparency and public participation:** Here we urged DoT  to urgently dispose of our RTI Application and provide us with a copy of the response, along with other relevant documents at the earliest. A lot now remains up to DoT for taking our fight for net neutrality to its logical conclusion and act on the recommendations decisively and assist in public advocacy for vital information.
 
+<iframe src="https://drive.google.com/file/d/1tFrwrtPAe4X5NXAkM8kGlYC9Q3lb6Osd/preview" width="580" height="480"></iframe>
+
 ### Important Documents
 
 1. IFF’s representation to DoT, dated August 24, 2021 ([Link](https://drive.google.com/file/d/1NLVNHMiyYj2cezPyexf8VUmWHaV3TRsl/view?usp=sharing))
@@ -80,7 +82,11 @@ The [DoT’s Annual Report for 2020-21](https://dot.gov.in/sites/default/files/A
 4. Previous Blogpost on IFF’s supplementary submission on TRAI’s consultation paper on Net neutrality monitoring and enforcement. ([Link](https://internetfreedom.in/iff-writes-to-trai-reminding-them-that-users-must-be-at-the-centre-of-net-neutrality-savetheinternet/))
 5. Previous Blogpost on IFF’s representation to DoT for operationalising the TRAI’s recommendations ([Link](https://drive.google.com/file/d/1DMqy35xw2_1rY5pD00MHDqKzF5yc1TYP/view))
 
-<form><script src="[[https://checkout.razorpay.com/v1/payment-button.js](https://checkout.razorpay.com/v1/payment-button.js)]([https://checkout.razorpay.com/v1/payment-button.js](https://checkout.razorpay.com/v1/payment-button.js))" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>
+> > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
+
+
 
 
 

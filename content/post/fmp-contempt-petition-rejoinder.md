@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Supreme Court", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Supreme Court', 'Legal']
 date = 2020-07-28T08:34:58Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/FMP-28-July-1.png"
-slug = "fmp-contempt-petition-rejoinder"
+image = 'https://internetfreedom.in/content/images/2020/07/FMP-28-July-1.png'
+slug = 'fmp-contempt-petition-rejoinder'
 summary = "During today's hearing before the Supreme Court, the Solicitor General sought an adjournment to go through FMP's rejoinder which challenges secrecy in the functioning of the Special Committee. "
-tags = ["internet shutdowns", "Supreme Court", "Legal"]
-title = "FMP files rejoinder before SC about Jammu & Kashmir 4G mobile internet ban #KeepUsOnline"
+tags = ['internet shutdowns', 'Supreme Court', 'Legal']
+title = 'FMP files rejoinder before SC about Jammu & Kashmir 4G mobile internet ban #KeepUsOnline'
 
 +++
 

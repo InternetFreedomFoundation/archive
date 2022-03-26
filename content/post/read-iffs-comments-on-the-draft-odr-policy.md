@@ -1,11 +1,11 @@
 +++
-author = "Rohin Garg"
+author = 'Rohin Garg'
 date = 2020-11-09T09:01:03Z
-description = ""
+description = ''
 draft = false
-slug = "read-iffs-comments-on-the-draft-odr-policy"
-summary = "In our comments to the Niti Aayog’s draft report, we have highlighted three issues that we felt the draft ODR policy must address: inclusion and access, adequate privacy protections, and the need for governmental oversight."
-title = "Focusing the draft Online Dispute Resolution (ODR) Policy towards the delivery of justice"
+slug = 'read-iffs-comments-on-the-draft-odr-policy'
+summary = 'In our comments to the Niti Aayog’s draft report, we have highlighted three issues that we felt the draft ODR policy must address: inclusion and access, adequate privacy protections, and the need for governmental oversight.'
+title = 'Focusing the draft Online Dispute Resolution (ODR) Policy towards the delivery of justice'
 
 +++
 

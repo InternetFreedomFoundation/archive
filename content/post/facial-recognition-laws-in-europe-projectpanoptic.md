@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "facial recognition"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'facial recognition']
 date = 2021-05-13T07:16:45Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/1-5.png"
-slug = "facial-recognition-laws-in-europe-projectpanoptic"
-summary = "In the second part of our series on FRT regulation around the world, we will take a look at what are the existing laws regulating FRT in Europe and where regulation is headed."
-tags = ["Project Panoptic", "facial recognition"]
-title = "Facial Recognition Laws in Europe #ProjectPanoptic"
+image = 'https://internetfreedom.in/content/images/2021/05/1-5.png'
+slug = 'facial-recognition-laws-in-europe-projectpanoptic'
+summary = 'In the second part of our series on FRT regulation around the world, we will take a look at what are the existing laws regulating FRT in Europe and where regulation is headed.'
+tags = ['Project Panoptic', 'facial recognition']
+title = 'Facial Recognition Laws in Europe #ProjectPanoptic'
 
 +++
 

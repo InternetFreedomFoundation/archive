@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["keep us online", "accesstointernet"]
+author = 'Anushka Jain'
+categories = ['keep us online', 'accesstointernet']
 date = 2020-06-10T11:17:30Z
-description = ""
+description = ''
 draft = false
-slug = "for-the-people-of-andaman-nicobar-islands-4g-internet-at-reasonable-tariffs-is-still-a-dream"
-summary = "In this blogpost, we aim to highlight the access to internet problems being faced by the citizens of the Andaman and Nicobar Islands with a focus on the delays in the ongoing CANI Submarine Cable Systems Project."
-tags = ["keep us online", "accesstointernet"]
-title = "For the people of Andaman & Nicobar Islands, 4G internet at reasonable tariffs is still a dream...  #DigitalAndaman #4GforAll"
+slug = 'for-the-people-of-andaman-nicobar-islands-4g-internet-at-reasonable-tariffs-is-still-a-dream'
+summary = 'In this blogpost, we aim to highlight the access to internet problems being faced by the citizens of the Andaman and Nicobar Islands with a focus on the delays in the ongoing CANI Submarine Cable Systems Project.'
+tags = ['keep us online', 'accesstointernet']
+title = 'For the people of Andaman & Nicobar Islands, 4G internet at reasonable tariffs is still a dream...  #DigitalAndaman #4GforAll'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["keep us online", "internet shutdowns"]
+author = 'Apar Gupta'
+categories = ['keep us online', 'internet shutdowns']
 date = 2018-11-26T06:25:03Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/11/Screenshot-2018-11-26-at-11.42.25-AM-2.png"
-slug = "continued-action-against-internet-shutdowns-keepusonline"
-summary = "Support advocacy actions against the growing problem of internet shutdowns across India by engaging parliamentarians. We have prepared a short brief to help you set out key facts, figures and arguments on the massive damage caused by shutting down the internet. "
-tags = ["keep us online", "internet shutdowns"]
-title = "Support parlimentary scrutiny against internet shutdowns #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2018/11/Screenshot-2018-11-26-at-11.42.25-AM-2.png'
+slug = 'continued-action-against-internet-shutdowns-keepusonline'
+summary = 'Support advocacy actions against the growing problem of internet shutdowns across India by engaging parliamentarians. We have prepared a short brief to help you set out key facts, figures and arguments on the massive damage caused by shutting down the internet. '
+tags = ['keep us online', 'internet shutdowns']
+title = 'Support parlimentary scrutiny against internet shutdowns #KeepUsOnline'
 
 +++
 

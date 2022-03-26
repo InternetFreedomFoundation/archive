@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PrivacyofThePeople", "PDPB", "Data Protection", "AgriStack"]
+author = 'Rohin Garg'
+categories = ['PrivacyofThePeople', 'PDPB', 'Data Protection', 'AgriStack', 'Agriculture']
 date = 2021-06-30T12:54:13Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Pay-attention--India--Our-incoming-data-law-is-letting-down-farmers-and-their-fundamental-right-to-privacy.-1.png"
-slug = "privacy-of-the-people-agristack-and-farmer-issues"
-summary = "In the second post in our #PrivacyOfThePeople series, we discuss the issue of farmer rights under the Personal Data Protection Bill, 2019 with respect to aggressive digitization by governmental initiatives. Who really benefits from Agristack systems and how does a loss of privacy affect farmers?"
-tags = ["PrivacyofThePeople", "PDPB", "Data Protection", "AgriStack"]
-title = "#PrivacyOfThePeople - Agristack and Farmers’ Issues"
+image = 'https://internetfreedom.in/content/images/2021/06/Pay-attention--India--Our-incoming-data-law-is-letting-down-farmers-and-their-fundamental-right-to-privacy.-1.png'
+slug = 'privacy-of-the-people-agristack-and-farmer-issues'
+summary = 'In the second post in our #PrivacyOfThePeople series, we discuss the issue of farmer rights under the Personal Data Protection Bill, 2019 with respect to aggressive digitization by governmental initiatives. Who really benefits from Agristack systems and how does a loss of privacy affect farmers?'
+tags = ['PrivacyofThePeople', 'PDPB', 'Data Protection', 'AgriStack', 'Agriculture']
+title = '#PrivacyOfThePeople - Agristack and Farmers’ Issues'
 
 +++
 

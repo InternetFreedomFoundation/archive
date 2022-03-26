@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "Surveillance"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'Surveillance', 'pegasus']
 date = 2019-11-21T06:12:16Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Capture--1--1.png"
-slug = "heres-what-we-ask-the-committee"
-summary = "We ask the Standing Committee to invite those affected by Pegasus to provide testimonials."
-tags = ["Privacy", "Surveillance"]
-title = "We ask the Committee on IT to let those targeted by Pegasus be heard!"
+image = 'https://internetfreedom.in/content/images/2019/11/Capture--1--1.png'
+slug = 'heres-what-we-ask-the-committee'
+summary = 'We ask the Standing Committee to invite those affected by Pegasus to provide testimonials.'
+tags = ['Privacy', 'Surveillance', 'pegasus']
+title = 'We ask the Committee on IT to let those targeted by Pegasus be heard!'
 
 +++
 

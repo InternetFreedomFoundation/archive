@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Data Protection", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Data Protection', 'Privacy']
 date = 2020-07-30T12:23:02Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/Aarogya-Setu-Delhi-Courts-3.png"
-slug = "aarogya-setu-delhi-district-courts"
-summary = "The representation highlights that making Aarogya Setu a pre-condition to access judicial establishments is likely to create barriers to justice, compromise the privacy of lawyers and their clients, and lacks any basis in law. "
-tags = ["aarogyasetu", "Data Protection", "Privacy"]
-title = "Over 130 individuals and organizations oppose mandatory use of Aarogya Setu in Delhi district courts #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/07/Aarogya-Setu-Delhi-Courts-3.png'
+slug = 'aarogya-setu-delhi-district-courts'
+summary = 'The representation highlights that making Aarogya Setu a pre-condition to access judicial establishments is likely to create barriers to justice, compromise the privacy of lawyers and their clients, and lacks any basis in law. '
+tags = ['aarogyasetu', 'Data Protection', 'Privacy']
+title = 'Over 130 individuals and organizations oppose mandatory use of Aarogya Setu in Delhi district courts #SaveOurPrivacy'
 
 +++
 

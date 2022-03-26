@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["facial recognition", "RTI", "SaveOurPrivacy", "Project Panoptic"]
+author = 'Anushka Jain'
+categories = ['facial recognition', 'RTI', 'SaveOurPrivacy', 'Project Panoptic']
 date = 2020-07-03T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "is-the-illegal-use-of-facial-recognition-technology-by-the-delhi-police-akin-to-mass-surveillance-you-decide-project-panoptic"
+slug = 'is-the-illegal-use-of-facial-recognition-technology-by-the-delhi-police-akin-to-mass-surveillance-you-decide-project-panoptic'
 summary = "In this blogpost, we collate and analyze our findings on the Delhi Police's use of facial recognition technology. Use of facial recognition without having a legal framework in place to regulate it raises the threat of mass surveillance."
-tags = ["facial recognition", "RTI", "SaveOurPrivacy", "Project Panoptic"]
-title = "Is the illegal use of facial recognition technology by the Delhi Police akin to mass surveillance? You decide. #Project Panoptic"
+tags = ['facial recognition', 'RTI', 'SaveOurPrivacy', 'Project Panoptic']
+title = 'Is the illegal use of facial recognition technology by the Delhi Police akin to mass surveillance? You decide. #Project Panoptic'
 
 +++
 

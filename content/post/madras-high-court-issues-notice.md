@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["Censorship", "freespeech", "intermediary", "it act", "ITRules", "OTT", "Privacy", "Madras HC"]
+author = 'Tanmay Singh'
+categories = ['Censorship', 'freespeech', 'intermediary', 'it act', 'ITRules', 'OTT', 'Privacy', 'Madras HC']
 date = 2021-06-10T05:24:03Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Add-a-heading--6--1.png"
-slug = "madras-high-court-issues-notice"
-summary = "Madras High issued notice on a writ petition by T.M. Krishna challenging the Intermediary Rules 2021. "
-tags = ["Censorship", "freespeech", "intermediary", "it act", "ITRules", "OTT", "Privacy", "Madras HC"]
-title = "Madras High Court issues notice in petition challenging the Intermediary Rules 2021 by T. M. Krishna"
+image = 'https://internetfreedom.in/content/images/2021/06/Add-a-heading--6--1.png'
+slug = 'madras-high-court-issues-notice'
+summary = 'Madras High issued notice on a writ petition by T.M. Krishna challenging the Intermediary Rules 2021. '
+tags = ['Censorship', 'freespeech', 'intermediary', 'it act', 'ITRules', 'OTT', 'Privacy', 'Madras HC']
+title = 'Madras High Court issues notice in petition challenging the Intermediary Rules 2021 by T. M. Krishna'
 
 +++
 

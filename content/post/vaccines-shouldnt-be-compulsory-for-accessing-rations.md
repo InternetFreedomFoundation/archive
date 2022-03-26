@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Covid", "COWIN", "Coronavirus"]
+author = 'Rohin Garg'
+categories = ['Covid', 'COWIN', 'Coronavirus']
 date = 2021-09-08T06:23:56Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/1-4.jpg"
-slug = "vaccines-shouldnt-be-compulsory-for-accessing-rations"
+image = 'https://internetfreedom.in/content/images/2021/09/1-4.jpg'
+slug = 'vaccines-shouldnt-be-compulsory-for-accessing-rations'
 summary = "Recently, a DC in Karnataka said that unvaccinated people would not receive PDS or pension entitlements. After significant public outcry, the decision was withdrawn. We wrote to the DC, appreciating the recall and asking him to ensure that vaccines aren't made mandatory for  government benefits."
-tags = ["Covid", "COWIN", "Coronavirus"]
-title = "Vaccines shouldn’t be compulsory for accessing rations!"
+tags = ['Covid', 'COWIN', 'Coronavirus']
+title = 'Vaccines shouldn’t be compulsory for accessing rations!'
 
 +++
 

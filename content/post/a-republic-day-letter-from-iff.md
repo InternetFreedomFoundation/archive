@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Official Announcement"]
+author = 'Apar Gupta'
+categories = ['Official Announcement']
 date = 2019-01-26T06:59:22Z
-description = ""
+description = ''
 draft = false
-slug = "a-republic-day-letter-from-iff"
-summary = "This republic day we reflect on our constitutional promises. For liberty, fraternity, equality and justice in technology. In 2019 we promise to keep up momentum on the internet freedom tableau! "
-tags = ["Official Announcement"]
-title = "A Republic Day letter from IFF"
+slug = 'a-republic-day-letter-from-iff'
+summary = 'This republic day we reflect on our constitutional promises. For liberty, fraternity, equality and justice in technology. In 2019 we promise to keep up momentum on the internet freedom tableau! '
+tags = ['Official Announcement']
+title = 'A Republic Day letter from IFF'
 
 +++
 

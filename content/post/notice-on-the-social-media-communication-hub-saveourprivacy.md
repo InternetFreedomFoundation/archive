@@ -1,11 +1,11 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-05-30T19:19:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/05/logofiles-04.jpg"
-slug = "notice-on-the-social-media-communication-hub-saveourprivacy"
-title = "Stop the \"Social Media Communication Hub\" #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2018/05/logofiles-04.jpg'
+slug = 'notice-on-the-social-media-communication-hub-saveourprivacy'
+title = 'Stop the "Social Media Communication Hub" #SaveOurPrivacy'
 
 +++
 

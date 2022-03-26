@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["transparency", "Project Panoptic", "zombietracker"]
+author = 'Anushka Jain'
+categories = ['transparency', 'Project Panoptic', 'zombietracker', '2020', 'year in review']
 date = 2020-12-30T04:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/Year-End-Review--2---Anushka-1.png"
-slug = "year-in-review-transparency"
-summary = "Read about all our initiatives throughout the year to increase transparency and accountability around digital rights issues in the country. "
-tags = ["transparency", "Project Panoptic", "zombietracker"]
-title = "2020 in Review: Transparency for our digital rights"
+image = 'https://internetfreedom.in/content/images/2020/12/Year-End-Review--2---Anushka-1.png'
+slug = 'year-in-review-transparency'
+summary = 'Read about all our initiatives throughout the year to increase transparency and accountability around digital rights issues in the country. '
+tags = ['transparency', 'Project Panoptic', 'zombietracker', '2020', 'year in review']
+title = '2020 in Review: Transparency for our digital rights'
 
 +++
 

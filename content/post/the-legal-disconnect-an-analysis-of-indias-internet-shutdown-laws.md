@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-09-25T10:52:34Z
-description = ""
+description = ''
 draft = false
-slug = "the-legal-disconnect-an-analysis-of-indias-internet-shutdown-laws"
-title = "The legal disconnect: An analysis of India’s Internet Shutdown Laws #KeepUsOnline"
+slug = 'the-legal-disconnect-an-analysis-of-indias-internet-shutdown-laws'
+title = 'The legal disconnect: An analysis of India’s Internet Shutdown Laws #KeepUsOnline'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "cyber security", "freespeech", "Privacy"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'cyber security', 'freespeech', 'Privacy']
 date = 2021-07-19T12:16:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/No-internet-for-Muslim-Women-1.png"
-slug = "womens-safety-on-the-internet-intersectionality"
-summary = "In light of recent incident wherein women belonging to the Muslim community were targeted, we have written to the NCW & DCW with our recommendations as well as to GoDaddy.com asking them to remove the domain registered with them.   "
-tags = ["Data Protection", "cyber security", "freespeech", "Privacy"]
-title = "Women’s safety on the internet has to account for intersectionality"
+image = 'https://internetfreedom.in/content/images/2021/07/No-internet-for-Muslim-Women-1.png'
+slug = 'womens-safety-on-the-internet-intersectionality'
+summary = 'In light of recent incident wherein women belonging to the Muslim community were targeted, we have written to the NCW & DCW with our recommendations as well as to GoDaddy.com asking them to remove the domain registered with them.   '
+tags = ['Data Protection', 'cyber security', 'freespeech', 'Privacy']
+title = 'Women’s safety on the internet has to account for intersectionality'
 
 +++
 
@@ -72,7 +72,7 @@ Horrified by this incident and aware of the rights violations that have taken pl
 ## Important Documents
 
 1. Representation to Godaddy.com dated July 16, 2021 ([link](https://drive.google.com/file/d/1jURbsXGonHu-kEM1knCCK7wi3kQRfFYQ/view?usp=sharing))
-2. Representation to the National Commission for Women dated July 17, 2021 ([link](https://drive.google.com/file/d/1tAPhWRL7XhCy6deW4zNJILfO2rbTmh__/view?usp=sharing))
+2. Representation to the National Commission for Women dated July 17, 2021 ([link](https://drive.google.com/file/d/1GlRY0sA497pXbSZpvw5WpIf8MxUOTgGt/view?usp=sharing))
 3. Representation to the Delhi Commission for Women dated July 17, 2021 ([link](https://drive.google.com/file/d/1XXquVPbXf-12Wv9Z797N5jQFgpzWCAJ8/view?usp=sharing))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["savetheinternet", "Net Neutrality"]
+author = 'Rohin Garg'
+categories = ['savetheinternet', 'Net Neutrality']
 date = 2021-09-04T05:52:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/1-1.jpg"
-slug = "hands-off-our-vpns-savetheinternet"
-summary = "The Standing Committee on Home Affairs recently reiterated its stance that VPNs be permanently blocked. We wrote to the MHA, highlighting why VPNs are important and asking for the committee’s proposal to be put through a public consultation."
-tags = ["savetheinternet", "Net Neutrality"]
-title = "Hands off our VPNs! #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2021/09/1-1.jpg'
+slug = 'hands-off-our-vpns-savetheinternet'
+summary = 'The Standing Committee on Home Affairs recently reiterated its stance that VPNs be permanently blocked. We wrote to the MHA, highlighting why VPNs are important and asking for the committee’s proposal to be put through a public consultation.'
+tags = ['savetheinternet', 'Net Neutrality']
+title = 'Hands off our VPNs! #SaveTheInternet'
 
 +++
 

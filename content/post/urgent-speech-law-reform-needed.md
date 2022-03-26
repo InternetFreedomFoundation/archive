@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["66A", "Submission"]
+author = 'Joanne DCunha'
+categories = ['66A', 'Submission']
 date = 2019-06-10T11:13:31Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/06/Capture-7.PNG"
-slug = "urgent-speech-law-reform-needed"
-summary = "With the formation of the new Government and our best foot forward, we call upon the Central Government to take steps to address the arbitrary arrests of social media users and pursue the reform of speech law in India. "
-tags = ["66A", "Submission"]
-title = "Urgent speech law reform needed to protect online freedom in India."
+image = 'https://internetfreedom.in/content/images/2019/06/Capture-7.PNG'
+slug = 'urgent-speech-law-reform-needed'
+summary = 'With the formation of the new Government and our best foot forward, we call upon the Central Government to take steps to address the arbitrary arrests of social media users and pursue the reform of speech law in India. '
+tags = ['66A', 'Submission']
+title = 'Urgent speech law reform needed to protect online freedom in India.'
 
 +++
 

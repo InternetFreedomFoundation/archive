@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns']
 date = 2020-11-12T11:52:37Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/Telecom-Suspension-Rules-Amendment-1.png"
-slug = "telecom-suspension-rules-amendment-15-day-time-limit"
+image = 'https://internetfreedom.in/content/images/2020/11/Telecom-Suspension-Rules-Amendment-1.png'
+slug = 'telecom-suspension-rules-amendment-15-day-time-limit'
 summary = "The central government's recent amendment to the Telecom Suspension Rules will have limited utility and represents a missed opportunity for wider reform because it fails to incorporate directions issued by the SC requiring proactive publication and periodic review of internet shutdown orders."
-tags = ["internet shutdowns"]
-title = "Amendment to the Telecom Suspension Rules offers little protection against arbitrary and prolonged internet shutdowns #KeepUsOnline"
+tags = ['internet shutdowns']
+title = 'Amendment to the Telecom Suspension Rules offers little protection against arbitrary and prolonged internet shutdowns #KeepUsOnline'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["ITRules", "SaveOurPrivacy", "RightToMeme"]
+author = 'Apar Gupta'
+categories = ['ITRules', 'SaveOurPrivacy', 'RightToMeme']
 date = 2019-02-12T08:42:36Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-12-at-2.10.50-PM.png"
-slug = "we-call-on-tech-start-ups-to-protect-their-users-and-businesses-press-for-a-recall-of-the-proposed-changes-to-intermediary-rules-itrules-saveourprivacy-righttomeme"
-summary = "We call on tech start-ups to press for a recall of the proposed changes to Intermediary Rules. #ITRules #SaveOurPrivacy #RightToMeme"
-tags = ["ITRules", "SaveOurPrivacy", "RightToMeme"]
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-12-at-2.10.50-PM.png'
+slug = 'we-call-on-tech-start-ups-to-protect-their-users-and-businesses-press-for-a-recall-of-the-proposed-changes-to-intermediary-rules-itrules-saveourprivacy-righttomeme'
+summary = 'We call on tech start-ups to press for a recall of the proposed changes to Intermediary Rules. #ITRules #SaveOurPrivacy #RightToMeme'
+tags = ['ITRules', 'SaveOurPrivacy', 'RightToMeme']
 title = "Protect your business. Protect your users. \n#ITRules #SaveOurPrivacy #RightToMeme"
 
 +++

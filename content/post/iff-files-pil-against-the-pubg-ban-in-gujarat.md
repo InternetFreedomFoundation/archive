@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Filings", "Legal"]
+author = 'Joanne DCunha'
+categories = ['Filings', 'Legal']
 date = 2019-04-08T05:22:07Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/fsfs.PNG"
-slug = "iff-files-pil-against-the-pubg-ban-in-gujarat"
-summary = "IFF has filed a PIL before the Gujarat High Court challenging the PUBG Ban and the subsequent arrests as violative of Articles 14, 19 and 21 of the Constitution. "
-tags = ["Filings", "Legal"]
-title = "IFF files PIL against the PUBG Ban in Gujarat."
+image = 'https://internetfreedom.in/content/images/2019/04/fsfs.PNG'
+slug = 'iff-files-pil-against-the-pubg-ban-in-gujarat'
+summary = 'IFF has filed a PIL before the Gujarat High Court challenging the PUBG Ban and the subsequent arrests as violative of Articles 14, 19 and 21 of the Constitution. '
+tags = ['Filings', 'Legal']
+title = 'IFF files PIL against the PUBG Ban in Gujarat.'
 
 +++
 

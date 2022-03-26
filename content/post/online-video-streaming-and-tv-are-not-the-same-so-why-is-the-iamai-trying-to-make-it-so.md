@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Censorship", "ITRules", "OTT"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Censorship', 'ITRules', 'OTT']
 date = 2020-02-10T11:18:07Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/DCCC-Blog-Post-1.png"
-slug = "online-video-streaming-and-tv-are-not-the-same-so-why-is-the-iamai-trying-to-make-it-so"
-summary = "The Internet and Mobile Association of India (IAMAI) launched a self-regulation code for online video streaming platforms. We have written to IAMAI asking them to roll it back since it is a precursor to self-censorship."
-tags = ["Censorship", "ITRules", "OTT"]
-title = "Online video streaming and TV are not the same. So why is the IAMAI trying to make it so?"
+image = 'https://internetfreedom.in/content/images/2020/02/DCCC-Blog-Post-1.png'
+slug = 'online-video-streaming-and-tv-are-not-the-same-so-why-is-the-iamai-trying-to-make-it-so'
+summary = 'The Internet and Mobile Association of India (IAMAI) launched a self-regulation code for online video streaming platforms. We have written to IAMAI asking them to roll it back since it is a precursor to self-censorship.'
+tags = ['Censorship', 'ITRules', 'OTT']
+title = 'Online video streaming and TV are not the same. So why is the IAMAI trying to make it so?'
 
 +++
 

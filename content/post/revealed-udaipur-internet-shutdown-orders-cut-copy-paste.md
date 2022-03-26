@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["RTI", "Right to Information", "rajasthan", "internet shutdowns", "Anuradha Bhasin"]
+author = 'Krishnesh'
+categories = ['RTI', 'Right to Information', 'rajasthan', 'internet shutdowns', 'Anuradha Bhasin', 'DBA']
 date = 2021-11-01T04:34:51Z
-description = ""
+description = ''
 draft = false
-slug = "revealed-udaipur-internet-shutdown-orders-cut-copy-paste"
-summary = "We filed Right to Information applications to determine the extent of compliance with directions in Anuradha Bhasin. We found that the office of the Udaipur Divisional Commissioner has issued 26 internet shutdown orders, most of which are similar! "
-tags = ["RTI", "Right to Information", "rajasthan", "internet shutdowns", "Anuradha Bhasin"]
-title = "[Revealed] Udaipur Internet Shutdown Orders: Cut, Copy, Paste!"
+slug = 'revealed-udaipur-internet-shutdown-orders-cut-copy-paste'
+summary = 'We filed Right to Information applications to determine the extent of compliance with directions in Anuradha Bhasin. We found that the office of the Udaipur Divisional Commissioner has issued 26 internet shutdown orders, most of which are similar! '
+tags = ['RTI', 'Right to Information', 'rajasthan', 'internet shutdowns', 'Anuradha Bhasin', 'DBA']
+title = '[Revealed] Udaipur Internet Shutdown Orders: Cut, Copy, Paste!'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["4GforAll", "accesstointernet", "savetheinternet", "TRAI"]
+author = 'Rohin Garg'
+categories = ['4GforAll', 'accesstointernet', 'savetheinternet', 'TRAI']
 date = 2021-04-07T08:15:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/1-2.png"
-slug = "improving-internet-access-an-explainer"
+image = 'https://internetfreedom.in/content/images/2021/04/1-2.png'
+slug = 'improving-internet-access-an-explainer'
 summary = "In this explainer, we delve into the various executive and policy measures taken to expand India's digital infrastructure and improve internet access. We have focused mainly on the National Digital Communications Policy, 2018, since it is is cornerstone of India's digital infrastructure framework."
-tags = ["4GforAll", "accesstointernet", "savetheinternet", "TRAI"]
-title = "Improving Internet Access: An Explainer"
+tags = ['4GforAll', 'accesstointernet', 'savetheinternet', 'TRAI']
+title = 'Improving Internet Access: An Explainer'
 
 +++
 

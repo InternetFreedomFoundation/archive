@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Data Protection", "Health Data"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Data Protection', 'Health Data']
 date = 2020-09-10T04:49:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/09/NDHM-Data-Policy-2-1.png"
-slug = "ndhm-data-policy-representation"
-summary = "Post Delhi HC hearing, a follow up  representation was sent by the petitioner highlighting continuing violation of statutory obligations and urging the government to re-calculate deadline for submission of feedback after implementing recommended changes. "
-tags = ["Data Protection", "Health Data"]
-title = "National Digital Health Mission Data Policy Consultation: Not now, not like this, not without all of us! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/09/NDHM-Data-Policy-2-1.png'
+slug = 'ndhm-data-policy-representation'
+summary = 'Post Delhi HC hearing, a follow up  representation was sent by the petitioner highlighting continuing violation of statutory obligations and urging the government to re-calculate deadline for submission of feedback after implementing recommended changes. '
+tags = ['Data Protection', 'Health Data']
+title = 'National Digital Health Mission Data Policy Consultation: Not now, not like this, not without all of us! #SaveOurPrivacy'
 
 +++
 

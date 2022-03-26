@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["internet shutdowns"]
+author = 'Joanne DCunha'
+categories = ['internet shutdowns']
 date = 2019-12-16T12:06:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/keepusonline_banner-4.png"
-slug = "an-advisory-on"
-summary = "We write to the MHA and the DOT on the urgent need for an advisory against disruptions of internet services.  "
-tags = ["internet shutdowns"]
-title = "The MHA and DOT need to issue advisories against Internet Shutdowns."
+image = 'https://internetfreedom.in/content/images/2019/12/keepusonline_banner-4.png'
+slug = 'an-advisory-on'
+summary = 'We write to the MHA and the DOT on the urgent need for an advisory against disruptions of internet services.  '
+tags = ['internet shutdowns']
+title = 'The MHA and DOT need to issue advisories against Internet Shutdowns.'
 
 +++
 

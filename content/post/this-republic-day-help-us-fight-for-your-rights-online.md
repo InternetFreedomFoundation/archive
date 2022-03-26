@@ -1,11 +1,11 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-01-26T14:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2017/01/IFF-logo--May-2016-.png"
-slug = "this-republic-day-help-us-fight-for-your-rights-online"
-title = "This Republic Day, help us fight for your rights online"
+image = 'https://internetfreedom.in/content/images/2017/01/IFF-logo--May-2016-.png'
+slug = 'this-republic-day-help-us-fight-for-your-rights-online'
+title = 'This Republic Day, help us fight for your rights online'
 
 +++
 

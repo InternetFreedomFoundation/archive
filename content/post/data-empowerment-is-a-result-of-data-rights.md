@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["innovation", "PDPB", "Policy"]
+author = 'Rohin Garg'
+categories = ['innovation', 'PDPB', 'Policy']
 date = 2020-11-30T06:57:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/graphic-1.png"
-slug = "data-empowerment-is-a-result-of-data-rights"
-summary = "IFF has submitted its comments on the draft Data Empowerment and Protection Architecture Policy. Our comments highlighted four main issues: ensuring truly informed consent, orienting new technology towards citizens, implementing a robust regulatory mechanism, and expanding the role of civil society."
-tags = ["innovation", "PDPB", "Policy"]
-title = "Data Empowerment is a result of Data Rights"
+image = 'https://internetfreedom.in/content/images/2020/11/graphic-1.png'
+slug = 'data-empowerment-is-a-result-of-data-rights'
+summary = 'IFF has submitted its comments on the draft Data Empowerment and Protection Architecture Policy. Our comments highlighted four main issues: ensuring truly informed consent, orienting new technology towards citizens, implementing a robust regulatory mechanism, and expanding the role of civil society.'
+tags = ['innovation', 'PDPB', 'Policy']
+title = 'Data Empowerment is a result of Data Rights'
 
 +++
 

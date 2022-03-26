@@ -1,11 +1,11 @@
 +++
-author = "Joanne DCunha"
+author = 'Joanne DCunha'
 date = 2019-03-26T05:11:52Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/WhatsApp-Image-2019-03-25-at-6.00.53-PM.jpeg"
-slug = "these-rights-arent-going-to-fight-themselves"
-summary = "On March 24, 2019, we celebrated the four year anniversary of the one of the most significant judgements in the digital rights sphere, the case of Shreya Singhal v. Union of India. Here is a little snippet of our adventures. "
+image = 'https://internetfreedom.in/content/images/2019/03/WhatsApp-Image-2019-03-25-at-6.00.53-PM.jpeg'
+slug = 'these-rights-arent-going-to-fight-themselves'
+summary = 'On March 24, 2019, we celebrated the four year anniversary of the one of the most significant judgements in the digital rights sphere, the case of Shreya Singhal v. Union of India. Here is a little snippet of our adventures. '
 title = "These rights aren't going to fight themselves! It's been four years since Shreya Singhal or has it really?"
 
 +++

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Legal", "Data Protection", "Privacy", "Health Data", "Delhi HC"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Legal', 'Data Protection', 'Privacy', 'Health Data', 'Delhi HC']
 date = 2020-09-03T08:46:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/09/Delhi-HC-NDHM-Data-Policy-1.png"
-slug = "ndhm-data-policy-delhi-hc"
-summary = "The petition heard by the Delhi HC raised concerns about the unreasonably short deadline for submission of feedback at the height of the COVID-19 pandemic, and highlighted how the existing process excludes persons with disabilities, non-English speakers and people without internet access. "
-tags = ["Legal", "Data Protection", "Privacy", "Health Data", "Delhi HC"]
-title = "Delhi HC directs govt to consider  representation regarding national Health Data Management Policy #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/09/Delhi-HC-NDHM-Data-Policy-1.png'
+slug = 'ndhm-data-policy-delhi-hc'
+summary = 'The petition heard by the Delhi HC raised concerns about the unreasonably short deadline for submission of feedback at the height of the COVID-19 pandemic, and highlighted how the existing process excludes persons with disabilities, non-English speakers and people without internet access. '
+tags = ['Legal', 'Data Protection', 'Privacy', 'Health Data', 'Delhi HC']
+title = 'Delhi HC directs govt to consider  representation regarding national Health Data Management Policy #SaveOurPrivacy'
 
 +++
 

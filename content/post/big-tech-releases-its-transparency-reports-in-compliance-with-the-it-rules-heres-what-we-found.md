@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["big tech", "Censorship", "facebook", "freespeech", "instagram", "intermediary", "ITRules", "it act", "MeitY", "transparency", "Twitter"]
+author = 'Tanmay Singh'
+categories = ['big tech', 'Censorship', 'facebook', 'freespeech', 'instagram', 'intermediary', 'ITRules', 'it act', 'MeitY', 'transparency', 'Twitter', 'compliance', 'SocialMediaComplianceWatch']
 date = 2021-07-16T13:04:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Copy-of-16th-July-Design-1.png"
-slug = "big-tech-releases-its-transparency-reports-in-compliance-with-the-it-rules-heres-what-we-found"
-summary = "Google, Facebook, Instagram, WhatsApp and Twitter have released their transparency reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 (the 2021 IT Rules)."
-tags = ["big tech", "Censorship", "facebook", "freespeech", "instagram", "intermediary", "ITRules", "it act", "MeitY", "transparency", "Twitter"]
-title = "Big Tech releases its transparency reports in compliance with the IT Rules: Here’s what we found"
+image = 'https://internetfreedom.in/content/images/2021/07/Copy-of-16th-July-Design-1.png'
+slug = 'big-tech-releases-its-transparency-reports-in-compliance-with-the-it-rules-heres-what-we-found'
+summary = 'Google, Facebook, Instagram, WhatsApp and Twitter have released their transparency reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 (the 2021 IT Rules).'
+tags = ['big tech', 'Censorship', 'facebook', 'freespeech', 'instagram', 'intermediary', 'ITRules', 'it act', 'MeitY', 'transparency', 'Twitter', 'compliance', 'SocialMediaComplianceWatch']
+title = 'Big Tech releases its transparency reports in compliance with the IT Rules: Here’s what we found'
 
 +++
 

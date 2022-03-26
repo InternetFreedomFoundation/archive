@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["4GforAll", "internet shutdowns", "Supreme Court", "Shutdown", "keep us online"]
+author = 'Krishnesh'
+categories = ['4GforAll', 'internet shutdowns', 'Supreme Court', 'Shutdown', 'keep us online']
 date = 2021-06-25T07:24:21Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Anuradha-Bhasin-Judgement-1.png"
-slug = "foundation-for-media-professionals-writes-to-j-k-govt-seeking-compliance-with-anuradha-bhasin-2"
-summary = "In May 2021 the Government of J&K suspended internet services on three occasions, without promptly publishing suspensions orders. Foundation of Media Professionals has addressed a legal notice to the Government of J&K asking them to comply with directions of the Supreme Court in Anuradha Bhasin. "
-tags = ["4GforAll", "internet shutdowns", "Supreme Court", "Shutdown", "keep us online"]
-title = "Foundation for Media Professionals writes to J&K Govt seeking compliance with Anuradha Bhasin"
+image = 'https://internetfreedom.in/content/images/2021/06/Anuradha-Bhasin-Judgement-1.png'
+slug = 'foundation-for-media-professionals-writes-to-j-k-govt-seeking-compliance-with-anuradha-bhasin-2'
+summary = 'In May 2021 the Government of J&K suspended internet services on three occasions, without promptly publishing suspensions orders. Foundation of Media Professionals has addressed a legal notice to the Government of J&K asking them to comply with directions of the Supreme Court in Anuradha Bhasin. '
+tags = ['4GforAll', 'internet shutdowns', 'Supreme Court', 'Shutdown', 'keep us online']
+title = 'Foundation for Media Professionals writes to J&K Govt seeking compliance with Anuradha Bhasin'
 
 +++
 

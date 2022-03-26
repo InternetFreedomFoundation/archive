@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["aarogyasetu", "Surveillance"]
+author = 'Farkhanda Zahoor'
+categories = ['aarogyasetu', 'Surveillance']
 date = 2020-05-13T08:08:39Z
-description = ""
+description = ''
 draft = false
-slug = "we-studied-the-protocol-and-no-this-doesnt-sufficiently-protect-your-privacy"
-summary = "According to our analysis on the Aarogya Setu Data Access and Knowledge Sharing Protocol released by MeitY on May 11, 2020, the protocol falls considerably short of principles of legality, necessity and proportionality."
-tags = ["aarogyasetu", "Surveillance"]
-title = "We Studied the Protocol: And No This Doesn’t Sufficiently Protect Your Privacy"
+slug = 'we-studied-the-protocol-and-no-this-doesnt-sufficiently-protect-your-privacy'
+summary = 'According to our analysis on the Aarogya Setu Data Access and Knowledge Sharing Protocol released by MeitY on May 11, 2020, the protocol falls considerably short of principles of legality, necessity and proportionality.'
+tags = ['aarogyasetu', 'Surveillance']
+title = 'We Studied the Protocol: And No This Doesn’t Sufficiently Protect Your Privacy'
 
 +++
 

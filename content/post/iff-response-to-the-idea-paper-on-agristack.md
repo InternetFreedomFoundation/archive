@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["AgriStack", "big tech", "Policy"]
+author = 'Rohin Garg'
+categories = ['AgriStack', 'big tech', 'Policy', 'Agriculture']
 date = 2021-07-06T06:17:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/A-thoroughly-bad-IDEA-1.png"
-slug = "iff-response-to-the-idea-paper-on-agristack"
-summary = "IFF has submitted its comments on the IDEA consultation paper. We suggest that all implementation be halted till farmers have been consulted. We have also addressed issues of data localisation, federalism, data protection, user rights, the need for public investment, and inadequate data standards."
-tags = ["AgriStack", "big tech", "Policy"]
-title = "A Thoroughly Bad IDEA: Our comments on the Agristack Consultation Paper"
+image = 'https://internetfreedom.in/content/images/2021/07/A-thoroughly-bad-IDEA-1.png'
+slug = 'iff-response-to-the-idea-paper-on-agristack'
+summary = 'IFF has submitted its comments on the IDEA consultation paper. We suggest that all implementation be halted till farmers have been consulted. We have also addressed issues of data localisation, federalism, data protection, user rights, the need for public investment, and inadequate data standards.'
+tags = ['AgriStack', 'big tech', 'Policy', 'Agriculture']
+title = 'A Thoroughly Bad IDEA: Our comments on the Agristack Consultation Paper'
 
 +++
 

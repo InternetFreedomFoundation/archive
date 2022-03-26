@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "internet shutdowns", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'internet shutdowns', 'Legal']
 date = 2019-09-04T05:16:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-1.PNG"
-slug = "kashmiri-student-based-in-bangalore-files-petition-before-the-karnataka-hc-against-communication-shutdown-in-kashmir"
-summary = "The Petition argues that the communication shutdown violates Articles 14, 19 and 21 of the Constitution. The legal basis for the communication shutdown still remains unknown and the interim prayer seeks transparency."
-tags = ["Filings", "internet shutdowns", "Legal"]
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-1.PNG'
+slug = 'kashmiri-student-based-in-bangalore-files-petition-before-the-karnataka-hc-against-communication-shutdown-in-kashmir'
+summary = 'The Petition argues that the communication shutdown violates Articles 14, 19 and 21 of the Constitution. The legal basis for the communication shutdown still remains unknown and the interim prayer seeks transparency.'
+tags = ['Filings', 'internet shutdowns', 'Legal']
 title = "Kashmiri student based in Bangalore files petition before the Karnataka HC \nagainst communication shutdown."
 
 +++

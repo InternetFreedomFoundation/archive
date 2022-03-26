@@ -1,12 +1,12 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Censorship", "Filtering", "Supreme Court", "Legal", "Statement"]
+author = 'IFF Public Policy Team'
+categories = ['Censorship', 'Filtering', 'Supreme Court', 'Legal', 'Statement']
 date = 2017-02-20T12:51:18Z
-description = ""
+description = ''
 draft = false
-slug = "statement-of-concern-on-the-sabu-mathew-george-case-dont-auto-block-online-expression"
-tags = ["Censorship", "Filtering", "Supreme Court", "Legal", "Statement"]
-title = "Statement of concern on the Sabu Mathew George Case : Don’t “auto-block” online expression"
+slug = 'statement-of-concern-on-the-sabu-mathew-george-case-dont-auto-block-online-expression'
+tags = ['Censorship', 'Filtering', 'Supreme Court', 'Legal', 'Statement']
+title = 'Statement of concern on the Sabu Mathew George Case : Don’t “auto-block” online expression'
 
 +++
 

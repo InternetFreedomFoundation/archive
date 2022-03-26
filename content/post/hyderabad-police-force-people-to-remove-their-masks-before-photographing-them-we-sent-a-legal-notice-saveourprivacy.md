@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["Covid", "criminal law", "facial recognition", "Privacy", "Project Panoptic", "SaveOurPrivacy", "Surveillance", "WatchtheWatchmen"]
+author = 'Tanmay Singh'
+categories = ['Covid', 'criminal law', 'facial recognition', 'Privacy', 'Project Panoptic', 'SaveOurPrivacy', 'Surveillance', 'WatchtheWatchmen']
 date = 2021-06-02T07:04:58Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Masood-Hyderabad-Police-.png"
-slug = "hyderabad-police-force-people-to-remove-their-masks-before-photographing-them-we-sent-a-legal-notice-saveourprivacy"
-summary = "Hyderabad Police is forcing people to remove masks and photographing them. We sent a legal notice to the Police Commissioner about this."
-tags = ["Covid", "criminal law", "facial recognition", "Privacy", "Project Panoptic", "SaveOurPrivacy", "Surveillance", "WatchtheWatchmen"]
-title = "Hyderabad Police force people to remove their masks before photographing them. We sent a legal notice. #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/06/Masood-Hyderabad-Police-.png'
+slug = 'hyderabad-police-force-people-to-remove-their-masks-before-photographing-them-we-sent-a-legal-notice-saveourprivacy'
+summary = 'Hyderabad Police is forcing people to remove masks and photographing them. We sent a legal notice to the Police Commissioner about this.'
+tags = ['Covid', 'criminal law', 'facial recognition', 'Privacy', 'Project Panoptic', 'SaveOurPrivacy', 'Surveillance', 'WatchtheWatchmen']
+title = 'Hyderabad Police force people to remove their masks before photographing them. We sent a legal notice. #SaveOurPrivacy'
 
 +++
 

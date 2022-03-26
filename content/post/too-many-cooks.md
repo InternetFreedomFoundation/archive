@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "Censorship"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'Censorship']
 date = 2019-02-25T09:48:48Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-25-at-3.10.14-PM.png"
-slug = "too-many-cooks"
-summary = "As the Parliamentary Committee on Information Technology widens the ambit of its hearings to other online platforms, we ask them to ensure the inclusion of civil society organisations, academics and experts. We also raise some questions regarding the criteria and scope of these hearings. "
-tags = ["Privacy", "Censorship"]
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-25-at-3.10.14-PM.png'
+slug = 'too-many-cooks'
+summary = 'As the Parliamentary Committee on Information Technology widens the ambit of its hearings to other online platforms, we ask them to ensure the inclusion of civil society organisations, academics and experts. We also raise some questions regarding the criteria and scope of these hearings. '
+tags = ['Privacy', 'Censorship']
 title = "Too many cooks won't spoil this broth. Need for larger participation by the Parliamentary Committee on IT."
 
 +++

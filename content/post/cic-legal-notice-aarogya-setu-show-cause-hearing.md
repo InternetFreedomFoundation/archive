@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "transparency", "RTI", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'transparency', 'RTI', 'Legal']
 date = 2020-11-23T05:32:26Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/Aarogya-Setu---CIC-Hearing-3.png"
-slug = "cic-legal-notice-aarogya-setu-show-cause-hearing"
-summary = "We sent a legal notice to the Central Information Commission challenging its refusal to let RTI activist, Saurav Das attend the show cause hearing in his complaint which seeks information about creation of the Aarogya Setu app."
-tags = ["aarogyasetu", "transparency", "RTI", "Legal"]
-title = "Govt officials to justify denial of information about Aarogya Setu in secret hearing before CIC #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/11/Aarogya-Setu---CIC-Hearing-3.png'
+slug = 'cic-legal-notice-aarogya-setu-show-cause-hearing'
+summary = 'We sent a legal notice to the Central Information Commission challenging its refusal to let RTI activist, Saurav Das attend the show cause hearing in his complaint which seeks information about creation of the Aarogya Setu app.'
+tags = ['aarogyasetu', 'transparency', 'RTI', 'Legal']
+title = 'Govt officials to justify denial of information about Aarogya Setu in secret hearing before CIC #SaveOurPrivacy'
 
 +++
 

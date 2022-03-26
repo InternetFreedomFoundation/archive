@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["66A", "Censorship", "it act", "RightToMeme", "Section66A", "Supreme Court", "zombietracker"]
+author = 'Krishnesh'
+categories = ['66A', 'Censorship', 'it act', 'RightToMeme', 'Section66A', 'Supreme Court', 'zombietracker']
 date = 2021-07-05T07:43:48Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Copy-of-Twitter-66Act-Update--1--1.png"
-slug = "pucl-approaches-supreme-court-seeking-directions-against-continued-prosecutions-under-the-unconstitutional-section-66a"
+image = 'https://internetfreedom.in/content/images/2021/07/Copy-of-Twitter-66Act-Update--1--1.png'
+slug = 'pucl-approaches-supreme-court-seeking-directions-against-continued-prosecutions-under-the-unconstitutional-section-66a'
 summary = "Supreme Court issues notice in PUCL's application seeking directions against continued enforcement of Section 66A. IFF provided legal assistance to PUCL. "
-tags = ["66A", "Censorship", "it act", "RightToMeme", "Section66A", "Supreme Court", "zombietracker"]
-title = "PUCL approaches Supreme Court seeking directions against continued prosecutions under the unconstitutional Section 66A"
+tags = ['66A', 'Censorship', 'it act', 'RightToMeme', 'Section66A', 'Supreme Court', 'zombietracker']
+title = 'PUCL approaches Supreme Court seeking directions against continued prosecutions under the unconstitutional Section 66A'
 
 +++
 

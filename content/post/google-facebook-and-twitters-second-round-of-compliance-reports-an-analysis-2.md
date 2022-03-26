@@ -1,14 +1,14 @@
 +++
-author = "Anandita Mishra"
-categories = ["big tech", "ITRules", "facebook", "Twitter", "intermediary", "Filings", "transaprency", "compliance", "report", "google", "WhatsApp"]
-date = 2021-09-22T00:44:47Z
-description = ""
+author = 'Anandita Mishra'
+categories = ['facebook', 'Filings', 'intermediary', 'ITRules', 'transaprency', 'Twitter', 'compliance', 'report', 'google', 'WhatsApp', 'SocialMediaComplianceWatch']
+date = 2021-09-22T06:14:47Z
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/2-4.png"
-slug = "google-facebook-and-twitters-second-round-of-compliance-reports-an-analysis-2"
-summary = "We analyse the transparency reports submitted by Google, Facebook, Instagram, WhatsApp and Twitter in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021."
-tags = ["big tech", "ITRules", "facebook", "Twitter", "intermediary", "Filings", "transaprency", "compliance", "report", "google", "WhatsApp"]
-title = "Social media giants have released the second round of 'Compliance Reports'. We’ve analysed the data."
+image = 'https://internetfreedom.in/content/images/2021/09/2-4.png'
+slug = 'google-facebook-and-twitters-second-round-of-compliance-reports-an-analysis-2'
+summary = 'We analyse the transparency reports submitted by Google, Facebook, Instagram, WhatsApp and Twitter in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021.'
+tags = ['facebook', 'Filings', 'intermediary', 'ITRules', 'transaprency', 'Twitter', 'compliance', 'report', 'google', 'WhatsApp', 'SocialMediaComplianceWatch']
+title = '#SocialMediaComplianceWatch: analysis of Social Media Compliance Reports of July, 2021'
 
 +++
 
@@ -20,7 +20,7 @@ title = "Social media giants have released the second round of 'Compliance Repor
 
 ## tl;dr
 
-Google, Facebook, Instagram, WhatsApp and Twitter have released their second round of reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 (the 2021 IT Rules). The reports highlight some interesting facts and figures, including the launching of a first of its kind self-regulation model called the Digital Trust and Safety Partnership (DTSP) by a coalition consisting of Discord, Facebook, Google, Microsoft, Pinterest, Reddit, Shopify, Twitter and Vimeo, and a massive number of automated takedowns.
+Google, Facebook, Instagram, WhatsApp and Twitter have released their reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 (the 2021 IT Rules) for July, 2021. The latest of these reports was made available on August 31, 2021. The reports highlight some interesting facts and figures, including the launching of a first of its kind self-regulation model called the Digital Trust and Safety Partnership (DTSP) by a coalition consisting of Discord, Facebook, Google, Microsoft, Pinterest, Reddit, Shopify, Twitter and Vimeo, and a massive number of automated takedowns.
 
 
 

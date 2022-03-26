@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["66A", "it act", "zombietracker", "Supreme Court", "RightToMeme", "Legal"]
+author = 'Krishnesh'
+categories = ['66A', 'it act', 'zombietracker', 'Supreme Court', 'RightToMeme', 'Legal']
 date = 2021-08-02T06:45:08Z
-description = ""
+description = ''
 draft = false
-slug = "supreme-court-issues-notice-to-all-the-states-uts-and-high-courts-in-pucls-application"
+slug = 'supreme-court-issues-notice-to-all-the-states-uts-and-high-courts-in-pucls-application'
 summary = "PUCL's application seeks direction to ensure that authorities do not continue to prosecute individuals under S.66A of the IT Act, 2000. Supreme Court heard PUCL's application and sought responses from all State's, UT's and High Court's. "
-tags = ["66A", "it act", "zombietracker", "Supreme Court", "RightToMeme", "Legal"]
-title = "SC directs States, UTs and High Courts to reply to PUCL’s Application"
+tags = ['66A', 'it act', 'zombietracker', 'Supreme Court', 'RightToMeme', 'Legal']
+title = 'SC directs States, UTs and High Courts to reply to PUCL’s Application'
 
 +++
 
@@ -74,6 +74,8 @@ We look forward to the replies from the State’s, Union Territories and Registr
 
 We thank PUCL for granting us an opportunity to provide legal assistance to them. We are also deeply grateful to the lawyers who worked on this case, especially senior Advocate Sanjay Parikh, who has led the legal team.
 
+<iframe src="https://drive.google.com/file/d/1l0RYYg7m0PPCTprXzCkK4742SF7psYIQ/preview" width="580" height="480"></iframe>
+
 ## **Important Documents**
 
 1. Application filed by PUCL seeking directions against continued enforcement of S.66A. ([link](https://drive.google.com/file/d/18YXE82irR3Kh9H_Pz63McZ-Z4GV90tKr/view?usp=sharing))
@@ -84,6 +86,8 @@ We thank PUCL for granting us an opportunity to provide legal assistance to them
 6. Research paper titled ‘Section 66A and other legal zombies’ by Abhinav Sekhri and Apar Gupta ([**link**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3275893))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

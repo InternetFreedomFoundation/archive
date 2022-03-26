@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Censorship"]
+author = 'Apar Gupta'
+categories = ['Censorship']
 date = 2020-02-12T18:55:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Twitter---An-Open-Letter-to-Justice-A.P.-Shah.png"
-slug = "a-gentle-open-letter-to-justice-a-p-shah-on-the-online-video-self-regulatory-code"
-summary = "We write a letter to Justice Shah placing our concerns on the online video streaming self-regulatory body that he has been reported to head. "
-tags = ["Censorship"]
-title = "An open letter to Justice A.P. Shah on the online video self-regulatory code"
+image = 'https://internetfreedom.in/content/images/2020/02/Twitter---An-Open-Letter-to-Justice-A.P.-Shah.png'
+slug = 'a-gentle-open-letter-to-justice-a-p-shah-on-the-online-video-self-regulatory-code'
+summary = 'We write a letter to Justice Shah placing our concerns on the online video streaming self-regulatory body that he has been reported to head. '
+tags = ['Censorship']
+title = 'An open letter to Justice A.P. Shah on the online video self-regulatory code'
 
 +++
 

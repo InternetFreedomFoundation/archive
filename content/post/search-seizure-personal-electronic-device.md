@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy']
 date = 2020-08-03T05:46:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Law-enforcements-and-PEDs-2-3.png"
-slug = "search-seizure-personal-electronic-device"
-summary = "This explainer is to help the reader navigate a situation where the police seize and intend to/or demand access to your personal electronic device (PED) such as a mobile phone, laptop, tablet, etc."
-tags = ["Privacy"]
-title = "Explainer: Law enforcement access to personal electronic devices #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/08/Law-enforcements-and-PEDs-2-3.png'
+slug = 'search-seizure-personal-electronic-device'
+summary = 'This explainer is to help the reader navigate a situation where the police seize and intend to/or demand access to your personal electronic device (PED) such as a mobile phone, laptop, tablet, etc.'
+tags = ['Privacy']
+title = 'Explainer: Law enforcement access to personal electronic devices #SaveOurPrivacy'
 
 +++
 

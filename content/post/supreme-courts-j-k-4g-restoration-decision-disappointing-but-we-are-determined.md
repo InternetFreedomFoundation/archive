@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2020-05-11T09:26:46Z
-description = ""
+description = ''
 draft = false
-slug = "supreme-courts-j-k-4g-restoration-decision-disappointing-but-we-are-determined"
-summary = "Today, the Supreme Court passed an order on the restoration of 4G services in Jammu and Kashmir ordering the constitution of a special high powered committee. This is an incremental step towards 4G restoration. "
+slug = 'supreme-courts-j-k-4g-restoration-decision-disappointing-but-we-are-determined'
+summary = 'Today, the Supreme Court passed an order on the restoration of 4G services in Jammu and Kashmir ordering the constitution of a special high powered committee. This is an incremental step towards 4G restoration. '
 title = "Statement on Supreme Court's J&K 4G Decision : An incremental step towards restoration"
 
 +++

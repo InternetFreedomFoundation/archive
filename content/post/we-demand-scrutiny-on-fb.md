@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Parliament", "freespeech"]
+author = 'Apar Gupta'
+categories = ['Parliament', 'freespeech']
 date = 2020-08-17T07:47:19Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Facebook-WSJ.png"
-slug = "we-demand-scrutiny-on-fb"
-summary = "There has been an alarming press report published in the Wall Street Journal on August 14, 2020 titled, “Facebook’s Hate-Speech Rules Collide with Indian Politics”. It merits urgent intervention and investigation into human rights breaches by Facebook India. "
-tags = ["Parliament", "freespeech"]
+image = 'https://internetfreedom.in/content/images/2020/08/Facebook-WSJ.png'
+slug = 'we-demand-scrutiny-on-fb'
+summary = 'There has been an alarming press report published in the Wall Street Journal on August 14, 2020 titled, “Facebook’s Hate-Speech Rules Collide with Indian Politics”. It merits urgent intervention and investigation into human rights breaches by Facebook India. '
+tags = ['Parliament', 'freespeech']
 title = "Don't swipe next! We write to the Parliamentary Standing Committee for sustained hearings and an international human rights audit of Facebook India"
 
 +++

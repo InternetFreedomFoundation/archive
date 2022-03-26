@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PDPB", "Data Protection", "Parliament", "DataProtectionTop10"]
+author = 'Rohin Garg'
+categories = ['PDPB', 'Data Protection', 'Parliament', 'DataProtectionTop10']
 date = 2021-05-04T07:59:58Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/PDPB-Lost-in-muddled-objectives-1.png"
-slug = "dataprotectiontop10-lost-in-muddled-objectives"
-summary = "This is a new series on the Personal Data Protection Bill, 2019 to deal exclusively with the issues and pathways for reform under the Bill. In this post we look at the objective and the Preamble of the Bill, and guage whether the bill serve ordinary Indians or the government and large corporations."
-tags = ["PDPB", "Data Protection", "Parliament", "DataProtectionTop10"]
-title = "#DataProtectionTop10: Lost in Muddled Objectives"
+image = 'https://internetfreedom.in/content/images/2021/05/PDPB-Lost-in-muddled-objectives-1.png'
+slug = 'dataprotectiontop10-lost-in-muddled-objectives'
+summary = 'This is a new series on the Personal Data Protection Bill, 2019 to deal exclusively with the issues and pathways for reform under the Bill. In this post we look at the objective and the Preamble of the Bill, and guage whether the bill serve ordinary Indians or the government and large corporations.'
+tags = ['PDPB', 'Data Protection', 'Parliament', 'DataProtectionTop10']
+title = '#DataProtectionTop10: Lost in Muddled Objectives'
 
 +++
 

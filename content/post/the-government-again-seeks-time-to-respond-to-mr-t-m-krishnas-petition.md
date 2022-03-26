@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["ITRules", "intermediary", "Legal", "Madras HC"]
+author = 'Krishnesh'
+categories = ['ITRules', 'intermediary', 'Legal', 'Madras HC']
 date = 2021-08-11T12:06:42Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Why-isn-t-the-Government-of-India-responding-to-Mr.-T.M.-Krishna-1.png"
-slug = "the-government-again-seeks-time-to-respond-to-mr-t-m-krishnas-petition"
-summary = "In proceedings instituted by Mr TM Krishna, challenging the validity of IT Rules, 2021, the Madras High Court directed the government to explain why appropirate action should not be taken against those responsible for the delay in their filing. The case is now listed for 13th August 2021. "
-tags = ["ITRules", "intermediary", "Legal", "Madras HC"]
-title = "The Government again seeks time to respond to Mr T.M. Krishna’s petition"
+image = 'https://internetfreedom.in/content/images/2021/08/Why-isn-t-the-Government-of-India-responding-to-Mr.-T.M.-Krishna-1.png'
+slug = 'the-government-again-seeks-time-to-respond-to-mr-t-m-krishnas-petition'
+summary = 'In proceedings instituted by Mr TM Krishna, challenging the validity of IT Rules, 2021, the Madras High Court directed the government to explain why appropirate action should not be taken against those responsible for the delay in their filing. The case is now listed for 13th August 2021. '
+tags = ['ITRules', 'intermediary', 'Legal', 'Madras HC']
+title = 'The Government again seeks time to respond to Mr T.M. Krishna’s petition'
 
 +++
 

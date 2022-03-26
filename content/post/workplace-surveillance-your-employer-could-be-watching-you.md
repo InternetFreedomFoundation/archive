@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Data Protection", "Parliament", "Surveillance", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Data Protection', 'Parliament', 'Surveillance', 'Privacy']
 date = 2020-02-12T06:11:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Because-your-boss-shouldn-t-become-Big-Boss-1.png"
-slug = "workplace-surveillance-your-employer-could-be-watching-you"
+image = 'https://internetfreedom.in/content/images/2020/02/Because-your-boss-shouldn-t-become-Big-Boss-1.png'
+slug = 'workplace-surveillance-your-employer-could-be-watching-you'
 summary = "Read IFF's public brief highlighting the impact of the Personal Data Protection Bill 2019 on workplace surveillance and participate in the consultation being held by the Joint Parliamentary Committee."
-tags = ["Data Protection", "Parliament", "Surveillance", "Privacy"]
-title = "Workplace Surveillance: Your employer could be watching you"
+tags = ['Data Protection', 'Parliament', 'Surveillance', 'Privacy']
+title = 'Workplace Surveillance: Your employer could be watching you'
 
 +++
 

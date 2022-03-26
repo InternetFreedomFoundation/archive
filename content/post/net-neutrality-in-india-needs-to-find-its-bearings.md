@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality", "savetheinternet", "TRAI"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality', 'savetheinternet', 'TRAI']
 date = 2019-05-30T04:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Capture-6.PNG"
-slug = "net-neutrality-in-india-needs-to-find-its-bearings"
-summary = "TRAI will release a new round of consultation on the compliance of net neutrality. We continue to restate the need for an enforcement mechanism and transparency and disclosure. "
-tags = ["Net Neutrality", "savetheinternet", "TRAI"]
-title = "Net Neutrality enforcement in India needs to find its bearings."
+image = 'https://internetfreedom.in/content/images/2019/04/Capture-6.PNG'
+slug = 'net-neutrality-in-india-needs-to-find-its-bearings'
+summary = 'TRAI will release a new round of consultation on the compliance of net neutrality. We continue to restate the need for an enforcement mechanism and transparency and disclosure. '
+tags = ['Net Neutrality', 'savetheinternet', 'TRAI']
+title = 'Net Neutrality enforcement in India needs to find its bearings.'
 
 +++
 

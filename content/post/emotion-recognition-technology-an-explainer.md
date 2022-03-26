@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
+author = 'Anushka Jain'
 date = 2021-06-21T13:48:44Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Our-PM-should-be-1.png"
-slug = "emotion-recognition-technology-an-explainer"
-summary = "Wondering where emotion recognition originated and what it entails? Read this short explainer on the technology and why its use is problematic. "
-title = "Emotion Recognition Technology: An explainer"
+image = 'https://internetfreedom.in/content/images/2021/06/Our-PM-should-be-1.png'
+slug = 'emotion-recognition-technology-an-explainer'
+summary = 'Wondering where emotion recognition originated and what it entails? Read this short explainer on the technology and why its use is problematic. '
+title = 'Emotion Recognition Technology: An explainer'
 
 +++
 

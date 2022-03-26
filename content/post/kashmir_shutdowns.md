@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["internet shutdowns", "keep us online", "Statement"]
+author = 'Apar Gupta'
+categories = ['internet shutdowns', 'keep us online', 'Statement']
 date = 2019-08-06T02:31:48Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/08/Screenshot-2019-08-06-at-8.00.16-AM.png"
-slug = "kashmir_shutdowns"
-summary = "The developments of the past few days are of immense consequence to the future of our democracy, and the voices from Jammu and Kashmir need to be heard the loudest, not silenced en masse."
-tags = ["internet shutdowns", "keep us online", "Statement"]
-title = "We strongly condemn the communications blackout in Jammu and Kashmir and urge an end to internet shutdowns across India"
+image = 'https://internetfreedom.in/content/images/2019/08/Screenshot-2019-08-06-at-8.00.16-AM.png'
+slug = 'kashmir_shutdowns'
+summary = 'The developments of the past few days are of immense consequence to the future of our democracy, and the voices from Jammu and Kashmir need to be heard the loudest, not silenced en masse.'
+tags = ['internet shutdowns', 'keep us online', 'Statement']
+title = 'We strongly condemn the communications blackout in Jammu and Kashmir and urge an end to internet shutdowns across India'
 
 +++
 

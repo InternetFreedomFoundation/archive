@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PDPB", "Data Protection", "Parliament"]
+author = 'Rohin Garg'
+categories = ['PDPB', 'Data Protection', 'Parliament']
 date = 2021-07-17T10:52:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/The-Parliament-is-in-Session-1.png"
-slug = "update-indias-incoming-data-laws-need-our-urgent-attention"
-summary = "The report of the Joint Parliamentary Committee on the Personal Data Protection Bill, 2019 is to be submitted next week. In this blogpost, we look at the possible ways forward for the Bill, highlight some of the issues that may emerge, and provide recommendations for addressing them."
-tags = ["PDPB", "Data Protection", "Parliament"]
-title = "Update: India’s incoming data laws need our urgent attention"
+image = 'https://internetfreedom.in/content/images/2021/07/The-Parliament-is-in-Session-1.png'
+slug = 'update-indias-incoming-data-laws-need-our-urgent-attention'
+summary = 'The report of the Joint Parliamentary Committee on the Personal Data Protection Bill, 2019 is to be submitted next week. In this blogpost, we look at the possible ways forward for the Bill, highlight some of the issues that may emerge, and provide recommendations for addressing them.'
+tags = ['PDPB', 'Data Protection', 'Parliament']
+title = 'Update: India’s incoming data laws need our urgent attention'
 
 +++
 

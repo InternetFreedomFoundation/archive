@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet"]
+author = 'Rohin Garg'
+categories = ['accesstointernet']
 date = 2021-02-10T05:14:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/The-PM-WANI-Scheme_-An-Explainer-1.png"
-slug = "pm-wani-explainer"
-summary = "The PM-WANI scheme aims to increase internet connectivity across the country by implementing a decentralised system of public access points. We created an explainer in which we discuss how, while a step towards the right direction, the scheme faces both foundational and implementational challenges."
-tags = ["accesstointernet"]
-title = "The PM-WANI Scheme: An Explainer"
+image = 'https://internetfreedom.in/content/images/2021/02/The-PM-WANI-Scheme_-An-Explainer-1.png'
+slug = 'pm-wani-explainer'
+summary = 'The PM-WANI scheme aims to increase internet connectivity across the country by implementing a decentralised system of public access points. We created an explainer in which we discuss how, while a step towards the right direction, the scheme faces both foundational and implementational challenges.'
+tags = ['accesstointernet']
+title = 'The PM-WANI Scheme: An Explainer'
 
 +++
 

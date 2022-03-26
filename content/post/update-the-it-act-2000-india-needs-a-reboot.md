@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["it act", "Parliament", "MeitY"]
+author = 'Yashaswini'
+categories = ['it act', 'Parliament', 'MeitY']
 date = 2021-07-12T04:51:08Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Reboot-the-IT-Act-2000-1.png"
-slug = "update-the-it-act-2000-india-needs-a-reboot"
-summary = "The Information Technology Act, 2000 is the the de facto framework for digital governance in India. However, it needs a reboot .We wrote to the Parliamentary Standing Committee urging them to include the revision of the IT Act in its agenda for the upcoming parliamentary session."
-tags = ["it act", "Parliament", "MeitY"]
-title = "Update the IT Act 2000: India needs a reboot!"
+image = 'https://internetfreedom.in/content/images/2021/07/Reboot-the-IT-Act-2000-1.png'
+slug = 'update-the-it-act-2000-india-needs-a-reboot'
+summary = 'The Information Technology Act, 2000 is the the de facto framework for digital governance in India. However, it needs a reboot .We wrote to the Parliamentary Standing Committee urging them to include the revision of the IT Act in its agenda for the upcoming parliamentary session.'
+tags = ['it act', 'Parliament', 'MeitY']
+title = 'Update the IT Act 2000: India needs a reboot!'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy", "Gender", "Online Image Based Sexual Abuse", "CSAM", "Encryption"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy', 'Gender', 'Online Image Based Sexual Abuse', 'CSAM', 'Encryption']
 date = 2020-05-07T11:50:44Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/Image-Based-Sexual-Abuse-1.png"
-slug = "the-internet-shouldnt-be-a-boys-club"
+image = 'https://internetfreedom.in/content/images/2020/05/Image-Based-Sexual-Abuse-1.png'
+slug = 'the-internet-shouldnt-be-a-boys-club'
 summary = "We wrote to the WCD Ministry and DCW about the need to address image based sexual abuse  on the internet in a rights respecting manner in light of the \nrecent 'Boiz Locker Room' incident. "
-tags = ["Privacy", "Gender", "Online Image Based Sexual Abuse", "CSAM", "Encryption"]
-title = "The Internet Should Not Become a Boys Club"
+tags = ['Privacy', 'Gender', 'Online Image Based Sexual Abuse', 'CSAM', 'Encryption']
+title = 'The Internet Should Not Become a Boys Club'
 
 +++
 

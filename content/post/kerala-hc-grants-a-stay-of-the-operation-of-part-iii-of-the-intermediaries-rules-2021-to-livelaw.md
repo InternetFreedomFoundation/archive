@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["ITRules", "Kerala High Court"]
+author = 'Tanmay Singh'
+categories = ['ITRules', 'Kerala High Court']
 date = 2021-03-10T09:39:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/1-1.png"
-slug = "kerala-hc-grants-a-stay-of-the-operation-of-part-iii-of-the-intermediaries-rules-2021-to-livelaw"
-summary = "In a major victory for online publishers of legal news and literature, today the Kerala High Court granted a stay of the operation of Part III of the Information Technology Rules, 2021 to LiveLaw Media Pvt. Ltd. in a writ petition filed by LiveLaw Media Pvt. Ltd., M. A. Rashid and Manu Sebastian."
-tags = ["ITRules", "Kerala High Court"]
-title = "Kerala HC restrains coercive action on the operation of Part III of the Intermediaries Rules, 2021 for LiveLaw"
+image = 'https://internetfreedom.in/content/images/2021/03/1-1.png'
+slug = 'kerala-hc-grants-a-stay-of-the-operation-of-part-iii-of-the-intermediaries-rules-2021-to-livelaw'
+summary = 'In a major victory for online publishers of legal news and literature, today the Kerala High Court granted a stay of the operation of Part III of the Information Technology Rules, 2021 to LiveLaw Media Pvt. Ltd. in a writ petition filed by LiveLaw Media Pvt. Ltd., M. A. Rashid and Manu Sebastian.'
+tags = ['ITRules', 'Kerala High Court']
+title = 'Kerala HC restrains coercive action on the operation of Part III of the Intermediaries Rules, 2021 for LiveLaw'
 
 +++
 

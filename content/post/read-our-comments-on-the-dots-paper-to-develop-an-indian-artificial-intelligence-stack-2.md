@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["artificial intelligence", "Surveillance", "Privacy", "algorithmic bias"]
+author = 'Anushka Jain'
+categories = ['artificial intelligence', 'Surveillance', 'Privacy', 'algorithmic bias']
 date = 2020-10-03T04:24:00Z
-description = ""
+description = ''
 draft = false
-slug = "read-our-comments-on-the-dots-paper-to-develop-an-indian-artificial-intelligence-stack-2"
-summary = "Our main recommendation to the committee was to set up an independent supervisory data protection authority to regulate the stack. "
-tags = ["artificial intelligence", "Surveillance", "Privacy", "algorithmic bias"]
+slug = 'read-our-comments-on-the-dots-paper-to-develop-an-indian-artificial-intelligence-stack-2'
+summary = 'Our main recommendation to the committee was to set up an independent supervisory data protection authority to regulate the stack. '
+tags = ['artificial intelligence', 'Surveillance', 'Privacy', 'algorithmic bias']
 title = "Read our comments on the DoT's Paper to develop an Indian Artificial Intelligence Stack"
 
 +++

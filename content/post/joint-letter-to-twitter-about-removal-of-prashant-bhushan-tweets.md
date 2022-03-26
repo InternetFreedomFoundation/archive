@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Censorship", "big tech"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Censorship', 'big tech']
 date = 2020-08-22T05:23:28Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Joint-Letter-to-Twitter-2-2.png"
-slug = "joint-letter-to-twitter-about-removal-of-prashant-bhushan-tweets"
+image = 'https://internetfreedom.in/content/images/2020/08/Joint-Letter-to-Twitter-2-2.png'
+slug = 'joint-letter-to-twitter-about-removal-of-prashant-bhushan-tweets'
 summary = "Today, 243 lawyers including senior advocates wrote to Twitter Inc. seeking reinstatement of Mr. Prashant Bhushan's tweets which became the subject of contempt of court proceedings before the Supreme Court of India."
-tags = ["Censorship", "big tech"]
+tags = ['Censorship', 'big tech']
 title = "Over 240 lawyers urge Twitter to re-instate Prashant Bhushan's tweets #FreeToMeme"
 
 +++

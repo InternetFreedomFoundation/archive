@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Data Protection", "SaveOurPrivacy", "Breaches"]
+author = 'Apar Gupta'
+categories = ['Data Protection', 'SaveOurPrivacy', 'Breaches']
 date = 2020-06-02T23:35:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/06/Aarogya-Setu-A-path-to-health-or-jail--1--1.png"
-slug = "its-time-to-stop-data-breaches-and-security-vulnerabilities-we-write-to-the-it-ministry"
-summary = "Till we fix the regulatory and cyber security plumbing of our digital, public infrastructure the data leaks and cyber security vulnerabilities will continue"
-tags = ["Data Protection", "SaveOurPrivacy", "Breaches"]
+image = 'https://internetfreedom.in/content/images/2020/06/Aarogya-Setu-A-path-to-health-or-jail--1--1.png'
+slug = 'its-time-to-stop-data-breaches-and-security-vulnerabilities-we-write-to-the-it-ministry'
+summary = 'Till we fix the regulatory and cyber security plumbing of our digital, public infrastructure the data leaks and cyber security vulnerabilities will continue'
+tags = ['Data Protection', 'SaveOurPrivacy', 'Breaches']
 title = "It's time to stop data breaches and security vulnerabilities. We write to the IT Ministry. #SaveOurPrivacy"
 
 +++

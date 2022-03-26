@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Data Protection"]
+author = 'Apar Gupta'
+categories = ['Data Protection']
 date = 2019-08-02T07:33:08Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/08/Capture.PNG"
-slug = "true-caller-or-false-caller-we-ask-ncpi-to-answer-this-question"
-summary = " Truecaller users faced automatic registration of their UPI based IDs without their knowledge and consent.  We write to the NPCI suggesting a few measures to consider in addressing these issues."
-tags = ["Data Protection"]
-title = "True (caller) or False (caller)? We ask NPCI to answer this question."
+image = 'https://internetfreedom.in/content/images/2019/08/Capture.PNG'
+slug = 'true-caller-or-false-caller-we-ask-ncpi-to-answer-this-question'
+summary = ' Truecaller users faced automatic registration of their UPI based IDs without their knowledge and consent.  We write to the NPCI suggesting a few measures to consider in addressing these issues.'
+tags = ['Data Protection']
+title = 'True (caller) or False (caller)? We ask NPCI to answer this question.'
 
 +++
 

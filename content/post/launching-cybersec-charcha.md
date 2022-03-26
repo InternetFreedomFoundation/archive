@@ -1,13 +1,13 @@
 +++
-author = "Shivani Singh"
-categories = ["cybersec charcha", "Data Protection"]
+author = 'Shivani Singh'
+categories = ['cybersec charcha', 'Data Protection']
 date = 2021-04-22T08:22:56Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/cybersec-charcha-1.png"
-slug = "launching-cybersec-charcha"
-summary = "We are launching CyberSec Charcha, a free, monthly cyber security newsletter with a round up of the latest developments in digital security. Sign up today!"
-tags = ["cybersec charcha", "Data Protection"]
+image = 'https://internetfreedom.in/content/images/2021/04/cybersec-charcha-1.png'
+slug = 'launching-cybersec-charcha'
+summary = 'We are launching CyberSec Charcha, a free, monthly cyber security newsletter with a round up of the latest developments in digital security. Sign up today!'
+tags = ['cybersec charcha', 'Data Protection']
 title = "Launching CyberSec Charcha: IFF's monthly digital security update!"
 
 +++

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["WebsiteBlocking", "WhatTheBlock"]
+author = 'Apar Gupta'
+categories = ['WebsiteBlocking', 'WhatTheBlock']
 date = 2020-06-26T19:01:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/06/WebsiteBlocking-1.png"
-slug = "whistleblower-provides-website-blocking-orders-on-4000-websites"
-summary = "A whistleblower provided us with blocking orders for more than 4000 websites in India. A majority of them are due to copyright claims and court orders."
-tags = ["WebsiteBlocking", "WhatTheBlock"]
-title = "Whistleblower provides blocking orders for over 4000 websites #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2020/06/WebsiteBlocking-1.png'
+slug = 'whistleblower-provides-website-blocking-orders-on-4000-websites'
+summary = 'A whistleblower provided us with blocking orders for more than 4000 websites in India. A majority of them are due to copyright claims and court orders.'
+tags = ['WebsiteBlocking', 'WhatTheBlock']
+title = 'Whistleblower provides blocking orders for over 4000 websites #WhatTheBlock'
 
 +++
 

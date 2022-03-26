@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["it act", "ITRules", "intermediary", "Kerala High Court", "Legal", "Madras HC", "Supreme Court", "OTT"]
+author = 'Krishnesh'
+categories = ['it act', 'ITRules', 'intermediary', 'Kerala High Court', 'Legal', 'Madras HC', 'Supreme Court', 'OTT']
 date = 2021-07-09T09:09:26Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Copy-of-IT-rules-update--1--1.png"
-slug = "union-of-india-seeks-a-transfer-of-cases-challenging-it-rules-2021"
+image = 'https://internetfreedom.in/content/images/2021/07/Copy-of-IT-rules-update--1--1.png'
+slug = 'union-of-india-seeks-a-transfer-of-cases-challenging-it-rules-2021'
 summary = "A two-judge bench of the Supreme Court has listed the Union of India's transfer petition before another bench on 16th July 2021. The petition seeks a transfer to the Supreme Court of 4 cases challenging IT Rules, 2021 which are pending before different High Courts. "
-tags = ["it act", "ITRules", "intermediary", "Kerala High Court", "Legal", "Madras HC", "Supreme Court", "OTT"]
-title = "Union of India seeks a transfer of cases challenging IT Rules, 2021"
+tags = ['it act', 'ITRules', 'intermediary', 'Kerala High Court', 'Legal', 'Madras HC', 'Supreme Court', 'OTT']
+title = 'Union of India seeks a transfer of cases challenging IT Rules, 2021'
 
 +++
 

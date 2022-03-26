@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'Legal']
 date = 2019-04-11T12:58:55Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Capture.PNG"
-slug = "try-again-high-court-declines-to-hear-our-pil-against-the-pubg-ban"
-summary = "The Gujarat High Court has declined to hear our petition challenging the ban on PUBG and subsequent arrests of at least 21 young persons. We will continue fighting the good fight and consult our lawyers to figure out the way forward."
-tags = ["Filings", "Legal"]
-title = "Try again? Gujarat High Court declines to hear our PIL against the PUBG Ban"
+image = 'https://internetfreedom.in/content/images/2019/04/Capture.PNG'
+slug = 'try-again-high-court-declines-to-hear-our-pil-against-the-pubg-ban'
+summary = 'The Gujarat High Court has declined to hear our petition challenging the ban on PUBG and subsequent arrests of at least 21 young persons. We will continue fighting the good fight and consult our lawyers to figure out the way forward.'
+tags = ['Filings', 'Legal']
+title = 'Try again? Gujarat High Court declines to hear our PIL against the PUBG Ban'
 
 +++
 

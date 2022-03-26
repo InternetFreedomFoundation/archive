@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["freespeech"]
+author = 'Anushka Jain'
+categories = ['freespeech']
 date = 2020-08-06T04:38:04Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-the-maharashtra-govt-on-the-ongoing-arbitrary-criminal-prosecutions-for-online-speech-righttomeme"
-summary = "We wrote to the Hon’ble Chief Minister and Home Minister of the Government of Maharashtra worried by a series of criminal prosecutions against social media users which created a chilling effect on their right to freedom of speech and expression."
-tags = ["freespeech"]
-title = "We urge the Maharashtra Government to formulate objective standards to protect social media users from bullying! #RighttoMeme"
+slug = 'we-wrote-the-maharashtra-govt-on-the-ongoing-arbitrary-criminal-prosecutions-for-online-speech-righttomeme'
+summary = 'We wrote to the Hon’ble Chief Minister and Home Minister of the Government of Maharashtra worried by a series of criminal prosecutions against social media users which created a chilling effect on their right to freedom of speech and expression.'
+tags = ['freespeech']
+title = 'We urge the Maharashtra Government to formulate objective standards to protect social media users from bullying! #RighttoMeme'
 
 +++
 

@@ -1,12 +1,12 @@
 +++
-author = "Apar Gupta"
-categories = ["keep us online", "internet shutdowns"]
+author = 'Apar Gupta'
+categories = ['keep us online', 'internet shutdowns']
 date = 2018-07-07T09:35:32Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/07/Screen-Shot-2018-07-07-at-3.01.08-PM.png"
-slug = "we-demand-disclosure-on-indias-shutdown-law-keepusonline"
-tags = ["keep us online", "internet shutdowns"]
+image = 'https://internetfreedom.in/content/images/2018/07/Screen-Shot-2018-07-07-at-3.01.08-PM.png'
+slug = 'we-demand-disclosure-on-indias-shutdown-law-keepusonline'
+tags = ['keep us online', 'internet shutdowns']
 title = "We demand disclosure on India's shutdown law #KeepUsOnline"
 
 +++

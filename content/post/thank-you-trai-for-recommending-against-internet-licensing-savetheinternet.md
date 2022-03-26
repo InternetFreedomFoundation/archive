@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["savetheinternet", "OTT"]
+author = 'Apar Gupta'
+categories = ['savetheinternet', 'OTT']
 date = 2020-09-28T14:02:09Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/09/TRAI-s-OTT-Recommendations-1.png"
-slug = "thank-you-trai-for-recommending-against-internet-licensing-savetheinternet"
-summary = "In a victory for internet users the telecom regulator pushed back against some awful proposals by telecom companies to force online service providers for licensing, revenue sharing or breaking their encryption. We have written to the DOT to accept them."
-tags = ["savetheinternet", "OTT"]
-title = "Thank you TRAI for recommending against internet licensing! #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2020/09/TRAI-s-OTT-Recommendations-1.png'
+slug = 'thank-you-trai-for-recommending-against-internet-licensing-savetheinternet'
+summary = 'In a victory for internet users the telecom regulator pushed back against some awful proposals by telecom companies to force online service providers for licensing, revenue sharing or breaking their encryption. We have written to the DOT to accept them.'
+tags = ['savetheinternet', 'OTT']
+title = 'Thank you TRAI for recommending against internet licensing! #SaveTheInternet'
 
 +++
 

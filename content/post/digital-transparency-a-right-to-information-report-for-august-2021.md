@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Right to Information", "transaprency"]
+author = 'Yashaswini'
+categories = ['Right to Information', 'transparency', 'RTIReport']
 date = 2021-09-06T07:33:40Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/Header--RTI---August-1.jpeg"
-slug = "digital-transparency-a-right-to-information-report-for-august-2021"
-summary = "In the month of August, IFF has filed 64 RTI requests, 5 First Appeals and 1 Second Appeal. In this report, we give you an overview of the requests filed and an analysis of the responses we have received from the different public authorities. "
-tags = ["Right to Information", "transaprency"]
-title = "Digital Transparency: A Right to Information Report for August, 2021"
+image = 'https://internetfreedom.in/content/images/2021/09/Header--RTI---August-1.jpeg'
+slug = 'digital-transparency-a-right-to-information-report-for-august-2021'
+summary = 'In the month of August, IFF has filed 64 RTI requests, 5 First Appeals and 1 Second Appeal. In this report, we give you an overview of the requests filed and an analysis of the responses we have received from the different public authorities. '
+tags = ['Right to Information', 'transparency', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for August, 2021'
 
 +++
 

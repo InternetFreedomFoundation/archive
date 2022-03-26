@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Privacy", "Surveillance", "vaccines"]
-date = 2021-09-28T00:48:23Z
-description = ""
+author = 'Anushka Jain'
+categories = ['Privacy', 'Surveillance', 'vaccines']
+date = 2021-09-28T06:18:23Z
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/Vaccines-Blog-header-1.png"
-slug = "vaccination-is-essential-vaccine-passports-are-not"
-summary = "In this explainer on vaccine passports, we try to examine the ethical, legal and privacy concerns surrounding them. "
-tags = ["Privacy", "Surveillance", "vaccines"]
-title = "Vaccination is essential; Vaccine passports are not! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/09/Vaccines-Blog-header-1.png'
+slug = 'vaccination-is-essential-vaccine-passports-are-not'
+summary = 'In this explainer on vaccine passports, we try to examine the ethical, legal and privacy concerns surrounding them. '
+tags = ['Privacy', 'Surveillance', 'vaccines']
+title = 'Vaccination is essential; Vaccine passports are not! #SaveOurPrivacy'
 
 +++
 
@@ -65,6 +65,8 @@ If vaccine passports are made mandatory and issued digitally, it would require t
 ### Vaccination is essential; Vaccine passports are not!
 
 It is crucial that each and every individual gets safe access to vaccines to ensure that this collective nightmare we are in comes to an end. However, making proof of vaccination a hurdle in international travel or for accessing facilities would lead to unnecessary and harmful exclusion which must be avoided.
+
+<iframe src="https://drive.google.com/file/d/1Al71CDt-NbXOFCRu-ev1kET3G8CAGVdV/preview" width="580" height="480"></iframe>
 
 ### Important documents
 

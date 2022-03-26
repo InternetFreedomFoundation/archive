@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["DataProtectionTop10", "Data Protection", "Blog", "PDPB"]
+author = 'Rohin Garg'
+categories = ['DataProtectionTop10', 'Data Protection', 'Blog', 'PDPB']
 date = 2021-05-28T07:21:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/PDPB-8-Graphic-4.png"
-slug = "dataprotectiontop10-on-the-importance-of-a-strong-and-independent-data-protection-authority"
+image = 'https://internetfreedom.in/content/images/2021/05/PDPB-8-Graphic-4.png'
+slug = 'dataprotectiontop10-on-the-importance-of-a-strong-and-independent-data-protection-authority'
 summary = "We analyse the provisions in the Personal Data Protection Bill, 2019 which relate to the Data Protection Authority of India (DPA) and its independence, transparency, and constitution. We recommend that it not be bound by the Central Government's orders."
-tags = ["DataProtectionTop10", "Data Protection", "Blog", "PDPB"]
-title = "#DataProtectionTop10: On the Importance of a Strong, Transparent, and Independent Data Protection Authority"
+tags = ['DataProtectionTop10', 'Data Protection', 'Blog', 'PDPB']
+title = '#DataProtectionTop10: On the Importance of a Strong, Transparent, and Independent Data Protection Authority'
 
 +++
 

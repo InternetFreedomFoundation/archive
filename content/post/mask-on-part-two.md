@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "Project Panoptic"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'Project Panoptic']
 date = 2019-11-11T06:10:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Capture-6.png"
-slug = "mask-on-part-two"
-summary = "In light of the continuing growing concerns of CCTVs and facial recognition technology in the recent weeks, we throw a few more kicks to fight against this trajectory of mass surveillance. "
-tags = ["Privacy", "Project Panoptic"]
-title = "While Delhi has its pollution mask on, the rest of India might need one too. For different reasons of course..."
+image = 'https://internetfreedom.in/content/images/2019/10/Capture-6.png'
+slug = 'mask-on-part-two'
+summary = 'In light of the continuing growing concerns of CCTVs and facial recognition technology in the recent weeks, we throw a few more kicks to fight against this trajectory of mass surveillance. '
+tags = ['Privacy', 'Project Panoptic']
+title = 'While Delhi has its pollution mask on, the rest of India might need one too. For different reasons of course...'
 
 +++
 

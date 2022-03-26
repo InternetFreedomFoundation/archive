@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["OTT"]
+author = 'Rohin Garg'
+categories = ['OTT']
 date = 2021-03-04T05:49:31Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/Coming-to-streaming-services-near-you-2.png"
-slug = "self-censorship-and-the-end-of-good-content"
+image = 'https://internetfreedom.in/content/images/2021/03/Coming-to-streaming-services-near-you-2.png'
+slug = 'self-censorship-and-the-end-of-good-content'
 summary = "In light of the recently notified Intermediary Rules, we have made an explainer on the IAMAI's toolkit for the self-regulation code for OCC providers. Here, we describe the grievance redressal structure, analyse some of the concerns at hand, and explain how the toolkit will enmesh with the Rules."
-tags = ["OTT"]
-title = "Coming to streaming services near you: Self-censorship!"
+tags = ['OTT']
+title = 'Coming to streaming services near you: Self-censorship!'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Privacy", "Censorship"]
+author = 'Apar Gupta'
+categories = ['Privacy', 'Censorship']
 date = 2019-02-07T09:04:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-07-at-2.13.42-PM.png"
-slug = "need-for-the-parliamentary-committee-on-it-to-broaden-participation-and-move-towards-outcomes"
-summary = "Next week the Parliamentary Committee on IT will hold a hearing on, ‘Safeguarding citizens’ data on social/online news media platforms’. It invites Government officials & Twitter. Public participation is necessary on this vital issue."
-tags = ["Privacy", "Censorship"]
-title = "Need for the Parliamentary Committee on IT to broaden participation and move towards outcomes"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-07-at-2.13.42-PM.png'
+slug = 'need-for-the-parliamentary-committee-on-it-to-broaden-participation-and-move-towards-outcomes'
+summary = 'Next week the Parliamentary Committee on IT will hold a hearing on, ‘Safeguarding citizens’ data on social/online news media platforms’. It invites Government officials & Twitter. Public participation is necessary on this vital issue.'
+tags = ['Privacy', 'Censorship']
+title = 'Need for the Parliamentary Committee on IT to broaden participation and move towards outcomes'
 
 +++
 

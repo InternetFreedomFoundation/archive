@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["DigitalJustice", "Filings", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['DigitalJustice', 'Filings', 'Legal']
 date = 2019-09-24T09:35:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/WhatsApp-Image-2019-09-24-at-2.58.26-PM.jpeg"
-slug = "action-packed-hearing-in-facebooks-transfer-petition-before-the-supreme-court"
+image = 'https://internetfreedom.in/content/images/2019/09/WhatsApp-Image-2019-09-24-at-2.58.26-PM.jpeg'
+slug = 'action-packed-hearing-in-facebooks-transfer-petition-before-the-supreme-court'
 summary = "In today's hearing, the Supreme Court emphasized that technical and complex issues such as encryption are best addressed by the executive branch and it directed the Central Government to file an affidavit about the status of the Draft Intermediaries Guidelines Rules."
-tags = ["DigitalJustice", "Filings", "Legal"]
+tags = ['DigitalJustice', 'Filings', 'Legal']
 title = "Action-Packed Hearing in Facebook's Transfer Petition before the Supreme Court"
 
 +++

@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["accesstointernet", "Data Protection", "facial recognition", "Privacy", "SaveOurPrivacy", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['accesstointernet', 'Data Protection', 'facial recognition', 'Privacy', 'SaveOurPrivacy', 'Surveillance']
 date = 2021-01-09T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-the-ugc-and-the-ministry-of-education-on-exam-proctoring"
-summary = "Following multiple reports of the use of exam proctoring technology by various universities across the country, we wrote to the University Grants Commission and the Ministry of Education. "
-tags = ["accesstointernet", "Data Protection", "facial recognition", "Privacy", "SaveOurPrivacy", "Surveillance"]
-title = "We wrote to the UGC and the Ministry of Education on exam proctoring"
+slug = 'we-wrote-to-the-ugc-and-the-ministry-of-education-on-exam-proctoring'
+summary = 'Following multiple reports of the use of exam proctoring technology by various universities across the country, we wrote to the University Grants Commission and the Ministry of Education. '
+tags = ['accesstointernet', 'Data Protection', 'facial recognition', 'Privacy', 'SaveOurPrivacy', 'Surveillance']
+title = 'We wrote to the UGC and the Ministry of Education on exam proctoring'
 
 +++
 

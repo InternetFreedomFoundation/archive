@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["DigitalJustice", "Filings", "Supreme Court", "SaveOurPrivacy", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['DigitalJustice', 'Filings', 'Supreme Court', 'SaveOurPrivacy', 'Legal']
 date = 2019-04-23T14:14:41Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Capture-12.PNG"
-slug = "iff-files-rejoinder-in-pil-seeking-surveillance-reform"
-summary = "Yesterday, IFF filed its rejoinder in the PIL seeking surveillance reform and reemphasized that judicial oversight is necessary in the surveillance process. "
-tags = ["DigitalJustice", "Filings", "Supreme Court", "SaveOurPrivacy", "Legal"]
-title = "IFF files rejoinder in PIL seeking surveillance reform"
+image = 'https://internetfreedom.in/content/images/2019/04/Capture-12.PNG'
+slug = 'iff-files-rejoinder-in-pil-seeking-surveillance-reform'
+summary = 'Yesterday, IFF filed its rejoinder in the PIL seeking surveillance reform and reemphasized that judicial oversight is necessary in the surveillance process. '
+tags = ['DigitalJustice', 'Filings', 'Supreme Court', 'SaveOurPrivacy', 'Legal']
+title = 'IFF files rejoinder in PIL seeking surveillance reform'
 
 +++
 
@@ -56,7 +56,7 @@ The tentative next date of hearing is 10 May 2019 and we will keep you posted ab
 
 1. Copy of Rejoinder filed by IFF ([link](https://drive.google.com/file/d/14fR0Leec8ujP-TDlQD4DAkMILCn0UPaH/view?usp=sharing))
 2. Copy of Order passed by the Hon'ble Supreme Court on 22.04.2019 ([link](https://drive.google.com/file/d/17KImjcBS9UJs1k2W1PITZvqyvT1VPx4f/view?usp=sharing))
-3. Copy of Counter-affidavit filed by Union of India ([link](https://theleaflet.in/centre-defends-snooping-notification-in-the-supreme-court///))
+3. Copy of Counter-affidavit filed by Union of India ([link](https://drive.google.com/file/d/1lvigReB8-SBWOb3IKVj9ngsj2NPahAI_/view?usp=sharing))
 
 
 

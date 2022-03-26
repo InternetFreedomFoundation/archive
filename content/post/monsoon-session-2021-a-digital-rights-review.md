@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Parliament", "Legislative Brief"]
+author = 'Rohin Garg'
+categories = ['Parliament', 'Legislative Brief']
 date = 2021-08-18T09:54:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/1-4.png"
-slug = "monsoon-session-2021-a-digital-rights-review"
-summary = "The Monsoon session of Parliament saw frequent disruptions of big issues such as the Pegasus attacks and the farm reforms. In this post, we take a look at these disruptions, and analyse how the Parliament fared with respect to digital rights. Unfortunately there was not much progress. "
-tags = ["Parliament", "Legislative Brief"]
-title = "Monsoon Session 2021: A Digital Rights Review"
+image = 'https://internetfreedom.in/content/images/2021/08/1-4.png'
+slug = 'monsoon-session-2021-a-digital-rights-review'
+summary = 'The Monsoon session of Parliament saw frequent disruptions of big issues such as the Pegasus attacks and the farm reforms. In this post, we take a look at these disruptions, and analyse how the Parliament fared with respect to digital rights. Unfortunately there was not much progress. '
+tags = ['Parliament', 'Legislative Brief']
+title = 'Monsoon Session 2021: A Digital Rights Review'
 
 +++
 
@@ -58,11 +58,17 @@ In response to all these developments, the government said that [Pegasus was a n
 
 Important discussions and legislation have been shifted forward to the Winter session. This includes the report of the JPC on the Personal Data Protection Bill, 2019. It is high time these  issues of digital rights are given the time they need and discussed on the floor of the house. Additionally, this is the fourth successive session that has been cut short. Thus, at a time when Parliament should be working with increased efficiency and discussing all urgent matters, it has not been able to do so. Moving forward, we hope the government will allocate time to take up such matters in both houses of Parliament.
 
+<iframe src="https://drive.google.com/file/d/1pg8SxNXtK76kftNvapF9Nc__vz3G4lUV/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. IFF’s Legislative Brief on Digital Rights for Monsoon Session 2021 ([**link**](https://internetfreedom.in/iff-releases-legislative-brief-on-digital-rights-for-the-monsoon-session-of-the-parliament/))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
+
+
 
 
 

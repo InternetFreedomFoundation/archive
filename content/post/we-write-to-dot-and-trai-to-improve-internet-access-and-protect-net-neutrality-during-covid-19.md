@@ -1,14 +1,14 @@
 +++
-author = "Sidharth Deb"
-categories = ["savetheinternet", "Net Neutrality", "internet shutdowns", "keep us online", "TRAI", "Telecom", "DOT", "Covid", "Coronavirus"]
+author = 'Sidharth Deb'
+categories = ['savetheinternet', 'Net Neutrality', 'internet shutdowns', 'keep us online', 'TRAI', 'Telecom', 'DOT', 'Covid', 'Coronavirus']
 date = 2020-04-24T08:27:12Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/04/graphic-02-3.png"
-slug = "we-write-to-dot-and-trai-to-improve-internet-access-and-protect-net-neutrality-during-covid-19"
-summary = "IFF has written to the DoT and TRAI suggesting that government interventions must look toward overcoming the digital divide, appreciating the importance of the internet and mobile services as an essential utility, and protect net neutrality. "
-tags = ["savetheinternet", "Net Neutrality", "internet shutdowns", "keep us online", "TRAI", "Telecom", "DOT", "Covid", "Coronavirus"]
-title = "We Write to DoT and TRAI to Improve Internet Access and Protect Net Neutrality During COVID-19 #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2020/04/graphic-02-3.png'
+slug = 'we-write-to-dot-and-trai-to-improve-internet-access-and-protect-net-neutrality-during-covid-19'
+summary = 'IFF has written to the DoT and TRAI suggesting that government interventions must look toward overcoming the digital divide, appreciating the importance of the internet and mobile services as an essential utility, and protect net neutrality. '
+tags = ['savetheinternet', 'Net Neutrality', 'internet shutdowns', 'keep us online', 'TRAI', 'Telecom', 'DOT', 'Covid', 'Coronavirus']
+title = 'We Write to DoT and TRAI to Improve Internet Access and Protect Net Neutrality During COVID-19 #SaveTheInternet'
 
 +++
 

@@ -1,11 +1,11 @@
 +++
-author = "Joanne DCunha"
+author = 'Joanne DCunha'
 date = 2019-06-04T03:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/06/Capture.PNG"
-slug = "its-all-about"
-summary = "As the new Government forms, IFF restates the dire need to put digital rights at the forefront. "
+image = 'https://internetfreedom.in/content/images/2019/06/Capture.PNG'
+slug = 'its-all-about'
+summary = 'As the new Government forms, IFF restates the dire need to put digital rights at the forefront. '
 title = "There's no stopping now, everything is going digital. #DigitalRights"
 
 +++

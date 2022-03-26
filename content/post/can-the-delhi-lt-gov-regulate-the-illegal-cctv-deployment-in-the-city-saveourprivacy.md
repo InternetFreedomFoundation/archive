@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["CCTV", "Surveillance", "SaveOurPrivacy", "Privacy"]
+author = 'Anushka Jain'
+categories = ['CCTV', 'Surveillance', 'SaveOurPrivacy', 'Privacy']
 date = 2021-10-20T09:16:18Z
-description = ""
+description = ''
 draft = false
-slug = "can-the-delhi-lt-gov-regulate-the-illegal-cctv-deployment-in-the-city-saveourprivacy"
-summary = "We wrote to the Lt. Governor of Delhi with our concerns regarding the ongoing illegal CCTV deployment in the National Capital and possible recommendations to protect the privacy of citizens. "
-tags = ["CCTV", "Surveillance", "SaveOurPrivacy", "Privacy"]
-title = "Illegal CCTV deployment in Delhi is alarming #SaveOurPrivacy"
+slug = 'can-the-delhi-lt-gov-regulate-the-illegal-cctv-deployment-in-the-city-saveourprivacy'
+summary = 'We wrote to the Lt. Governor of Delhi with our concerns regarding the ongoing illegal CCTV deployment in the National Capital and possible recommendations to protect the privacy of citizens. '
+tags = ['CCTV', 'Surveillance', 'SaveOurPrivacy', 'Privacy']
+title = 'Illegal CCTV deployment in Delhi is alarming #SaveOurPrivacy'
 
 +++
 

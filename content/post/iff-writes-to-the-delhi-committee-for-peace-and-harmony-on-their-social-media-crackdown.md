@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["Censorship", "66A"]
+author = 'Sidharth Deb'
+categories = ['Censorship', '66A']
 date = 2020-03-07T12:37:12Z
-description = ""
+description = ''
 draft = false
-slug = "iff-writes-to-the-delhi-committee-for-peace-and-harmony-on-their-social-media-crackdown"
-summary = "The Delhi Government constituted a Committee for Peace and Harmony to investigate hateful content and fake news over social media. As it stands it will enable over censorship and chilling effect. IFF has written a letter to the Committee’s chairperson along with Delhi CM Arvind Kejriwal. "
-tags = ["Censorship", "66A"]
-title = "IFF writes to the Delhi Committee for Peace and Harmony on their social media crackdown #FreeToMeme"
+slug = 'iff-writes-to-the-delhi-committee-for-peace-and-harmony-on-their-social-media-crackdown'
+summary = 'The Delhi Government constituted a Committee for Peace and Harmony to investigate hateful content and fake news over social media. As it stands it will enable over censorship and chilling effect. IFF has written a letter to the Committee’s chairperson along with Delhi CM Arvind Kejriwal. '
+tags = ['Censorship', '66A']
+title = 'IFF writes to the Delhi Committee for Peace and Harmony on their social media crackdown #FreeToMeme'
 
 +++
 

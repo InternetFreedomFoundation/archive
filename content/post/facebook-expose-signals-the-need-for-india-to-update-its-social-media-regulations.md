@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["it act", "MeitY", "facebook"]
+author = 'Rohin Garg'
+categories = ['it act', 'MeitY', 'facebook']
 date = 2021-10-22T06:37:47Z
-description = ""
+description = ''
 draft = false
-slug = "facebook-expose-signals-the-need-for-india-to-update-its-social-media-regulations"
-summary = "In light of the recent facebook disclosures, we wrote to MEITY about any forthcoming updates to the Information Technology Act, 2000. We pointed out several inadequacies and lacunae in the Act, and asked the Ministry to publish a full consultation timeline over any proposed amendments."
-tags = ["it act", "MeitY", "facebook"]
-title = "Facebook exposé signals the need for India to update its social media regulations"
+slug = 'facebook-expose-signals-the-need-for-india-to-update-its-social-media-regulations'
+summary = 'In light of the recent facebook disclosures, we wrote to MEITY about any forthcoming updates to the Information Technology Act, 2000. We pointed out several inadequacies and lacunae in the Act, and asked the Ministry to publish a full consultation timeline over any proposed amendments.'
+tags = ['it act', 'MeitY', 'facebook']
+title = 'Facebook exposé signals the need for India to update its social media regulations'
 
 +++
 

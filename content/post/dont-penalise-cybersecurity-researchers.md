@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["cybersecurity"]
+author = 'Rohin Garg'
+categories = ['cybersecurity']
 date = 2021-10-13T06:23:03Z
-description = ""
+description = ''
 draft = false
-slug = "dont-penalise-cybersecurity-researchers"
-summary = "We wrote to CERT-IN regarding their new Responsible Vulnerability Disclosure and Coordination Policy that penalises cybersecurity researchers for vulnerability disclosures. Such a policy would make researchers reluctant about reporting vulnerabilities and so a robust disclosure mechanism is needed."
-tags = ["cybersecurity"]
-title = "Don’t penalise cybersecurity researchers!"
+slug = 'dont-penalise-cybersecurity-researchers'
+summary = 'We wrote to CERT-IN regarding their new Responsible Vulnerability Disclosure and Coordination Policy that penalises cybersecurity researchers for vulnerability disclosures. Such a policy would make researchers reluctant about reporting vulnerabilities and so a robust disclosure mechanism is needed.'
+tags = ['cybersecurity']
+title = 'Don’t penalise cybersecurity researchers!'
 
 +++
 

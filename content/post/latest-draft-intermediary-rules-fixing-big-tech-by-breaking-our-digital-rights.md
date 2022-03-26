@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["intermediary", "it act", "big tech"]
+author = 'Anushka Jain'
+categories = ['intermediary', 'it act', 'big tech']
 date = 2021-02-25T05:09:19Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/Balkan-worked-with-Polygon-Studio-to-design-a-classically-structured-bridge-that-would-easily-fit-in-with-the-visual-aesthetic-of-the-city.-The-underside-of-the-bridge-was-repurposed-as-a-walkway.--6--1.png"
-slug = "latest-draft-intermediary-rules-fixing-big-tech-by-breaking-our-digital-rights"
-summary = "Everything that has happened and is happening with the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021."
-tags = ["intermediary", "it act", "big tech"]
-title = "Latest Draft Intermediary Rules: Fixing big tech, by breaking our digital rights?"
+image = 'https://internetfreedom.in/content/images/2021/02/Balkan-worked-with-Polygon-Studio-to-design-a-classically-structured-bridge-that-would-easily-fit-in-with-the-visual-aesthetic-of-the-city.-The-underside-of-the-bridge-was-repurposed-as-a-walkway.--6--1.png'
+slug = 'latest-draft-intermediary-rules-fixing-big-tech-by-breaking-our-digital-rights'
+summary = 'Everything that has happened and is happening with the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.'
+tags = ['intermediary', 'it act', 'big tech']
+title = 'Latest Draft Intermediary Rules: Fixing big tech, by breaking our digital rights?'
 
 +++
 

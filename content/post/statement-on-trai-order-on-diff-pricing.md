@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2016-02-08T11:18:47Z
-description = ""
+description = ''
 draft = false
-slug = "statement-on-trai-order-on-diff-pricing"
-title = "STI.in Statement on outcome of TRAI consultation on Differential Pricing of Data Services"
+slug = 'statement-on-trai-order-on-diff-pricing'
+title = 'STI.in Statement on outcome of TRAI consultation on Differential Pricing of Data Services'
 
 +++
 

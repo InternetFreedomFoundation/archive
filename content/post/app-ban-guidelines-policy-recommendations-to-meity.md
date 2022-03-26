@@ -1,13 +1,13 @@
 +++
-author = "Raghav Kaushal"
-categories = ["WhatTheBlock", "Censorship", "innovation", "transaprency", "WebsiteBlocking"]
+author = 'Raghav Kaushal'
+categories = ['WhatTheBlock', 'Censorship', 'innovation', 'transaprency', 'WebsiteBlocking']
 date = 2020-08-04T04:48:16Z
-description = ""
+description = ''
 draft = false
-slug = "app-ban-guidelines-policy-recommendations-to-meity"
-summary = "The Government is looking to strengthen its stance on banning mobile apps. It is planning to come out with guidelines, flouting which any app can be banned. We feel that such wide scale banning operations undermine your digital rights. So, we wrote to them urging them to rethink the move."
-tags = ["WhatTheBlock", "Censorship", "innovation", "transaprency", "WebsiteBlocking"]
-title = "Avoiding app bans with a nuanced policy approach #WhatTheBlock"
+slug = 'app-ban-guidelines-policy-recommendations-to-meity'
+summary = 'The Government is looking to strengthen its stance on banning mobile apps. It is planning to come out with guidelines, flouting which any app can be banned. We feel that such wide scale banning operations undermine your digital rights. So, we wrote to them urging them to rethink the move.'
+tags = ['WhatTheBlock', 'Censorship', 'innovation', 'transaprency', 'WebsiteBlocking']
+title = 'Avoiding app bans with a nuanced policy approach #WhatTheBlock'
 
 +++
 

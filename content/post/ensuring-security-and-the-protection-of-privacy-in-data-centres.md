@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["SaveOurPrivacy"]
+author = 'Rohin Garg'
+categories = ['SaveOurPrivacy']
 date = 2020-11-19T09:04:10Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/Data-centres-security--1--1.png"
-slug = "ensuring-security-and-the-protection-of-privacy-in-data-centres"
-summary = "IFF has sent its comments to the MEITY on the Draft Data Centre Policy. In our comments we highlighted four issues we feel the policy must address: adequate security standards, safeguards for user privacy, firm regulatory oversight, and the unecessary imposition of ESMA."
-tags = ["SaveOurPrivacy"]
-title = "Ensuring security and the protection of privacy in data centres"
+image = 'https://internetfreedom.in/content/images/2020/11/Data-centres-security--1--1.png'
+slug = 'ensuring-security-and-the-protection-of-privacy-in-data-centres'
+summary = 'IFF has sent its comments to the MEITY on the Draft Data Centre Policy. In our comments we highlighted four issues we feel the policy must address: adequate security standards, safeguards for user privacy, firm regulatory oversight, and the unecessary imposition of ESMA.'
+tags = ['SaveOurPrivacy']
+title = 'Ensuring security and the protection of privacy in data centres'
 
 +++
 

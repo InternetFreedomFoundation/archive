@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Parliament", "PDPB", "Policy", "Data Protection"]
+author = 'Rohin Garg'
+categories = ['Parliament', 'PDPB', 'Policy', 'Data Protection']
 date = 2021-04-23T04:50:01Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/1-11.png"
-slug = "constitutional-utopias-of-digital-protection"
-summary = "In the final piece in our series on the Data Protection Bill, we first explain the 7 fundamental principles of the Indian Privacy Code. Then we analyse two alternative data protection bills: the Data (Privacy and Protection) Bill, 2017 and the Personal Data and Information Privacy Code Bill, 2019."
-tags = ["Parliament", "PDPB", "Policy", "Data Protection"]
-title = "#StartfromScratch: Constitutional Utopias of Digital Protection"
+image = 'https://internetfreedom.in/content/images/2021/04/1-11.png'
+slug = 'constitutional-utopias-of-digital-protection'
+summary = 'In the final piece in our series on the Data Protection Bill, we first explain the 7 fundamental principles of the Indian Privacy Code. Then we analyse two alternative data protection bills: the Data (Privacy and Protection) Bill, 2017 and the Personal Data and Information Privacy Code Bill, 2019.'
+tags = ['Parliament', 'PDPB', 'Policy', 'Data Protection']
+title = '#StartfromScratch: Constitutional Utopias of Digital Protection'
 
 +++
 

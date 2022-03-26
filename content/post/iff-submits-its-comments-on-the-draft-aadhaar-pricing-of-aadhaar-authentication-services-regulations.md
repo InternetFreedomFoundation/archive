@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["aadhaar", "Privacy"]
+author = 'Rohin Garg'
+categories = ['aadhaar', 'Privacy']
 date = 2021-10-08T04:51:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/10/Aadhaar-Twitter-header-1.jpg"
-slug = "iff-submits-its-comments-on-the-draft-aadhaar-pricing-of-aadhaar-authentication-services-regulations"
-summary = "We have provided our comments on the Draft Aadhaar (Pricing of Aadhaar Authentication Services) Regulations 2021. In our comments, we recommended that Aadhaar authentication charges be scrapped and private entities be barred from acting as ‘requesting entities’ for authentication."
-tags = ["aadhaar", "Privacy"]
-title = "IFF submits its comments on the Draft Aadhaar (Pricing of Aadhaar Authentication Services) Regulations"
+image = 'https://internetfreedom.in/content/images/2021/10/Aadhaar-Twitter-header-1.jpg'
+slug = 'iff-submits-its-comments-on-the-draft-aadhaar-pricing-of-aadhaar-authentication-services-regulations'
+summary = 'We have provided our comments on the Draft Aadhaar (Pricing of Aadhaar Authentication Services) Regulations 2021. In our comments, we recommended that Aadhaar authentication charges be scrapped and private entities be barred from acting as ‘requesting entities’ for authentication.'
+tags = ['aadhaar', 'Privacy']
+title = 'IFF submits its comments on the Draft Aadhaar (Pricing of Aadhaar Authentication Services) Regulations'
 
 +++
 

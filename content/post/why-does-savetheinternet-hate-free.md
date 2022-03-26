@@ -1,12 +1,12 @@
 +++
-author = "SaveTheInternet.in Coalition"
-categories = ["Opinion"]
+author = 'SaveTheInternet.in Coalition'
+categories = ['Opinion']
 date = 2015-04-21T20:12:00Z
-description = ""
+description = ''
 draft = false
-slug = "why-does-savetheinternet-hate-free"
-tags = ["Opinion"]
-title = "Why does #SaveTheInternet hate free?"
+slug = 'why-does-savetheinternet-hate-free'
+tags = ['Opinion']
+title = 'Why does #SaveTheInternet hate free?'
 
 +++
 

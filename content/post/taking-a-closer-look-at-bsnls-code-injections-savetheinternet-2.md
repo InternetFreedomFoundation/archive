@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["Net Neutrality", "BSNL"]
+author = 'Rohin Garg'
+categories = ['Net Neutrality', 'BSNL']
 date = 2021-08-09T09:06:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/BSNL-code-1.png"
-slug = "taking-a-closer-look-at-bsnls-code-injections-savetheinternet-2"
-summary = "We wrote to BSNL about the code injections that continue to persist on their network. In our representation, we highlighted the inadequacy of their past responses to our earlier representations and RTIs, and outlined some key questions that need to be addressed by BSNL."
-tags = ["Net Neutrality", "BSNL"]
+image = 'https://internetfreedom.in/content/images/2021/08/BSNL-code-1.png'
+slug = 'taking-a-closer-look-at-bsnls-code-injections-savetheinternet-2'
+summary = 'We wrote to BSNL about the code injections that continue to persist on their network. In our representation, we highlighted the inadequacy of their past responses to our earlier representations and RTIs, and outlined some key questions that need to be addressed by BSNL.'
+tags = ['Net Neutrality', 'BSNL']
 title = "BSNL is injecting code on to your browsers, and here's what it does. #SaveTheInternet"
 
 +++
@@ -68,14 +68,19 @@ _This is an issue that we have been tracking for some time, and we understand th
 
 _To report an instacne of code injections by BSNL, please see [here](https://blocksurvey.io/survey/1PfQfn62JSDjjyK4nuHoY5t21wKeuocLLm/a9e25aa3-758d-457f-b8b4-24dcb07b2c23)._
 
+<iframe src="https://drive.google.com/file/d/1EEPtnskbcurIobdO0f25BDeFhKtY281U/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. The Personal Data Protection Bill, 2019 __ as introduced by the Minister for Electronics and Information Technology, Mr. Ravi Shankar Prasad ([**link**](http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/373_2019_LS_Eng.pdf))
-2. Blogpost dated 17th May, 2019 titled “Venom, venom, venom. BSNL engaging in code injections” (**[link](https://internetfreedom.in/venom-venom-venom-bsnl-engaging-in-code-injections/)**)
-3. Blogpost dated 29th July, 2019 titled “We've been left on read : Lack of response from BSNL and DOT on Net Neutrality violations. #SaveTheInternet” (**[link](https://internetfreedom.in/weve-been-left-on-read/)**)
-4. Blogpost dated 11th October, 2019 titled “BSNL's claim: "We have DND Mechanisms".” (**[link](https://internetfreedom.in/bsnls-claim-we-have-dnd-mechanisms/)**)
+2. IFF's letter to BSNL  'Regarding the continued incidence of code injections and the lack of action taken thereof' dated 9th August, 2021 (**[link](https://drive.google.com/file/d/1KE1V-rukbvodT3wlgNT1bLxKsc5py5QZ/view)**)
+3. Blogpost dated 17th May, 2019 titled “Venom, venom, venom. BSNL engaging in code injections” (**[link](https://internetfreedom.in/venom-venom-venom-bsnl-engaging-in-code-injections/)**)
+4. Blogpost dated 29th July, 2019 titled “We've been left on read : Lack of response from BSNL and DOT on Net Neutrality violations. #SaveTheInternet” (**[link](https://internetfreedom.in/weve-been-left-on-read/)**)
+5. Blogpost dated 11th October, 2019 titled “BSNL's claim: "We have DND Mechanisms".” (**[link](https://internetfreedom.in/bsnls-claim-we-have-dnd-mechanisms/)**)
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

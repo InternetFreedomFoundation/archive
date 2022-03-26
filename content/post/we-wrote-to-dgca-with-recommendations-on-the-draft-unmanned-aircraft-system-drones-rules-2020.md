@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["drones", "Privacy", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['drones', 'Privacy', 'Surveillance']
 date = 2020-07-07T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-dgca-with-recommendations-on-the-draft-unmanned-aircraft-system-drones-rules-2020"
-summary = "Read our recommendations to the DGCA on the Draft UAS (Drones) Rules. Our main recommendations were the introduction of privacy protecting measures and the prohibition of aerial surveillance."
-tags = ["drones", "Privacy", "Surveillance"]
-title = "We wrote to DGCA with recommendations on the Draft Unmanned Aircraft System (Drones) Rules, 2020 #SaveOurPrivacy"
+slug = 'we-wrote-to-dgca-with-recommendations-on-the-draft-unmanned-aircraft-system-drones-rules-2020'
+summary = 'Read our recommendations to the DGCA on the Draft UAS (Drones) Rules. Our main recommendations were the introduction of privacy protecting measures and the prohibition of aerial surveillance.'
+tags = ['drones', 'Privacy', 'Surveillance']
+title = 'We wrote to DGCA with recommendations on the Draft Unmanned Aircraft System (Drones) Rules, 2020 #SaveOurPrivacy'
 
 +++
 

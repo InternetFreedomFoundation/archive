@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["internet shutdowns", "keep us online"]
+author = 'Apar Gupta'
+categories = ['internet shutdowns', 'keep us online']
 date = 2018-12-18T06:11:58Z
-description = ""
+description = ''
 draft = false
-slug = "an-acknowledgment-of-harm-of-internet-shutdowns-by-the-dot-keepusonline-letthenetwork-keepiton"
-summary = "We request the Department of Telecom to extend public victories on net neutrality and internet shutdowns. "
-tags = ["internet shutdowns", "keep us online"]
-title = "We urge DOT to be a defender of digital rights. #KeepUsOnline #LetTheNetWork #KeepItOn #SaveTheInternet"
+slug = 'an-acknowledgment-of-harm-of-internet-shutdowns-by-the-dot-keepusonline-letthenetwork-keepiton'
+summary = 'We request the Department of Telecom to extend public victories on net neutrality and internet shutdowns. '
+tags = ['internet shutdowns', 'keep us online']
+title = 'We urge DOT to be a defender of digital rights. #KeepUsOnline #LetTheNetWork #KeepItOn #SaveTheInternet'
 
 +++
 

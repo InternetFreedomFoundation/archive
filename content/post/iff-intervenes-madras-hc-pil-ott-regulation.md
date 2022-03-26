@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["OTT", "Censorship", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['OTT', 'Censorship', 'Legal']
 date = 2020-12-15T07:23:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/Madras-HC-OTT-PIL-1.png"
-slug = "iff-intervenes-madras-hc-pil-ott-regulation"
-summary = "In the impleadment application, we have cautioned against judicial intervention at this stage because OTT regulation is a complex and technical issue best addressed through legislative and policy making processes involving extensive stakeholder consultation."
-tags = ["OTT", "Censorship", "Legal"]
-title = "IFF intervenes in Madras HC PIL seeking censorship on online streaming platforms #LetUsChill"
+image = 'https://internetfreedom.in/content/images/2020/12/Madras-HC-OTT-PIL-1.png'
+slug = 'iff-intervenes-madras-hc-pil-ott-regulation'
+summary = 'In the impleadment application, we have cautioned against judicial intervention at this stage because OTT regulation is a complex and technical issue best addressed through legislative and policy making processes involving extensive stakeholder consultation.'
+tags = ['OTT', 'Censorship', 'Legal']
+title = 'IFF intervenes in Madras HC PIL seeking censorship on online streaming platforms #LetUsChill'
 
 +++
 

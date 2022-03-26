@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Privacy", "Data Protection"]
+author = 'Apar Gupta'
+categories = ['Privacy', 'Data Protection']
 date = 2018-12-06T12:11:57Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-5.40.32-PM.png"
-slug = "the-drafting-process-for-the-data-protection-bill-should-not-be-shrouded-in-secrecy-saveourprivacy"
+image = 'https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-5.40.32-PM.png'
+slug = 'the-drafting-process-for-the-data-protection-bill-should-not-be-shrouded-in-secrecy-saveourprivacy'
 summary = "The Ministry of Electronics and Information Technology has denied SaveOurPrivacy.in's request for transparency in the drafting of India's privacy law. We have filed first appeals under the RTI Act."
-tags = ["Privacy", "Data Protection"]
-title = "The drafting process for the Data Protection Bill should not be shrouded in secrecy #SaveOurPrivacy"
+tags = ['Privacy', 'Data Protection']
+title = 'The drafting process for the Data Protection Bill should not be shrouded in secrecy #SaveOurPrivacy'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["IFF Explainer", "ITRules", "it act", "Legal"]
+author = 'Krishnesh'
+categories = ['IFF Explainer', 'ITRules', 'it act', 'Legal']
 date = 2021-08-17T05:51:02Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/1-1.png"
-slug = "bombay-high-court-stays-the-operation-of-rule-9-1-and-rule-9-3-of-it-rules-2021"
-summary = "The Court found these rules, which prescribed a Code of Ethics and a 3-tier grievance redressal mechanism, to be prima facie violative of Article 19(1)(a) and beyond the rule-making power conferred by the Parliament on the Government."
-tags = ["IFF Explainer", "ITRules", "it act", "Legal"]
-title = "Bombay High Court stays the operation of Rule 9(1) and Rule 9(3) of IT Rules, 2021"
+image = 'https://internetfreedom.in/content/images/2021/08/1-1.png'
+slug = 'bombay-high-court-stays-the-operation-of-rule-9-1-and-rule-9-3-of-it-rules-2021'
+summary = 'The Court found these rules, which prescribed a Code of Ethics and a 3-tier grievance redressal mechanism, to be prima facie violative of Article 19(1)(a) and beyond the rule-making power conferred by the Parliament on the Government.'
+tags = ['IFF Explainer', 'ITRules', 'it act', 'Legal']
+title = 'Bombay High Court stays the operation of Rule 9(1) and Rule 9(3) of IT Rules, 2021'
 
 +++
 
@@ -54,7 +54,11 @@ Apart from Rules 9(1) and 9(3), the Court also examined Rules 14 and 16. On Rule
 
 IFF’s Executive Director, Apar Gupta, made the following statement on this decision:
 
-“We welcome the decision of the Bombay High Court. It provides much-needed relief to news writers, editors, publishers and content creators across the country. Here, we commend the work and leadership of the lawyers, litigants and the High Court. We will continue to support further action on the IT Rules, as further work is needed for social media users and online streaming services for relief from the anti-democratic IT Rules. IFF will continue to provide legal support to LiveLaw Media Pvt. Ltd. and Mr T.M. Krishna in their efforts to protect the right to speech and privacy of Indians on the internet. “**Important Documents**
+“We welcome the decision of the Bombay High Court. It provides much-needed relief to news writers, editors, publishers and content creators across the country. Here, we commend the work and leadership of the lawyers, litigants and the High Court. We will continue to support further action on the IT Rules, as further work is needed for social media users and online streaming services for relief from the anti-democratic IT Rules. IFF will continue to provide legal support to LiveLaw Media Pvt. Ltd. and Mr T.M. Krishna in their efforts to protect the right to speech and privacy of Indians on the internet. “
+
+<iframe src="https://drive.google.com/file/d/17Vsk13ckMrsXoSKEkFaIJ-xoydutXInm/preview" width="580" height="480"></iframe>
+
+**Important Documents**
 
 1. Bombay High Court order dated 14th August 2021. ([link](https://drive.google.com/file/d/10Ng6Ve2pXTf2G78UHBfGntwMndKpQLqj/view?usp=sharing))
 2. Table summarising challenges to IT Rules, 2021. ([link](https://docs.google.com/document/d/1kmq-AlRO1XpPaThvesl5xQq2nVkZv6UdmaKFAJ8AMTk/edit))
@@ -63,6 +67,8 @@ IFF’s Executive Director, Apar Gupta, made the following statement on this dec
 5. Previous post titled 'Deep dive : How the intermediaries rules are anti-democratic and unconstitutional' dated 27th February 2021 ([**link**](https://internetfreedom.in/intermediaries-rules-2021/)**)**
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["big tech", "Delhi Government", "IFF Explainer", "Supreme Court", "Legal"]
+author = 'Krishnesh'
+categories = ['big tech', 'Delhi Government', 'IFF Explainer', 'Supreme Court', 'Legal']
 date = 2021-07-13T07:09:02Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Face-the-music--Facebook-1.png"
-slug = "explained-supreme-court-upholds-delhi-assemblies-summons-to-facebook"
-summary = "IFF explains the decision of the Supreme Court rejecting the plea filed by the Managing Director of Facebook India, Ajit Mohan against the summons issued by the Peace and Harmony Committee of Delhi Assembly which sought his appearance in an inquiry related to the Delhi Riots."
-tags = ["big tech", "Delhi Government", "IFF Explainer", "Supreme Court", "Legal"]
-title = "Explained: Supreme Court upholds Delhi Assemblies summons to Facebook"
+image = 'https://internetfreedom.in/content/images/2021/07/Face-the-music--Facebook-1.png'
+slug = 'explained-supreme-court-upholds-delhi-assemblies-summons-to-facebook'
+summary = 'IFF explains the decision of the Supreme Court rejecting the plea filed by the Managing Director of Facebook India, Ajit Mohan against the summons issued by the Peace and Harmony Committee of Delhi Assembly which sought his appearance in an inquiry related to the Delhi Riots.'
+tags = ['big tech', 'Delhi Government', 'IFF Explainer', 'Supreme Court', 'Legal']
+title = 'Explained: Supreme Court upholds Delhi Assemblies summons to Facebook'
 
 +++
 

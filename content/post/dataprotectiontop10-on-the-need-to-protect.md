@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["DataProtectionTop10", "Data Protection", "PDPB"]
+author = 'Rohin Garg'
+categories = ['DataProtectionTop10', 'Data Protection', 'PDPB']
 date = 2021-05-14T08:02:18Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/-DataProtectionTop10-On-the-need-to-protect-the-rights-of-users-1.png"
-slug = "dataprotectiontop10-on-the-need-to-protect"
-summary = "In part 4 of the #DataProtectionTop10 series, we explore the issues with the user rights under the Bill. Certain rights are not absolute and contain significant exemptions. The Bill also fails to include certain rights. To address these concerns, we recommend changes to strengthen user rights."
-tags = ["DataProtectionTop10", "Data Protection", "PDPB"]
-title = "#DataProtectionTop10: On the need to protect the rights of users"
+image = 'https://internetfreedom.in/content/images/2021/05/-DataProtectionTop10-On-the-need-to-protect-the-rights-of-users-1.png'
+slug = 'dataprotectiontop10-on-the-need-to-protect'
+summary = 'In part 4 of the #DataProtectionTop10 series, we explore the issues with the user rights under the Bill. Certain rights are not absolute and contain significant exemptions. The Bill also fails to include certain rights. To address these concerns, we recommend changes to strengthen user rights.'
+tags = ['DataProtectionTop10', 'Data Protection', 'PDPB']
+title = '#DataProtectionTop10: On the need to protect the rights of users'
 
 +++
 

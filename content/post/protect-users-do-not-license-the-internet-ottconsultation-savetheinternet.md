@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["savetheinternet", "OTT", "Consultations", "Net Neutrality"]
+author = 'Apar Gupta'
+categories = ['savetheinternet', 'OTT', 'Consultations', 'Net Neutrality']
 date = 2019-01-09T05:12:48Z
-description = ""
+description = ''
 draft = false
-slug = "protect-users-do-not-license-the-internet-ottconsultation-savetheinternet"
-summary = "The TRAI in November, 2018 released a consultation paper on regulation of OTT services. Yesterday, IFF made it’s submission on it. "
-tags = ["savetheinternet", "OTT", "Consultations", "Net Neutrality"]
-title = "Protect users, do not license the Internet #OTTConsultation #SaveTheInternet"
+slug = 'protect-users-do-not-license-the-internet-ottconsultation-savetheinternet'
+summary = 'The TRAI in November, 2018 released a consultation paper on regulation of OTT services. Yesterday, IFF made it’s submission on it. '
+tags = ['savetheinternet', 'OTT', 'Consultations', 'Net Neutrality']
+title = 'Protect users, do not license the Internet #OTTConsultation #SaveTheInternet'
 
 +++
 

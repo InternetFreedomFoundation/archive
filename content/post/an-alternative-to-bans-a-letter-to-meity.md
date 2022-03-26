@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship", "SaveOurPrivacy"]
+author = 'Joanne DCunha'
+categories = ['Censorship', 'SaveOurPrivacy']
 date = 2019-04-17T13:24:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Capture-3.PNG"
-slug = "an-alternative-to-bans-a-letter-to-meity"
-summary = "In a letter written to MEITY, IFF reasons the need for alternative measures to addressing the safety of minors instead of resorting to disproportionate bans."
-tags = ["Censorship", "SaveOurPrivacy"]
-title = "An alternative to bans. A Letter to MEITY."
+image = 'https://internetfreedom.in/content/images/2019/04/Capture-3.PNG'
+slug = 'an-alternative-to-bans-a-letter-to-meity'
+summary = 'In a letter written to MEITY, IFF reasons the need for alternative measures to addressing the safety of minors instead of resorting to disproportionate bans.'
+tags = ['Censorship', 'SaveOurPrivacy']
+title = 'An alternative to bans. A Letter to MEITY.'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "Covid", "vaccines", "COWIN", "facial recognition", "joint statement", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'Covid', 'vaccines', 'COWIN', 'facial recognition', 'joint statement', 'Surveillance']
 date = 2021-04-14T05:57:55Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/no-aadhaar-based-facial-recognition-for-covid-19-vaccination--1.png"
-slug = "sign-on-and-support-close-to-10-organisations-and-158-individuals-who-are-warning-against-aadhaar-based-facial-recognition-for-vaccination"
-summary = "In the Joint Statement, we highlight our concerns on the use of this inaccurate technology for access to vaccines, how it may lead to potentially life threatening exclusion and ask for public support & sign ons. "
-tags = ["Project Panoptic", "Covid", "vaccines", "COWIN", "facial recognition", "joint statement", "Surveillance"]
-title = "Joint Statement: Say no to Aadhaar based Facial Recognition for Vaccination!"
+image = 'https://internetfreedom.in/content/images/2021/04/no-aadhaar-based-facial-recognition-for-covid-19-vaccination--1.png'
+slug = 'sign-on-and-support-close-to-10-organisations-and-158-individuals-who-are-warning-against-aadhaar-based-facial-recognition-for-vaccination'
+summary = 'In the Joint Statement, we highlight our concerns on the use of this inaccurate technology for access to vaccines, how it may lead to potentially life threatening exclusion and ask for public support & sign ons. '
+tags = ['Project Panoptic', 'Covid', 'vaccines', 'COWIN', 'facial recognition', 'joint statement', 'Surveillance']
+title = 'Joint Statement: Say no to Aadhaar based Facial Recognition for Vaccination!'
 
 +++
 

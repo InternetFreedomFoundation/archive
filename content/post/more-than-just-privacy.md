@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy"]
+author = 'Joanne DCunha'
+categories = ['Privacy']
 date = 2019-10-17T05:56:12Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Here-s-looking-at-you_he_she_they--The-UN-Special-Rapporteur-on-the-right-to-privacy-looks-at-privacy-and-personality..png"
-slug = "more-than-just-privacy"
-summary = "The UN Special Rapporteur on the right to privacy is exploring the importance of the right to privacy specifically its enjoyment based on gender and personality. IFF makes a submission with concerns and recommendations. "
-tags = ["Privacy"]
+image = 'https://internetfreedom.in/content/images/2019/10/Here-s-looking-at-you_he_she_they--The-UN-Special-Rapporteur-on-the-right-to-privacy-looks-at-privacy-and-personality..png'
+slug = 'more-than-just-privacy'
+summary = 'The UN Special Rapporteur on the right to privacy is exploring the importance of the right to privacy specifically its enjoyment based on gender and personality. IFF makes a submission with concerns and recommendations. '
+tags = ['Privacy']
 title = "Here's looking at you/he/she/they! The UN Special Rapporteur on the right to privacy looks at gender and personality."
 
 +++

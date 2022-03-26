@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Data Protection", "DataProtectionTop10", "PDPB"]
+author = 'Rohin Garg'
+categories = ['Data Protection', 'DataProtectionTop10', 'PDPB']
 date = 2021-05-18T08:45:07Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/social-media-5.png"
-slug = "dataprotectiontop10-voluntary-social-media-verification"
-summary = "In Part 5 of the #DataProtectionTop10 series, we analyse the various issues with the inclusion of social media intermediaries under the  Personal Data Protection Bill, 2019, and the provision for voluntary verification of user accounts.  We recommend that the relevant clauses be removed."
-tags = ["Data Protection", "DataProtectionTop10", "PDPB"]
-title = "#DataProtectionTop10: Voluntary Social Media Verification"
+image = 'https://internetfreedom.in/content/images/2021/05/social-media-5.png'
+slug = 'dataprotectiontop10-voluntary-social-media-verification'
+summary = 'In Part 5 of the #DataProtectionTop10 series, we analyse the various issues with the inclusion of social media intermediaries under the  Personal Data Protection Bill, 2019, and the provision for voluntary verification of user accounts.  We recommend that the relevant clauses be removed.'
+tags = ['Data Protection', 'DataProtectionTop10', 'PDPB']
+title = '#DataProtectionTop10: Voluntary Social Media Verification'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-04-28T09:40:59Z
-description = ""
+description = ''
 draft = false
-slug = "the-basics-of-net-neutrality"
-title = "The Basics of Net Neutrality"
+slug = 'the-basics-of-net-neutrality'
+title = 'The Basics of Net Neutrality'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Covid", "Data Protection", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Covid', 'Data Protection', 'Privacy']
 date = 2020-05-01T07:15:11Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/Aarogya-Setu_Workers-Representation-1.png"
-slug = "workers-privacy-during-covid-19"
-summary = "This May Day, IFF and a diverse group of individuals and organizations write to the government to ensure that privacy, dignity and autonomy of workers is not compromised during the COVID-19 crisis."
-tags = ["Covid", "Data Protection", "Privacy"]
-title = "Workers of a digital world unite to advance privacy, dignity and autonomy! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/05/Aarogya-Setu_Workers-Representation-1.png'
+slug = 'workers-privacy-during-covid-19'
+summary = 'This May Day, IFF and a diverse group of individuals and organizations write to the government to ensure that privacy, dignity and autonomy of workers is not compromised during the COVID-19 crisis.'
+tags = ['Covid', 'Data Protection', 'Privacy']
+title = 'Workers of a digital world unite to advance privacy, dignity and autonomy! #SaveOurPrivacy'
 
 +++
 

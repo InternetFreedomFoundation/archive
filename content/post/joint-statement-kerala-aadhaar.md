@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["joint statement", "aadhaar", "Privacy"]
+author = 'Apar Gupta'
+categories = ['joint statement', 'aadhaar', 'Privacy']
 date = 2020-06-29T03:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/06/Joint-Statement-Aadhaar-1.gif"
-slug = "joint-statement-kerala-aadhaar"
-summary = "Kalyani Menon Sen, a petitioner in the Aadhaar case has sent a legal notice to the Government of Kerala which has made Aadhaar mandatory for state government jobs. We are issuing a joint statement supporting this action."
-tags = ["joint statement", "aadhaar", "Privacy"]
-title = "Joint Statement : The Government of Kerala must withdraw compulsory Aadhaar for state government jobs"
+image = 'https://internetfreedom.in/content/images/2020/06/Joint-Statement-Aadhaar-1.gif'
+slug = 'joint-statement-kerala-aadhaar'
+summary = 'Kalyani Menon Sen, a petitioner in the Aadhaar case has sent a legal notice to the Government of Kerala which has made Aadhaar mandatory for state government jobs. We are issuing a joint statement supporting this action.'
+tags = ['joint statement', 'aadhaar', 'Privacy']
+title = 'Joint Statement : The Government of Kerala must withdraw compulsory Aadhaar for state government jobs'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns']
 date = 2020-03-26T05:26:03Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/03/J-K-COVID-19.png"
-slug = "internet-slowdown-in-jammu-and-kashmir-could-cost-lives-during-covid-19-pandemic"
-summary = "IFF wrote to the Jammu and Kashmir Government and Ministry of Home Affairs seeking restoration of 4G internet services in Kashmir during the COVID 19 crisis."
-tags = ["internet shutdowns"]
-title = "Internet slowdown in Jammu and Kashmir could cost lives during COVID 19 pandemic #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/03/J-K-COVID-19.png'
+slug = 'internet-slowdown-in-jammu-and-kashmir-could-cost-lives-during-covid-19-pandemic'
+summary = 'IFF wrote to the Jammu and Kashmir Government and Ministry of Home Affairs seeking restoration of 4G internet services in Kashmir during the COVID 19 crisis.'
+tags = ['internet shutdowns']
+title = 'Internet slowdown in Jammu and Kashmir could cost lives during COVID 19 pandemic #KeepUsOnline'
 
 +++
 

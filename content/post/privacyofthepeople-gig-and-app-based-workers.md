@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PDPB", "PrivacyofThePeople"]
-date = 2021-09-30T02:47:33Z
-description = ""
+author = 'Rohin Garg'
+categories = ['PDPB', 'PrivacyofThePeople']
+date = 2021-09-30T08:17:33Z
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/-PrivacyofThePeople--2--1.png"
-slug = "privacyofthepeople-gig-and-app-based-workers"
-summary = "In the latest post in our #PrivacyOfThePeople series, we look at the impact of the Personal Data Protection Bill, 2019 on gig workers. We examine the minimal data rights provided to these workers by work agreements, how the PDPB would affect these conditions, and how these issues can be remedied."
-tags = ["PDPB", "PrivacyofThePeople"]
-title = "#PrivacyOfThePeople: Gig and app-based workers"
+image = 'https://internetfreedom.in/content/images/2021/09/-PrivacyofThePeople--2--1.png'
+slug = 'privacyofthepeople-gig-and-app-based-workers'
+summary = 'In the latest post in our #PrivacyOfThePeople series, we look at the impact of the Personal Data Protection Bill, 2019 on gig workers. We examine the minimal data rights provided to these workers by work agreements, how the PDPB would affect these conditions, and how these issues can be remedied.'
+tags = ['PDPB', 'PrivacyofThePeople']
+title = '#PrivacyOfThePeople: Gig and app-based workers'
 
 +++
 
@@ -50,6 +50,8 @@ To remedy these issues, we suggest the following:
 
 1. **Reduce scope of consent override:** The principles of necessity and proportionality in data processing should be included under Clause 13 of the Bill. A mandatory obligation should be imposed on the employer to consult employees and seek their views prior to processing personal data. To this extent, the Data Protection Authority proposed by the Bill should be entrusted with the responsibility of issuing a Code of Practice for workplace surveillance.
 2. **Gig work platforms must process data responsibly:** Gig work platforms must follow established principles of data minimisation, proportionality, and transparency while processing the data of gig workers. Employment status must not be used as a stick to ride roughshod over the data rights of individuals. Greater clarity over the payment algorithm is essential for ensuring fair pay to workers
+
+<iframe src="https://drive.google.com/file/d/1Kz-YStiE7fKktMnhTI_NJehSiLb3-dmp/preview" width="580" height="480"></iframe>
 
 ### Important documents
 

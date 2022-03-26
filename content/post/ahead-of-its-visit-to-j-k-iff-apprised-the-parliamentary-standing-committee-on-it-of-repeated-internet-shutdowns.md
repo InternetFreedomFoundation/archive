@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["internet shutdowns", "Anuradha Bhasin"]
+author = 'Tanmay Singh'
+categories = ['internet shutdowns', 'Anuradha Bhasin']
 date = 2021-09-03T11:33:30Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/j-k-header-1.jpeg"
-slug = "ahead-of-its-visit-to-j-k-iff-apprised-the-parliamentary-standing-committee-on-it-of-repeated-internet-shutdowns"
-summary = "We addressed a letter to the Parliamentary Standing Committee on Information Technology, travelling to Jammu & Kashmir (J&K). The letter highlighted that the government was shutting down the internet in J&K without complying with the Supreme Court’s directions in Anuradha Bhasin vs Union of India. "
-tags = ["internet shutdowns", "Anuradha Bhasin"]
-title = "Ahead of its visit to J&K, IFF apprised the Parliamentary Standing Committee on IT of repeated internet shutdowns"
+image = 'https://internetfreedom.in/content/images/2021/09/j-k-header-1.jpeg'
+slug = 'ahead-of-its-visit-to-j-k-iff-apprised-the-parliamentary-standing-committee-on-it-of-repeated-internet-shutdowns'
+summary = 'We addressed a letter to the Parliamentary Standing Committee on Information Technology, travelling to Jammu & Kashmir (J&K). The letter highlighted that the government was shutting down the internet in J&K without complying with the Supreme Court’s directions in Anuradha Bhasin vs Union of India. '
+tags = ['internet shutdowns', 'Anuradha Bhasin']
+title = 'Ahead of its visit to J&K, IFF apprised the Parliamentary Standing Committee on IT of repeated internet shutdowns'
 
 +++
 

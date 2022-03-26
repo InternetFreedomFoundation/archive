@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["DigitalJustice", "Filings", "Legal", "Privacy", "RTI", "SaveOurPrivacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['DigitalJustice', 'Filings', 'Legal', 'Privacy', 'RTI', 'SaveOurPrivacy']
 date = 2019-05-14T10:52:37Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/05/Capture-4.PNG"
-slug = "we-wont-give-up-iff-approaches-cic-against-mhas-refusal-to-disclose-surveillance-figures"
-summary = "After the MHA rejected our RTI applications about use of surveillance powers on flimsy grounds, IFF has filed an appeal before the CIC and we are willing to go the distance in this fight for transparency."
-tags = ["DigitalJustice", "Filings", "Legal", "Privacy", "RTI", "SaveOurPrivacy"]
-title = "We won’t give up! IFF approaches CIC against MHA’s refusal to disclose surveillance figures."
+image = 'https://internetfreedom.in/content/images/2019/05/Capture-4.PNG'
+slug = 'we-wont-give-up-iff-approaches-cic-against-mhas-refusal-to-disclose-surveillance-figures'
+summary = 'After the MHA rejected our RTI applications about use of surveillance powers on flimsy grounds, IFF has filed an appeal before the CIC and we are willing to go the distance in this fight for transparency.'
+tags = ['DigitalJustice', 'Filings', 'Legal', 'Privacy', 'RTI', 'SaveOurPrivacy']
+title = 'We won’t give up! IFF approaches CIC against MHA’s refusal to disclose surveillance figures.'
 
 +++
 

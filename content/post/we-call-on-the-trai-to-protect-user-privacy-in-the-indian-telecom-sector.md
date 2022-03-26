@@ -1,13 +1,13 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Privacy", "Data Protection", "TRAI", "Telecom"]
+author = 'IFF Public Policy Team'
+categories = ['Privacy', 'Data Protection', 'TRAI', 'Telecom']
 date = 2017-11-07T11:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2017/11/data-protection.png"
-slug = "we-call-on-the-trai-to-protect-user-privacy-in-the-indian-telecom-sector"
-tags = ["Privacy", "Data Protection", "TRAI", "Telecom"]
-title = "We call on the TRAI to protect user privacy in the Indian telecom sector!"
+image = 'https://internetfreedom.in/content/images/2017/11/data-protection.png'
+slug = 'we-call-on-the-trai-to-protect-user-privacy-in-the-indian-telecom-sector'
+tags = ['Privacy', 'Data Protection', 'TRAI', 'Telecom']
+title = 'We call on the TRAI to protect user privacy in the Indian telecom sector!'
 
 +++
 

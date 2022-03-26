@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Censorship", "Parliament"]
+author = 'Apar Gupta'
+categories = ['Censorship', 'Parliament']
 date = 2020-01-08T04:00:56Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Porn-Committee---Twitter-2-.png"
-slug = "porn-is-complex-we-call-for-further-study"
-summary = "We made submissions to the ad-hoc committee constituted to study the impact of porn on social media."
-tags = ["Censorship", "Parliament"]
-title = "Young Indians are mature enough to have a conversation on porn. Parliamentary Committee should invite further inputs."
+image = 'https://internetfreedom.in/content/images/2020/01/Porn-Committee---Twitter-2-.png'
+slug = 'porn-is-complex-we-call-for-further-study'
+summary = 'We made submissions to the ad-hoc committee constituted to study the impact of porn on social media.'
+tags = ['Censorship', 'Parliament']
+title = 'Young Indians are mature enough to have a conversation on porn. Parliamentary Committee should invite further inputs.'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-09-15T11:53:53Z
-description = ""
+description = ''
 draft = false
-slug = "status-update-sept-15th-2015"
-title = "Status update (Sept 15th 2015)"
+slug = 'status-update-sept-15th-2015'
+title = 'Status update (Sept 15th 2015)'
 
 +++
 

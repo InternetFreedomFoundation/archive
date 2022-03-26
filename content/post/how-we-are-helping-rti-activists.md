@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["aarogyasetu", "Delhi HC", "SaveOurPrivacy", "transaprency", "RTI"]
+author = 'Tanmay Singh'
+categories = ['aarogyasetu', 'Delhi HC', 'SaveOurPrivacy', 'transaprency', 'RTI']
 date = 2021-04-12T04:27:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/Sustained--strategic-litigation-helps-advance-transparency-in-digital-policymaking-1.png"
-slug = "how-we-are-helping-rti-activists"
+image = 'https://internetfreedom.in/content/images/2021/04/Sustained--strategic-litigation-helps-advance-transparency-in-digital-policymaking-1.png'
+slug = 'how-we-are-helping-rti-activists'
 summary = "Updates from the High Court of Delhi on the writ petition of Saurav Das who is challenging the Central Information Commission's order denying him information on Aarogya Setu."
-tags = ["aarogyasetu", "Delhi HC", "SaveOurPrivacy", "transaprency", "RTI"]
-title = "Sustained, strategic litigation helps advance transparency in digital policymaking #SaveOurPrivacy"
+tags = ['aarogyasetu', 'Delhi HC', 'SaveOurPrivacy', 'transaprency', 'RTI']
+title = 'Sustained, strategic litigation helps advance transparency in digital policymaking #SaveOurPrivacy'
 
 +++
 

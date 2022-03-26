@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["RTI", "Data Protection", "facial recognition", "internet shutdowns", "Project Panoptic", "transparency"]
+author = 'Anushka Jain'
+categories = ['RTI', 'Data Protection', 'facial recognition', 'internet shutdowns', 'Project Panoptic', 'transparency']
 date = 2020-12-19T04:26:18Z
-description = ""
+description = ''
 draft = false
-slug = "iffs-right-to-information-report-for-december"
-summary = "In this monthly series, we aim to provide information about how our RTI work is carried out and utilised to demand transparency and accountability from public authorities. "
-tags = ["RTI", "Data Protection", "facial recognition", "internet shutdowns", "Project Panoptic", "transparency"]
-title = "Digital Transparency: A Right to Information Report for December, 2020"
+slug = 'iffs-right-to-information-report-for-december'
+summary = 'In this monthly series, we aim to provide information about how our RTI work is carried out and utilised to demand transparency and accountability from public authorities. '
+tags = ['RTI', 'Data Protection', 'facial recognition', 'internet shutdowns', 'Project Panoptic', 'transparency']
+title = 'Digital Transparency: A Right to Information Report for December, 2020'
 
 +++
 

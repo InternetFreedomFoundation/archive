@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PrivacyofThePeople", "PDPB"]
+author = 'Rohin Garg'
+categories = ['PrivacyofThePeople', 'PDPB']
 date = 2021-07-22T06:47:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Student-data-PDPB-1.png"
-slug = "why-student-data-should-be-students-data"
-summary = "In the continuation of our weekly series #PrivacyOfThePeople, we examine the growing interest in students’ data and what the Bill has to say when it comes to student data. We explore the need to secure such data as well as why current regulations inadequately protect student data. "
-tags = ["PrivacyofThePeople", "PDPB"]
-title = "#PrivacyOfThePeople - Why Student Data should be Students’ Data"
+image = 'https://internetfreedom.in/content/images/2021/07/Student-data-PDPB-1.png'
+slug = 'why-student-data-should-be-students-data'
+summary = 'In the continuation of our weekly series #PrivacyOfThePeople, we examine the growing interest in students’ data and what the Bill has to say when it comes to student data. We explore the need to secure such data as well as why current regulations inadequately protect student data. '
+tags = ['PrivacyofThePeople', 'PDPB']
+title = '#PrivacyOfThePeople - Why Student Data should be Students’ Data'
 
 +++
 

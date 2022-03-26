@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["Madras HC", "Legal", "ITRules", "it act", "intermediary"]
+author = 'Krishnesh'
+categories = ['Madras HC', 'Legal', 'ITRules', 'it act', 'intermediary']
 date = 2021-09-17T06:59:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/TM-Krishna--Twitter-1.jpeg"
-slug = "madras-high-court-affirms-the-pan-india-stay-on-rule-9-3-of-the-it-rules-and-provides-relief-on-part-ii"
-summary = "Madras High Court finds merit in Mr Krishna’s contention that Part II of the Rules violated the right to speech, and held that any action taken under Rule 3 read with Rule 7 shall be subject to the decision in the petition. The Court has also affirmed the previous stay on Rule 9. "
-tags = ["Madras HC", "Legal", "ITRules", "it act", "intermediary"]
+image = 'https://internetfreedom.in/content/images/2021/09/TM-Krishna--Twitter-1.jpeg'
+slug = 'madras-high-court-affirms-the-pan-india-stay-on-rule-9-3-of-the-it-rules-and-provides-relief-on-part-ii'
+summary = 'Madras High Court finds merit in Mr Krishna’s contention that Part II of the Rules violated the right to speech, and held that any action taken under Rule 3 read with Rule 7 shall be subject to the decision in the petition. The Court has also affirmed the previous stay on Rule 9. '
+tags = ['Madras HC', 'Legal', 'ITRules', 'it act', 'intermediary']
 title = "May threaten 'independence of media' and violate freedom of speech: Madras HC on the IT Rules"
 
 +++

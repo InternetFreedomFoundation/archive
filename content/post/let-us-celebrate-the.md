@@ -1,13 +1,13 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["savetheinternet", "Net Neutrality"]
+author = 'IFF Public Policy Team'
+categories = ['savetheinternet', 'Net Neutrality']
 date = 2019-02-08T06:42:05Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-08-at-12.07.57-PM.png"
-slug = "let-us-celebrate-the"
-summary = "As we celebrate the three year anniversary of TRAI’s Zero Rating Order we must focus on enforcement and penalties for all forms of net neutrality violations. "
-tags = ["savetheinternet", "Net Neutrality"]
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-08-at-12.07.57-PM.png'
+slug = 'let-us-celebrate-the'
+summary = 'As we celebrate the three year anniversary of TRAI’s Zero Rating Order we must focus on enforcement and penalties for all forms of net neutrality violations. '
+tags = ['savetheinternet', 'Net Neutrality']
 title = "Celebrating the three year anniversary of TRAI's Net Neutrality Order with action #SaveTheInternet"
 
 +++

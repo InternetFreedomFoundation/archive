@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "DigitalJustice", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'DigitalJustice', 'Legal']
 date = 2019-08-23T09:13:32Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/08/Capture-6.PNG"
-slug = "iff-files-independent-expert-submission-before-madras-hc"
+image = 'https://internetfreedom.in/content/images/2019/08/Capture-6.PNG'
+slug = 'iff-files-independent-expert-submission-before-madras-hc'
 summary = "IFF has filed an expert submission by Dr. Manoj Prabhakaran (Professor, IIT Bombay) which highlights the risks and long term ineffectiveness of Dr. Kamakoti's proposal to introduce traceability on encrypted platforms."
-tags = ["Filings", "DigitalJustice", "Legal"]
+tags = ['Filings', 'DigitalJustice', 'Legal']
 title = "IFF files independent expert's submission before Madras HC on PIL relating to encryption and traceability"
 
 +++

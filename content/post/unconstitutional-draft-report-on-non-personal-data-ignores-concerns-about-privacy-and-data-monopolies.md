@@ -1,11 +1,11 @@
 +++
-author = "Rohin Garg"
+author = 'Rohin Garg'
 date = 2021-01-18T05:23:11Z
-description = ""
+description = ''
 draft = false
-slug = "unconstitutional-draft-report-on-non-personal-data-ignores-concerns-about-privacy-and-data-monopolies"
-summary = "IFF submitted its comments on the second version of the Draft Report by the Committee of Experts on Non-Personal Data Governance Framework and raised four main concerns that we felt needed to be addressed."
-title = "Unconstitutional draft report on non-personal data ignores concerns about privacy and data monopolies"
+slug = 'unconstitutional-draft-report-on-non-personal-data-ignores-concerns-about-privacy-and-data-monopolies'
+summary = 'IFF submitted its comments on the second version of the Draft Report by the Committee of Experts on Non-Personal Data Governance Framework and raised four main concerns that we felt needed to be addressed.'
+title = 'Unconstitutional draft report on non-personal data ignores concerns about privacy and data monopolies'
 
 +++
 

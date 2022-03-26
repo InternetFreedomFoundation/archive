@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Supreme Court", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Supreme Court', 'Legal']
 date = 2020-11-26T07:23:34Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/J-K-Review-Orders-6-1.png"
-slug = "non-publication-of-internet-shutdown-review-orders"
-summary = "Non-publication of orders issued by the Review Committee and Special Committee continues to remain a problem in Jammu & Kashmir which must be decided by the Supreme Court to ensure independent application of mind by these bodies and implementation of their recommendations."
-tags = ["internet shutdowns", "Supreme Court", "Legal"]
-title = "As internet restrictions in J&K cross 480 days, we await SC judgement #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/11/J-K-Review-Orders-6-1.png'
+slug = 'non-publication-of-internet-shutdown-review-orders'
+summary = 'Non-publication of orders issued by the Review Committee and Special Committee continues to remain a problem in Jammu & Kashmir which must be decided by the Supreme Court to ensure independent application of mind by these bodies and implementation of their recommendations.'
+tags = ['internet shutdowns', 'Supreme Court', 'Legal']
+title = 'As internet restrictions in J&K cross 480 days, we await SC judgement #KeepUsOnline'
 
 +++
 

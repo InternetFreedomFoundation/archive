@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["transparency", "Access to Information", "Right to Information"]
-date = 2021-10-04T02:06:05Z
-description = ""
+author = 'Yashaswini'
+categories = ['transparency', 'Access to Information', 'Right to Information', 'RTIReport']
+date = 2021-10-04T07:36:05Z
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/10/RTI-August-2.jpeg"
-slug = "digital-transparency-a-right-to-information-report-for-september-2021"
-summary = "In September, IFF filed IFF has filed 26 RTI requests and 3 First Appeals with various public authorities to uncover vital information on issues of public interest. "
-tags = ["transparency", "Access to Information", "Right to Information"]
-title = "Digital Transparency: A Right to Information Report for September, 2021"
+image = 'https://internetfreedom.in/content/images/2021/10/RTI-August-2.jpeg'
+slug = 'digital-transparency-a-right-to-information-report-for-september-2021'
+summary = 'In September, IFF filed IFF has filed 26 RTI requests and 3 First Appeals with various public authorities to uncover vital information on issues of public interest. '
+tags = ['transparency', 'Access to Information', 'Right to Information', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for September, 2021'
 
 +++
 
@@ -100,6 +100,8 @@ Our advocacy for wider access to information by the public has been acknowledged
 
 1. In [**Unbias the News**](https://unbiasthenews.org/no-facing-away-why-indias-facial-recognition-system-is-bad-news-for-minorities/),  IFF’s Associate Counsel (Transparency and Surveillance), Anushka Jain was quoted regarding the strategic information that IFF was able to obtain to successive RTI applications regarding the National Automated Facial Recognition System.
 2. The Hindu, in its article titled, [**‘The surveillance trap’**](https://www.thehindu.com/news/cities/Delhi/the-surveillance-trap/article36558729.ece), dated September 20, 2021 referred to the data unraveled by RTI application filed under IFF’s Project Panoptic regarding the legality of the use of facial recognition technology by the Delhi Police and quoted IFF’s Associate Counsel ( Transparency and Surveillance), Anushka Jain.
+
+<iframe src="https://drive.google.com/file/d/1ap80g3WDVj2NBYP4Wzx41bTlmJc6uX_H/preview" width="580" height="480"></iframe>
 
 ### **Important Documents**
 

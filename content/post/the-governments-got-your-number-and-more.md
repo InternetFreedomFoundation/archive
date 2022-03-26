@@ -50,6 +50,8 @@ In our letter to the DoT, we have made the following recommendations:
 1. **Recall the amendments**: As we have pointed out above, the extension of the data retention period is a worrying step which could potentially result in mass surveillance and harm citizen privacy. Therefore, we have asked the DoT to recall the relevant amendments.
 2. **Hold a public consultation for any such change in the future**: We are in the present situation because these amendments were not opened for public review and comments which would have allowed the relevant stakeholders to point out to the DoT the issues with the amendments. Therefore, it is necessary that in the future any such amendments to the Unified License must be made only after a public consultation exercise has been completed to ensure that stakeholders can raise such issues to the DoT before implementation.
 
+<iframe src="https://drive.google.com/file/d/1r3Wwggjo9AY2klN5IuyjXyiQlnnq-fRu/preview" width="540" height="675"></iframe>
+
 ### Important Documents
 
 1. Letter to the DoT on the amendments to the Unified License extending the period of subscriber data retention dated February 21, 2022 ([link](https://drive.google.com/file/d/1zbpy96DIIhJgRDLabcA7wvuRGE-RvGgh/view?usp=sharing))

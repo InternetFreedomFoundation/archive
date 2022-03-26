@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "Project Panoptic", "facial recognition", "Privacy", "RTI"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'Project Panoptic', 'facial recognition', 'Privacy', 'RTI']
 date = 2021-04-16T06:18:59Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/2-3.png"
-slug = "cbses-response-to-our-representation-fails-to-account-for-the-privacy-of-students"
+image = 'https://internetfreedom.in/content/images/2021/04/2-3.png'
+slug = 'cbses-response-to-our-representation-fails-to-account-for-the-privacy-of-students'
 summary = "Read our analysis of CBSE's response to our representation on facial recognition use on students for access to digital documents. "
-tags = ["Data Protection", "Project Panoptic", "facial recognition", "Privacy", "RTI"]
-title = "We urge CBSE to consider the pandemic as a time for care for students, not violations of their privacy."
+tags = ['Data Protection', 'Project Panoptic', 'facial recognition', 'Privacy', 'RTI']
+title = 'We urge CBSE to consider the pandemic as a time for care for students, not violations of their privacy.'
 
 +++
 

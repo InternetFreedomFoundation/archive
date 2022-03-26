@@ -1,9 +1,9 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-04-24T03:29:30Z
-description = ""
+description = ''
 draft = false
-slug = "questions-journalists-can-ask-the-coai-and-telecom-ceos-today"
+slug = 'questions-journalists-can-ask-the-coai-and-telecom-ceos-today'
 title = "Questions for the COAI and Indian telecom CEO's. #sabkequestions"
 
 +++

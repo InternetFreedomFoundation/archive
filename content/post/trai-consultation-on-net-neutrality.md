@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["savetheinternet", "Net Neutrality", "TRAI", "Consultations"]
+author = 'Apar Gupta'
+categories = ['savetheinternet', 'Net Neutrality', 'TRAI', 'Consultations']
 date = 2020-01-15T10:34:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/1.png"
-slug = "trai-consultation-on-net-neutrality"
+image = 'https://internetfreedom.in/content/images/2020/01/1.png'
+slug = 'trai-consultation-on-net-neutrality'
 summary = "Read our summary and participate in TRAI's Consultation on Traffic Management Practices (TMPs) and Multi-Stakeholder Body for Net Neutrality by Jan. 31, 2020. "
-tags = ["savetheinternet", "Net Neutrality", "TRAI", "Consultations"]
-title = "Read our summary of TRAI’s consultation paper on net neutrality enforcement #SaveTheInternet"
+tags = ['savetheinternet', 'Net Neutrality', 'TRAI', 'Consultations']
+title = 'Read our summary of TRAI’s consultation paper on net neutrality enforcement #SaveTheInternet'
 
 +++
 

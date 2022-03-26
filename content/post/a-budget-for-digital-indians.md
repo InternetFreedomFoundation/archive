@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["budget"]
+author = 'Apar Gupta'
+categories = ['budget', 'Economy']
 date = 2020-01-21T04:34:25Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Budget-2020---Twitter-1-.png"
-slug = "a-budget-for-digital-indians"
-summary = "We have made 4 recommendations to the Ministry of Finance for the Union Budget 2020-21. "
-tags = ["budget"]
-title = "Four ways how the 2020 budget can promote the digital economy and rights"
+image = 'https://internetfreedom.in/content/images/2020/01/Budget-2020---Twitter-1-.png'
+slug = 'a-budget-for-digital-indians'
+summary = 'We have made 4 recommendations to the Ministry of Finance for the Union Budget 2020-21. '
+tags = ['budget', 'Economy']
+title = 'Four ways how the 2020 budget can promote the digital economy and rights'
 
 +++
 

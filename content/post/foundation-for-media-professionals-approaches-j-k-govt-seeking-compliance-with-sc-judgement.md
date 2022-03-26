@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "WebsiteBlocking"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'WebsiteBlocking']
 date = 2020-01-30T12:56:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/FMP-Representation-1.jpeg"
-slug = "foundation-for-media-professionals-approaches-j-k-govt-seeking-compliance-with-sc-judgement"
-summary = "FMP writes to Govt of Jammu & Kashmir demanding compliance with the guidelines laid down by the Supreme Court and highlighting unconstitutionality and technical infeasibility of a whitelisting regime of internet censorship."
-tags = ["internet shutdowns", "WebsiteBlocking"]
-title = "Foundation for Media Professionals approaches J&K Govt seeking compliance with SC judgement"
+image = 'https://internetfreedom.in/content/images/2020/01/FMP-Representation-1.jpeg'
+slug = 'foundation-for-media-professionals-approaches-j-k-govt-seeking-compliance-with-sc-judgement'
+summary = 'FMP writes to Govt of Jammu & Kashmir demanding compliance with the guidelines laid down by the Supreme Court and highlighting unconstitutionality and technical infeasibility of a whitelisting regime of internet censorship.'
+tags = ['internet shutdowns', 'WebsiteBlocking']
+title = 'Foundation for Media Professionals approaches J&K Govt seeking compliance with SC judgement'
 
 +++
 

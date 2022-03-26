@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["Section66A"]
+author = 'Farkhanda Zahoor'
+categories = ['Section66A']
 date = 2020-05-18T09:26:51Z
-description = ""
+description = ''
 draft = false
-slug = "how-a-bill-becomes-a-zombie-the-journey-of-section-66a-of-the-information-technology-act-2000"
-summary = "Section 66A of the Information Technology Act, 2000, was enacted into the statute through an amendment in 2008. The section penalised sending \"offensive messages\" via online communication. In this post we trace the journey of Section 66A of the IT Act from 2008 to 2020."
-tags = ["Section66A"]
-title = "How A Bill Becomes A Zombie? The Journey of Section 66A of the Information Technology Act, 2000"
+slug = 'how-a-bill-becomes-a-zombie-the-journey-of-section-66a-of-the-information-technology-act-2000'
+summary = 'Section 66A of the Information Technology Act, 2000, was enacted into the statute through an amendment in 2008. The section penalised sending "offensive messages" via online communication. In this post we trace the journey of Section 66A of the IT Act from 2008 to 2020.'
+tags = ['Section66A']
+title = 'How A Bill Becomes A Zombie? The Journey of Section 66A of the Information Technology Act, 2000'
 
 +++
 

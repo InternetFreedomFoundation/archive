@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "facial recognition", "Privacy"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'facial recognition', 'Privacy']
 date = 2021-08-16T07:37:05Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/meghalaya-govt-1.png"
-slug = "we-wrote-to-the-govt-of-meghalaya"
+image = 'https://internetfreedom.in/content/images/2021/08/meghalaya-govt-1.png'
+slug = 'we-wrote-to-the-govt-of-meghalaya'
 summary = "We provided support to Mr. Jade Jeremiah Lyngdoh, a law student, in drafting a letter to the Govt. of Meghalaya in which we highlighted the possible privacy concerns of using FRT to verification of pensioners' identity. "
-tags = ["Project Panoptic", "facial recognition", "Privacy"]
+tags = ['Project Panoptic', 'facial recognition', 'Privacy']
 title = "We wrote to the Govt. of Meghalaya against the use of FRT for verification of pensioner's identities"
 
 +++
@@ -50,11 +50,15 @@ In light of the above considerations, we requested the Finance Department of the
 
 Use of FRT for access to government schemes will not only lead to a violation of privacy but also lead to exclusion from them due to its inaccuracy. Under IFF’s [Project Panoptic](https://panoptic.in/), we will continue to fight against the proliferation of this harmful technology throughout the country.
 
+<iframe src="https://drive.google.com/file/d/1r8GvkNtqZX-DgHxo7Y5HvbLc4QDM2Pj0/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. Letter to Finance Department, Government of Meghalaya against use of FRT for verification of pensioners’ identity dated August 5, 2021 ([link](https://drive.google.com/file/d/1-yfCQH_l2YCoOtbkMHKaYmkAMlMaLnGX/view?usp=sharing))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

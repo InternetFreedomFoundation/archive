@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Consultations", "TRAI"]
+author = 'Joanne DCunha'
+categories = ['Consultations', 'TRAI']
 date = 2019-12-27T07:54:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/Screenshot-2019-12-27-at-1.27.26-PM.png"
-slug = "we-provide-the-trai-with-our-counter-comments-on-the-cloud"
-summary = "We just submitted our counter comments on the paper to prevent red-rape and over regulation of the cloud services sector. "
-tags = ["Consultations", "TRAI"]
-title = "For preventing red tape and impairing innovation we submit counter-comments to TRAI on the could services consultation"
+image = 'https://internetfreedom.in/content/images/2019/12/Screenshot-2019-12-27-at-1.27.26-PM.png'
+slug = 'we-provide-the-trai-with-our-counter-comments-on-the-cloud'
+summary = 'We just submitted our counter comments on the paper to prevent red-rape and over regulation of the cloud services sector. '
+tags = ['Consultations', 'TRAI']
+title = 'For preventing red tape and impairing innovation we submit counter-comments to TRAI on the could services consultation'
 
 +++
 

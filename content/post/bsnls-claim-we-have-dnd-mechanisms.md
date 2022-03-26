@@ -1,9 +1,9 @@
 +++
-author = "Joanne DCunha"
+author = 'Joanne DCunha'
 date = 2019-10-11T05:56:03Z
-description = ""
+description = ''
 draft = false
-slug = "bsnls-claim-we-have-dnd-mechanisms"
+slug = 'bsnls-claim-we-have-dnd-mechanisms'
 title = "BSNL's claim: \"We have DND Mechanisms\"."
 
 +++

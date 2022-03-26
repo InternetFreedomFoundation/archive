@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["facebook", "Policy"]
+author = 'Krishnesh'
+categories = ['facebook', 'Policy']
 date = 2021-03-30T07:08:37Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/Facebook-has-a-new-Human-Rights-Policy-which-will-be-applicable-to-all-of-its-users-in-India.--1--2.png"
-slug = "facebook-human-rights-policy"
+image = 'https://internetfreedom.in/content/images/2021/03/Facebook-has-a-new-Human-Rights-Policy-which-will-be-applicable-to-all-of-its-users-in-India.--1--2.png'
+slug = 'facebook-human-rights-policy'
 summary = "We analyse Facebook's recently announced Human Rights Policy. It is too little, too late, and we call on it to improve its practices openly and transparently for Indian users of its platforms."
-tags = ["facebook", "Policy"]
-title = "Examining Facebook’s Human Rights Policy"
+tags = ['facebook', 'Policy']
+title = 'Examining Facebook’s Human Rights Policy'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["ITRules", "transparency", "it act"]
+author = 'Rohin Garg'
+categories = ['ITRules', 'transparency', 'it act']
 date = 2021-02-16T06:59:13Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/THE-TIMES-ARE-A-CHANGING-1.png"
-slug = "it-act-amendments"
-summary = "Given recent media reports and parlimentary responses, we wrote to the Ministry of Electronics and Information Technology asking them to publicly detail any potential amendments to the Information Technology Act, 2000 and engage in extensive consultations over the changes."
-tags = ["ITRules", "transparency", "it act"]
-title = "The Times Are A-Changing: Ensuring IT Act amendments are progressive"
+image = 'https://internetfreedom.in/content/images/2021/02/THE-TIMES-ARE-A-CHANGING-1.png'
+slug = 'it-act-amendments'
+summary = 'Given recent media reports and parlimentary responses, we wrote to the Ministry of Electronics and Information Technology asking them to publicly detail any potential amendments to the Information Technology Act, 2000 and engage in extensive consultations over the changes.'
+tags = ['ITRules', 'transparency', 'it act']
+title = 'The Times Are A-Changing: Ensuring IT Act amendments are progressive'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Tanmay Singh"
-categories = ["competition", "Data Protection", "Privacy", "WhatsApp"]
+author = 'Tanmay Singh'
+categories = ['competition', 'Data Protection', 'Privacy', 'WhatsApp']
 date = 2021-10-14T05:00:52Z
-description = ""
+description = ''
 draft = false
-slug = "big-opportunity-cci-accepts-iffs-expert-information"
+slug = 'big-opportunity-cci-accepts-iffs-expert-information'
 summary = "IFF has submitted expert information before the DG of CCI in charge of the investigation into WhatsApp's Privacy Policy. We highlighted how WhatsApp has a dominant position in the market, and how the Privacy Policy abuses such dominant position. The CCI tagged the information with the investigation."
-tags = ["competition", "Data Protection", "Privacy", "WhatsApp"]
-title = "Big Opportunity! CCI accepts IFF’s expert information in its investigation of WhatsApp’s 2021 Privacy Policy"
+tags = ['competition', 'Data Protection', 'Privacy', 'WhatsApp']
+title = 'Big Opportunity! CCI accepts IFF’s expert information in its investigation of WhatsApp’s 2021 Privacy Policy'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["66A", "freespeech", "zombietracker", "Section66A"]
+author = 'Anushka Jain'
+categories = ['66A', 'freespeech', 'zombietracker', 'Section66A']
 date = 2020-04-28T10:44:18Z
-description = ""
+description = ''
 draft = false
-slug = "66a-zombies-continue-to-menace-free-speech-on-the-internet"
-summary = "Despite repeated directions by the Supreme Court, that all pending cases under S. 66A of the Information Technology Act be closed and also that no fresh charges may be registered, the provision continues to be invoked across the country. "
-tags = ["66A", "freespeech", "zombietracker", "Section66A"]
-title = "66A Zombies continue to menace Free Speech on the Internet #ZombieTracker"
+slug = '66a-zombies-continue-to-menace-free-speech-on-the-internet'
+summary = 'Despite repeated directions by the Supreme Court, that all pending cases under S. 66A of the Information Technology Act be closed and also that no fresh charges may be registered, the provision continues to be invoked across the country. '
+tags = ['66A', 'freespeech', 'zombietracker', 'Section66A']
+title = '66A Zombies continue to menace Free Speech on the Internet #ZombieTracker'
 
 +++
 

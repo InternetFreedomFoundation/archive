@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "joint statement"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'joint statement']
 date = 2021-02-01T07:13:39Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/Joint-statement-against-internet-shutdowns-to-suppress-farmers--protests--KeepItOn-2-1.png"
-slug = "joint-statement-internet-shutdown-farmers-protests"
-summary = "IFF along with FSMI and SFLC.in raises alarm about the use of internet shutdowns to undermine the fundamental right to peaceful protest. Such internet shutdowns will only increase the risk of violence and misinformation and they cannot be considered necessary or proportionate."
-tags = ["internet shutdowns", "joint statement"]
+image = 'https://internetfreedom.in/content/images/2021/02/Joint-statement-against-internet-shutdowns-to-suppress-farmers--protests--KeepItOn-2-1.png'
+slug = 'joint-statement-internet-shutdown-farmers-protests'
+summary = 'IFF along with FSMI and SFLC.in raises alarm about the use of internet shutdowns to undermine the fundamental right to peaceful protest. Such internet shutdowns will only increase the risk of violence and misinformation and they cannot be considered necessary or proportionate.'
+tags = ['internet shutdowns', 'joint statement']
 title = "Joint statement against internet shutdowns to suppress farmers' protests #KeepItOn"
 
 +++

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Data Protection"]
+author = 'Apar Gupta'
+categories = ['Data Protection']
 date = 2019-08-07T04:21:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/08/Screenshot-2019-08-07-at-9.50.23-AM.png"
-slug = "need-some-pick-me-up-news-ncpi-is-investigating-the-truecaller"
-summary = "NPCI writes back indicated two specific steps to counter the Truecaller breach. First it had stopped on boarding new Truecaller users on the UPI Platform. Second the matter is under investigation and we will be informed after diligence is completed in all matters."
-tags = ["Data Protection"]
-title = "Need silver linings? NPCI responds to our representation. It is investigating the Truecaller \"Breach\""
+image = 'https://internetfreedom.in/content/images/2019/08/Screenshot-2019-08-07-at-9.50.23-AM.png'
+slug = 'need-some-pick-me-up-news-ncpi-is-investigating-the-truecaller'
+summary = 'NPCI writes back indicated two specific steps to counter the Truecaller breach. First it had stopped on boarding new Truecaller users on the UPI Platform. Second the matter is under investigation and we will be informed after diligence is completed in all matters.'
+tags = ['Data Protection']
+title = 'Need silver linings? NPCI responds to our representation. It is investigating the Truecaller "Breach"'
 
 +++
 

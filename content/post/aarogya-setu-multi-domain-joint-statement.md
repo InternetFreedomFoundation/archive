@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "joint statement"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'joint statement']
 date = 2020-09-18T04:28:05Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/09/AS-Joint-Statement-17-Sept-2-1.png"
-slug = "aarogya-setu-multi-domain-joint-statement"
-summary = "8 organizations and 145 individuals have written to MoHFW, MeitY and the IT Standing Committee raising serious concerns regarding Aarogya Setu and other COVID-19 apps and presented a clear set of 16 demands."
-tags = ["aarogyasetu", "joint statement"]
-title = "Multi-domain orgs and individuals raise concerns about Aarogya Setu #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/09/AS-Joint-Statement-17-Sept-2-1.png'
+slug = 'aarogya-setu-multi-domain-joint-statement'
+summary = '8 organizations and 145 individuals have written to MoHFW, MeitY and the IT Standing Committee raising serious concerns regarding Aarogya Setu and other COVID-19 apps and presented a clear set of 16 demands.'
+tags = ['aarogyasetu', 'joint statement']
+title = 'Multi-domain orgs and individuals raise concerns about Aarogya Setu #SaveOurPrivacy'
 
 +++
 

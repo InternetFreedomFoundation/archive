@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["keep us online", "internet shutdowns"]
+author = 'Apar Gupta'
+categories = ['keep us online', 'internet shutdowns']
 date = 2018-12-04T08:03:26Z
-description = ""
+description = ''
 draft = false
-slug = "an-incremental-victory-in-the-rajasthan-hc-against-internet-shutdowns"
-summary = "While we can expect internet shutdowns in future, it will not be because of competitive examinations in Rajasthan. We thank the Petitioner, Dhirendra Rajpurohit."
-tags = ["keep us online", "internet shutdowns"]
-title = "An incremental victory in the Rajasthan HC against Internet Shutdowns #KeepUsOnline"
+slug = 'an-incremental-victory-in-the-rajasthan-hc-against-internet-shutdowns'
+summary = 'While we can expect internet shutdowns in future, it will not be because of competitive examinations in Rajasthan. We thank the Petitioner, Dhirendra Rajpurohit.'
+tags = ['keep us online', 'internet shutdowns']
+title = 'An incremental victory in the Rajasthan HC against Internet Shutdowns #KeepUsOnline'
 
 +++
 

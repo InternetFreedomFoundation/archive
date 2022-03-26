@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Surveillance", "pegasus", "Privacy"]
+author = 'Anushka Jain'
+categories = ['Surveillance', 'pegasus', 'Privacy']
 date = 2021-07-19T05:28:30Z
-description = ""
+description = ''
 draft = false
-slug = "iffs-statement-on-hacking-revelations-made-by-the-pegasus-project"
-summary = "Read our statement in response to the revelations made by the Pegasus Project which revealed that over 300 verified Indian mobile telephone numbers were targeted by the Israeli spyware firm, NSO Group. "
-tags = ["Surveillance", "pegasus", "Privacy"]
-title = "IFF’s Statement on Hacking Revelations made by the Pegasus Project"
+slug = 'iffs-statement-on-hacking-revelations-made-by-the-pegasus-project'
+summary = 'Read our statement in response to the revelations made by the Pegasus Project which revealed that over 300 verified Indian mobile telephone numbers were targeted by the Israeli spyware firm, NSO Group. '
+tags = ['Surveillance', 'pegasus', 'Privacy']
+title = 'IFF’s Statement on Hacking Revelations made by the Pegasus Project'
 
 +++
 

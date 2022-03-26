@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["MeitY", "DOT", "MIB", "Policy", "Cabinet"]
+author = 'Rohin Garg'
+categories = ['MeitY', 'DOT', 'MIB', 'Policy', 'Cabinet']
 date = 2021-07-10T06:27:34Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/refreshing-india-s-digital-rights-agenda--1--1.png"
-slug = "a-digital-rights-agenda-after-a-refresh"
-summary = "This week, the Union cabinet saw a major reshuffle. This included new ministers for MEITY, MOC, and MIB. We wrote to the new ministers, welcoming them to their new role and highlighting key areas that need to be addressed."
-tags = ["MeitY", "DOT", "MIB", "Policy", "Cabinet"]
-title = "A digital rights agenda after a refresh: IFF writes to the new ministers"
+image = 'https://internetfreedom.in/content/images/2021/07/refreshing-india-s-digital-rights-agenda--1--1.png'
+slug = 'a-digital-rights-agenda-after-a-refresh'
+summary = 'This week, the Union cabinet saw a major reshuffle. This included new ministers for MEITY, MOC, and MIB. We wrote to the new ministers, welcoming them to their new role and highlighting key areas that need to be addressed.'
+tags = ['MeitY', 'DOT', 'MIB', 'Policy', 'Cabinet']
+title = 'A digital rights agenda after a refresh: IFF writes to the new ministers'
 
 +++
 

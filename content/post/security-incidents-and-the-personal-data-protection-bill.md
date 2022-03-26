@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Breaches", "Privacy", "Encryption"]
+author = 'Rohin Garg'
+categories = ['Breaches', 'Privacy', 'Encryption']
 date = 2020-11-24T06:24:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/11/pdp-bill-3.png"
-slug = "security-incidents-and-the-personal-data-protection-bill"
-summary = "The recent BigBasket data breach was the most recent example of a spate of security incidents that have plagued the country recently. As work becomes more and more digital, the legislative framework for cyber security must be strengthened by strengthening the Personal Data Protection Bill, 2019. "
-tags = ["Breaches", "Privacy", "Encryption"]
-title = "Security incidents and the Personal Data Protection Bill. Need to do more and do better."
+image = 'https://internetfreedom.in/content/images/2020/11/pdp-bill-3.png'
+slug = 'security-incidents-and-the-personal-data-protection-bill'
+summary = 'The recent BigBasket data breach was the most recent example of a spate of security incidents that have plagued the country recently. As work becomes more and more digital, the legislative framework for cyber security must be strengthened by strengthening the Personal Data Protection Bill, 2019. '
+tags = ['Breaches', 'Privacy', 'Encryption']
+title = 'Security incidents and the Personal Data Protection Bill. Need to do more and do better.'
 
 +++
 

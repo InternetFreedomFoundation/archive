@@ -1,11 +1,11 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-05-22T09:10:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/05/keepusonline_banner.png"
-slug = "ministry-of-telecom-call-us-maybe-keepusonline"
-title = "Ministry of Telecom, call us maybe? #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2018/05/keepusonline_banner.png'
+slug = 'ministry-of-telecom-call-us-maybe-keepusonline'
+title = 'Ministry of Telecom, call us maybe? #KeepUsOnline'
 
 +++
 

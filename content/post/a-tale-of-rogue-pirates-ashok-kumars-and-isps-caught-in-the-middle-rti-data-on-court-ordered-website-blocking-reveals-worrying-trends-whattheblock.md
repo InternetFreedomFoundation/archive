@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["RTI", "Censorship", "WhatTheBlock"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['RTI', 'Censorship', 'WhatTheBlock']
 date = 2019-07-11T07:05:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/Capture.PNG"
-slug = "a-tale-of-rogue-pirates-ashok-kumars-and-isps-caught-in-the-middle-rti-data-on-court-ordered-website-blocking-reveals-worrying-trends-whattheblock"
-summary = "RTI data reveals that 31 court orders in IP infringement cases have led to blocking of thousands of websites. Most of these orders have been passed ex parte and permit blocking of the whole website rather than specific URLs."
-tags = ["RTI", "Censorship", "WhatTheBlock"]
-title = "A Tale of Rogue Pirates, Ashok Kumars and ISPs caught in the middle: RTI data on court ordered website blocking reveals worrying trends  #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2019/07/Capture.PNG'
+slug = 'a-tale-of-rogue-pirates-ashok-kumars-and-isps-caught-in-the-middle-rti-data-on-court-ordered-website-blocking-reveals-worrying-trends-whattheblock'
+summary = 'RTI data reveals that 31 court orders in IP infringement cases have led to blocking of thousands of websites. Most of these orders have been passed ex parte and permit blocking of the whole website rather than specific URLs.'
+tags = ['RTI', 'Censorship', 'WhatTheBlock']
+title = 'A Tale of Rogue Pirates, Ashok Kumars and ISPs caught in the middle: RTI data on court ordered website blocking reveals worrying trends  #WhatTheBlock'
 
 +++
 

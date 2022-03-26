@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["WebsiteBlocking", "WhatTheBlock"]
+author = 'Apar Gupta'
+categories = ['WebsiteBlocking', 'WhatTheBlock']
 date = 2020-07-13T08:47:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/Website-blocking-3-1-2.png"
-slug = "blocking_env_web"
-summary = "The websites of environmental collectives have came under web censorship over the past week. Among them, IFF is offering advice and support to LetIndiaBreathe.in (LIB) and FridaysForFuture (FFF). "
-tags = ["WebsiteBlocking", "WhatTheBlock"]
-title = "We offer our support to environmental activists against web censorship. #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2020/07/Website-blocking-3-1-2.png'
+slug = 'blocking_env_web'
+summary = 'The websites of environmental collectives have came under web censorship over the past week. Among them, IFF is offering advice and support to LetIndiaBreathe.in (LIB) and FridaysForFuture (FFF). '
+tags = ['WebsiteBlocking', 'WhatTheBlock']
+title = 'We offer our support to environmental activists against web censorship. #WhatTheBlock'
 
 +++
 

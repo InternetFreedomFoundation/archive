@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["algorithmic bias", "big tech", "Policy", "AgriStack"]
+author = 'Rohin Garg'
+categories = ['algorithmic bias', 'big tech', 'Policy', 'AgriStack', 'Agriculture']
 date = 2021-05-06T06:37:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Copy-of-msft-agristack--1--1.png"
-slug = "joint-letter-to-the-agriculture-minister"
+image = 'https://internetfreedom.in/content/images/2021/05/Copy-of-msft-agristack--1--1.png'
+slug = 'joint-letter-to-the-agriculture-minister'
 summary = "\nThe government recently announced that Microsoft would be conducting a pilot for the Agristack. Along with several other organisations, we wrote to the Union Minister for Agriculture, asking for further consultations, highlighting the need for statutory backing, and demanding greater transparency."
-tags = ["algorithmic bias", "big tech", "Policy", "AgriStack"]
-title = "#StandWithFarmers: Joint Letter by 55 Groups | Hold the Agriculture Ministry and Microsoft India Accountable"
+tags = ['algorithmic bias', 'big tech', 'Policy', 'AgriStack', 'Agriculture']
+title = '#StandWithFarmers: Joint Letter by 55 Groups | Hold the Agriculture Ministry and Microsoft India Accountable'
 
 +++
 

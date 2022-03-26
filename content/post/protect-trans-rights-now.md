@@ -1,11 +1,11 @@
 +++
-author = "Rohin Garg"
+author = 'Rohin Garg'
 date = 2021-01-25T05:51:37Z
-description = ""
+description = ''
 draft = false
-slug = "protect-trans-rights-now"
+slug = 'protect-trans-rights-now'
 summary = "Last year, we had received a complaint that the National Portal for Transgender Persons contained several vulnerabilities that could be exploited to access the sensitive personal data contained within. While some of these issues were addressed, certain concerns about the portal's security remain."
-title = "Protect Trans Rights Now! Portal Leakages Must Be Addressed."
+title = 'Protect Trans Rights Now! Portal Leakages Must Be Addressed.'
 
 +++
 

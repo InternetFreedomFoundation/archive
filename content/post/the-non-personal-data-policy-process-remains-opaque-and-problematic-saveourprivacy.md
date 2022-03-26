@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "Privacy", "RTI", "transparency"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'Privacy', 'RTI', 'transparency']
 date = 2020-12-23T04:55:18Z
-description = ""
+description = ''
 draft = false
-slug = "the-non-personal-data-policy-process-remains-opaque-and-problematic-saveourprivacy"
-summary = "Replies to Right to Information requests filed to the Committee of Experts working on the Non-Personal Data Governance framework highlight an underlying transparency problem which has been mirrored throughout 2020 by various other such data-related consultations by the Government."
-tags = ["Data Protection", "Privacy", "RTI", "transparency"]
-title = "The non-personal data policy process remains opaque and problematic #SaveOurPrivacy"
+slug = 'the-non-personal-data-policy-process-remains-opaque-and-problematic-saveourprivacy'
+summary = 'Replies to Right to Information requests filed to the Committee of Experts working on the Non-Personal Data Governance framework highlight an underlying transparency problem which has been mirrored throughout 2020 by various other such data-related consultations by the Government.'
+tags = ['Data Protection', 'Privacy', 'RTI', 'transparency']
+title = 'The non-personal data policy process remains opaque and problematic #SaveOurPrivacy'
 
 +++
 

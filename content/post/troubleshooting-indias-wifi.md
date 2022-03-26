@@ -1,13 +1,13 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Policy", "Submission", "Consultations"]
+author = 'IFF Public Policy Team'
+categories = ['Policy', 'Submission', 'Consultations']
 date = 2016-09-07T11:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2016/09/WhatsApp-Image-2016-09-07-at-4-58-38-PM-3.jpeg"
-slug = "troubleshooting-indias-wifi"
-tags = ["Policy", "Submission", "Consultations"]
-title = "Troubleshooting India’s WiFi"
+image = 'https://internetfreedom.in/content/images/2016/09/WhatsApp-Image-2016-09-07-at-4-58-38-PM-3.jpeg'
+slug = 'troubleshooting-indias-wifi'
+tags = ['Policy', 'Submission', 'Consultations']
+title = 'Troubleshooting India’s WiFi'
 
 +++
 

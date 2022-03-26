@@ -1,14 +1,14 @@
 +++
-author = "Shivani Singh"
-categories = ["cybersec charcha", "digital security"]
+author = 'Shivani Singh'
+categories = ['cybersec charcha', 'digital security']
 date = 2021-09-16T08:24:07Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/cybersec-05---twitter-1.jpeg"
-slug = "5-cybersec-charcha-cleaning-up-your-digital-hygiene"
-summary = "Exploring the digital hygiene practices that must be implemented by everyone living in a digital world! "
-tags = ["cybersec charcha", "digital security"]
-title = "Level up your digital security hygiene! Cybersec Charcha #5"
+image = 'https://internetfreedom.in/content/images/2021/09/cybersec-05---twitter-1.jpeg'
+slug = '5-cybersec-charcha-cleaning-up-your-digital-hygiene'
+summary = 'Exploring the digital hygiene practices that must be implemented by everyone living in a digital world! '
+tags = ['cybersec charcha', 'digital security']
+title = 'Level up your digital security hygiene! Cybersec Charcha #5'
 
 +++
 

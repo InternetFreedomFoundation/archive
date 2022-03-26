@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet", "Privacy"]
+author = 'Rohin Garg'
+categories = ['accesstointernet', 'Privacy', 'Economy']
 date = 2021-01-30T06:56:21Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/eco-survey-1.png"
-slug = "economic-survey"
-summary = "While the emphasis laid on improving access and equity is commendable, there are certain concerns that the Economic Survey must address. These include questions raised about the commercialisation of healthcare and the viability of remote learning, as well as the overarching data paradigm."
-tags = ["accesstointernet", "Privacy"]
-title = "Is internet access not a basic necessity? Should our privacy not be safeguarded in health and education?"
+image = 'https://internetfreedom.in/content/images/2021/01/eco-survey-1.png'
+slug = 'economic-survey'
+summary = 'While the emphasis laid on improving access and equity is commendable, there are certain concerns that the Economic Survey must address. These include questions raised about the commercialisation of healthcare and the viability of remote learning, as well as the overarching data paradigm.'
+tags = ['accesstointernet', 'Privacy', 'Economy']
+title = 'Is internet access not a basic necessity? Should our privacy not be safeguarded in health and education?'
 
 +++
 

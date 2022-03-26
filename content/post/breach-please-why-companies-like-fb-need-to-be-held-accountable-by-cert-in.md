@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["Breaches", "PDPB", "SaveOurPrivacy", "big tech"]
+author = 'Krishnesh'
+categories = ['Breaches', 'PDPB', 'SaveOurPrivacy', 'big tech']
 date = 2021-04-09T05:25:13Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/green-furies-gen-furies-green-furies-green-furies-green-furies--1--2.png"
-slug = "breach-please-why-companies-like-fb-need-to-be-held-accountable-by-cert-in"
-summary = "Personal data of 60 Lakh Indian Facebook users is available on the internet for free. We provide suggestions on what you can do and we update you on the steps we have taken. "
-tags = ["Breaches", "PDPB", "SaveOurPrivacy", "big tech"]
-title = "Breach please! Why companies like Facebook need to be held accountable by CERT-IN."
+image = 'https://internetfreedom.in/content/images/2021/04/green-furies-gen-furies-green-furies-green-furies-green-furies--1--2.png'
+slug = 'breach-please-why-companies-like-fb-need-to-be-held-accountable-by-cert-in'
+summary = 'Personal data of 60 Lakh Indian Facebook users is available on the internet for free. We provide suggestions on what you can do and we update you on the steps we have taken. '
+tags = ['Breaches', 'PDPB', 'SaveOurPrivacy', 'big tech']
+title = 'Breach please! Why companies like Facebook need to be held accountable by CERT-IN.'
 
 +++
 

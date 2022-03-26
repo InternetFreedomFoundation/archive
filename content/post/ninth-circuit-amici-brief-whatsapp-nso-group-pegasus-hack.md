@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy", "Surveillance", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy', 'Surveillance', 'Legal', 'pegasus']
 date = 2020-12-24T05:26:32Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/WhatsApp_NSO-Amici-Brief-1.png"
-slug = "ninth-circuit-amici-brief-whatsapp-nso-group-pegasus-hack"
+image = 'https://internetfreedom.in/content/images/2020/12/WhatsApp_NSO-Amici-Brief-1.png'
+slug = 'ninth-circuit-amici-brief-whatsapp-nso-group-pegasus-hack'
 summary = "8 civil society organisations from across the world including IFF have filed an amici brief before the Ninth Circuit Federal Court of Appeals in California urging the Court to dismiss the NSO Group's appeal claiming sovereign immunity for the Pegasus hack."
-tags = ["Privacy", "Surveillance", "Legal"]
-title = "Statement: IFF joins international civil society orgs to oppose the NSO Group’s attempt to evade responsibility for the Pegasus Hack #SaveOurPrivacy"
+tags = ['Privacy', 'Surveillance', 'Legal', 'pegasus']
+title = 'Statement: IFF joins international civil society orgs to oppose the NSO Group’s attempt to evade responsibility for the Pegasus Hack #SaveOurPrivacy'
 
 +++
 

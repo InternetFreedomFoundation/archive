@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["DigitalJustice", "intermediary", "Privacy", "Supreme Court"]
+author = 'Joanne DCunha'
+categories = ['DigitalJustice', 'intermediary', 'Privacy', 'Supreme Court']
 date = 2019-08-20T10:05:45Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/08/Capture-5.PNG"
-slug = "updates-on-the-facebooks-transfer-petition-of-the-aadhaar-linking-madras-hc"
+image = 'https://internetfreedom.in/content/images/2019/08/Capture-5.PNG'
+slug = 'updates-on-the-facebooks-transfer-petition-of-the-aadhaar-linking-madras-hc'
 summary = "The Hon'ble SC issues notice to respondents, permits hearings to be continued in the Madras HC but directs that no final orders be given."
-tags = ["DigitalJustice", "intermediary", "Privacy", "Supreme Court"]
+tags = ['DigitalJustice', 'intermediary', 'Privacy', 'Supreme Court']
 title = "Updates from the Supreme Court: Facebook's transfer petition of the Aadhaar-social media linking case in the Madras HC."
 
 +++

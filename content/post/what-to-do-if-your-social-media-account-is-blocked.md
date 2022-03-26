@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["freespeech", "Social Media", "Twitter", "WebsiteBlocking", "WhatTheBlock"]
+author = 'Yashaswini'
+categories = ['freespeech', 'Social Media', 'Twitter', 'WebsiteBlocking', 'WhatTheBlock']
 date = 2021-07-30T12:06:42Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Untitled-design.png"
-slug = "what-to-do-if-your-social-media-account-is-blocked"
-summary = "Refer to this explainer to understand what to do if your account is blocked on social media channels like Twitter, YouTube, Facebook, and Instagram."
-tags = ["freespeech", "Social Media", "Twitter", "WebsiteBlocking", "WhatTheBlock"]
-title = "What to do if your social media account is blocked?"
+image = 'https://internetfreedom.in/content/images/2021/07/Untitled-design.png'
+slug = 'what-to-do-if-your-social-media-account-is-blocked'
+summary = 'Refer to this explainer to understand what to do if your account is blocked on social media channels like Twitter, YouTube, Facebook, and Instagram.'
+tags = ['freespeech', 'Social Media', 'Twitter', 'WebsiteBlocking', 'WhatTheBlock']
+title = 'What to do if your social media account is blocked?'
 
 +++
 

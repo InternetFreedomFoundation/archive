@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Net Neutrality", "TRAI", "Consultations"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Net Neutrality', 'TRAI', 'Consultations']
 date = 2020-02-14T11:36:50Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/PORTAL-TEC-CO..png"
-slug = "on-valentines-we-send-a-love-letter-for-net-neutrality-to-trai-savetheinternet"
-summary = "IFF responded to TRAI’s public consultation on net neutrality enforcement and highlighted the need to reduce discretion, increase transparency and accountability, boost the local measurement ecosystem, and build better more-inclusive institutions."
-tags = ["Net Neutrality", "TRAI", "Consultations"]
-title = "On Valentine’s, we send a love letter for net neutrality to TRAI #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2020/02/PORTAL-TEC-CO..png'
+slug = 'on-valentines-we-send-a-love-letter-for-net-neutrality-to-trai-savetheinternet'
+summary = 'IFF responded to TRAI’s public consultation on net neutrality enforcement and highlighted the need to reduce discretion, increase transparency and accountability, boost the local measurement ecosystem, and build better more-inclusive institutions.'
+tags = ['Net Neutrality', 'TRAI', 'Consultations']
+title = 'On Valentine’s, we send a love letter for net neutrality to TRAI #SaveTheInternet'
 
 +++
 

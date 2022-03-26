@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["66A", "Data Protection", "Legal", "Supreme Court", "zombietracker"]
+author = 'Krishnesh'
+categories = ['Supreme Court', '66A', 'Data Protection', 'Legal', 'zombietracker']
 date = 2021-04-13T05:59:53Z
-description = ""
+description = ''
 draft = false
-slug = "digitization-of-indian-judiciary-phase-iii"
-summary = "E-Committee has released the draft vision document of e-Courts Project Phase III. We encourage you to submit your comments on ecommittee@aij.gov.in. In this post, we have provided our inputs on the document. "
-tags = ["66A", "Data Protection", "Legal", "Supreme Court", "zombietracker"]
-title = "Buffering Justice : A call for greater participation in the Draft Vision Document for Judicial Digitisation"
+slug = 'digitization-of-indian-judiciary-phase-iii'
+summary = 'E-Committee has released the draft vision document of e-Courts Project Phase III. We encourage you to submit your comments on ecommittee@aij.gov.in. In this post, we have provided our inputs on the document. '
+tags = ['Supreme Court', '66A', 'Data Protection', 'Legal', 'zombietracker']
+title = 'Buffering Justice : A call for greater participation in the Draft Vision Document for Judicial Digitisation'
 
 +++
 

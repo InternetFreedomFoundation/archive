@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["COWIN", "Privacy", "Health Data", "vaccines"]
+author = 'Anushka Jain'
+categories = ['COWIN', 'Privacy', 'Health Data', 'vaccines']
 date = 2021-10-05T07:07:28Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/10/COWIN-API-header-1.jpg"
-slug = "read-our-joint-letter-with-c-help-fmes-to-nha-on-cowins-updated-api"
-summary = "We wrote to the National Health Authority with C-Help & FMES on their updated API which would allow government and private entities to know the vaccination status of individuals. "
-tags = ["COWIN", "Privacy", "Health Data", "vaccines"]
-title = "Read our Joint Letter with C-Help & FMES to NHA on CoWIN’s updated API #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/10/COWIN-API-header-1.jpg'
+slug = 'read-our-joint-letter-with-c-help-fmes-to-nha-on-cowins-updated-api'
+summary = 'We wrote to the National Health Authority with C-Help & FMES on their updated API which would allow government and private entities to know the vaccination status of individuals. '
+tags = ['COWIN', 'Privacy', 'Health Data', 'vaccines']
+title = 'Read our Joint Letter with C-Help & FMES to NHA on CoWIN’s updated API #SaveOurPrivacy'
 
 +++
 

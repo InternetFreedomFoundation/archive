@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["SaveOurPrivacy", "RTI"]
+author = 'Apar Gupta'
+categories = ['SaveOurPrivacy', 'RTI']
 date = 2019-02-06T03:19:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-06-at-8.52.41-AM.png"
-slug = "top-secret-government-refuses-to-reveal-total-number-of-snooping-requests"
-summary = "RTIs asking for basic information on surveillance in India rejected by the Ministry of Home Affairs. They even refuse to tell how many orders were issued by them. "
-tags = ["SaveOurPrivacy", "RTI"]
-title = "TOP SECRET: MHA Refuses to reveal total number of snooping requests"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-06-at-8.52.41-AM.png'
+slug = 'top-secret-government-refuses-to-reveal-total-number-of-snooping-requests'
+summary = 'RTIs asking for basic information on surveillance in India rejected by the Ministry of Home Affairs. They even refuse to tell how many orders were issued by them. '
+tags = ['SaveOurPrivacy', 'RTI']
+title = 'TOP SECRET: MHA Refuses to reveal total number of snooping requests'
 
 +++
 

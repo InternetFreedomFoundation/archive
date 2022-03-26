@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Copyright", "Social Media"]
+author = 'Yashaswini'
+categories = ['Copyright', 'Social Media']
 date = 2021-07-27T06:33:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/MUCH-ADO-ABOUT-COPYING-1.png"
-slug = "dmca-infringements-much-ado-about-copying"
-summary = "In this explainer, we provide an insight into how the Digital Millennium Copyright Act came to be, how it affects us as Indian users of the internet and what we can do to peacefully coexist with DMCA."
-tags = ["Copyright", "Social Media"]
-title = "DMCA Infringements: Much Ado About Copying?"
+image = 'https://internetfreedom.in/content/images/2021/07/MUCH-ADO-ABOUT-COPYING-1.png'
+slug = 'dmca-infringements-much-ado-about-copying'
+summary = 'In this explainer, we provide an insight into how the Digital Millennium Copyright Act came to be, how it affects us as Indian users of the internet and what we can do to peacefully coexist with DMCA.'
+tags = ['Copyright', 'Social Media']
+title = 'DMCA Infringements: Much Ado About Copying?'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["Surveillance", "Project Panoptic"]
+author = 'Farkhanda Zahoor'
+categories = ['Surveillance', 'Project Panoptic']
 date = 2020-03-02T07:14:54Z
-description = ""
+description = ''
 draft = false
-slug = "rti-response-reveals-cctv-deployment-by-chandigarh-police-without-legal-safeguards"
-summary = "IFF filed an RTI with the Chandigarh Police regarding their use of CCTVs in the city of Chandigarh and received a total of 5 responses from different departments. We have summarized these responses and also listed the immediate concerns which should be addressed by the Chandigarh Police."
-tags = ["Surveillance", "Project Panoptic"]
-title = "RTI response reveals CCTV deployment by Chandigarh Police without legal safeguards #ProjectPanoptic"
+slug = 'rti-response-reveals-cctv-deployment-by-chandigarh-police-without-legal-safeguards'
+summary = 'IFF filed an RTI with the Chandigarh Police regarding their use of CCTVs in the city of Chandigarh and received a total of 5 responses from different departments. We have summarized these responses and also listed the immediate concerns which should be addressed by the Chandigarh Police.'
+tags = ['Surveillance', 'Project Panoptic']
+title = 'RTI response reveals CCTV deployment by Chandigarh Police without legal safeguards #ProjectPanoptic'
 
 +++
 

@@ -1,12 +1,12 @@
 +++
 author = 'Gyan Tripathi'
-categories = ['Anuradha Bhasin', 'internet shutdowns', 'transparency', 'Access to Information', 'Right to Information']
+categories = ['Anuradha Bhasin', 'internet shutdowns', 'transparency', 'Access to Information', 'Right to Information', 'RTIReport']
 date = 2021-11-11T05:20:33Z
 description = ''
 draft = false
 slug = 'digital-transparency-a-right-to-information-report-for-october-2021'
 summary = 'Since our last report for the month of September, IFF has filed 49 RTI requests. Here is an overview of the requests filed and an analysis of the responses we have received from the different public authorities. '
-tags = ['Anuradha Bhasin', 'internet shutdowns', 'transparency', 'Access to Information', 'Right to Information']
+tags = ['Anuradha Bhasin', 'internet shutdowns', 'transparency', 'Access to Information', 'Right to Information', 'RTIReport']
 title = 'Digital Transparency: A Right to Information Report for October 2021'
 
 +++

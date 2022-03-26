@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["4GforAll", "internet shutdowns", "Legal", "Supreme Court", "keep us online"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['4GforAll', 'internet shutdowns', 'Legal', 'Supreme Court', 'keep us online']
 date = 2020-08-11T08:18:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/FMP-hearing-11-Aug-1.png"
-slug = "staggered-4g-restoration-j-k"
+image = 'https://internetfreedom.in/content/images/2020/08/FMP-hearing-11-Aug-1.png'
+slug = 'staggered-4g-restoration-j-k'
 summary = "During today's hearing in Foundation for Media Professionals' contempt petition relating to the internet restrictions in Jammu & Kashmir, the government agreed to restore 4G mobile internet in one district of Jammu and Kashmir each on a trial basis after 15 August i.e. Independence Day. "
-tags = ["4GforAll", "internet shutdowns", "Legal", "Supreme Court", "keep us online"]
-title = "Govt agrees to staggered restoration of 4G mobile internet  in J&K before the Supreme Court #KeepUsOnline"
+tags = ['4GforAll', 'internet shutdowns', 'Legal', 'Supreme Court', 'keep us online']
+title = 'Govt agrees to staggered restoration of 4G mobile internet  in J&K before the Supreme Court #KeepUsOnline'
 
 +++
 

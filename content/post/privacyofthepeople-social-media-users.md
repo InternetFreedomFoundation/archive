@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["PrivacyofThePeople", "PDPB", "Data Protection"]
+author = 'Rohin Garg'
+categories = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
 date = 2021-07-07T06:13:35Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Does-India-s-incoming-data-law-protect-your-privacy-on-social-media--PrivacyOfThePeople-1.png"
-slug = "privacyofthepeople-social-media-users"
-summary = "In our new weekly series  #PrivacyOfThePeople, we look at the impact of the Personal Data Protection Bill, 2019 on different sections of society.  In this post, we discuss whether the Bill actually protects user data  when it comes to social media platforms. "
-tags = ["PrivacyofThePeople", "PDPB", "Data Protection"]
+image = 'https://internetfreedom.in/content/images/2021/07/Does-India-s-incoming-data-law-protect-your-privacy-on-social-media--PrivacyOfThePeople-1.png'
+slug = 'privacyofthepeople-social-media-users'
+summary = 'In our new weekly series  #PrivacyOfThePeople, we look at the impact of the Personal Data Protection Bill, 2019 on different sections of society.  In this post, we discuss whether the Bill actually protects user data  when it comes to social media platforms. '
+tags = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
 title = "India's Data Protection Bill and Social Media Users: #PrivacyOfThePeople"
 
 +++

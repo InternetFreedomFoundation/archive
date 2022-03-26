@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Access to Information", "Data Protection", "freespeech", "Net Neutrality", "Policy", "transparency"]
+author = 'Yashaswini'
+categories = ['Access to Information', 'Data Protection', 'freespeech', 'Net Neutrality', 'Policy', 'transparency', 'RTIReport']
 date = 2021-07-08T06:39:23Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Digital-Transparency-A-Right-to-Information-Report-for-June--2021-1.png"
-slug = "digital-transparency-a-right-to-information-report-for-june-2021"
-summary = "Since our last report for the month of May, IFF has filed 18  RTI requests, 2 First Appeals and 1 Second Appeal. Here, we give you an overview of the requests filed and why demanding transparency and accountability from Government authorities essential in our fight to protect digital rights."
-tags = ["Access to Information", "Data Protection", "freespeech", "Net Neutrality", "Policy", "transparency"]
-title = "Digital Transparency: A Right to Information Report for June, 2021"
+image = 'https://internetfreedom.in/content/images/2021/07/Digital-Transparency-A-Right-to-Information-Report-for-June--2021-1.png'
+slug = 'digital-transparency-a-right-to-information-report-for-june-2021'
+summary = 'Since our last report for the month of May, IFF has filed 18  RTI requests, 2 First Appeals and 1 Second Appeal. Here, we give you an overview of the requests filed and why demanding transparency and accountability from Government authorities essential in our fight to protect digital rights.'
+tags = ['Access to Information', 'Data Protection', 'freespeech', 'Net Neutrality', 'Policy', 'transparency', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for June, 2021'
 
 +++
 

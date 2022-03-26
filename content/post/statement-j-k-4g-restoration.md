@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "keep us online", "4GforAll"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'keep us online', '4GforAll']
 date = 2021-02-06T06:04:06Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/J-K-4G-restoration-1-1.png"
-slug = "statement-j-k-4g-restoration"
-summary = "No citizen of a democracy should have to suffer through what the people of Jammu & Kashmir experienced and we will keep pushing for broader internet shutdown reform."
-tags = ["internet shutdowns", "keep us online", "4GforAll"]
-title = "Statement on long overdue 4G mobile internet restoration in Jammu & Kashmir after 550 days #KeepItOn"
+image = 'https://internetfreedom.in/content/images/2021/02/J-K-4G-restoration-1-1.png'
+slug = 'statement-j-k-4g-restoration'
+summary = 'No citizen of a democracy should have to suffer through what the people of Jammu & Kashmir experienced and we will keep pushing for broader internet shutdown reform.'
+tags = ['internet shutdowns', 'keep us online', '4GforAll']
+title = 'Statement on long overdue 4G mobile internet restoration in Jammu & Kashmir after 550 days #KeepItOn'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["pegasus", "Surveillance", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['pegasus', 'Surveillance', 'SaveOurPrivacy']
 date = 2021-09-13T09:53:46Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/WB-Commission-header-1.jpeg"
-slug = "pegasus-2-months-on-still-no-investigation"
-summary = "Read our submission to the West Bengal Commission of Inquiry on the Pegasus issue in which we highlight the need to question the relevant government stakeholders."
-tags = ["pegasus", "Surveillance", "SaveOurPrivacy"]
+image = 'https://internetfreedom.in/content/images/2021/09/WB-Commission-header-1.jpeg'
+slug = 'pegasus-2-months-on-still-no-investigation'
+summary = 'Read our submission to the West Bengal Commission of Inquiry on the Pegasus issue in which we highlight the need to question the relevant government stakeholders.'
+tags = ['pegasus', 'Surveillance', 'SaveOurPrivacy']
 title = "Pegasus Scandal: it's been two months with no investigation! #SaveOurPrivacy"
 
 +++

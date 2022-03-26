@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Surveillance", "WatchtheWatchmen"]
+author = 'Anushka Jain'
+categories = ['Surveillance', 'WatchtheWatchmen']
 date = 2020-09-21T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "watch-the-watchmen-part-3"
-summary = "In the third part of our \"Watch the Watchmen\" series, we take a closer look at the Crime and Criminal Tracking Network System (CCTNS) which aims to develop a national database of crime and criminals."
-tags = ["Surveillance", "WatchtheWatchmen"]
-title = "Watch the Watchmen Series Part 3 : The Crime and Criminal Tracking Network System"
+slug = 'watch-the-watchmen-part-3'
+summary = 'In the third part of our "Watch the Watchmen" series, we take a closer look at the Crime and Criminal Tracking Network System (CCTNS) which aims to develop a national database of crime and criminals.'
+tags = ['Surveillance', 'WatchtheWatchmen']
+title = 'Watch the Watchmen Series Part 3 : The Crime and Criminal Tracking Network System'
 
 +++
 

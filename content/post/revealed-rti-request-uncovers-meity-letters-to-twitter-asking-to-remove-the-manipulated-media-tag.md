@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["RTI", "freespeech", "Censorship", "it act", "misinformation", "transparency", "MeitY", "Twitter"]
+author = 'Yashaswini'
+categories = ['RTI', 'freespeech', 'Censorship', 'it act', 'misinformation', 'transparency', 'MeitY', 'Twitter']
 date = 2021-06-18T05:45:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Manipulated-media-1.png"
-slug = "revealed-rti-request-uncovers-meity-letters-to-twitter-asking-to-remove-the-manipulated-media-tag"
-summary = "We were provided copies of two letters from MeitY to Twitter, which do not cite any provision of law, but have asked Twitter to refrain from implementing its policy and process of affixing the ‘Manipulated Media’ tag on tweets."
-tags = ["RTI", "freespeech", "Censorship", "it act", "misinformation", "transparency", "MeitY", "Twitter"]
-title = "Revealed: RTI Request uncovers MeitY letters to Twitter asking to remove the ‘manipulated media’ tag"
+image = 'https://internetfreedom.in/content/images/2021/06/Manipulated-media-1.png'
+slug = 'revealed-rti-request-uncovers-meity-letters-to-twitter-asking-to-remove-the-manipulated-media-tag'
+summary = 'We were provided copies of two letters from MeitY to Twitter, which do not cite any provision of law, but have asked Twitter to refrain from implementing its policy and process of affixing the ‘Manipulated Media’ tag on tweets.'
+tags = ['RTI', 'freespeech', 'Censorship', 'it act', 'misinformation', 'transparency', 'MeitY', 'Twitter']
+title = 'Revealed: RTI Request uncovers MeitY letters to Twitter asking to remove the ‘manipulated media’ tag'
 
 +++
 

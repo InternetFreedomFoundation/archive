@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["AgriStack", "Privacy"]
+author = 'Rohin Garg'
+categories = ['AgriStack', 'Privacy', 'Agriculture']
 date = 2021-10-19T07:35:40Z
-description = ""
+description = ''
 draft = false
-slug = "algorithms-in-mous-and-data-for-profit-4-new-mous-signed-between-the-ministry-of-agriculture-and-private-corporations-including-jio-and-cisco"
-summary = "The Ministry of Agriculture and Farmers’ Welfare has recently signed 4 more Memorandum of Understanding (MoU) agreements regarding the Agristack with Cisco, Ninjakart, ITC Limited, and Jio. In this post, we analyse these MoUs, and explain the issues that arise as a result."
-tags = ["AgriStack", "Privacy"]
-title = "MoUs for algorithms and data for profit: 4 new MoUs signed between the Ministry of Agriculture and private corporations, including Jio and Cisco."
+slug = 'algorithms-in-mous-and-data-for-profit-4-new-mous-signed-between-the-ministry-of-agriculture-and-private-corporations-including-jio-and-cisco'
+summary = 'The Ministry of Agriculture and Farmers’ Welfare has recently signed 4 more Memorandum of Understanding (MoU) agreements regarding the Agristack with Cisco, Ninjakart, ITC Limited, and Jio. In this post, we analyse these MoUs, and explain the issues that arise as a result.'
+tags = ['AgriStack', 'Privacy', 'Agriculture']
+title = 'MoUs for algorithms and data for profit: 4 new MoUs signed between the Ministry of Agriculture and private corporations, including Jio and Cisco.'
 
 +++
 

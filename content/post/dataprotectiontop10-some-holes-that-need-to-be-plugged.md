@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Data Protection", "DataProtectionTop10", "PDPB"]
+author = 'Rohin Garg'
+categories = ['Data Protection', 'DataProtectionTop10', 'PDPB']
 date = 2021-06-01T06:53:59Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/PDPB-9---Miscellaneous-2.png"
-slug = "dataprotectiontop10-some-holes-that-need-to-be-plugged"
-summary = "In Part 9 of the #DataProtectionTop10, we analyse some miscellaneous provisions in the PDPB and recommend that the Bill acknowledge a natural person as the owner of her data, provide sound provisions for facilitating the transition to the new regime, and give the RTI Act precedence over the Bill."
-tags = ["Data Protection", "DataProtectionTop10", "PDPB"]
-title = "#DataProtectionTop10: Some holes that need to be plugged"
+image = 'https://internetfreedom.in/content/images/2021/06/PDPB-9---Miscellaneous-2.png'
+slug = 'dataprotectiontop10-some-holes-that-need-to-be-plugged'
+summary = 'In Part 9 of the #DataProtectionTop10, we analyse some miscellaneous provisions in the PDPB and recommend that the Bill acknowledge a natural person as the owner of her data, provide sound provisions for facilitating the transition to the new regime, and give the RTI Act precedence over the Bill.'
+tags = ['Data Protection', 'DataProtectionTop10', 'PDPB']
+title = '#DataProtectionTop10: Some holes that need to be plugged'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-10-29T11:55:37Z
-description = ""
+description = ''
 draft = false
-slug = "response-to-facebook-townhall"
-title = "STI Statement on Mark Zuckerberg’s townhall at IIT Delhi"
+slug = 'response-to-facebook-townhall'
+title = 'STI Statement on Mark Zuckerberg’s townhall at IIT Delhi'
 
 +++
 

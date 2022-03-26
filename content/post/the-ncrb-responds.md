@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "Project Panoptic"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'Project Panoptic']
 date = 2019-11-08T03:07:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Capture-1.PNG"
-slug = "the-ncrb-responds"
-summary = "The NCRB promptly responds as we followed up on our legal notice and IFF replies having to restate original asks."
-tags = ["Privacy", "Project Panoptic"]
-title = "NCRB finally responds to legal notice on facial recognition, we promptly send a rejoinder..."
+image = 'https://internetfreedom.in/content/images/2019/11/Capture-1.PNG'
+slug = 'the-ncrb-responds'
+summary = 'The NCRB promptly responds as we followed up on our legal notice and IFF replies having to restate original asks.'
+tags = ['Privacy', 'Project Panoptic']
+title = 'NCRB finally responds to legal notice on facial recognition, we promptly send a rejoinder...'
 
 +++
 

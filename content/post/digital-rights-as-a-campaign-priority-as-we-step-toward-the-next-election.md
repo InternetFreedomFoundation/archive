@@ -1,11 +1,11 @@
 +++
-author = "Joanne DCunha"
+author = 'Joanne DCunha'
 date = 2019-02-24T16:48:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-24-at-11.25.17-PM.png"
-slug = "digital-rights-as-a-campaign-priority-as-we-step-toward-the-next-election"
-summary = "Ensuring that digital rights find reflection in the campaign priorities of all candidates in the general elections"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-24-at-11.25.17-PM.png'
+slug = 'digital-rights-as-a-campaign-priority-as-we-step-toward-the-next-election'
+summary = 'Ensuring that digital rights find reflection in the campaign priorities of all candidates in the general elections'
 title = "India's smartphone generation demands digital rights to be a governance priority"
 
 +++

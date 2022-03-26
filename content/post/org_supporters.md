@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Official Announcement"]
+author = 'Joanne DCunha'
+categories = ['Official Announcement']
 date = 2019-03-12T07:29:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/WhatsApp-Image-2019-03-12-at-1.05.02-PM.jpeg"
-slug = "org_supporters"
+image = 'https://internetfreedom.in/content/images/2019/03/WhatsApp-Image-2019-03-12-at-1.05.02-PM.jpeg'
+slug = 'org_supporters'
 summary = "Innovation is a common value shared by IFF and India's vibrant start up economy. There are many who believe their business has the capacity for social good and support constitutional goals. For this reason, we have decided to spur innovation by opening up to organisational donors. "
-tags = ["Official Announcement"]
-title = "Supporting Innovation through organisational support"
+tags = ['Official Announcement']
+title = 'Supporting Innovation through organisational support'
 
 +++
 

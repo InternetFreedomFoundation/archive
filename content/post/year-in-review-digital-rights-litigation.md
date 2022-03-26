@@ -1,12 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
+author = 'Devdutta Mukhopadhyay'
+categories = ['year in review', '2020']
 date = 2020-12-31T04:38:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/Year-End-Review--4---Litigation--1--1.png"
-slug = "year-in-review-digital-rights-litigation"
-summary = "Despite the challenges posed by the COVID-19 pandemic, IFF has provided legal representation to nine organizations and individuals in 2020. The clients we have represented this year include media organizations, businessmen, environmentalists, disability rights activists and RTI activists."
-title = "2020 in Review: Impact through Strategic Litigation"
+image = 'https://internetfreedom.in/content/images/2020/12/Year-End-Review--4---Litigation--1--1.png'
+slug = 'year-in-review-digital-rights-litigation'
+summary = 'Despite the challenges posed by the COVID-19 pandemic, IFF has provided legal representation to nine organizations and individuals in 2020. The clients we have represented this year include media organizations, businessmen, environmentalists, disability rights activists and RTI activists.'
+tags = ['year in review', '2020']
+title = '2020 in Review: Impact through Strategic Litigation'
 
 +++
 

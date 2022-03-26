@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["Consultations", "Privacy", "Supreme Court", "transparency", "live streaming"]
+author = 'Tanmay Singh'
+categories = ['Consultations', 'Privacy', 'Supreme Court', 'transparency', 'live streaming']
 date = 2021-06-28T08:53:01Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Striking-the-balance-between-privacy-and-public-interest-in-judicial-proceedings-Our-comments-to-the-Supreme-Court-s-Draft-Live-Streaming-Rules-1.png"
-slug = "striking-the-balance-between-privacy-and-public-interest-in-judicial-proceedings-our-comments-to-the-supreme-courts-draft-live-streaming-rules"
-summary = "Draft Model Rules for Live-Streaming and Recording of Court Proceedings were released by the Supreme Court’s e-Committee. IFF submitted its comments to the Draft Rules welcoming the Rules, and suggesting that the Rules can strike a better balance between  privacy and public interest."
-tags = ["Consultations", "Privacy", "Supreme Court", "transparency", "live streaming"]
-title = "Striking the balance between privacy and public interest in judicial proceedings: Our comments to the Supreme Court’s Draft Live Streaming Rules"
+image = 'https://internetfreedom.in/content/images/2021/06/Striking-the-balance-between-privacy-and-public-interest-in-judicial-proceedings-Our-comments-to-the-Supreme-Court-s-Draft-Live-Streaming-Rules-1.png'
+slug = 'striking-the-balance-between-privacy-and-public-interest-in-judicial-proceedings-our-comments-to-the-supreme-courts-draft-live-streaming-rules'
+summary = 'Draft Model Rules for Live-Streaming and Recording of Court Proceedings were released by the Supreme Court’s e-Committee. IFF submitted its comments to the Draft Rules welcoming the Rules, and suggesting that the Rules can strike a better balance between  privacy and public interest.'
+tags = ['Consultations', 'Privacy', 'Supreme Court', 'transparency', 'live streaming']
+title = 'Striking the balance between privacy and public interest in judicial proceedings: Our comments to the Supreme Court’s Draft Live Streaming Rules'
 
 +++
 

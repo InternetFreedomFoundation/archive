@@ -1,12 +1,12 @@
 +++
-author = "Apar Gupta"
-categories = ["savetheinternet", "Net Neutrality", "Policy"]
+author = 'Apar Gupta'
+categories = ['savetheinternet', 'Net Neutrality', 'Policy']
 date = 2019-01-22T05:45:48Z
-description = ""
+description = ''
 draft = false
-slug = "we-send-counter-comments-to-the-terrible-stuff-that-telecos-say-in-trais-ott-consultation-savetheinternet"
-summary = "In November 2018. The TRAI released a consultation paper on the regulation of OTT services (basically online platforms and services). We submitted comments on 8th January 2019 and our counter comments yesterday night, i.e. January 21, 2019."
-tags = ["savetheinternet", "Net Neutrality", "Policy"]
+slug = 'we-send-counter-comments-to-the-terrible-stuff-that-telecos-say-in-trais-ott-consultation-savetheinternet'
+summary = 'In November 2018. The TRAI released a consultation paper on the regulation of OTT services (basically online platforms and services). We submitted comments on 8th January 2019 and our counter comments yesterday night, i.e. January 21, 2019.'
+tags = ['savetheinternet', 'Net Neutrality', 'Policy']
 title = "We send counter-comments to the terrible proposals of Telecom Companies in TRAI's #OTTConsultation #SaveTheInternet"
 
 +++

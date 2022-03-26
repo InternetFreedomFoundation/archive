@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["republic day letter"]
+author = 'Apar Gupta'
+categories = ['republic day letter']
 date = 2020-01-26T08:01:32Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-8.32.57-PM-1.png"
-slug = "our-digital-republic"
+image = 'https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-8.32.57-PM-1.png'
+slug = 'our-digital-republic'
 summary = "A note from IFF to it's broader community on the 71st Republic day."
-tags = ["republic day letter"]
-title = "Notes from a Digital Republic"
+tags = ['republic day letter']
+title = 'Notes from a Digital Republic'
 
 +++
 

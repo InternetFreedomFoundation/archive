@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["AgriStack", "big tech", "Policy"]
+author = 'Rohin Garg'
+categories = ['AgriStack', 'big tech', 'Policy', 'Agriculture']
 date = 2021-05-20T06:34:10Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/we-got-our-hands-on-the-mou-between-the-Ministry-of-Agriculture-and-Microsoft-1.png"
-slug = "revealed-ministry-of-agricultures-mou-with-microsoft-on-the-agristack-urgent-need-for-transparency-and-consultation"
-summary = "In response to an RTI query by us, the Ministry of Agriculture provided us with a MoU between the Department of Agriculture and Microsoft, and a document titled “Standard Operating Procedure (SOP) for verifying Farmer’s Database (100 Villages)”. "
-tags = ["AgriStack", "big tech", "Policy"]
-title = "Revealed: Ministry of Agriculture’s MOU with Microsoft on the Agristack. Urgent need for transparency and consultation!"
+image = 'https://internetfreedom.in/content/images/2021/05/we-got-our-hands-on-the-mou-between-the-Ministry-of-Agriculture-and-Microsoft-1.png'
+slug = 'revealed-ministry-of-agricultures-mou-with-microsoft-on-the-agristack-urgent-need-for-transparency-and-consultation'
+summary = 'In response to an RTI query by us, the Ministry of Agriculture provided us with a MoU between the Department of Agriculture and Microsoft, and a document titled “Standard Operating Procedure (SOP) for verifying Farmer’s Database (100 Villages)”. '
+tags = ['AgriStack', 'big tech', 'Policy', 'Agriculture']
+title = 'Revealed: Ministry of Agriculture’s MOU with Microsoft on the Agristack. Urgent need for transparency and consultation!'
 
 +++
 

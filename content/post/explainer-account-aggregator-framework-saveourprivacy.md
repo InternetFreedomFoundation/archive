@@ -1,12 +1,12 @@
 +++
-author = "Rohin Garg"
-categories = ["Privacy", "Policy", "innovation"]
+author = 'Rohin Garg'
+categories = ['Privacy', 'Policy', 'innovation', 'Banking and Finance']
 date = 2021-10-28T05:15:11Z
-description = ""
+description = ''
 draft = false
-slug = "explainer-account-aggregator-framework-saveourprivacy"
-summary = "The RBI’s Account Aggregator framework went live on 2nd September this year. The government has claimed that the framework will have a transformative impact on the financial ecosystem. In this explainer, we take a look at what this framework really is and highlight certain issues that may arise."
-tags = ["Privacy", "Policy", "innovation"]
+slug = 'explainer-account-aggregator-framework-saveourprivacy'
+summary = 'The RBI’s Account Aggregator framework went live on 2nd September this year. The government has claimed that the framework will have a transformative impact on the financial ecosystem. In this explainer, we take a look at what this framework really is and highlight certain issues that may arise.'
+tags = ['Privacy', 'Policy', 'innovation', 'Banking and Finance']
 title = "Explained: RBI's Account Aggregator Framework"
 
 +++

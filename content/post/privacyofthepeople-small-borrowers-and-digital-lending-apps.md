@@ -1,12 +1,12 @@
 +++
 author = 'Simrandeep Singh'
-categories = ['PrivacyofThePeople', 'finance', 'Data Protection', 'data security']
+categories = ['PrivacyofThePeople', 'finance', 'Data Protection', 'data security', 'Banking and Finance']
 date = 2021-11-08T07:19:22Z
 description = ''
 draft = false
 slug = 'privacyofthepeople-small-borrowers-and-digital-lending-apps'
 summary = 'In the latest post in our #PrivacyOfThePeople series, we look at the impact of the Personal Data Protection Bill, 2019 on digital lending application users. We examine both illegal and ‘legal’ lending apps and look at how the data protection bill will impact digital lending.'
-tags = ['PrivacyofThePeople', 'finance', 'Data Protection', 'data security']
+tags = ['PrivacyofThePeople', 'finance', 'Data Protection', 'data security', 'Banking and Finance']
 title = '#PrivacyOfThePeople: Small borrowers and digital lending apps'
 
 +++

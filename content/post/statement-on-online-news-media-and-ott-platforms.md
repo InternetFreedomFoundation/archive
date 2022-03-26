@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["Censorship"]
+author = 'Farkhanda Zahoor'
+categories = ['Censorship']
 date = 2020-11-11T11:40:00Z
-description = ""
+description = ''
 draft = false
-slug = "statement-on-online-news-media-and-ott-platforms"
-summary = "The Central Government has notified the Ministry of Information and Broadcasting (MIB) as having jurisdiction over online news and also OTT video streaming platforms. "
-tags = ["Censorship"]
-title = "Statement: Today’s notification on online news media and OTT platforms will require greater vigilance #LetUsChill"
+slug = 'statement-on-online-news-media-and-ott-platforms'
+summary = 'The Central Government has notified the Ministry of Information and Broadcasting (MIB) as having jurisdiction over online news and also OTT video streaming platforms. '
+tags = ['Censorship']
+title = 'Statement: Today’s notification on online news media and OTT platforms will require greater vigilance #LetUsChill'
 
 +++
 

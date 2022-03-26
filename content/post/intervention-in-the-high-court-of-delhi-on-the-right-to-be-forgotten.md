@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2016-09-20T05:05:01Z
-description = ""
+description = ''
 draft = false
-slug = "intervention-in-the-high-court-of-delhi-on-the-right-to-be-forgotten"
-title = "Intervention in the High Court of Delhi on the \"Right to be Forgotten\" Case"
+slug = 'intervention-in-the-high-court-of-delhi-on-the-right-to-be-forgotten'
+title = 'Intervention in the High Court of Delhi on the "Right to be Forgotten" Case'
 
 +++
 

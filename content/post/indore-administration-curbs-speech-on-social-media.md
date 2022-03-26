@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["freespeech", "Censorship", "criminal law", "Legal", "Supreme Court"]
+author = 'Krishnesh'
+categories = ['freespeech', 'Censorship', 'criminal law', 'Legal', 'Supreme Court']
 date = 2021-05-10T13:03:12Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Indore-administration-curbs-COVID-related-speech-on-social-media-1.png"
-slug = "indore-administration-curbs-speech-on-social-media"
-summary = "Indore administration issued an over-broad order under Section 144(1) CrPC, 1973 banning speech related to Covid-19 on social media platforms. We have filed an application before the  Collector, Indore seeking withdrawal of the Order. "
-tags = ["freespeech", "Censorship", "criminal law", "Legal", "Supreme Court"]
-title = "Indore administration curbs speech on social media"
+image = 'https://internetfreedom.in/content/images/2021/05/Indore-administration-curbs-COVID-related-speech-on-social-media-1.png'
+slug = 'indore-administration-curbs-speech-on-social-media'
+summary = 'Indore administration issued an over-broad order under Section 144(1) CrPC, 1973 banning speech related to Covid-19 on social media platforms. We have filed an application before the  Collector, Indore seeking withdrawal of the Order. '
+tags = ['freespeech', 'Censorship', 'criminal law', 'Legal', 'Supreme Court']
+title = 'Indore administration curbs speech on social media'
 
 +++
 

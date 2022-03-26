@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-09-07T11:10:32Z
-description = ""
+description = ''
 draft = false
-slug = "iff-presses-for-interim-reliefs-in-the-whatsapp-privacy-case"
-title = "IFF presses for interim reliefs in the WhatsApp Privacy Case"
+slug = 'iff-presses-for-interim-reliefs-in-the-whatsapp-privacy-case'
+title = 'IFF presses for interim reliefs in the WhatsApp Privacy Case'
 
 +++
 

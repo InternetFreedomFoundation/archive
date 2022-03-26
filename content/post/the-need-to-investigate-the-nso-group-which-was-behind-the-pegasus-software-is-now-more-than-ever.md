@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Surveillance", "Privacy", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['Surveillance', 'Privacy', 'SaveOurPrivacy', 'pegasus']
 date = 2020-04-10T06:35:32Z
-description = ""
+description = ''
 draft = false
-slug = "the-need-to-investigate-the-nso-group-which-was-behind-the-pegasus-software-is-now-more-than-ever"
-summary = "We wrote to the Chief Ministers of Maharashtra and Chhattisgarh urging them to establish committees to investigate the Whatsapp hack. Our key recommendations were to include victim and expert testimony in the investigation which should be carried out in a transparent manner. "
-tags = ["Surveillance", "Privacy", "SaveOurPrivacy"]
-title = "The need to investigate the NSO Group, which was behind the Pegasus software, is now more than ever. #SaveOurPrivacy"
+slug = 'the-need-to-investigate-the-nso-group-which-was-behind-the-pegasus-software-is-now-more-than-ever'
+summary = 'We wrote to the Chief Ministers of Maharashtra and Chhattisgarh urging them to establish committees to investigate the Whatsapp hack. Our key recommendations were to include victim and expert testimony in the investigation which should be carried out in a transparent manner. '
+tags = ['Surveillance', 'Privacy', 'SaveOurPrivacy', 'pegasus']
+title = 'The need to investigate the NSO Group, which was behind the Pegasus software, is now more than ever. #SaveOurPrivacy'
 
 +++
 

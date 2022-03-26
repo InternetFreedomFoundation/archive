@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "facial recognition"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'facial recognition']
 date = 2021-06-03T14:38:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Copy-of-A-2018-patent-by-Huawei-and-China-Academy-of-Sciences-describes-a-face-recognition-product-capable-of-identifying-people-on-the-basis-of-their-ethnicity.-3.png"
-slug = "facial-recognition-laws-in-china"
-summary = "In the third part of our series on FRT regulation around the world, we will take a look at what are the existing laws regulating FRT in China, the reality of FRT development  & use by it and how it affects India."
-tags = ["Project Panoptic", "facial recognition"]
-title = "Facial Recognition Laws in China #ProjectPanoptic"
+image = 'https://internetfreedom.in/content/images/2021/06/Copy-of-A-2018-patent-by-Huawei-and-China-Academy-of-Sciences-describes-a-face-recognition-product-capable-of-identifying-people-on-the-basis-of-their-ethnicity.-3.png'
+slug = 'facial-recognition-laws-in-china'
+summary = 'In the third part of our series on FRT regulation around the world, we will take a look at what are the existing laws regulating FRT in China, the reality of FRT development  & use by it and how it affects India.'
+tags = ['Project Panoptic', 'facial recognition']
+title = 'Facial Recognition Laws in China #ProjectPanoptic'
 
 +++
 

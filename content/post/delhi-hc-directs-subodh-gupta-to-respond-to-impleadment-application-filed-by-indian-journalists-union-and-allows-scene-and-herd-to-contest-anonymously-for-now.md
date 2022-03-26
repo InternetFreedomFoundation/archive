@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'Legal']
 date = 2019-11-18T13:45:46Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Defamation-suits-cannot-be-used-to-gag-the-press-and-erase-public-memory--2.png"
-slug = "delhi-hc-directs-subodh-gupta-to-respond-to-impleadment-application-filed-by-indian-journalists-union-and-allows-scene-and-herd-to-contest-anonymously-for-now"
+image = 'https://internetfreedom.in/content/images/2019/11/Defamation-suits-cannot-be-used-to-gag-the-press-and-erase-public-memory--2.png'
+slug = 'delhi-hc-directs-subodh-gupta-to-respond-to-impleadment-application-filed-by-indian-journalists-union-and-allows-scene-and-herd-to-contest-anonymously-for-now'
 summary = "The Delhi HC has issued notice in the impleadment application filed by the Indian Journalists Union in Subodh Gupta's defamation suit and directed the Plaintiff to respond to concerns about overbroad censorship of news reports which adhere to professional journalistic standards of reporting."
-tags = ["Filings", "Legal"]
-title = "Delhi HC directs Subodh Gupta to respond to impleadment application filed by Indian Journalists Union and allows Scene and Herd to contest anonymously (for now)"
+tags = ['Filings', 'Legal']
+title = 'Delhi HC directs Subodh Gupta to respond to impleadment application filed by Indian Journalists Union and allows Scene and Herd to contest anonymously (for now)'
 
 +++
 

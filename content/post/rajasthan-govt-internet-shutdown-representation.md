@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Shutdown", "keep us online"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Shutdown', 'keep us online']
 date = 2021-02-23T06:29:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/Rajasthan-Govt-Internet-Shutdown.png"
-slug = "rajasthan-govt-internet-shutdown-representation"
-summary = "We wrote to the Rajasthan Government expressing concerns about unauthorised government officials imposing internet shutdowns and lack of periodic review and proactive publication of internet shutdown orders."
-tags = ["internet shutdowns", "Shutdown", "keep us online"]
-title = "The Rajasthan Government Must Fix Its Internet Shutdown Problem #KeepItOn"
+image = 'https://internetfreedom.in/content/images/2021/02/Rajasthan-Govt-Internet-Shutdown.png'
+slug = 'rajasthan-govt-internet-shutdown-representation'
+summary = 'We wrote to the Rajasthan Government expressing concerns about unauthorised government officials imposing internet shutdowns and lack of periodic review and proactive publication of internet shutdown orders.'
+tags = ['internet shutdowns', 'Shutdown', 'keep us online']
+title = 'The Rajasthan Government Must Fix Its Internet Shutdown Problem #KeepItOn'
 
 +++
 

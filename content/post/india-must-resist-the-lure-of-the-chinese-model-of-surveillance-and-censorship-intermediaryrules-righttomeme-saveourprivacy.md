@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["RightToMeme", "SaveOurPrivacy", "intermediary"]
+author = 'Apar Gupta'
+categories = ['RightToMeme', 'SaveOurPrivacy', 'intermediary']
 date = 2018-12-24T06:07:14Z
-description = ""
+description = ''
 draft = false
-slug = "india-must-resist-the-lure-of-the-chinese-model-of-surveillance-and-censorship-intermediaryrules-righttomeme-saveourprivacy"
-summary = "As reported in today’s front page story in the Indian Express, why is the government and large online platforms are privately discussing how  to censor and break encryption of your social media and messaging. We explain..."
-tags = ["RightToMeme", "SaveOurPrivacy", "intermediary"]
-title = "India must resist the lure of the Chinese model of online surveillance and censorship #IntermediaryRules #RightToMeme #SaveOurPrivacy"
+slug = 'india-must-resist-the-lure-of-the-chinese-model-of-surveillance-and-censorship-intermediaryrules-righttomeme-saveourprivacy'
+summary = 'As reported in today’s front page story in the Indian Express, why is the government and large online platforms are privately discussing how  to censor and break encryption of your social media and messaging. We explain...'
+tags = ['RightToMeme', 'SaveOurPrivacy', 'intermediary']
+title = 'India must resist the lure of the Chinese model of online surveillance and censorship #IntermediaryRules #RightToMeme #SaveOurPrivacy'
 
 +++
 

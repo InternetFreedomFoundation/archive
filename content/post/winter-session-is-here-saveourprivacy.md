@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Privacy", "Data Protection"]
+author = 'Apar Gupta'
+categories = ['Privacy', 'Data Protection']
 date = 2018-12-10T11:26:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-11-at-11.56.46-AM.png"
-slug = "winter-session-is-here-saveourprivacy"
-summary = "The winter session of parliament will start on December 11, 2018 in which important legislative business on privacy will be conducted across three key legislations."
-tags = ["Privacy", "Data Protection"]
-title = "Winter (session) is here! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-11-at-11.56.46-AM.png'
+slug = 'winter-session-is-here-saveourprivacy'
+summary = 'The winter session of parliament will start on December 11, 2018 in which important legislative business on privacy will be conducted across three key legislations.'
+tags = ['Privacy', 'Data Protection']
+title = 'Winter (session) is here! #SaveOurPrivacy'
 
 +++
 

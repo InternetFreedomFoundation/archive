@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Data Protection", "Legal", "Official Announcement", "SaveOurPrivacy", "Privacy"]
+author = 'Joanne DCunha'
+categories = ['Data Protection', 'Legal', 'Official Announcement', 'SaveOurPrivacy', 'Privacy']
 date = 2019-07-26T12:41:46Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/Capture-13.PNG"
-slug = "personal-data-and-information-privacy-code-bill-2019-introduced-in-the-lok-sabha-today-saveourprivacy"
-summary = "IFF goes to Parliament with Dr. Ravikumar (Lok Sabha, MP from Tamil Nadu). Today, the Personal Data and Information Privacy Code Bill, 2019 was introduced!"
-tags = ["Data Protection", "Legal", "Official Announcement", "SaveOurPrivacy", "Privacy"]
-title = "Personal Data and Information Privacy Code Bill, 2019 introduced in the Lok Sabha today! #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2019/07/Capture-13.PNG'
+slug = 'personal-data-and-information-privacy-code-bill-2019-introduced-in-the-lok-sabha-today-saveourprivacy'
+summary = 'IFF goes to Parliament with Dr. Ravikumar (Lok Sabha, MP from Tamil Nadu). Today, the Personal Data and Information Privacy Code Bill, 2019 was introduced!'
+tags = ['Data Protection', 'Legal', 'Official Announcement', 'SaveOurPrivacy', 'Privacy']
+title = 'Personal Data and Information Privacy Code Bill, 2019 introduced in the Lok Sabha today! #SaveOurPrivacy'
 
 +++
 

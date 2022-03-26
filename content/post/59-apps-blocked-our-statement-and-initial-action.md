@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Data Protection", "DOT", "RTI"]
+author = 'Apar Gupta'
+categories = ['Data Protection', 'DOT', 'RTI']
 date = 2020-07-01T11:11:56Z
-description = ""
+description = ''
 draft = false
-slug = "59-apps-blocked-our-statement-and-initial-action"
-summary = "In this post, we, through our statement, indicate areas of concerns around the legality of the process and also indicate how, by filing Right to Information requests, we are hoping for greater public disclosure."
-tags = ["Data Protection", "DOT", "RTI"]
-title = "Banning 59 Apps sets a concerning precedent. A detailed statement and initial action. #WhatTheBlock"
+slug = '59-apps-blocked-our-statement-and-initial-action'
+summary = 'In this post, we, through our statement, indicate areas of concerns around the legality of the process and also indicate how, by filing Right to Information requests, we are hoping for greater public disclosure.'
+tags = ['Data Protection', 'DOT', 'RTI']
+title = 'Banning 59 Apps sets a concerning precedent. A detailed statement and initial action. #WhatTheBlock'
 
 +++
 

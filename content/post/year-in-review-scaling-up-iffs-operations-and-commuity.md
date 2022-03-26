@@ -1,11 +1,13 @@
 +++
-author = "Shivani Singh"
+author = 'Shivani Singh'
+categories = ['2020', 'year in review']
 date = 2020-12-28T05:54:30Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/Year-End-Review--1-1.png"
-slug = "year-in-review-scaling-up-iffs-operations-and-commuity"
-summary = "In January 2020, we set out with concise goals: Streamline and standardise internal processes and pick up the pace with our community engagement efforts."
+image = 'https://internetfreedom.in/content/images/2020/12/Year-End-Review--1-1.png'
+slug = 'year-in-review-scaling-up-iffs-operations-and-commuity'
+summary = 'In January 2020, we set out with concise goals: Streamline and standardise internal processes and pick up the pace with our community engagement efforts.'
+tags = ['2020', 'year in review']
 title = "2020 in Review: Scaling up IFF's Operations and Community"
 
 +++

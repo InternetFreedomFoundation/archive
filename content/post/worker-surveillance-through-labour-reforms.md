@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["Surveillance", "Supreme Court", "Privacy", "Policy", "aadhaar"]
+author = 'Rohin Garg'
+categories = ['Surveillance', 'Supreme Court', 'Privacy', 'Policy', 'aadhaar']
 date = 2020-12-08T09:12:24Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/labour-law--1--1.png"
-slug = "worker-surveillance-through-labour-reforms"
-summary = "The Ministry of Labour released the Draft Code on Social Security (Central) Rules, 2020. In our comments on the draft, we have highlighted the following issues: mandatory aadhaar based verification and inadequate security safeguards for employee databases."
-tags = ["Surveillance", "Supreme Court", "Privacy", "Policy", "aadhaar"]
+image = 'https://internetfreedom.in/content/images/2020/12/labour-law--1--1.png'
+slug = 'worker-surveillance-through-labour-reforms'
+summary = 'The Ministry of Labour released the Draft Code on Social Security (Central) Rules, 2020. In our comments on the draft, we have highlighted the following issues: mandatory aadhaar based verification and inadequate security safeguards for employee databases.'
+tags = ['Surveillance', 'Supreme Court', 'Privacy', 'Policy', 'aadhaar']
 title = "Comments on the Draft Social Security Rules to safeguard worker's rights #SaveOurPrivacy"
 
 +++

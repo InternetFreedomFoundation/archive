@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Covid", "SaveOurPrivacy", "Surveillance", "aarogyasetu"]
+author = 'Apar Gupta'
+categories = ['Covid', 'SaveOurPrivacy', 'Surveillance', 'aarogyasetu']
 date = 2020-05-08T09:52:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/Copy-of-Aarogya-Setu-A-path-to-health-or-jail--1.png"
-slug = "get-up-stand-up-for-our-privacy-rights"
-summary = "We wrote to the Standing Committee for Information Technology to hold hearings on Aarogya Setu. "
-tags = ["Covid", "SaveOurPrivacy", "Surveillance", "aarogyasetu"]
-title = "Committee on IT : Get up! Stand up, for our privacy rights! #AarogyaSetu #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/05/Copy-of-Aarogya-Setu-A-path-to-health-or-jail--1.png'
+slug = 'get-up-stand-up-for-our-privacy-rights'
+summary = 'We wrote to the Standing Committee for Information Technology to hold hearings on Aarogya Setu. '
+tags = ['Covid', 'SaveOurPrivacy', 'Surveillance', 'aarogyasetu']
+title = 'Committee on IT : Get up! Stand up, for our privacy rights! #AarogyaSetu #SaveOurPrivacy'
 
 +++
 

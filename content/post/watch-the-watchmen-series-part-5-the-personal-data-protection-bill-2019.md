@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Privacy", "SaveOurPrivacy", "Surveillance", "WatchtheWatchmen"]
+author = 'Anushka Jain'
+categories = ['Privacy', 'SaveOurPrivacy', 'Surveillance', 'WatchtheWatchmen']
 date = 2020-10-28T08:26:18Z
-description = ""
+description = ''
 draft = false
-slug = "watch-the-watchmen-series-part-5-the-personal-data-protection-bill-2019"
+slug = 'watch-the-watchmen-series-part-5-the-personal-data-protection-bill-2019'
 summary = "In the fifth part of our \"Watch the Watchmen\" series, we take a closer look at PDP Bill which is likely to be tabled in next year's Budget Session. "
-tags = ["Privacy", "SaveOurPrivacy", "Surveillance", "WatchtheWatchmen"]
-title = "Watch the Watchmen Series Part 5 : The Personal Data Protection Bill, 2019"
+tags = ['Privacy', 'SaveOurPrivacy', 'Surveillance', 'WatchtheWatchmen']
+title = 'Watch the Watchmen Series Part 5 : The Personal Data Protection Bill, 2019'
 
 +++
 

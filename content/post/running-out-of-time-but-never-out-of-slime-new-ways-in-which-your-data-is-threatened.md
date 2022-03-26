@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["SaveOurPrivacy"]
+author = 'Joanne DCunha'
+categories = ['SaveOurPrivacy']
 date = 2019-07-23T05:13:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/save-our-privacy-meta-1-3.png"
-slug = "running-out-of-time-but-never-out-of-slime-new-ways-in-which-your-data-is-threatened"
-summary = "We write to the Ministry of Electronics and Information Technology enquiring on the status of the Draft Data Protection Bill. The need for a rights-based framework has never been more immediate. "
-tags = ["SaveOurPrivacy"]
+image = 'https://internetfreedom.in/content/images/2019/07/save-our-privacy-meta-1-3.png'
+slug = 'running-out-of-time-but-never-out-of-slime-new-ways-in-which-your-data-is-threatened'
+summary = 'We write to the Ministry of Electronics and Information Technology enquiring on the status of the Draft Data Protection Bill. The need for a rights-based framework has never been more immediate. '
+tags = ['SaveOurPrivacy']
 title = "He sees you when you're sleeping, He knows when you're awake, He gets your personal data and sells it for your own sake. #DystopiaBells"
 
 +++

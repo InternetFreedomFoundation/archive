@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["PrivacyofThePeople", "PDPB", "Data Protection"]
+author = 'Rohin Garg'
+categories = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
 date = 2021-07-14T05:52:26Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Health-data--PrivacyofthePeople-3.png"
-slug = "will-indias-healthcare-data-be-protected-privacy-of-the-people"
-summary = "In the continuation of our weekly series #PrivacyOfThePeople, we look at the impact of the Personal Data Protection Bill, 2019 in relation to healthcare data. We explore the need to secure such data as well as why private companies and foreign hackers are interested in the data of senior citizens."
-tags = ["PrivacyofThePeople", "PDPB", "Data Protection"]
+image = 'https://internetfreedom.in/content/images/2021/07/Health-data--PrivacyofthePeople-3.png'
+slug = 'will-indias-healthcare-data-be-protected-privacy-of-the-people'
+summary = 'In the continuation of our weekly series #PrivacyOfThePeople, we look at the impact of the Personal Data Protection Bill, 2019 in relation to healthcare data. We explore the need to secure such data as well as why private companies and foreign hackers are interested in the data of senior citizens.'
+tags = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
 title = "Will India's Healthcare Data Be Protected? #PrivacyOfThePeople"
 
 +++

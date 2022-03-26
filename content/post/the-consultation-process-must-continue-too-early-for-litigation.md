@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-05-19T04:17:06Z
-description = ""
+description = ''
 draft = false
-slug = "the-consultation-process-must-continue-too-early-for-litigation"
-title = "The Consultation process must continue: too early for litigation"
+slug = 'the-consultation-process-must-continue-too-early-for-litigation'
+title = 'The Consultation process must continue: too early for litigation'
 
 +++
 

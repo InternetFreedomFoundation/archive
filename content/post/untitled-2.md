@@ -1,9 +1,9 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-10-20T06:29:13Z
-description = ""
+description = ''
 draft = false
-slug = "untitled-2"
+slug = 'untitled-2'
 title = "We urge disclosure on how India's privacy law is being made #SaveOurPrivacy"
 
 +++

@@ -1,12 +1,12 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "internet shutdowns", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'internet shutdowns', 'Legal']
 date = 2019-10-16T09:38:04Z
-description = ""
+description = ''
 draft = false
-slug = "for-the-govts-eyes-only-govt-opposes-disclosure-of-orders-imposing-communication-shutdown-in-kashmir"
+slug = 'for-the-govts-eyes-only-govt-opposes-disclosure-of-orders-imposing-communication-shutdown-in-kashmir'
 summary = "At today's hearing, the Government cited national security concerns and objected to the Petitioner's and the Intervenors' demand for disclosure of orders issued under the Telecom Suspension Rules. "
-tags = ["Filings", "internet shutdowns", "Legal"]
+tags = ['Filings', 'internet shutdowns', 'Legal']
 title = "For the Govt's Eyes Only? Govt opposes disclosure of orders imposing communication shutdown in Kashmir"
 
 +++

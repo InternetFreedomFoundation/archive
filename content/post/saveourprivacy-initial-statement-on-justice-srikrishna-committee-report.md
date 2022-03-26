@@ -1,13 +1,13 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Privacy", "Data Protection"]
+author = 'IFF Public Policy Team'
+categories = ['Privacy', 'Data Protection']
 date = 2018-07-27T16:00:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/07/logofiles-01-copy.jpg"
-slug = "saveourprivacy-initial-statement-on-justice-srikrishna-committee-report"
-tags = ["Privacy", "Data Protection"]
-title = "#SaveOurPrivacy initial statement on Justice Srikrishna Committee Report"
+image = 'https://internetfreedom.in/content/images/2018/07/logofiles-01-copy.jpg'
+slug = 'saveourprivacy-initial-statement-on-justice-srikrishna-committee-report'
+tags = ['Privacy', 'Data Protection']
+title = '#SaveOurPrivacy initial statement on Justice Srikrishna Committee Report'
 
 +++
 

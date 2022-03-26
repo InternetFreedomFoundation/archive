@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Data Protection", "Privacy", "Surveillance", "Policy"]
+author = 'Joanne DCunha'
+categories = ['Data Protection', 'Privacy', 'Surveillance', 'Policy']
 date = 2019-12-17T08:15:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/poster.png"
-slug = "here-comes-the-bill-all-dressed-in-nil"
-summary = "As the Data Protection Bill has made its appearance, we list out existing and new additions to our concerns with the Bill. "
-tags = ["Data Protection", "Privacy", "Surveillance", "Policy"]
-title = "Here comes the Bill, all dressed in Nil #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2019/12/poster.png'
+slug = 'here-comes-the-bill-all-dressed-in-nil'
+summary = 'As the Data Protection Bill has made its appearance, we list out existing and new additions to our concerns with the Bill. '
+tags = ['Data Protection', 'Privacy', 'Surveillance', 'Policy']
+title = 'Here comes the Bill, all dressed in Nil #SaveOurPrivacy'
 
 +++
 

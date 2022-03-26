@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["savetheinternet", "Net Neutrality"]
+author = 'Sidharth Deb'
+categories = ['savetheinternet', 'Net Neutrality']
 date = 2020-03-03T10:42:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/03/Copy-of-Virtual-Private-Networks-are-not-illegal--yet-2-1.png"
-slug = "your-internet-provider-views-net-neutrality-as-an-inconvenience-dont-worry-iffs-got-your-back-2"
+image = 'https://internetfreedom.in/content/images/2020/03/Copy-of-Virtual-Private-Networks-are-not-illegal--yet-2-1.png'
+slug = 'your-internet-provider-views-net-neutrality-as-an-inconvenience-dont-worry-iffs-got-your-back-2'
 summary = "IFF submits its counter comments to TRAI's consultation on traffic management practices and a multistakeholder body for net neutrality. "
-tags = ["savetheinternet", "Net Neutrality"]
+tags = ['savetheinternet', 'Net Neutrality']
 title = "IFF's counter comments to TRAI on net neutrality enforcement #SaveTheInternet"
 
 +++

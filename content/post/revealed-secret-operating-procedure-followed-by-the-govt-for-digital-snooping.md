@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["SaveOurPrivacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['SaveOurPrivacy']
 date = 2019-03-11T11:55:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-11-at-4.43.33-PM.png"
-slug = "revealed-secret-operating-procedure-followed-by-the-govt-for-digital-snooping"
-summary = "The Secret Operating Procedure for conducting digital surveillance has been produced by the MHA before the Supreme Court for the first time. The document worryingly reveals lack of any judicial oversight and dilution of existing safeguards."
-tags = ["SaveOurPrivacy"]
-title = "Secret Operating Procedure for digital snooping revealed. Confirms fears of centralisation of executive power, zero judicial scrutiny and oversight."
+image = 'https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-11-at-4.43.33-PM.png'
+slug = 'revealed-secret-operating-procedure-followed-by-the-govt-for-digital-snooping'
+summary = 'The Secret Operating Procedure for conducting digital surveillance has been produced by the MHA before the Supreme Court for the first time. The document worryingly reveals lack of any judicial oversight and dilution of existing safeguards.'
+tags = ['SaveOurPrivacy']
+title = 'Secret Operating Procedure for digital snooping revealed. Confirms fears of centralisation of executive power, zero judicial scrutiny and oversight.'
 
 +++
 

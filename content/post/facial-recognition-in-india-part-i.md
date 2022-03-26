@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Privacy", "Surveillance", "Project Panoptic"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Privacy', 'Surveillance', 'Project Panoptic']
 date = 2020-02-17T05:40:10Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/FRT-Mapping.png"
-slug = "facial-recognition-in-india-part-i"
-summary = "In the first of a three part series, we map major facial recognition projects being implemented by the Central and State Governments and broadly classify them  according to intended purpose."
-tags = ["Privacy", "Surveillance", "Project Panoptic"]
-title = "Introduction to Facial Recognition Projects in India"
+image = 'https://internetfreedom.in/content/images/2020/02/FRT-Mapping.png'
+slug = 'facial-recognition-in-india-part-i'
+summary = 'In the first of a three part series, we map major facial recognition projects being implemented by the Central and State Governments and broadly classify them  according to intended purpose.'
+tags = ['Privacy', 'Surveillance', 'Project Panoptic']
+title = 'Introduction to Facial Recognition Projects in India'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["innovation", "ITRules"]
+author = 'Rohin Garg'
+categories = ['innovation', 'ITRules']
 date = 2021-05-24T08:17:40Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Copy-of-it-innovation-1.png"
-slug = "pound-the-alarm-the-clock-strikes-for-social-media-tomorrow-with-the-intermediaries-rules-coming-into-effect"
-summary = "Under the Intermediaries  Rules, significant social media intermediaries had a host of obligations to comply with by the deadline of 25th May, 2021. The compliances that significant social media intermediaries are onerous and may stifle innovation in the Indian digital space."
-tags = ["innovation", "ITRules"]
-title = "Sound the alarm! The clock strikes for social media tomorrow with the Intermediaries Rules coming into effect."
+image = 'https://internetfreedom.in/content/images/2021/05/Copy-of-it-innovation-1.png'
+slug = 'pound-the-alarm-the-clock-strikes-for-social-media-tomorrow-with-the-intermediaries-rules-coming-into-effect'
+summary = 'Under the Intermediaries  Rules, significant social media intermediaries had a host of obligations to comply with by the deadline of 25th May, 2021. The compliances that significant social media intermediaries are onerous and may stifle innovation in the Indian digital space.'
+tags = ['innovation', 'ITRules']
+title = 'Sound the alarm! The clock strikes for social media tomorrow with the Intermediaries Rules coming into effect.'
 
 +++
 

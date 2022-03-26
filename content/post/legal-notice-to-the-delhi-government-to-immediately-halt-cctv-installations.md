@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Privacy", "transaprency"]
+author = 'Joanne DCunha'
+categories = ['Privacy', 'transaprency']
 date = 2019-06-06T09:12:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/06/Capture-3.PNG"
-slug = "legal-notice-to-the-delhi-government-to-immediately-halt-cctv-installations"
-summary = "As the Delhi Government begins installation of CCTV cameras, we write to the Chief Minister of concerns with its process and lack of safeguards. "
-tags = ["Privacy", "transaprency"]
-title = "Legal notice to the Delhi Government to immediately halt CCTV installations."
+image = 'https://internetfreedom.in/content/images/2019/06/Capture-3.PNG'
+slug = 'legal-notice-to-the-delhi-government-to-immediately-halt-cctv-installations'
+summary = 'As the Delhi Government begins installation of CCTV cameras, we write to the Chief Minister of concerns with its process and lack of safeguards. '
+tags = ['Privacy', 'transaprency']
+title = 'Legal notice to the Delhi Government to immediately halt CCTV installations.'
 
 +++
 

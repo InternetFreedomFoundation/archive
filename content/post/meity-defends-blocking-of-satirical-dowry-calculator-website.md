@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Censorship", "Legal", "RightToMeme", "WebsiteBlocking"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Censorship', 'Legal', 'RightToMeme', 'WebsiteBlocking']
 date = 2020-03-16T05:54:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/03/WhatTheBlock.png"
-slug = "meity-defends-blocking-of-satirical-dowry-calculator-website"
+image = 'https://internetfreedom.in/content/images/2020/03/WhatTheBlock.png'
+slug = 'meity-defends-blocking-of-satirical-dowry-calculator-website'
 summary = "MeitY's response to Tanul Thakur's petition against the blocking of his Dowry Calculator website demonstrates lack of understanding of satire and non compliance with principles of natural justice."
-tags = ["Censorship", "Legal", "RightToMeme", "WebsiteBlocking"]
-title = "MeitY defends blocking of satirical Dowry Calculator website #FreeToMeme"
+tags = ['Censorship', 'Legal', 'RightToMeme', 'WebsiteBlocking']
+title = 'MeitY defends blocking of satirical Dowry Calculator website #FreeToMeme'
 
 +++
 

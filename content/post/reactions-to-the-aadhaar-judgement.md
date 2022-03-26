@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-09-27T08:14:05Z
-description = ""
+description = ''
 draft = false
-slug = "reactions-to-the-aadhaar-judgement"
-title = "Reactions to the Aadhaar Judgement"
+slug = 'reactions-to-the-aadhaar-judgement'
+title = 'Reactions to the Aadhaar Judgement'
 
 +++
 

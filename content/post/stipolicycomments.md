@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["STI policy"]
+author = 'Rohin Garg'
+categories = ['STI policy']
 date = 2021-01-27T06:58:48Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/the-national-science--technology--and-innovation-policy-needs-more-innovation--1.png"
-slug = "stipolicycomments"
-summary = "Along with Civic Data Lab, we have submitted our comments on the Draft 5th National Science, Technology, and Innovation Policy. In our comments, we highlighted several issues: the need to expand STI capacity by increasing R&D spending, improving inclusion and access, and promoting open science. "
-tags = ["STI policy"]
-title = "STI policy needs more innovation!"
+image = 'https://internetfreedom.in/content/images/2021/01/the-national-science--technology--and-innovation-policy-needs-more-innovation--1.png'
+slug = 'stipolicycomments'
+summary = 'Along with Civic Data Lab, we have submitted our comments on the Draft 5th National Science, Technology, and Innovation Policy. In our comments, we highlighted several issues: the need to expand STI capacity by increasing R&D spending, improving inclusion and access, and promoting open science. '
+tags = ['STI policy']
+title = 'STI policy needs more innovation!'
 
 +++
 

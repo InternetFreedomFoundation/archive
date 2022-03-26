@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["Encryption", "RTI"]
+author = 'Anushka Jain'
+categories = ['Encryption', 'RTI']
 date = 2020-11-20T04:59:42Z
-description = ""
+description = ''
 draft = false
-slug = "statement-on-meas-rti-response-on-international-statement-on-e2e-encryption"
+slug = 'statement-on-meas-rti-response-on-international-statement-on-e2e-encryption'
 summary = "MEA's RTI response states that they do not hold any information pertaining to the Statement nor can they identify any other authority to transfer it to which raises multiple concerns. "
-tags = ["Encryption", "RTI"]
+tags = ['Encryption', 'RTI']
 title = "Statement on MEA's RTI response on International Statement on E2E Encryption"
 
 +++

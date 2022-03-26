@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["aarogyasetu", "Coronavirus", "Covid", "COWIN", "vaccines"]
+author = 'Tanmay Singh'
+categories = ['aarogyasetu', 'Coronavirus', 'Covid', 'COWIN', 'vaccines']
 date = 2021-06-07T07:25:14Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Copy-of-cowin-infographic-delhi-hc-order-june-3.png"
-slug = "delhi-high-court-issues-directions-on-suggestions-to-improve-the-cowin-platform"
-summary = "Delhi High Court issued a series of directions offered by the Amicus, Senior Advocate Rajshekhar Rao on a note prepared by IFF. Hopefully it will soon lead to massive improvements including alternate modes or registration, co-win becoming more accessible, multilingual and having a privacy policy."
-tags = ["aarogyasetu", "Coronavirus", "Covid", "COWIN", "vaccines"]
-title = "Delhi High Court issues directions on suggestions to improve the CoWIN platform #VaccinesForAll"
+image = 'https://internetfreedom.in/content/images/2021/06/Copy-of-cowin-infographic-delhi-hc-order-june-3.png'
+slug = 'delhi-high-court-issues-directions-on-suggestions-to-improve-the-cowin-platform'
+summary = 'Delhi High Court issued a series of directions offered by the Amicus, Senior Advocate Rajshekhar Rao on a note prepared by IFF. Hopefully it will soon lead to massive improvements including alternate modes or registration, co-win becoming more accessible, multilingual and having a privacy policy.'
+tags = ['aarogyasetu', 'Coronavirus', 'Covid', 'COWIN', 'vaccines']
+title = 'Delhi High Court issues directions on suggestions to improve the CoWIN platform #VaccinesForAll'
 
 +++
 

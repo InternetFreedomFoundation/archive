@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["66A", "Consultations", "DigitalJustice", "it act", "Section66A", "Supreme Court", "zombietracker"]
+author = 'Krishnesh'
+categories = ['66A', 'Consultations', 'DigitalJustice', 'it act', 'Section66A', 'Supreme Court', 'zombietracker']
 date = 2021-05-12T07:08:22Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/final-ecourts--2--1.png"
-slug = "we-write-to-the-supreme-court-e-committee-with-cdl-to-improve-the-ecourts-platform"
-summary = "We write to Supreme Court e-Committee highlighting the difficulties we faced on eCourt platform while building the Zombie Tracker. We have also provided our recommendations which seek to enable others to conduct data-driven research of judicial trends.  "
-tags = ["66A", "Consultations", "DigitalJustice", "it act", "Section66A", "Supreme Court", "zombietracker"]
-title = "We write to the Supreme Court e-Committee with CDL to improve the eCourts platform"
+image = 'https://internetfreedom.in/content/images/2021/05/final-ecourts--2--1.png'
+slug = 'we-write-to-the-supreme-court-e-committee-with-cdl-to-improve-the-ecourts-platform'
+summary = 'We write to Supreme Court e-Committee highlighting the difficulties we faced on eCourt platform while building the Zombie Tracker. We have also provided our recommendations which seek to enable others to conduct data-driven research of judicial trends.  '
+tags = ['66A', 'Consultations', 'DigitalJustice', 'it act', 'Section66A', 'Supreme Court', 'zombietracker']
+title = 'We write to the Supreme Court e-Committee with CDL to improve the eCourts platform'
 
 +++
 

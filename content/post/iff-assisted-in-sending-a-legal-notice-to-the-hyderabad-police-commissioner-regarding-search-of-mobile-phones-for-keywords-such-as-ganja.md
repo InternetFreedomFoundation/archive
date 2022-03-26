@@ -1,13 +1,13 @@
 +++
-author = "Tanmay Singh"
-categories = ["hyderabad", "SaveOurPrivacy", "police"]
+author = 'Tanmay Singh'
+categories = ['hyderabad', 'SaveOurPrivacy', 'police']
 date = 2021-10-29T12:17:03Z
-description = ""
+description = ''
 draft = false
-slug = "iff-assisted-in-sending-a-legal-notice-to-the-hyderabad-police-commissioner-regarding-search-of-mobile-phones-for-keywords-such-as-ganja"
-summary = "We assisted in drafting a legal notice to the Hyderabad Police, when we learned that it is stopping random passers-by on the roads, and going through their phones. News videos clearly showed police personnel asking people to unlock their phones and hand it over to police officials. "
-tags = ["hyderabad", "SaveOurPrivacy", "police"]
-title = "IFF assisted in sending a legal notice to the Hyderabad Police Commissioner regarding search of mobile phones for keywords such as ‘ganja’"
+slug = 'iff-assisted-in-sending-a-legal-notice-to-the-hyderabad-police-commissioner-regarding-search-of-mobile-phones-for-keywords-such-as-ganja'
+summary = 'We assisted in drafting a legal notice to the Hyderabad Police, when we learned that it is stopping random passers-by on the roads, and going through their phones. News videos clearly showed police personnel asking people to unlock their phones and hand it over to police officials. '
+tags = ['hyderabad', 'SaveOurPrivacy', 'police']
+title = 'IFF assisted in sending a legal notice to the Hyderabad Police Commissioner regarding search of mobile phones for keywords such as ‘ganja’'
 
 +++
 

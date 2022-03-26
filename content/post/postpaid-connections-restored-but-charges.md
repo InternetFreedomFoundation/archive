@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Shutdown"]
+author = 'Joanne DCunha'
+categories = ['Shutdown']
 date = 2019-10-23T05:15:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Capture--1--1.png"
-slug = "postpaid-connections-restored-but-charges"
-summary = "Post-paid connections restored but access is restricted as users are made to clear charges in order to make use os services. We write to the DOT to direct ISPs to waive charges.  "
-tags = ["Shutdown"]
-title = "Postpaid connections restored in Jammu & Kashmir but access restricted due to charges levied."
+image = 'https://internetfreedom.in/content/images/2019/10/Capture--1--1.png'
+slug = 'postpaid-connections-restored-but-charges'
+summary = 'Post-paid connections restored but access is restricted as users are made to clear charges in order to make use os services. We write to the DOT to direct ISPs to waive charges.  '
+tags = ['Shutdown']
+title = 'Postpaid connections restored in Jammu & Kashmir but access restricted due to charges levied.'
 
 +++
 

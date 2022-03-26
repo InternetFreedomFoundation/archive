@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Privacy", "SaveOurPrivacy"]
+author = 'Apar Gupta'
+categories = ['Privacy', 'SaveOurPrivacy']
 date = 2018-12-23T13:37:04Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-23-at-5.56.45-PM.png"
-slug = "the-ministry-of-home-affairs-delegates-snooping-decryption-hacking-powers-abrogates-responsibility-and-undermine-privacy"
-summary = "So has the government merely issued a routine notification empowering intelligence agencies to gather intelligence to prevent terrorism or is this the creation of a surveillance state? "
-tags = ["Privacy", "SaveOurPrivacy"]
-title = "Explainer: How the MHA notification is another step in making India into a survelliance state #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-23-at-5.56.45-PM.png'
+slug = 'the-ministry-of-home-affairs-delegates-snooping-decryption-hacking-powers-abrogates-responsibility-and-undermine-privacy'
+summary = 'So has the government merely issued a routine notification empowering intelligence agencies to gather intelligence to prevent terrorism or is this the creation of a surveillance state? '
+tags = ['Privacy', 'SaveOurPrivacy']
+title = 'Explainer: How the MHA notification is another step in making India into a survelliance state #SaveOurPrivacy'
 
 +++
 

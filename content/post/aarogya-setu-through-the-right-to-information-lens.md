@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["aarogyasetu", "RTI", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['aarogyasetu', 'RTI', 'SaveOurPrivacy']
 date = 2020-05-27T06:47:54Z
-description = ""
+description = ''
 draft = false
-slug = "aarogya-setu-through-the-right-to-information-lens"
-summary = "IFF has filed multiple Right to Information requests with various governmental authorities on the Aarogya Setu application. In this post, we will highlight these requests, the substantial replies that we received as well as the non-answers which also tell us a lot."
-tags = ["aarogyasetu", "RTI", "SaveOurPrivacy"]
-title = "A look at Aarogya Setu through the Right to Information lens #SaveOurPrivacy"
+slug = 'aarogya-setu-through-the-right-to-information-lens'
+summary = 'IFF has filed multiple Right to Information requests with various governmental authorities on the Aarogya Setu application. In this post, we will highlight these requests, the substantial replies that we received as well as the non-answers which also tell us a lot.'
+tags = ['aarogyasetu', 'RTI', 'SaveOurPrivacy']
+title = 'A look at Aarogya Setu through the Right to Information lens #SaveOurPrivacy'
 
 +++
 

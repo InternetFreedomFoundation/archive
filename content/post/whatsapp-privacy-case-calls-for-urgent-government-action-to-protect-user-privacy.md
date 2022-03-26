@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2016-09-23T11:12:12Z
-description = ""
+description = ''
 draft = false
-slug = "whatsapp-privacy-case-calls-for-urgent-government-action-to-protect-user-privacy"
-title = "Delhi High Court Whatsapp case calls for urgent government action to protect user privacy"
+slug = 'whatsapp-privacy-case-calls-for-urgent-government-action-to-protect-user-privacy'
+title = 'Delhi High Court Whatsapp case calls for urgent government action to protect user privacy'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Shivani Singh"
-categories = ["cybersec charcha", "cyber security", "Data Protection", "Data Breach"]
+author = 'Shivani Singh'
+categories = ['cybersec charcha', 'cyber security', 'Data Protection', 'Data Breach']
 date = 2021-10-29T07:17:48Z
-description = ""
+description = ''
 draft = false
-slug = "6-cybersec-charcha-what-comes-after-breach-pe-breach"
-summary = "Data breaches are now becoming increasingly common. In a scenario like this, it becomes really important to learn not only how you can protect yourself, but also the measures you can take if your data is leaked in a data breach. "
-tags = ["cybersec charcha", "cyber security", "Data Protection", "Data Breach"]
-title = "#6 Cybersec Charcha: What comes after Breach Pe Breach?"
+slug = '6-cybersec-charcha-what-comes-after-breach-pe-breach'
+summary = 'Data breaches are now becoming increasingly common. In a scenario like this, it becomes really important to learn not only how you can protect yourself, but also the measures you can take if your data is leaked in a data breach. '
+tags = ['cybersec charcha', 'cyber security', 'Data Protection', 'Data Breach']
+title = '#6 Cybersec Charcha: What comes after Breach Pe Breach?'
 
 +++
 

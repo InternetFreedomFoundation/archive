@@ -1,14 +1,14 @@
 +++
-author = "Shivani Singh"
-categories = ["cybersec charcha", "cyber security", "digital security", "cybercrime"]
+author = 'Shivani Singh'
+categories = ['cybersec charcha', 'cyber security', 'digital security', 'cybercrime']
 date = 2021-06-24T09:18:25Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/cybersec-charcha-1.png"
-slug = "cybersec-charcha-conflicts-nation-states-and-cybercrime"
-summary = "In today’s edition of Cybersec Charcha, we’ll be exploring the growing role of Nation State Actors in cyberattacks, some important headlines from the past month in the cybersecurity space and some expert advice that we received on the last edition of Cybersec Charcha."
-tags = ["cybersec charcha", "cyber security", "digital security", "cybercrime"]
-title = "Cybersec Charcha: Conflicts, Nation-States, and Cybercrime"
+image = 'https://internetfreedom.in/content/images/2021/06/cybersec-charcha-1.png'
+slug = 'cybersec-charcha-conflicts-nation-states-and-cybercrime'
+summary = 'In today’s edition of Cybersec Charcha, we’ll be exploring the growing role of Nation State Actors in cyberattacks, some important headlines from the past month in the cybersecurity space and some expert advice that we received on the last edition of Cybersec Charcha.'
+tags = ['cybersec charcha', 'cyber security', 'digital security', 'cybercrime']
+title = 'Cybersec Charcha: Conflicts, Nation-States, and Cybercrime'
 
 +++
 

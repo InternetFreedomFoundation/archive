@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship"]
+author = 'Joanne DCunha'
+categories = ['Censorship']
 date = 2019-05-13T10:18:30Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/05/Capture-1.PNG"
-slug = "we-appeal-to-an-appeal-justice-for-rights-goes-to-court-again"
-summary = "A Special Leave Petition was filed by the Justice for Rights foundation in the Supreme Court of India against the decision of the Delhi High Court on regulation of content on online viewing platforms."
-tags = ["Censorship"]
-title = "Bringing out the big guns. Justice for Rights appeals."
+image = 'https://internetfreedom.in/content/images/2019/05/Capture-1.PNG'
+slug = 'we-appeal-to-an-appeal-justice-for-rights-goes-to-court-again'
+summary = 'A Special Leave Petition was filed by the Justice for Rights foundation in the Supreme Court of India against the decision of the Delhi High Court on regulation of content on online viewing platforms.'
+tags = ['Censorship']
+title = 'Bringing out the big guns. Justice for Rights appeals.'
 
 +++
 

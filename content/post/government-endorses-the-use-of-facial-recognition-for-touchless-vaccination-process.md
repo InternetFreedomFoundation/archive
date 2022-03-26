@@ -1,13 +1,13 @@
 +++
-author = "Yashaswini"
-categories = ["aadhaar", "Covid", "COWIN", "Coronavirus", "Data Protection", "DigitalJustice", "facial recognition", "Privacy", "Surveillance", "vaccines", "Project Panoptic"]
+author = 'Yashaswini'
+categories = ['aadhaar', 'Covid', 'COWIN', 'Coronavirus', 'Data Protection', 'DigitalJustice', 'facial recognition', 'Privacy', 'Surveillance', 'vaccines', 'Project Panoptic']
 date = 2021-07-04T04:45:56Z
-description = ""
+description = ''
 draft = false
-slug = "government-endorses-the-use-of-facial-recognition-for-touchless-vaccination-process"
-summary = "We filed an RTI application with the Ministry of Health and Family Welfare to verify reports about the government using facial recognition technology (FRT) for the verification of beneficiaries of the COVID-19 vaccines. In their response the Ministry confirmed the use of FRT. "
-tags = ["aadhaar", "Covid", "COWIN", "Coronavirus", "Data Protection", "DigitalJustice", "facial recognition", "Privacy", "Surveillance", "vaccines", "Project Panoptic"]
-title = "Government endorses the use of facial recognition for “touchless” vaccination process"
+slug = 'government-endorses-the-use-of-facial-recognition-for-touchless-vaccination-process'
+summary = 'We filed an RTI application with the Ministry of Health and Family Welfare to verify reports about the government using facial recognition technology (FRT) for the verification of beneficiaries of the COVID-19 vaccines. In their response the Ministry confirmed the use of FRT. '
+tags = ['aadhaar', 'Covid', 'COWIN', 'Coronavirus', 'Data Protection', 'DigitalJustice', 'facial recognition', 'Privacy', 'Surveillance', 'vaccines', 'Project Panoptic']
+title = 'Government endorses the use of facial recognition for “touchless” vaccination process'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "Delhi HC", "PDPB", "RTI"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'Delhi HC', 'PDPB', 'RTI']
 date = 2021-04-02T05:32:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/twitter-cic--1--1.png"
-slug = "persist-transparency-dpd-cic"
-summary = "In a positive order in our second appeal related to the Data Protection Bill, the CIC directed the CPIO of MeitY to re-visit the RTI application and provide us with a revised reply."
-tags = ["Data Protection", "Delhi HC", "PDPB", "RTI"]
+image = 'https://internetfreedom.in/content/images/2021/04/twitter-cic--1--1.png'
+slug = 'persist-transparency-dpd-cic'
+summary = 'In a positive order in our second appeal related to the Data Protection Bill, the CIC directed the CPIO of MeitY to re-visit the RTI application and provide us with a revised reply.'
+tags = ['Data Protection', 'Delhi HC', 'PDPB', 'RTI']
 title = "CIC observes that IT Ministry's denial on RTI for comments on the Data Protection Bill is, \"grossly improper\" #SaveOurPrivacy"
 
 +++

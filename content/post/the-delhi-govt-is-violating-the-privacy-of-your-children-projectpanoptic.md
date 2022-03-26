@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic", "facial recognition", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic', 'facial recognition', 'SaveOurPrivacy']
 date = 2021-05-24T14:11:46Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Are-government-schools-in-Delhi-using-facial-recognition-technology-on-children-The-answer-is--categorically--1.png"
-slug = "the-delhi-govt-is-violating-the-privacy-of-your-children-projectpanoptic"
-summary = "We wrote to the Delhi Commission for Protection of Child Rights (DCPCR) urging them to step in to protect child rights in Delhi against use of harmful facial recognition technology in schools. "
-tags = ["Project Panoptic", "facial recognition", "SaveOurPrivacy"]
-title = "The Delhi Govt. is using facial recognition on children in Govt. schools #ProjectPanoptic"
+image = 'https://internetfreedom.in/content/images/2021/05/Are-government-schools-in-Delhi-using-facial-recognition-technology-on-children-The-answer-is--categorically--1.png'
+slug = 'the-delhi-govt-is-violating-the-privacy-of-your-children-projectpanoptic'
+summary = 'We wrote to the Delhi Commission for Protection of Child Rights (DCPCR) urging them to step in to protect child rights in Delhi against use of harmful facial recognition technology in schools. '
+tags = ['Project Panoptic', 'facial recognition', 'SaveOurPrivacy']
+title = 'The Delhi Govt. is using facial recognition on children in Govt. schools #ProjectPanoptic'
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["4GforAll", "accesstointernet", "internet shutdowns", "RTI"]
+author = 'Anushka Jain'
+categories = ['4GforAll', 'accesstointernet', 'internet shutdowns', 'RTI']
 date = 2020-11-10T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "rti-responses-from-andhra-pradesh-and-gujarat-show-compliance-failure-with-the-anuradha-bhasin-internet-shutdown-decision"
+slug = 'rti-responses-from-andhra-pradesh-and-gujarat-show-compliance-failure-with-the-anuradha-bhasin-internet-shutdown-decision'
 summary = "11 months on from the Supreme Court's decision on internet shutdowns in the matter of Anuradha Bhasin v Union of India, there is still no compliance."
-tags = ["4GforAll", "accesstointernet", "internet shutdowns", "RTI"]
-title = "RTI responses from Andhra Pradesh and Gujarat show compliance failure with the Anuradha Bhasin Internet Shutdown decision"
+tags = ['4GforAll', 'accesstointernet', 'internet shutdowns', 'RTI']
+title = 'RTI responses from Andhra Pradesh and Gujarat show compliance failure with the Anuradha Bhasin Internet Shutdown decision'
 
 +++
 

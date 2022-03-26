@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Surveillance"]
+author = 'Joanne DCunha'
+categories = ['Surveillance']
 date = 2019-09-25T05:35:42Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Capture-18.PNG"
-slug = "rti-on-state-surveillance"
-summary = "To understand how states have been conducting surveillance, we filed RTIs with various state governments on what standard operating procedures are at play. "
-tags = ["Surveillance"]
-title = "Breaking: New insight into the Secret Operating Procedures of State Governments for Surveillance"
+image = 'https://internetfreedom.in/content/images/2019/09/Capture-18.PNG'
+slug = 'rti-on-state-surveillance'
+summary = 'To understand how states have been conducting surveillance, we filed RTIs with various state governments on what standard operating procedures are at play. '
+tags = ['Surveillance']
+title = 'Breaking: New insight into the Secret Operating Procedures of State Governments for Surveillance'
 
 +++
 

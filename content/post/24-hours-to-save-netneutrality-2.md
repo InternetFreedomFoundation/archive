@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-08-14T10:11:14Z
-description = ""
+description = ''
 draft = false
-slug = "24-hours-to-save-netneutrality-2"
-title = "Internet’s Independence Day: Comment on MyGov for #NetNeutrality"
+slug = '24-hours-to-save-netneutrality-2'
+title = 'Internet’s Independence Day: Comment on MyGov for #NetNeutrality'
 
 +++
 

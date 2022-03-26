@@ -1,13 +1,13 @@
 +++
-author = "Anandita Mishra"
-categories = ["freespeech", "pressfreedom", "takedown", "youtube", "google", "Copyright", "fairuse", "big tech", "WebsiteBlocking"]
+author = 'Anandita Mishra'
+categories = ['freespeech', 'pressfreedom', 'takedown', 'youtube', 'google', 'Copyright', 'fairuse', 'big tech', 'WebsiteBlocking']
 date = 2021-10-18T07:05:05Z
-description = ""
+description = ''
 draft = false
-slug = "iff-writes-to-google-india-about-recent-instances-of-youtube-copyright-strikes"
-summary = "We write to Google India highlighting that action taken upon copyright complaints is based on an incorrect application of copyright law and YouTube’s policies and, therefore, threatens press freedom and is in violation of the constitutional rights of digital media reporters and its audience. "
-tags = ["freespeech", "pressfreedom", "takedown", "youtube", "google", "Copyright", "fairuse", "big tech", "WebsiteBlocking"]
-title = "IFF writes to Google India about recent instances of YouTube copyright strikes"
+slug = 'iff-writes-to-google-india-about-recent-instances-of-youtube-copyright-strikes'
+summary = 'We write to Google India highlighting that action taken upon copyright complaints is based on an incorrect application of copyright law and YouTube’s policies and, therefore, threatens press freedom and is in violation of the constitutional rights of digital media reporters and its audience. '
+tags = ['freespeech', 'pressfreedom', 'takedown', 'youtube', 'google', 'Copyright', 'fairuse', 'big tech', 'WebsiteBlocking']
+title = 'IFF writes to Google India about recent instances of YouTube copyright strikes'
 
 +++
 

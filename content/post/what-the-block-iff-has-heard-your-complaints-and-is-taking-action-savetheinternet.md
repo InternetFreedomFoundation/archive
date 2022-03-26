@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["savetheinternet", "Net Neutrality", "internet shutdowns"]
+author = 'Sidharth Deb'
+categories = ['savetheinternet', 'Net Neutrality', 'internet shutdowns']
 date = 2020-03-07T03:42:00Z
-description = ""
+description = ''
 draft = false
-slug = "what-the-block-iff-has-heard-your-complaints-and-is-taking-action-savetheinternet"
-summary = "IFF received multiple complaints of irregular website blocking by ISPs in Bengaluru and Hyderabad. The ISPs, namely ACT and BSNL, said they received directions from the DoT. Since this appears to be a network neutrality violation, IFF has written to the DoT and TRAI to look into it."
-tags = ["savetheinternet", "Net Neutrality", "internet shutdowns"]
-title = "What the Block?! IFF has heard your complaints and is taking action #SaveTheInternet"
+slug = 'what-the-block-iff-has-heard-your-complaints-and-is-taking-action-savetheinternet'
+summary = 'IFF received multiple complaints of irregular website blocking by ISPs in Bengaluru and Hyderabad. The ISPs, namely ACT and BSNL, said they received directions from the DoT. Since this appears to be a network neutrality violation, IFF has written to the DoT and TRAI to look into it.'
+tags = ['savetheinternet', 'Net Neutrality', 'internet shutdowns']
+title = 'What the Block?! IFF has heard your complaints and is taking action #SaveTheInternet'
 
 +++
 

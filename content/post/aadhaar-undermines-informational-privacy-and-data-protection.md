@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-11-23T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "aadhaar-undermines-informational-privacy-and-data-protection"
-title = "Aadhaar undermines informational privacy and data protection"
+slug = 'aadhaar-undermines-informational-privacy-and-data-protection'
+title = 'Aadhaar undermines informational privacy and data protection'
 
 +++
 

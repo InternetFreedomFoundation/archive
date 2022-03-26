@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "internet shutdowns", "Legal", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'internet shutdowns', 'Legal', 'Supreme Court']
 date = 2019-11-29T12:05:23Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/If-the-whole-internet-is-shutdwon-to-prevent-misuse-of-the-dark-web--we-are-heading-for-a-dark-future-indeed..png"
-slug = "recap-part-ii-kashmir-communication-shutdown-and-movement-restrictions-cases"
-summary = "Part II of the Recap summarizes arguments made by the petitioners and the government about the constitutional validity of the communication shutdown and movement restrictions in Kashmir under Articles 19 and 21 of the Constitution. "
-tags = ["Filings", "internet shutdowns", "Legal", "Supreme Court"]
-title = "Recap Part II: Kashmir Communication Shutdown and Movement Restrictions Cases"
+image = 'https://internetfreedom.in/content/images/2019/11/If-the-whole-internet-is-shutdwon-to-prevent-misuse-of-the-dark-web--we-are-heading-for-a-dark-future-indeed..png'
+slug = 'recap-part-ii-kashmir-communication-shutdown-and-movement-restrictions-cases'
+summary = 'Part II of the Recap summarizes arguments made by the petitioners and the government about the constitutional validity of the communication shutdown and movement restrictions in Kashmir under Articles 19 and 21 of the Constitution. '
+tags = ['Filings', 'internet shutdowns', 'Legal', 'Supreme Court']
+title = 'Recap Part II: Kashmir Communication Shutdown and Movement Restrictions Cases'
 
 +++
 

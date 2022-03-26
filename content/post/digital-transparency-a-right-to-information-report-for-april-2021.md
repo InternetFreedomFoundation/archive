@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["RTI", "transparency", "Project Panoptic", "freespeech", "WebsiteBlocking"]
+author = 'Anushka Jain'
+categories = ['RTI', 'transparency', 'Project Panoptic', 'freespeech', 'WebsiteBlocking', 'RTIReport']
 date = 2021-05-05T07:20:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/RTI-April-Draft-7.png"
-slug = "digital-transparency-a-right-to-information-report-for-april-2021"
-summary = "Since our last report in the month of March, IFF has filed 7 RTI requests. Here, we give you an overview of the requests filed and why demanding transparency from government authorities is one of the key elements in our fight to protect digital rights which has taken a hit in the lockdown."
-tags = ["RTI", "transparency", "Project Panoptic", "freespeech", "WebsiteBlocking"]
-title = "Digital Transparency: A Right to Information Report for April, 2021"
+image = 'https://internetfreedom.in/content/images/2021/05/RTI-April-Draft-7.png'
+slug = 'digital-transparency-a-right-to-information-report-for-april-2021'
+summary = 'Since our last report in the month of March, IFF has filed 7 RTI requests. Here, we give you an overview of the requests filed and why demanding transparency from government authorities is one of the key elements in our fight to protect digital rights which has taken a hit in the lockdown.'
+tags = ['RTI', 'transparency', 'Project Panoptic', 'freespeech', 'WebsiteBlocking', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for April, 2021'
 
 +++
 

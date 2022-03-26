@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["4GforAll", "accesstointernet", "DOT"]
+author = 'Anushka Jain'
+categories = ['4GforAll', 'accesstointernet', 'DOT']
 date = 2020-09-09T03:59:50Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-the-dot-about-odishas-internet-connectivity-issues-4gforall"
-summary = "We asked them to ensure that the BharatNet Project, which aims to provide fast internet connectivity to the whole country, is operationalised according to pre-existing timelines so that these issues can be resolved. "
-tags = ["4GforAll", "accesstointernet", "DOT"]
+slug = 'we-wrote-to-the-dot-about-odishas-internet-connectivity-issues-4gforall'
+summary = 'We asked them to ensure that the BharatNet Project, which aims to provide fast internet connectivity to the whole country, is operationalised according to pre-existing timelines so that these issues can be resolved. '
+tags = ['4GforAll', 'accesstointernet', 'DOT']
 title = "We wrote to the DoT about Odisha's internet connectivity issues #4GforAll"
 
 +++

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["66A", "Censorship", "Filings"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['66A', 'Censorship', 'Filings']
 date = 2019-03-19T09:04:43Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/898C5064-463B-4DAD-9DA4-04D0952FC550.jpeg"
-slug = "section-66a-returns-to-its-grave-leaving-us-to-netflix-and-chill-in-peace"
-summary = "The Delhi High Court today promptly agreed to remove an inadvertent reference to the unconstitutional Section 66A in its judgement rejecting censorship of online platforms like Netflix and Amazon Prime."
-tags = ["66A", "Censorship", "Filings"]
-title = "Section 66A returns to its grave after accidental resurrection."
+image = 'https://internetfreedom.in/content/images/2019/03/898C5064-463B-4DAD-9DA4-04D0952FC550.jpeg'
+slug = 'section-66a-returns-to-its-grave-leaving-us-to-netflix-and-chill-in-peace'
+summary = 'The Delhi High Court today promptly agreed to remove an inadvertent reference to the unconstitutional Section 66A in its judgement rejecting censorship of online platforms like Netflix and Amazon Prime.'
+tags = ['66A', 'Censorship', 'Filings']
+title = 'Section 66A returns to its grave after accidental resurrection.'
 
 +++
 

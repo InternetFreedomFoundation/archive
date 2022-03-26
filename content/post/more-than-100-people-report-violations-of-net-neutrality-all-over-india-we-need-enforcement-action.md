@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["Net Neutrality", "savetheinternet"]
+author = 'Apar Gupta'
+categories = ['Net Neutrality', 'savetheinternet']
 date = 2019-02-06T10:15:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-06-at-3.44.27-PM.png"
-slug = "more-than-100-people-report-violations-of-net-neutrality-all-over-india-we-need-enforcement-action"
-summary = "More than 100 people report violations of net neutrality all over India. We need enforcement action. #SaveTheInternet"
-tags = ["Net Neutrality", "savetheinternet"]
-title = "More than 100 people report violations of net neutrality all over India. We need enforcement action. #SaveTheInternet"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-06-at-3.44.27-PM.png'
+slug = 'more-than-100-people-report-violations-of-net-neutrality-all-over-india-we-need-enforcement-action'
+summary = 'More than 100 people report violations of net neutrality all over India. We need enforcement action. #SaveTheInternet'
+tags = ['Net Neutrality', 'savetheinternet']
+title = 'More than 100 people report violations of net neutrality all over India. We need enforcement action. #SaveTheInternet'
 
 +++
 

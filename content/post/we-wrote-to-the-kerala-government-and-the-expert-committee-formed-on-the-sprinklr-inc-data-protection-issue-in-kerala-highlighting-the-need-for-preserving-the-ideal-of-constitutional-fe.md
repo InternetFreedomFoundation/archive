@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "Coronavirus", "Kerala High Court", "SaveOurPrivacy"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'Coronavirus', 'Kerala High Court', 'SaveOurPrivacy']
 date = 2020-05-21T10:34:31Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-the-kerala-government-and-the-expert-committee-formed-on-the-sprinklr-inc-data-protection-issue-in-kerala-highlighting-the-need-for-preserving-the-ideal-of-constitutional-fe"
-summary = "In our representation to the Government of Kerala and the Expert Committee formed on the issue, we have pointed out certain lacunae in the Kerala HC order addressing the issue and have made specific suggestions on how best to resolve them."
-tags = ["Data Protection", "Coronavirus", "Kerala High Court", "SaveOurPrivacy"]
-title = "We wrote to the Kerala Government and the Expert Committee formed on the Sprinklr Inc. Data Protection issue in Kerala highlighting the need for preserving the ideal of Constitutional Federalism #SaveOurPrivacy"
+slug = 'we-wrote-to-the-kerala-government-and-the-expert-committee-formed-on-the-sprinklr-inc-data-protection-issue-in-kerala-highlighting-the-need-for-preserving-the-ideal-of-constitutional-fe'
+summary = 'In our representation to the Government of Kerala and the Expert Committee formed on the issue, we have pointed out certain lacunae in the Kerala HC order addressing the issue and have made specific suggestions on how best to resolve them.'
+tags = ['Data Protection', 'Coronavirus', 'Kerala High Court', 'SaveOurPrivacy']
+title = 'We wrote to the Kerala Government and the Expert Committee formed on the Sprinklr Inc. Data Protection issue in Kerala highlighting the need for preserving the ideal of Constitutional Federalism #SaveOurPrivacy'
 
 +++
 

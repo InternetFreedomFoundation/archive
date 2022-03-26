@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Surveillance", "pegasus", "Privacy", "Arsenal", "BhimaKoregaon"]
+author = 'Anushka Jain'
+categories = ['Surveillance', 'pegasus', 'Privacy', 'Arsenal', 'BhimaKoregaon']
 date = 2021-08-12T07:10:24Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Bhima-Koregaon-Twitter-Post-1.png"
-slug = "the-arsenal-reports-bhima-koregaon-arrests"
-summary = "The reports by Arsenal Consulting show that  some of the BK-16 were surveilled and incriminating documents planted on their computers. We analyse what this means for the rise of targeted surveillance in India in light of the recent Pegasus revelations. "
-tags = ["Surveillance", "pegasus", "Privacy", "Arsenal", "BhimaKoregaon"]
-title = "The Arsenal Reports: The rise of targeted surveillance in India"
+image = 'https://internetfreedom.in/content/images/2021/08/Bhima-Koregaon-Twitter-Post-1.png'
+slug = 'the-arsenal-reports-bhima-koregaon-arrests'
+summary = 'The reports by Arsenal Consulting show that  some of the BK-16 were surveilled and incriminating documents planted on their computers. We analyse what this means for the rise of targeted surveillance in India in light of the recent Pegasus revelations. '
+tags = ['Surveillance', 'pegasus', 'Privacy', 'Arsenal', 'BhimaKoregaon']
+title = 'The Arsenal Reports: The rise of targeted surveillance in India'
 
 +++
 
@@ -58,6 +58,8 @@ Such hacking of computer resources, including mobile phones and applications, is
 
 This revelation reveals an [urgent need for surveillance reform](https://www.thehindu.com/opinion/op-ed/surveillance-reform-is-the-need-of-the-hour/article35414371.ece) to protect citizens against the use of such invasive technologies which hamper their fundamental right to privacy and threatens the democratic ideals of our country. Use of such surveillance technology on human rights defenders stops them from working with vulnerable people, some of whom may have been victimised by their own government, without opening them up to further abuse. While it seems unlikely that any stringent measures will be taken, we all share a collective responsibility to first become aware of the increasing use of malware and advocate that any such reported infections be investigated seriously. IFF is committed towards advancing surveillance reform and prohibitions on the use of malware.
 
+<iframe src="https://drive.google.com/file/d/1dBJF8TzQ6zOm4UqBVibrJl3U0EBcrgq1/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. Reports submitted by Arsenal Consulting in the matter of _National Investigating Agency v. Sudhir Pralhad Dhawale & others_ ([link](https://drive.google.com/drive/folders/1QoonWsBbpWiJFaIl2zgLN6l0rxezNHHa?usp=sharing))
@@ -65,6 +67,8 @@ This revelation reveals an [urgent need for surveillance reform](https://www.the
 3. “_Explainer: Arsenal Report on Surendra Gadling_” published in The Leaflet dated July 7, 2021 ([link](https://www.theleaflet.in/explainer-arsenal-report-on-surendra-gadling/))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

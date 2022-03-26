@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Censorship", "OTT", "transparency"]
+author = 'Rohin Garg'
+categories = ['Censorship', 'OTT', 'transparency']
 date = 2021-02-04T13:25:23Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/Copy-of-What-are-You-Searching-for_-1.png"
-slug = "ott-transparency-representation"
-summary = "The Ministry of Information & Broadcasting may be considering regulating online content on Over-The-Top (OTT) platforms. We wrote a letter to the Ministry, in which we detailed potential harms, asked for clarity, and requested a thorough implementation of the pre-legislative consultation policy."
-tags = ["Censorship", "OTT", "transparency"]
-title = "#LetUsChill: Confusion and Opacity over OTT guidelines"
+image = 'https://internetfreedom.in/content/images/2021/02/Copy-of-What-are-You-Searching-for_-1.png'
+slug = 'ott-transparency-representation'
+summary = 'The Ministry of Information & Broadcasting may be considering regulating online content on Over-The-Top (OTT) platforms. We wrote a letter to the Ministry, in which we detailed potential harms, asked for clarity, and requested a thorough implementation of the pre-legislative consultation policy.'
+tags = ['Censorship', 'OTT', 'transparency']
+title = '#LetUsChill: Confusion and Opacity over OTT guidelines'
 
 +++
 

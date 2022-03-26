@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["WhatTheBlock", "WebsiteBlocking", "RTI"]
+author = 'Anushka Jain'
+categories = ['WhatTheBlock', 'WebsiteBlocking', 'RTI']
 date = 2021-04-21T05:32:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/04/Copy-of-executive-1.png"
-slug = "website-blocking-orders-2021"
-summary = "We wrote to Ministry of Electronics & IT  asking them to, at the least, consider proactive publication of judicial orders and maintaining a public list of websites/URLs blocked under it. "
-tags = ["WhatTheBlock", "WebsiteBlocking", "RTI"]
-title = "Without prejudice: The least the government can do is proactively publish judicial orders for website blocking #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2021/04/Copy-of-executive-1.png'
+slug = 'website-blocking-orders-2021'
+summary = 'We wrote to Ministry of Electronics & IT  asking them to, at the least, consider proactive publication of judicial orders and maintaining a public list of websites/URLs blocked under it. '
+tags = ['WhatTheBlock', 'WebsiteBlocking', 'RTI']
+title = 'Without prejudice: The least the government can do is proactively publish judicial orders for website blocking #WhatTheBlock'
 
 +++
 

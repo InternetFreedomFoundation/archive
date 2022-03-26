@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Statement"]
+author = 'Joanne DCunha'
+categories = ['Statement']
 date = 2019-04-06T10:11:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/support.PNG"
-slug = "support-2"
-summary = "IFF is in support of a statement released in collaboration with individuals and organisations demonstrating the need to uphold and defend the integrity of the next general elections. "
-tags = ["Statement"]
-title = "We express support to Safeguarding Democracy from Digital Platforms"
+image = 'https://internetfreedom.in/content/images/2019/04/support.PNG'
+slug = 'support-2'
+summary = 'IFF is in support of a statement released in collaboration with individuals and organisations demonstrating the need to uphold and defend the integrity of the next general elections. '
+tags = ['Statement']
+title = 'We express support to Safeguarding Democracy from Digital Platforms'
 
 +++
 

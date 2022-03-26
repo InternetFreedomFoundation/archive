@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["RTI"]
+author = 'Anushka Jain'
+categories = ['RTI', 'RTIReport']
 date = 2021-03-02T05:51:35Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/RTIs-1.png"
-slug = "digital-transparency-a-right-to-information-report-for-february-2021"
-summary = "Since our last report in the month of January, IFF has filed 41 RTI requests. Here, we give you an overview of the requests filed and why demanding transparency and accountability from government authorities is one of the key elements in our fight to protect digital rights."
-tags = ["RTI"]
-title = "Digital Transparency: A Right to Information Report for February, 2021"
+image = 'https://internetfreedom.in/content/images/2021/03/RTIs-1.png'
+slug = 'digital-transparency-a-right-to-information-report-for-february-2021'
+summary = 'Since our last report in the month of January, IFF has filed 41 RTI requests. Here, we give you an overview of the requests filed and why demanding transparency and accountability from government authorities is one of the key elements in our fight to protect digital rights.'
+tags = ['RTI', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for February, 2021'
 
 +++
 

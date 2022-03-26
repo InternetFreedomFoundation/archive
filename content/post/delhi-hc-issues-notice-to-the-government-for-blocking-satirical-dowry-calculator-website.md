@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["WebsiteBlocking", "Legal", "Filings"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['WebsiteBlocking', 'Legal', 'Filings']
 date = 2019-12-16T05:35:08Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/Satirising-the-marriage-market-and-mocking-the-practice-of-dowry-is-not-incitement-to-commit-an-oftence.-The-government-s-outrage-driven-machinery-may-have-realized-this-if-they-followed-due-process-before-blocking-w.png"
-slug = "delhi-hc-issues-notice-to-the-government-for-blocking-satirical-dowry-calculator-website"
-summary = "On Tuesday, the Delhi High Court issued notice to MeitY, DoT and Ministry of WCD for blocking the satirical Dowry Calculator website without complying with the provisions of Section 69A of the IT Act and the Blocking Rules made thereunder. "
-tags = ["WebsiteBlocking", "Legal", "Filings"]
-title = "Delhi HC issues notice to the government for blocking satirical Dowry Calculator website"
+image = 'https://internetfreedom.in/content/images/2019/12/Satirising-the-marriage-market-and-mocking-the-practice-of-dowry-is-not-incitement-to-commit-an-oftence.-The-government-s-outrage-driven-machinery-may-have-realized-this-if-they-followed-due-process-before-blocking-w.png'
+slug = 'delhi-hc-issues-notice-to-the-government-for-blocking-satirical-dowry-calculator-website'
+summary = 'On Tuesday, the Delhi High Court issued notice to MeitY, DoT and Ministry of WCD for blocking the satirical Dowry Calculator website without complying with the provisions of Section 69A of the IT Act and the Blocking Rules made thereunder. '
+tags = ['WebsiteBlocking', 'Legal', 'Filings']
+title = 'Delhi HC issues notice to the government for blocking satirical Dowry Calculator website'
 
 +++
 

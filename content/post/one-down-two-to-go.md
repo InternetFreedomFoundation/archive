@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship", "Legal"]
+author = 'Joanne DCunha'
+categories = ['Censorship', 'Legal']
 date = 2019-04-24T12:24:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/Capture-18.PNG"
-slug = "one-down-two-to-go"
+image = 'https://internetfreedom.in/content/images/2019/04/Capture-18.PNG'
+slug = 'one-down-two-to-go'
 summary = "The Hon'ble High Court of Delhi applies the well-reasoned judgement of the Justice for Rights case in dismissing Nikhil Bhalla's plea for guidelines to regulate online streaming content. "
-tags = ["Censorship", "Legal"]
-title = "One down, three to go!"
+tags = ['Censorship', 'Legal']
+title = 'One down, three to go!'
 
 +++
 

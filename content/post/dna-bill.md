@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["IFF Explainer", "DNA Bill", "Privacy", "SaveOurPrivacy"]
+author = 'Rohin Garg'
+categories = ['IFF Explainer', 'DNA Bill', 'Privacy', 'SaveOurPrivacy']
 date = 2021-02-18T08:27:59Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/02/oops--did-we-just-enter-dystopia_-1.png"
-slug = "dna-bill"
-summary = "The Standing Committee on Science and Technology recently submitted its report on the DNA Bill. Several concerns have been raised over the report, with two Committee members filing dissent notes. We decided to provide an explainer that breaks down the key issues with both the report and the Bill."
-tags = ["IFF Explainer", "DNA Bill", "Privacy", "SaveOurPrivacy"]
-title = "DNA Bill : On democratic processes and dystopian outcomes #IFFExplainer #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/02/oops--did-we-just-enter-dystopia_-1.png'
+slug = 'dna-bill'
+summary = 'The Standing Committee on Science and Technology recently submitted its report on the DNA Bill. Several concerns have been raised over the report, with two Committee members filing dissent notes. We decided to provide an explainer that breaks down the key issues with both the report and the Bill.'
+tags = ['IFF Explainer', 'DNA Bill', 'Privacy', 'SaveOurPrivacy']
+title = 'DNA Bill : On democratic processes and dystopian outcomes #IFFExplainer #SaveOurPrivacy'
 
 +++
 

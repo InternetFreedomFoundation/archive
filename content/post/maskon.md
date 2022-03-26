@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Project Panoptic"]
+author = 'Joanne DCunha'
+categories = ['Project Panoptic']
 date = 2019-07-18T06:52:01Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/Capture-3.PNG"
-slug = "maskon"
-summary = "The NCRB has invited bids for the implementation of Automated Facial Recognition Systems. We sent a legal notice to the NCRB because concerns such as discriminatory profiling and privacy violations are just the tip of the iceberg of problems this technology will bring about."
-tags = ["Project Panoptic"]
-title = "We might be in the market for a new kind of face mask."
+image = 'https://internetfreedom.in/content/images/2019/07/Capture-3.PNG'
+slug = 'maskon'
+summary = 'The NCRB has invited bids for the implementation of Automated Facial Recognition Systems. We sent a legal notice to the NCRB because concerns such as discriminatory profiling and privacy violations are just the tip of the iceberg of problems this technology will bring about.'
+tags = ['Project Panoptic']
+title = 'We might be in the market for a new kind of face mask.'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["SaveOurPrivacy", "Covid"]
+author = 'Apar Gupta'
+categories = ['SaveOurPrivacy', 'Covid']
 date = 2020-03-30T03:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/03/Privacy-breach-in-times-of-Covid-19-1-.png"
-slug = "quarantine-list"
-summary = "We have written to the Government to issue advisories against lists of persons who are suspected or potentially infected with Covid-19 from being circulated on social media and WhatsApp groups."
-tags = ["SaveOurPrivacy", "Covid"]
-title = "Quarantine lists breach individual privacy! Social solidarity in times of Covid-19 #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/03/Privacy-breach-in-times-of-Covid-19-1-.png'
+slug = 'quarantine-list'
+summary = 'We have written to the Government to issue advisories against lists of persons who are suspected or potentially infected with Covid-19 from being circulated on social media and WhatsApp groups.'
+tags = ['SaveOurPrivacy', 'Covid']
+title = 'Quarantine lists breach individual privacy! Social solidarity in times of Covid-19 #SaveOurPrivacy'
 
 +++
 

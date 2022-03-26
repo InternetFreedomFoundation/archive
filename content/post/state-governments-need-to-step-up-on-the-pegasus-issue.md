@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["pegasus", "Surveillance", "Privacy"]
+author = 'Anushka Jain'
+categories = ['pegasus', 'Surveillance', 'Privacy']
 date = 2021-07-29T05:34:19Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Pegasus-Representation-Twitter-Header-1.png"
-slug = "state-governments-need-to-step-up-on-the-pegasus-issue"
-summary = "Cognisant of the legal injuries as well as the violations of fundamental rights that have occurred in light of the Pegasus spyware revelations, we wrote to the state governments of Maharashtra & Chhattisgarh to institute investigations into the use of spyware against citizens."
-tags = ["pegasus", "Surveillance", "Privacy"]
-title = "State Governments need to step up on the Pegasus issue"
+image = 'https://internetfreedom.in/content/images/2021/07/Pegasus-Representation-Twitter-Header-1.png'
+slug = 'state-governments-need-to-step-up-on-the-pegasus-issue'
+summary = 'Cognisant of the legal injuries as well as the violations of fundamental rights that have occurred in light of the Pegasus spyware revelations, we wrote to the state governments of Maharashtra & Chhattisgarh to institute investigations into the use of spyware against citizens.'
+tags = ['pegasus', 'Surveillance', 'Privacy']
+title = 'State Governments need to step up on the Pegasus issue'
 
 +++
 

@@ -1,12 +1,14 @@
 +++
-author = "Anushka Jain"
+author = 'Anushka Jain'
+categories = ['Surveillance', 'pegasus', 'Privacy']
 date = 2021-07-23T07:15:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/To--The-Ministry-of-Home-Affairs-The-Ministry-of-Communications-The-Ministry-of-Electronics-and-Information-Technology-1.png"
-slug = "dear-standing-committee-we-have-some-questions-on-pegasus"
-summary = "We wrote to the Standing Committee on IT with questions for the MHA, MeitY and MoC related to the Pegasus revelations."
-title = "Dear Standing Committee, We Have Some Questions on Pegasus"
+image = 'https://internetfreedom.in/content/images/2021/07/To--The-Ministry-of-Home-Affairs-The-Ministry-of-Communications-The-Ministry-of-Electronics-and-Information-Technology-1.png'
+slug = 'dear-standing-committee-we-have-some-questions-on-pegasus'
+summary = 'We wrote to the Standing Committee on IT with questions for the MHA, MeitY and MoC related to the Pegasus revelations.'
+tags = ['Surveillance', 'pegasus', 'Privacy']
+title = 'Dear Standing Committee, We Have Some Questions on Pegasus'
 
 +++
 

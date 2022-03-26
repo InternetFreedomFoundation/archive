@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["Policy", "Privacy", "innovation", "big tech"]
+author = 'Sidharth Deb'
+categories = ['Policy', 'Privacy', 'innovation', 'big tech', 'Economy']
 date = 2020-03-20T08:48:25Z
-description = ""
+description = ''
 draft = false
-slug = "read-iffs-response-to-the-draft-competition-amendment-bill-2020-our-ask-hold-big-tech-accountable"
-summary = "IFF responded to the Ministry of Corporate Affairs; draft Competition (Amendment) Bill, 2020 . We suggest ways in which the Government could strengthen and streamline its institutions. We also stress on the need for India’s competition laws to reflect challenges emerging from technology markets."
-tags = ["Policy", "Privacy", "innovation", "big tech"]
-title = "Read IFF’s Response to the Draft Competition (Amendment) Bill, 2020. Our Ask? Hold Big Tech Accountable"
+slug = 'read-iffs-response-to-the-draft-competition-amendment-bill-2020-our-ask-hold-big-tech-accountable'
+summary = 'IFF responded to the Ministry of Corporate Affairs; draft Competition (Amendment) Bill, 2020 . We suggest ways in which the Government could strengthen and streamline its institutions. We also stress on the need for India’s competition laws to reflect challenges emerging from technology markets.'
+tags = ['Policy', 'Privacy', 'innovation', 'big tech', 'Economy']
+title = 'Read IFF’s Response to the Draft Competition (Amendment) Bill, 2020. Our Ask? Hold Big Tech Accountable'
 
 +++
 

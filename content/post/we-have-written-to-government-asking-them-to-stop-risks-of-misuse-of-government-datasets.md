@@ -1,11 +1,11 @@
 +++
-author = "Sidharth Deb"
+author = 'Sidharth Deb'
 date = 2020-02-26T11:21:27Z
-description = ""
+description = ''
 draft = false
-slug = "we-have-written-to-government-asking-them-to-stop-risks-of-misuse-of-government-datasets"
-summary = "Vahan, a database developed by the Ministry of Road Transport and Highways, is allegedly being used to target vehicles owned by Muslims which are being burnt down. Although unconfirmed, we have written, with the help of Srinivas Kodali, to different Government departments to take action"
-title = "We have written to Government asking them to stop public access to the Vahan database #SaveOurPrivacy"
+slug = 'we-have-written-to-government-asking-them-to-stop-risks-of-misuse-of-government-datasets'
+summary = 'Vahan, a database developed by the Ministry of Road Transport and Highways, is allegedly being used to target vehicles owned by Muslims which are being burnt down. Although unconfirmed, we have written, with the help of Srinivas Kodali, to different Government departments to take action'
+title = 'We have written to Government asking them to stop public access to the Vahan database #SaveOurPrivacy'
 
 +++
 

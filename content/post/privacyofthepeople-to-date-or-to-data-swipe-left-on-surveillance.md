@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PrivacyofThePeople", "PDPB", "Data Protection"]
+author = 'Rohin Garg'
+categories = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
 date = 2021-07-28T05:47:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Copy-of-PDPB-Dating-Apps-1.png"
-slug = "privacyofthepeople-to-date-or-to-data-swipe-left-on-surveillance"
-summary = "In continuation of our weekly series #PrivacyOfThePeople, we examine how dating and matrimonial services share your personal data and just how well the Bill protects us. We explore the need to secure such data as well as why the current regulations are inadequate."
-tags = ["PrivacyofThePeople", "PDPB", "Data Protection"]
-title = "#PrivacyOfThePeople - To Date or To Data? / Swipe Left on Surveillance"
+image = 'https://internetfreedom.in/content/images/2021/07/Copy-of-PDPB-Dating-Apps-1.png'
+slug = 'privacyofthepeople-to-date-or-to-data-swipe-left-on-surveillance'
+summary = 'In continuation of our weekly series #PrivacyOfThePeople, we examine how dating and matrimonial services share your personal data and just how well the Bill protects us. We explore the need to secure such data as well as why the current regulations are inadequate.'
+tags = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
+title = '#PrivacyOfThePeople - To Date or To Data? / Swipe Left on Surveillance'
 
 +++
 
@@ -54,6 +54,8 @@ To remedy some of these problems, here are a few of our recommendations:
 
 _This is the fifth post in our #PrivacyOfThePeople series on how the Personal Data Protection Bill will impact different facets of our life; you can read part 1 on worker surveillance_ [_here_](https://internetfreedom.in/privacyofthepeople-asha-workers-and-employee-surveillance/)_, part 2 on the farmers_ [_here_](https://internetfreedom.in/privacy-of-the-people-agristack-and-farmer-issues/)_, part 3 on social media_ [_here_](https://internetfreedom.in/privacyofthepeople-social-media-users/)_, part 4 on healthcare data_ [_here_](https://internetfreedom.in/will-indias-healthcare-data-be-protected-privacy-of-the-people/)_, and part 5 on student data [here](https://internetfreedom.in/why-student-data-should-be-students-data/)_. __
 
+<iframe src="https://drive.google.com/file/d/19-E0rZHHhAJEwbzE7D5d8ZsiIQcHxYWp/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. The Personal Data Protection Bill, 2019 __ as introduced by the Minister for Electronics and Information Technology, Mr. Ravi Shankar Prasad ([**link**](http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/373_2019_LS_Eng.pdf))
@@ -64,6 +66,8 @@ _This is the fifth post in our #PrivacyOfThePeople series on how the Personal Da
 _This post was drafted by Tanvi Roy, who is currently interning at IFF and reviewed by IFF staff._
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

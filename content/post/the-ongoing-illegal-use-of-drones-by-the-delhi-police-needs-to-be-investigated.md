@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["drones", "Privacy", "RTI", "SaveOurPrivacy", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['drones', 'Privacy', 'RTI', 'SaveOurPrivacy', 'Surveillance']
 date = 2020-06-23T10:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "the-ongoing-illegal-use-of-drones-by-the-delhi-police-needs-to-be-investigated"
+slug = 'the-ongoing-illegal-use-of-drones-by-the-delhi-police-needs-to-be-investigated'
 summary = "We wrote to the MCA and DGCA asking them to recall the conditional exemption allowing the use of drones for COVID-19 related operations and to commence an investigation into the ongoing illegal use of drones by the Delhi Police for mass surveillance.\n"
-tags = ["drones", "Privacy", "RTI", "SaveOurPrivacy", "Surveillance"]
-title = "The ongoing illegal use of drones for mass surveillance by the Delhi Police needs to be investigated #SaveOurPrivacy"
+tags = ['drones', 'Privacy', 'RTI', 'SaveOurPrivacy', 'Surveillance']
+title = 'The ongoing illegal use of drones for mass surveillance by the Delhi Police needs to be investigated #SaveOurPrivacy'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-08-07T06:40:24Z
-description = ""
+description = ''
 draft = false
-slug = "the-standing-committee-on-it-is-planning-to-look-into-issues-of-net-neutrality-and-call-drops"
-title = "If you need any help..."
+slug = 'the-standing-committee-on-it-is-planning-to-look-into-issues-of-net-neutrality-and-call-drops'
+title = 'If you need any help...'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet", "Censorship", "freespeech"]
+author = 'Rohin Garg'
+categories = ['accesstointernet', 'Censorship', 'freespeech']
 date = 2021-05-10T08:19:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/MEITY-responds-to-our-representation-to-unblock-Twitter-accounts.-Confirms-orders-and-denies-disclosure.-1.png"
-slug = "meity-response-to-representation"
-summary = "In February, we had written to MeitY with regards to the blocking of Twitter accounts. MeitY responded to us recently, saying that they did nothing wrong. We have written back to the Ministry this week explaining how they are constitutionally required to disclose the blocking orders."
-tags = ["accesstointernet", "Censorship", "freespeech"]
-title = "MEITY responds to our representation to unblock Twitter accounts. Confirms orders and denies disclosure."
+image = 'https://internetfreedom.in/content/images/2021/05/MEITY-responds-to-our-representation-to-unblock-Twitter-accounts.-Confirms-orders-and-denies-disclosure.-1.png'
+slug = 'meity-response-to-representation'
+summary = 'In February, we had written to MeitY with regards to the blocking of Twitter accounts. MeitY responded to us recently, saying that they did nothing wrong. We have written back to the Ministry this week explaining how they are constitutionally required to disclose the blocking orders.'
+tags = ['accesstointernet', 'Censorship', 'freespeech']
+title = 'MEITY responds to our representation to unblock Twitter accounts. Confirms orders and denies disclosure.'
 
 +++
 

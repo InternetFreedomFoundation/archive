@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["accesstointernet", "freespeech", "Online Image Based Sexual Abuse", "hate speech"]
+author = 'Anushka Jain'
+categories = ['accesstointernet', 'freespeech', 'Online Image Based Sexual Abuse', 'hate speech', 'Gender']
 date = 2021-10-30T05:20:04Z
-description = ""
+description = ''
 draft = false
-slug = "118-days-since-still-no-justice-for-those-targeted-by-the-sulli-deals-incident"
+slug = '118-days-since-still-no-justice-for-those-targeted-by-the-sulli-deals-incident'
 summary = "We wrote to the Delhi Police asking them to expeditiously investigate the 'Sulli Deals' incident to provide closure and support to those targeted. "
-tags = ["accesstointernet", "freespeech", "Online Image Based Sexual Abuse", "hate speech"]
-title = "118 days since… still no justice for those targeted by the “Sulli Deals” incident."
+tags = ['accesstointernet', 'freespeech', 'Online Image Based Sexual Abuse', 'hate speech', 'Gender']
+title = '118 days since… still no justice for those targeted by the “Sulli Deals” incident.'
 
 +++
 

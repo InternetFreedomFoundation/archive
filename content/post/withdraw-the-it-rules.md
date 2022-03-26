@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["ITRules"]
+author = 'Rohin Garg'
+categories = ['ITRules']
 date = 2021-03-23T06:56:39Z
-description = ""
+description = ''
 draft = false
-slug = "withdraw-the-it-rules"
-summary = "We write to MEITY urging them to withdraw the Guidelines For Intermediaries And Digital Media Ethics Code Rules, 2021 while objectively noting the marginal positives within them are eclipsed by the larger illegalities that threaten digital rights. "
-tags = ["ITRules"]
-title = "Dear MEITY, withdraw the new IT Rules!"
+slug = 'withdraw-the-it-rules'
+summary = 'We write to MEITY urging them to withdraw the Guidelines For Intermediaries And Digital Media Ethics Code Rules, 2021 while objectively noting the marginal positives within them are eclipsed by the larger illegalities that threaten digital rights. '
+tags = ['ITRules']
+title = 'Dear MEITY, withdraw the new IT Rules!'
 
 +++
 

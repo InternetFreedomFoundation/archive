@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["facial recognition", "Project Panoptic", "SaveOurPrivacy", "Surveillance"]
+author = 'Anushka Jain'
+categories = ['facial recognition', 'Project Panoptic', 'SaveOurPrivacy', 'Surveillance']
 date = 2020-07-15T04:14:00Z
-description = ""
+description = ''
 draft = false
-slug = "iffs-legal-notice-to-the-ncrb-on-the-revised-rfp-for-the-national-automated-facial-recognition-system"
-summary = "IFF has sent the NCRB a legal notice asking them to recall the revised RFP for AFRS citing concerns of violations of fundamental rights of privacy and freedom of speech and expression."
-tags = ["facial recognition", "Project Panoptic", "SaveOurPrivacy", "Surveillance"]
+slug = 'iffs-legal-notice-to-the-ncrb-on-the-revised-rfp-for-the-national-automated-facial-recognition-system'
+summary = 'IFF has sent the NCRB a legal notice asking them to recall the revised RFP for AFRS citing concerns of violations of fundamental rights of privacy and freedom of speech and expression.'
+tags = ['facial recognition', 'Project Panoptic', 'SaveOurPrivacy', 'Surveillance']
 title = "IFF's Legal Notice to the NCRB on the Revised RFP for the National Automated Facial Recognition System #ProjectPanoptic"
 
 +++

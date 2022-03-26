@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Statement"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Statement']
 date = 2019-12-12T06:53:06Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/keepusonline_banner-1.png"
-slug = "statement-on-internet-shutdowns-in-the-north-east"
-summary = "Internet shutdowns are a pan-India problem and there is no conclusive evidence that they prevent violence. We urge the Central Government to consider issuing an advisory on the frequent use of internet disruptions. "
-tags = ["internet shutdowns", "Statement"]
-title = "Statement against Internet Shutdowns in the North East"
+image = 'https://internetfreedom.in/content/images/2019/12/keepusonline_banner-1.png'
+slug = 'statement-on-internet-shutdowns-in-the-north-east'
+summary = 'Internet shutdowns are a pan-India problem and there is no conclusive evidence that they prevent violence. We urge the Central Government to consider issuing an advisory on the frequent use of internet disruptions. '
+tags = ['internet shutdowns', 'Statement']
+title = 'Statement against Internet Shutdowns in the North East'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Shivani Singh"
-categories = ["Privacy", "cybersec charcha", "ransomware", "cyber security", "Breaches", "Data Protection", "Encryption", "SaveOurPrivacy"]
+author = 'Shivani Singh'
+categories = ['Privacy', 'cybersec charcha', 'ransomware', 'cyber security', 'Breaches', 'Data Protection', 'Encryption', 'SaveOurPrivacy']
 date = 2021-05-27T07:03:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/Copy-of-Cybersec--2-Header-3.png"
-slug = "cybersec-charcha"
-summary = "In the second edition of Cybersec Charcha, we are taking a deep dive into understanding the unregulated ransomware industry, what a ransomware attack means and the consequences it can have."
-tags = ["Privacy", "cybersec charcha", "ransomware", "cyber security", "Breaches", "Data Protection", "Encryption", "SaveOurPrivacy"]
-title = "Cybersec Charcha: Understanding the booming ransomware industry"
+image = 'https://internetfreedom.in/content/images/2021/05/Copy-of-Cybersec--2-Header-3.png'
+slug = 'cybersec-charcha'
+summary = 'In the second edition of Cybersec Charcha, we are taking a deep dive into understanding the unregulated ransomware industry, what a ransomware attack means and the consequences it can have.'
+tags = ['Privacy', 'cybersec charcha', 'ransomware', 'cyber security', 'Breaches', 'Data Protection', 'Encryption', 'SaveOurPrivacy']
+title = 'Cybersec Charcha: Understanding the booming ransomware industry'
 
 +++
 

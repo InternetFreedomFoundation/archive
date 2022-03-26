@@ -1,13 +1,13 @@
 +++
-author = "Rohin Garg"
-categories = ["DataProtectionTop10", "Data Protection", "PDPB"]
+author = 'Rohin Garg'
+categories = ['DataProtectionTop10', 'Data Protection', 'PDPB']
 date = 2021-05-11T08:20:33Z
-description = ""
+description = ''
 draft = false
-slug = "dataprotectiontop10-exceptions-to-consent-a-torn-safety-net"
-summary = "In part 3 of the #DataProtectionTop10 series, we look into various issues regarding the consent provisions for the processing of the personal data under the Personal Data Protection Bill, 2019."
-tags = ["DataProtectionTop10", "Data Protection", "PDPB"]
-title = "#DataProtectionTop10: Exceptions to Consent - A Torn Safety Net"
+slug = 'dataprotectiontop10-exceptions-to-consent-a-torn-safety-net'
+summary = 'In part 3 of the #DataProtectionTop10 series, we look into various issues regarding the consent provisions for the processing of the personal data under the Personal Data Protection Bill, 2019.'
+tags = ['DataProtectionTop10', 'Data Protection', 'PDPB']
+title = '#DataProtectionTop10: Exceptions to Consent - A Torn Safety Net'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["digital Rights", "IFF Explainer", "Surveillance"]
+author = 'Rohin Garg'
+categories = ['digital Rights', 'IFF Explainer', 'Surveillance', 'Banking and Finance', 'Economy']
 date = 2021-08-21T05:55:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/1-7.png"
-slug = "the-e-rupi-scheme-an-explainer"
-summary = "Recently, the PM launched the E-Rupi voucher programme. Given that these vouchers are supposed to transform the digital payments system and assist in vaccine delivery, we thought we’d create an explainer on the scheme. This is our attempt at helping people understanding the programme. "
-tags = ["digital Rights", "IFF Explainer", "Surveillance"]
-title = "The E-Rupi Scheme: An Explainer"
+image = 'https://internetfreedom.in/content/images/2021/08/1-7.png'
+slug = 'the-e-rupi-scheme-an-explainer'
+summary = 'Recently, the PM launched the E-Rupi voucher programme. Given that these vouchers are supposed to transform the digital payments system and assist in vaccine delivery, we thought we’d create an explainer on the scheme. This is our attempt at helping people understanding the programme. '
+tags = ['digital Rights', 'IFF Explainer', 'Surveillance', 'Banking and Finance', 'Economy']
+title = 'The E-Rupi Scheme: An Explainer'
 
 +++
 
@@ -75,11 +75,15 @@ In light of the above issues, we have the following recommendations:
 1. **Need for consultation and discussion:** The E-Rupi programme will introduce massive changes into not only India’s digital payments system but also our welfare delivery framework. Such changes will impact the lives of millions of India, especially those dependent on welfare benefits, and so they require significant consultation before they can be implemented. Thus, we recommend that the DFS puts out a white paper on the E-Rupi scheme, after which it begins a publicly notified consultation process, drawing on perspectives not just from the financial sector but also civil society, technical experts, and academics.
 2. **Security standards for data generated from E-Rupi usage:** In the absence of robust data protection legislation, the massive amounts of data that will be generated from the usage of E-Rupi vouchers will be vulnerable to exploitation. Thus, in case the E-Rupi programme is to be implemented in the absence of such a law, it is important security standards for the storage and processing of E-Rupi data be specified, including guidelines for strict access controls.
 
+<iframe src="https://drive.google.com/file/d/1jcv_a3lgWoXZ_IIhxpbFP8gz7vinXGSn/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. IFF’s blogpost titled ‘#DataProtectionTop10: State Security and Surveillance’ dated 25th May, 2021 (**[link](https://internetfreedom.in/dataprotectiontop10-state-security-and-surveillance/)**)
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

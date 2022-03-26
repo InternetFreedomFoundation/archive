@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Coronavirus", "fakenews", "misinformation"]
+author = 'Anushka Jain'
+categories = ['Coronavirus', 'fakenews', 'misinformation']
 date = 2020-04-30T07:03:16Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-the-hmo-to-urge-them-to-issue-an-advisory-on-arrests-for-social-media-use-under-the-epidemic-diseases-act"
-summary = "We have written to the Union Home Ministry to urgently issue an advisory to State Governments with a draft SOP, to tackle the menace of COVID-19 related disinformation without resorting to overzealous criminal prosecutions. "
-tags = ["Coronavirus", "fakenews", "misinformation"]
-title = "We wrote to the HMO urging them to issue an advisory against arrests for social media use under the Epidemic Diseases Act #FreeToMeme"
+slug = 'we-wrote-the-hmo-to-urge-them-to-issue-an-advisory-on-arrests-for-social-media-use-under-the-epidemic-diseases-act'
+summary = 'We have written to the Union Home Ministry to urgently issue an advisory to State Governments with a draft SOP, to tackle the menace of COVID-19 related disinformation without resorting to overzealous criminal prosecutions. '
+tags = ['Coronavirus', 'fakenews', 'misinformation']
+title = 'We wrote to the HMO urging them to issue an advisory against arrests for social media use under the Epidemic Diseases Act #FreeToMeme'
 
 +++
 

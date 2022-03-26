@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Censorship", "Legal"]
+author = 'Joanne DCunha'
+categories = ['Censorship', 'Legal']
 date = 2019-03-07T07:40:41Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-07-at-1.08.33-PM.png"
-slug = "here-we-go-again"
-summary = "In yet another PIL filed in the Karnataka High Court, a plea has been placed for the regulation of online viewing content. We write to MEITY and MIB to maintain their positive stance. "
-tags = ["Censorship", "Legal"]
-title = "Need for urgent steps on a fresh petition for censorship of Online Video Streaming websites."
+image = 'https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-07-at-1.08.33-PM.png'
+slug = 'here-we-go-again'
+summary = 'In yet another PIL filed in the Karnataka High Court, a plea has been placed for the regulation of online viewing content. We write to MEITY and MIB to maintain their positive stance. '
+tags = ['Censorship', 'Legal']
+title = 'Need for urgent steps on a fresh petition for censorship of Online Video Streaming websites.'
 
 +++
 

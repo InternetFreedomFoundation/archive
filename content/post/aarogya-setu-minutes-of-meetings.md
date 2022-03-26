@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "RTI", "Privacy", "Data Protection"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'RTI', 'Privacy', 'Data Protection']
 date = 2020-12-03T06:24:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/Aarogya-Setu-MoM-1.png"
-slug = "aarogya-setu-minutes-of-meetings"
-summary = "Minutes of meetings of the 9th Empowered Group on Technology and Data Management provide an insider view into the creation and expansion of Aarogya Setu and other government data collection projects during the COVID-19 pandemic."
-tags = ["aarogyasetu", "RTI", "Privacy", "Data Protection"]
-title = "Internal govt documents provide insight into the creation and expansion of Aarogya Setu #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/12/Aarogya-Setu-MoM-1.png'
+slug = 'aarogya-setu-minutes-of-meetings'
+summary = 'Minutes of meetings of the 9th Empowered Group on Technology and Data Management provide an insider view into the creation and expansion of Aarogya Setu and other government data collection projects during the COVID-19 pandemic.'
+tags = ['aarogyasetu', 'RTI', 'Privacy', 'Data Protection']
+title = 'Internal govt documents provide insight into the creation and expansion of Aarogya Setu #SaveOurPrivacy'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["ITRules", "intermediary", "RightToMeme", "SaveOurPrivacy"]
+author = 'Apar Gupta'
+categories = ['ITRules', 'intermediary', 'RightToMeme', 'SaveOurPrivacy']
 date = 2019-02-11T07:32:27Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-11-at-1.17.04-PM.png"
-slug = "civil-society-and-research-organisations-are-unanimous-proposed-changes-to-intermediary-rules-must-be-recalled"
-summary = "Do not let the Government weaken your privacy and censor you online. Take action today. Send them an email. "
-tags = ["ITRules", "intermediary", "RightToMeme", "SaveOurPrivacy"]
-title = "Digital rights and research organisations are unanimous. Proposed changes to Intermediary Rules must be recalled. #ITRules #SaveOurPrivacy #RightToMeme"
+image = 'https://internetfreedom.in/content/images/2019/02/Screenshot-2019-02-11-at-1.17.04-PM.png'
+slug = 'civil-society-and-research-organisations-are-unanimous-proposed-changes-to-intermediary-rules-must-be-recalled'
+summary = 'Do not let the Government weaken your privacy and censor you online. Take action today. Send them an email. '
+tags = ['ITRules', 'intermediary', 'RightToMeme', 'SaveOurPrivacy']
+title = 'Digital rights and research organisations are unanimous. Proposed changes to Intermediary Rules must be recalled. #ITRules #SaveOurPrivacy #RightToMeme'
 
 +++
 

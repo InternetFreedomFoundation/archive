@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Surveillance", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Surveillance', 'Privacy']
 date = 2020-06-16T05:38:46Z
-description = ""
+description = ''
 draft = false
-slug = "bulk-cdr-mass-surveillance"
+slug = 'bulk-cdr-mass-surveillance'
 summary = "RTI responses received by IFF raise concerns about illegal mass surveillance and do not support DoT's claim that bulk Call Data Records were sought for call drop analysis."
-tags = ["Surveillance", "Privacy"]
-title = "Mass Surveillance? You decide as per DoT’s RTI responses #SaveOurPrivacy"
+tags = ['Surveillance', 'Privacy']
+title = 'Mass Surveillance? You decide as per DoT’s RTI responses #SaveOurPrivacy'
 
 +++
 

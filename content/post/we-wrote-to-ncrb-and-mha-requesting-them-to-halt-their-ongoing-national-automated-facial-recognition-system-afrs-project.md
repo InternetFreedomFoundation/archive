@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Surveillance", "SaveOurPrivacy", "Data Protection", "facial recognition", "Project Panoptic"]
+author = 'Anushka Jain'
+categories = ['Surveillance', 'SaveOurPrivacy', 'Data Protection', 'facial recognition', 'Project Panoptic']
 date = 2020-04-22T05:32:56Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-ncrb-and-mha-requesting-them-to-halt-their-ongoing-national-automated-facial-recognition-system-afrs-project"
+slug = 'we-wrote-to-ncrb-and-mha-requesting-them-to-halt-their-ongoing-national-automated-facial-recognition-system-afrs-project'
 summary = "We have shared a representation with the NCRB and the Hon’ble Minister of Home Affairs Mr Amit Shah highlighting the legal and constitutional issues with their National Automated Facial Recognition System (AFRS) project. \n"
-tags = ["Surveillance", "SaveOurPrivacy", "Data Protection", "facial recognition", "Project Panoptic"]
-title = "We wrote to NCRB and MHA requesting them to halt their ongoing National Automated Facial Recognition System (AFRS) project #SaveOurPrivacy"
+tags = ['Surveillance', 'SaveOurPrivacy', 'Data Protection', 'facial recognition', 'Project Panoptic']
+title = 'We wrote to NCRB and MHA requesting them to halt their ongoing National Automated Facial Recognition System (AFRS) project #SaveOurPrivacy'
 
 +++
 

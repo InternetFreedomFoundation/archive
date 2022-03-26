@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Data Protection", "facial recognition", "internet shutdowns", "Project Panoptic", "RTI", "transparency"]
+author = 'Anushka Jain'
+categories = ['Data Protection', 'facial recognition', 'internet shutdowns', 'Project Panoptic', 'RTI', 'transparency', 'RTIReport']
 date = 2021-01-28T07:50:37Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/Digital-Transparency_-A-Right-to-Information-Report-for-January--2021--2--1.png"
-slug = "digital-transparency-a-right-to-information-report-for-january-2021"
-summary = "Read more about RTI work for the month of January, 2021. "
-tags = ["Data Protection", "facial recognition", "internet shutdowns", "Project Panoptic", "RTI", "transparency"]
-title = "Digital Transparency: A Right to Information Report for January, 2021"
+image = 'https://internetfreedom.in/content/images/2021/01/Digital-Transparency_-A-Right-to-Information-Report-for-January--2021--2--1.png'
+slug = 'digital-transparency-a-right-to-information-report-for-january-2021'
+summary = 'Read more about RTI work for the month of January, 2021. '
+tags = ['Data Protection', 'facial recognition', 'internet shutdowns', 'Project Panoptic', 'RTI', 'transparency', 'RTIReport']
+title = 'Digital Transparency: A Right to Information Report for January, 2021'
 
 +++
 

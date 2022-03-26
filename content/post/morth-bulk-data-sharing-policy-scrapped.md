@@ -1,13 +1,13 @@
 +++
-author = "Raghav Kaushal"
-categories = ["SaveOurPrivacy", "Privacy", "Data Protection"]
+author = 'Raghav Kaushal'
+categories = ['SaveOurPrivacy', 'Privacy', 'Data Protection']
 date = 2020-06-30T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "morth-bulk-data-sharing-policy-scrapped"
-summary = "The MoRTH has scrapped its Bulk Data Sharing Policy. While this is a great step, there are a few critical privacy loopholes that still remain to be addressed. We wrote to the ministry identifying as well providing recommendations to tackle these loopholes."
-tags = ["SaveOurPrivacy", "Privacy", "Data Protection"]
-title = "Bulk data sharing policy scrapped is an incremental victory that requires follow up action #SaveOurPrivacy"
+slug = 'morth-bulk-data-sharing-policy-scrapped'
+summary = 'The MoRTH has scrapped its Bulk Data Sharing Policy. While this is a great step, there are a few critical privacy loopholes that still remain to be addressed. We wrote to the ministry identifying as well providing recommendations to tackle these loopholes.'
+tags = ['SaveOurPrivacy', 'Privacy', 'Data Protection']
+title = 'Bulk data sharing policy scrapped is an incremental victory that requires follow up action #SaveOurPrivacy'
 
 +++
 

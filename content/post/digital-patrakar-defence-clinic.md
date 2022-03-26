@@ -1,12 +1,12 @@
 +++
-author = "Tanmay Singh"
+author = 'Tanmay Singh'
 date = 2021-09-02T09:47:48Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/1-1.png"
-slug = "digital-patrakar-defence-clinic"
-summary = "When journalists are under threat, truth is under threat. IFF, in collaboration with the Foundation for Media Professionals (FMP), has launched the Digital Patrakar Defence Clinic (DPDC). In this post we describe the need for DPDC, who can apply for help; and the pro-bono help we offer. "
-title = "We will provide pro-bono legal support for those who speak truth to power. Launching the Digital Patrakar Defence Clinic."
+image = 'https://internetfreedom.in/content/images/2021/09/1-1.png'
+slug = 'digital-patrakar-defence-clinic'
+summary = 'When journalists are under threat, truth is under threat. IFF, in collaboration with the Foundation for Media Professionals (FMP), has launched the Digital Patrakar Defence Clinic (DPDC). In this post we describe the need for DPDC, who can apply for help; and the pro-bono help we offer. '
+title = 'We will provide pro-bono legal support for those who speak truth to power. Launching the Digital Patrakar Defence Clinic.'
 
 +++
 

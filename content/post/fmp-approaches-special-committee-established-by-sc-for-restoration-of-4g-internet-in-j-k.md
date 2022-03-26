@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns']
 date = 2020-05-19T05:45:42Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/JK-blogpost-7.png"
-slug = "fmp-approaches-special-committee-established-by-sc-for-restoration-of-4g-internet-in-j-k"
-summary = "Foundation for Media Professionals wrote to the Special Committee emphasising that blanket orders cannot be issued to indiscriminately slow down internet services in all districts of Jammu & Kashmir especially since there are less restrictive alternatives available."
-tags = ["internet shutdowns"]
-title = "FMP approaches Special Committee established by SC for restoration of 4G internet in J&K #KeepUsOnline #4GforAll"
+image = 'https://internetfreedom.in/content/images/2020/05/JK-blogpost-7.png'
+slug = 'fmp-approaches-special-committee-established-by-sc-for-restoration-of-4g-internet-in-j-k'
+summary = 'Foundation for Media Professionals wrote to the Special Committee emphasising that blanket orders cannot be issued to indiscriminately slow down internet services in all districts of Jammu & Kashmir especially since there are less restrictive alternatives available.'
+tags = ['internet shutdowns']
+title = 'FMP approaches Special Committee established by SC for restoration of 4G internet in J&K #KeepUsOnline #4GforAll'
 
 +++
 

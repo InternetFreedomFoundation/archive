@@ -1,11 +1,11 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2016-09-13T06:32:28Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2016/09/freespeechbill3-2-1.png"
-slug = "iff-supports-speechbill-in"
-title = "IFF Supports SpeechBill.in"
+image = 'https://internetfreedom.in/content/images/2016/09/freespeechbill3-2-1.png'
+slug = 'iff-supports-speechbill-in'
+title = 'IFF Supports SpeechBill.in'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Shivani Singh"
-categories = ["Blog", "DigitalJustice"]
+author = 'Shivani Singh'
+categories = ['Blog', 'DigitalJustice']
 date = 2020-02-26T05:41:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Copy-of-Copy-of-Copy-of-Copy-of-Untitled.png"
-slug = "what-does-democracy-mean-in-the-digital-age-cyber-democracy-seeks-to"
-summary = "What does democracy mean in the digital age? Cyber Democracy seeks to find out some answers."
-tags = ["Blog", "DigitalJustice"]
-title = "Cyber Democracy in association with IFF seeks to find answers to our some of our most pressing digital rights questions"
+image = 'https://internetfreedom.in/content/images/2020/02/Copy-of-Copy-of-Copy-of-Copy-of-Untitled.png'
+slug = 'what-does-democracy-mean-in-the-digital-age-cyber-democracy-seeks-to'
+summary = 'What does democracy mean in the digital age? Cyber Democracy seeks to find out some answers.'
+tags = ['Blog', 'DigitalJustice']
+title = 'Cyber Democracy in association with IFF seeks to find answers to our some of our most pressing digital rights questions'
 
 +++
 

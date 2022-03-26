@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Censorship", "Data Protection", "Filings", "freespeech", "Legal", "Kerala High Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Censorship', 'Data Protection', 'Filings', 'freespeech', 'Legal', 'Kerala High Court']
 date = 2021-01-05T03:38:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/Indian-Kanoon-Kerala-HC-1.png"
-slug = "indian-kanoon-kerala-hc-right-to-be-forgotten"
-summary = "In response to a petition filed before the Kerala HC, Indian Kanoon has clarified that a right to be forgotten cannot be judicially created without a statutory basis and explained that court records are public documents whose reproduction cannot be prohibited by citing the right to privacy. "
-tags = ["Censorship", "Data Protection", "Filings", "freespeech", "Legal", "Kerala High Court"]
-title = "Indian Kanoon defends the right to provide access to court records"
+image = 'https://internetfreedom.in/content/images/2021/01/Indian-Kanoon-Kerala-HC-1.png'
+slug = 'indian-kanoon-kerala-hc-right-to-be-forgotten'
+summary = 'In response to a petition filed before the Kerala HC, Indian Kanoon has clarified that a right to be forgotten cannot be judicially created without a statutory basis and explained that court records are public documents whose reproduction cannot be prohibited by citing the right to privacy. '
+tags = ['Censorship', 'Data Protection', 'Filings', 'freespeech', 'Legal', 'Kerala High Court']
+title = 'Indian Kanoon defends the right to provide access to court records'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Anushka Jain"
-categories = ["Surveillance", "Privacy", "CCTV"]
+author = 'Anushka Jain'
+categories = ['Surveillance', 'Privacy', 'CCTV']
 date = 2021-09-09T05:30:30Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/1-7.jpg"
-slug = "cctvs-in-delhi-cause-for-concern-or-celebration-saveourprivacy"
-summary = "We wrote to the Government of Delhi to highlight our concerns and highlight the need for a legal review & audit of their CCTV project. "
-tags = ["Surveillance", "Privacy", "CCTV"]
-title = "CCTVs in Delhi: Cause for concern or celebration? #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/09/1-7.jpg'
+slug = 'cctvs-in-delhi-cause-for-concern-or-celebration-saveourprivacy'
+summary = 'We wrote to the Government of Delhi to highlight our concerns and highlight the need for a legal review & audit of their CCTV project. '
+tags = ['Surveillance', 'Privacy', 'CCTV']
+title = 'CCTVs in Delhi: Cause for concern or celebration? #SaveOurPrivacy'
 
 +++
 

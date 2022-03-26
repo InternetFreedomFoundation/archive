@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-08-28T15:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "the-union-government-taking-clear-action-to-prevent-internet-shutdowns-no-not-really"
-title = "The Government of India taking clear action to prevent internet shutdowns? No, not really"
+slug = 'the-union-government-taking-clear-action-to-prevent-internet-shutdowns-no-not-really'
+title = 'The Government of India taking clear action to prevent internet shutdowns? No, not really'
 
 +++
 

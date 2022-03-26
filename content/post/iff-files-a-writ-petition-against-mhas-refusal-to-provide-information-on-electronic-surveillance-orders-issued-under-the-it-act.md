@@ -71,7 +71,7 @@ The team of lawyers who drafted the writ petition include Vrinda Bhandari, Abhin
 
 The matter came up for hearing on 12.11.2021. The Ld. Single Judge of the Delhi High Court has directed the advocate for the CIC to seek instructions on the timeframe within which the CIC will determine the second second appeal we have filed against the FAA's order dated 24.06.2021.
 
-
+<iframe src="https://drive.google.com/file/d/1Z2B0WBoqT74l7Xt-LMcRlaLuGkQKUyW7/preview" width="540" height="675"></iframe>
 
 ## Important Links
 

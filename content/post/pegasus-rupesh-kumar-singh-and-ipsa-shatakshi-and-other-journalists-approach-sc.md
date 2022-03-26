@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["freespeech", "mha", "MeitY", "pegasus", "Privacy", "Supreme Court", "Surveillance", "transparency"]
+author = 'Krishnesh'
+categories = ['freespeech', 'mha', 'MeitY', 'pegasus', 'Privacy', 'Supreme Court', 'Surveillance', 'transparency', 'DBA']
 date = 2021-08-05T06:55:16Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Pegasus-5-Aug-header-1.png"
-slug = "pegasus-rupesh-kumar-singh-and-ipsa-shatakshi-and-other-journalists-approach-sc"
-summary = "Rupesh Kumar Singh and Ipsa Shatakshi, activists reporting on issues related to Adivasi people in Jharkhand, approached the SC asking to declare that the use of a spyware such as Pegasus is unconstitutional. IFF has provided legal assistance."
-tags = ["freespeech", "mha", "MeitY", "pegasus", "Privacy", "Supreme Court", "Surveillance", "transparency"]
-title = "Pegasus: Rupesh Kumar Singh and Ipsa Shatakshi and other journalists approach SC"
+image = 'https://internetfreedom.in/content/images/2021/08/Pegasus-5-Aug-header-1.png'
+slug = 'pegasus-rupesh-kumar-singh-and-ipsa-shatakshi-and-other-journalists-approach-sc'
+summary = 'Rupesh Kumar Singh and Ipsa Shatakshi, activists reporting on issues related to Adivasi people in Jharkhand, approached the SC asking to declare that the use of a spyware such as Pegasus is unconstitutional. IFF has provided legal assistance.'
+tags = ['freespeech', 'mha', 'MeitY', 'pegasus', 'Privacy', 'Supreme Court', 'Surveillance', 'transparency', 'DBA']
+title = 'Pegasus: Rupesh Kumar Singh and Ipsa Shatakshi and other journalists approach SC'
 
 +++
 
@@ -62,6 +62,8 @@ We also thank Senior Advocate, Mr. Rakesh Dwivedi for leading on Mr. SNM Abdi’
 
 We will keep you updated on the next date of hearing.
 
+<iframe src="https://drive.google.com/file/d/1E4ewttwXs3y3OmnKllSzBjOqzrKT1TUK/preview" width="580" height="480"></iframe>
+
 **Important Documents**
 
 1. Writ Petition filed by Mr Singh and Ms Shatakshi ([link](https://drive.google.com/file/d/1dgXAOtvBrXc6YFUDfB4THu4AKix1RvYE/view?usp=sharing))
@@ -71,6 +73,8 @@ We will keep you updated on the next date of hearing.
 5. “Read: NSO Group's Response to the Pegasus Project and Our Take” published in The Wire dated July 18, 2021 ([link](https://thewire.in/tech/pegasus-project-nso-response))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

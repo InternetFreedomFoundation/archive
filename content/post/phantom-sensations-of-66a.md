@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["66A"]
+author = 'Joanne DCunha'
+categories = ['66A']
 date = 2019-05-21T07:31:55Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/05/Capture-19.PNG"
-slug = "phantom-sensations-of-66a"
+image = 'https://internetfreedom.in/content/images/2019/05/Capture-19.PNG'
+slug = 'phantom-sensations-of-66a'
 summary = "We've been experiencing phantom sensations of 66A over the last week or so. Two very important aspects were involved, a meme and the Supreme Court. "
-tags = ["66A"]
-title = "Phantom sensations of 66A."
+tags = ['66A']
+title = 'Phantom sensations of 66A.'
 
 +++
 

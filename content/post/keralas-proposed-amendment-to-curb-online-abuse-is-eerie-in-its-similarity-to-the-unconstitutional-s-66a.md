@@ -1,12 +1,12 @@
 +++
-author = "Anushka Jain"
-categories = ["66A", "freespeech"]
+author = 'Anushka Jain'
+categories = ['66A', 'freespeech']
 date = 2020-10-26T04:30:00Z
-description = ""
+description = ''
 draft = false
-slug = "keralas-proposed-amendment-to-curb-online-abuse-is-eerie-in-its-similarity-to-the-unconstitutional-s-66a"
+slug = 'keralas-proposed-amendment-to-curb-online-abuse-is-eerie-in-its-similarity-to-the-unconstitutional-s-66a'
 summary = "Read IFF's representation to the Government of Kerala highlighting the similarities between their proposed amendment to the Kerala Police Act and the unconstitutional S.66A of the IT Act, 2000. "
-tags = ["66A", "freespeech"]
+tags = ['66A', 'freespeech']
 title = "Kerala's Proposed Amendment to curb online abuse is eerie in its similarity to the unconstitutional S.66A"
 
 +++

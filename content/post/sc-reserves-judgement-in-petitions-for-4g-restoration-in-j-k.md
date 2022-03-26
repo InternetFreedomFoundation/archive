@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Supreme Court", "Legal", "internet shutdowns"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Supreme Court', 'Legal', 'internet shutdowns']
 date = 2020-05-04T11:26:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/SC-hearing-in-J-K-4G-petition-1.png"
-slug = "sc-reserves-judgement-in-petitions-for-4g-restoration-in-j-k"
-summary = "Today, the Supreme Court heard substantive arguments regarding the constitutionality and legality of the internet slowdown in Jammu & Kashmir during the COVID-19 pandemic and reserved its order in the matter."
-tags = ["Supreme Court", "Legal", "internet shutdowns"]
-title = "Supreme Court reserves order in petitions seeking restoration of 4G internet in Jammu & Kashmir"
+image = 'https://internetfreedom.in/content/images/2020/05/SC-hearing-in-J-K-4G-petition-1.png'
+slug = 'sc-reserves-judgement-in-petitions-for-4g-restoration-in-j-k'
+summary = 'Today, the Supreme Court heard substantive arguments regarding the constitutionality and legality of the internet slowdown in Jammu & Kashmir during the COVID-19 pandemic and reserved its order in the matter.'
+tags = ['Supreme Court', 'Legal', 'internet shutdowns']
+title = 'Supreme Court reserves order in petitions seeking restoration of 4G internet in Jammu & Kashmir'
 
 +++
 

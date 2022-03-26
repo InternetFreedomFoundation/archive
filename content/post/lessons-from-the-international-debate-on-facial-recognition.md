@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Surveillance", "Privacy", "Project Panoptic"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Surveillance', 'Privacy', 'Project Panoptic']
 date = 2020-02-25T05:57:41Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Copy-of-Copy-of-Facial-Recognition-Twitter-3.png"
-slug = "lessons-from-the-international-debate-on-facial-recognition"
-summary = "We trace the international debate on use of facial recognition technology and recommend imposing a 3 year moratorium in India. "
-tags = ["Surveillance", "Privacy", "Project Panoptic"]
-title = "Lessons from the International Debate on Facial Recognition"
+image = 'https://internetfreedom.in/content/images/2020/02/Copy-of-Copy-of-Facial-Recognition-Twitter-3.png'
+slug = 'lessons-from-the-international-debate-on-facial-recognition'
+summary = 'We trace the international debate on use of facial recognition technology and recommend imposing a 3 year moratorium in India. '
+tags = ['Surveillance', 'Privacy', 'Project Panoptic']
+title = 'Lessons from the International Debate on Facial Recognition'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Submission", "savetheinternet", "RTI", "Net Neutrality"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Submission', 'savetheinternet', 'RTI', 'Net Neutrality']
 date = 2019-05-15T09:10:32Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/05/Capture-7.PNG"
-slug = "blocking-of-satirical-dowry-calculator-website-prompts-us-to-take-action-whattheblock-savetheinternet"
+image = 'https://internetfreedom.in/content/images/2019/05/Capture-7.PNG'
+slug = 'blocking-of-satirical-dowry-calculator-website-prompts-us-to-take-action-whattheblock-savetheinternet'
 summary = "The blocking of Dowry Calculator is characteristic of India's outrage driven and opaque website blocking process. We write to MEITY for public disclosure of all website blocking orders and deletion of the confidentiality requirement in the IT Blocking Rules 2009."
-tags = ["Submission", "savetheinternet", "RTI", "Net Neutrality"]
-title = "Blocking of satirical dowry calculator website prompts us to take action! #WhatTheBlock #SaveTheInternet"
+tags = ['Submission', 'savetheinternet', 'RTI', 'Net Neutrality']
+title = 'Blocking of satirical dowry calculator website prompts us to take action! #WhatTheBlock #SaveTheInternet'
 
 +++
 

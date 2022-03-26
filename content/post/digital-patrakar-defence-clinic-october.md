@@ -1,14 +1,14 @@
 +++
-author = "Anandita Mishra"
-categories = ["clinic", "pro bono", "legal assisstance", "legal service", "defamation", "legal threat", "media", "freespeech", "DPDC", "Patrakar clinic", "journalist"]
-date = 2021-09-29T01:39:30Z
-description = ""
+author = 'Anandita Mishra'
+categories = ['clinic', 'DPDC', 'Patrakar clinic', 'journalist', 'pro bono', 'legal assisstance', 'legal service', 'defamation', 'legal threat', 'media', 'freespeech']
+date = 2021-09-29T07:09:30Z
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/DPDC-Twitter.png"
-slug = "digital-patrakar-defence-clinic-october"
-summary = "IFF in collaboration with FMP launched DPDC in September to provide pro bono legal assistance to journalists. DPDC will continue to provide pro bono legal assistance throughout the year. In this post we highlight who can apply for the Clinic, and the pro bono legal services offered."
-tags = ["clinic", "pro bono", "legal assisstance", "legal service", "defamation", "legal threat", "media", "freespeech", "DPDC", "Patrakar clinic", "journalist"]
-title = "Digital Patrakar Defence Clinic is back again for October!"
+image = 'https://internetfreedom.in/content/images/2021/09/DPDC-Twitter.png'
+slug = 'digital-patrakar-defence-clinic-october'
+summary = 'IFF in collaboration with FMP launched DPDC in September to provide pro bono legal assistance to journalists. DPDC will continue to provide pro bono legal assistance throughout the year. In this post we highlight who can apply for the Clinic, and the pro bono legal services offered.'
+tags = ['clinic', 'DPDC', 'Patrakar clinic', 'journalist', 'pro bono', 'legal assisstance', 'legal service', 'defamation', 'legal threat', 'media', 'freespeech']
+title = 'Digital Patrakar Defence Clinic is back again for October!'
 
 +++
 

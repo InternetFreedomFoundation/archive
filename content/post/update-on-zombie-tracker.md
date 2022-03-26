@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["66A", "Censorship", "freespeech"]
+author = 'Farkhanda Zahoor'
+categories = ['66A', 'Censorship', 'freespeech']
 date = 2020-07-08T08:51:42Z
-description = ""
+description = ''
 draft = false
-slug = "update-on-zombie-tracker"
-summary = "IFF, in collaboration with CivicDataLab, is building a “Zombie Tracker” to track cases under S. 66A, Information Technology Act, at the district level. S.66A of the IT Act is termed as a legal zombie since, even though it was declared unconstitutional in 2015, its use is ongoing."
-tags = ["66A", "Censorship", "freespeech"]
-title = "Update on IFF’s Zombie Tracker"
+slug = 'update-on-zombie-tracker'
+summary = 'IFF, in collaboration with CivicDataLab, is building a “Zombie Tracker” to track cases under S. 66A, Information Technology Act, at the district level. S.66A of the IT Act is termed as a legal zombie since, even though it was declared unconstitutional in 2015, its use is ongoing.'
+tags = ['66A', 'Censorship', 'freespeech']
+title = 'Update on IFF’s Zombie Tracker'
 
 +++
 

@@ -1,12 +1,12 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["Legal", "Supreme Court"]
+author = 'IFF Public Policy Team'
+categories = ['Legal', 'Supreme Court']
 date = 2017-04-27T15:31:50Z
-description = ""
+description = ''
 draft = false
-slug = "iff-will-represent-your-digital-rights-in-the-whatsapp-privacy-case"
-tags = ["Legal", "Supreme Court"]
-title = "IFF will represent your digital rights in the WhatsApp Privacy Case"
+slug = 'iff-will-represent-your-digital-rights-in-the-whatsapp-privacy-case'
+tags = ['Legal', 'Supreme Court']
+title = 'IFF will represent your digital rights in the WhatsApp Privacy Case'
 
 +++
 

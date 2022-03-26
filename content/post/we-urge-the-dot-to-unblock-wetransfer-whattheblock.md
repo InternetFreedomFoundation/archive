@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["WebsiteBlocking", "WhatTheBlock", "transaprency", "Telecom"]
+author = 'Apar Gupta'
+categories = ['WebsiteBlocking', 'WhatTheBlock', 'transaprency', 'Telecom']
 date = 2020-06-09T04:47:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/06/WebsiteBlocking-2--1.png"
-slug = "we-urge-the-dot-to-unblock-wetransfer-whattheblock"
+image = 'https://internetfreedom.in/content/images/2020/06/WebsiteBlocking-2--1.png'
+slug = 'we-urge-the-dot-to-unblock-wetransfer-whattheblock'
 summary = "Popular file-sharing service service, \"WeTransfer'' has been blocked by a direction issued by the Department of Telecom (DoT). We have approached it to recall it's order. "
-tags = ["WebsiteBlocking", "WhatTheBlock", "transaprency", "Telecom"]
-title = "We urge the DOT to unblock WeTransfer. Open up our RTI resources to the public.  #WhatTheBlock"
+tags = ['WebsiteBlocking', 'WhatTheBlock', 'transaprency', 'Telecom']
+title = 'We urge the DOT to unblock WeTransfer. Open up our RTI resources to the public.  #WhatTheBlock'
 
 +++
 

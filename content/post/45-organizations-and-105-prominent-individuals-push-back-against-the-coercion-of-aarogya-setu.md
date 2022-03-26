@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Surveillance", "aarogyasetu", "Coronavirus"]
+author = 'Apar Gupta'
+categories = ['Surveillance', 'aarogyasetu', 'Coronavirus']
 date = 2020-05-02T06:03:00Z
-description = ""
+description = ''
 draft = false
-slug = "45-organizations-and-105-prominent-individuals-push-back-against-the-coercion-of-aarogya-setu"
+slug = '45-organizations-and-105-prominent-individuals-push-back-against-the-coercion-of-aarogya-setu'
 summary = "We have sent a joint representation to the Prime Minister's Office that is endorsed by 45 organisations and more than 100 individuals against the mandatory use of the Aarogya Setu App dated May 1, 2020."
-tags = ["Surveillance", "aarogyasetu", "Coronavirus"]
-title = "45 organizations and more than 100 prominent individuals push back against the coercion of Aarogya Setu"
+tags = ['Surveillance', 'aarogyasetu', 'Coronavirus']
+title = '45 organizations and more than 100 prominent individuals push back against the coercion of Aarogya Setu'
 
 +++
 

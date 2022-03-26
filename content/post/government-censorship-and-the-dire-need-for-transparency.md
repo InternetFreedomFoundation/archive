@@ -1,11 +1,11 @@
 +++
-author = "Rohin Garg"
+author = 'Rohin Garg'
 date = 2021-02-08T09:51:15Z
-description = ""
+description = ''
 draft = false
-slug = "government-censorship-and-the-dire-need-for-transparency"
-summary = "Recent events regarding the blocking of pro farmer protests Twitter accounts reek of government censorship. Furthermore, the process by which MEITY initiated the blocks is excessively opaque. We wrote to the Ministry asking them to make the orders publicly available so as to increase transparency."
-title = "Government censorship and the dire need for transparency"
+slug = 'government-censorship-and-the-dire-need-for-transparency'
+summary = 'Recent events regarding the blocking of pro farmer protests Twitter accounts reek of government censorship. Furthermore, the process by which MEITY initiated the blocks is excessively opaque. We wrote to the Ministry asking them to make the orders publicly available so as to increase transparency.'
+title = 'Government censorship and the dire need for transparency'
 
 +++
 

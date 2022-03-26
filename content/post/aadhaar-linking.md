@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["SaveOurPrivacy"]
+author = 'Joanne DCunha'
+categories = ['SaveOurPrivacy']
 date = 2019-06-27T09:43:32Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/06/image1-3.jpeg"
-slug = "aadhaar-linking"
+image = 'https://internetfreedom.in/content/images/2019/06/image1-3.jpeg'
+slug = 'aadhaar-linking'
 summary = "Two PILs were filed in the Madras High Court requesting the linking of Aadhaar to social media accounts. Concerned with its impact on fundamental rights, IFF's intervention applications have been accepted by the Court."
-tags = ["SaveOurPrivacy"]
-title = "The Madras HC allows our intervention in the Aadhaar and Social Medial linking petition."
+tags = ['SaveOurPrivacy']
+title = 'The Madras HC allows our intervention in the Aadhaar and Social Medial linking petition.'
 
 +++
 

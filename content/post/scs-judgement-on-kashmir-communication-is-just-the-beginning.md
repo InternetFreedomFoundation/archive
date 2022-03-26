@@ -1,13 +1,13 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["internet shutdowns", "Legal", "Statement", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['internet shutdowns', 'Legal', 'Statement', 'Supreme Court']
 date = 2020-01-10T14:17:06Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/The-Supreme-Court-judgement-in-Anuradh-Bhasin-v.-Union-of-India-is-a-call-to-action-for-all-of-us-2.png"
-slug = "scs-judgement-on-kashmir-communication-is-just-the-beginning"
+image = 'https://internetfreedom.in/content/images/2020/01/The-Supreme-Court-judgement-in-Anuradh-Bhasin-v.-Union-of-India-is-a-call-to-action-for-all-of-us-2.png'
+slug = 'scs-judgement-on-kashmir-communication-is-just-the-beginning'
 summary = "The Supreme Court's judgement in Anuradha Bhasin v. Union of India is a step in the right direction but fails to provide immediate relief to Kashmiris who have already suffered immense hardship due to the 158 day communication shutdown. "
-tags = ["internet shutdowns", "Legal", "Statement", "Supreme Court"]
+tags = ['internet shutdowns', 'Legal', 'Statement', 'Supreme Court']
 title = "SC's Kashmir communication shutdown judgement is just the beginning of a long uphill campaign"
 
 +++

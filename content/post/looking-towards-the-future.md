@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2018-09-27T23:12:04Z
-description = ""
+description = ''
 draft = false
-slug = "looking-towards-the-future"
-title = "Looking towards the future"
+slug = 'looking-towards-the-future'
+title = 'Looking towards the future'
 
 +++
 

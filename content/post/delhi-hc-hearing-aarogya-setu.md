@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["aarogyasetu", "Legal", "Filings", "Data Protection", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['aarogyasetu', 'Legal', 'Filings', 'Data Protection', 'Privacy']
 date = 2021-01-19T11:56:18Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/Delhi-HC-Aarogya-Setu-1.png"
-slug = "delhi-hc-hearing-aarogya-setu"
-summary = "Today, the Delhi HC issued notice to the CPIOs of DeitY, MeitY, NeGD and NIC in a petition filed by RTI activist, Saurav Das, challenging denial of information relating to the creation of the Aarogya Setu app. "
-tags = ["aarogyasetu", "Legal", "Filings", "Data Protection", "Privacy"]
-title = "Delhi HC issues notice to govt in petition challenging denial of RTI  regarding Aarogya Setu  #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/01/Delhi-HC-Aarogya-Setu-1.png'
+slug = 'delhi-hc-hearing-aarogya-setu'
+summary = 'Today, the Delhi HC issued notice to the CPIOs of DeitY, MeitY, NeGD and NIC in a petition filed by RTI activist, Saurav Das, challenging denial of information relating to the creation of the Aarogya Setu app. '
+tags = ['aarogyasetu', 'Legal', 'Filings', 'Data Protection', 'Privacy']
+title = 'Delhi HC issues notice to govt in petition challenging denial of RTI  regarding Aarogya Setu  #SaveOurPrivacy'
 
 +++
 

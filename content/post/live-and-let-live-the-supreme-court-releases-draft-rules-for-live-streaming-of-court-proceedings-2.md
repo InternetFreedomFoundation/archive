@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["ecourts", "freespeech", "IFF Explainer", "innovation", "Privacy", "Supreme Court", "transparency"]
+author = 'Tanmay Singh'
+categories = ['ecourts', 'freespeech', 'IFF Explainer', 'innovation', 'Privacy', 'Supreme Court', 'transparency']
 date = 2021-06-18T14:11:54Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Supreme-court-releases-draft-rules-for-livestreaming-and-recording-court-proceedings--in-a-significant-move-for-public-transparency-1.png"
-slug = "live-and-let-live-the-supreme-court-releases-draft-rules-for-live-streaming-of-court-proceedings-2"
-summary = "The e-Committee has released draft rules for live streaming of all proceedings in all courts. We strongly welcome this step, and offer small changes which can further improve the Rules."
-tags = ["ecourts", "freespeech", "IFF Explainer", "innovation", "Privacy", "Supreme Court", "transparency"]
-title = "Live and let Live: The Supreme Court releases draft rules for live streaming of court proceedings"
+image = 'https://internetfreedom.in/content/images/2021/06/Supreme-court-releases-draft-rules-for-livestreaming-and-recording-court-proceedings--in-a-significant-move-for-public-transparency-1.png'
+slug = 'live-and-let-live-the-supreme-court-releases-draft-rules-for-live-streaming-of-court-proceedings-2'
+summary = 'The e-Committee has released draft rules for live streaming of all proceedings in all courts. We strongly welcome this step, and offer small changes which can further improve the Rules.'
+tags = ['ecourts', 'freespeech', 'IFF Explainer', 'innovation', 'Privacy', 'Supreme Court', 'transparency']
+title = 'Live and let Live: The Supreme Court releases draft rules for live streaming of court proceedings'
 
 +++
 

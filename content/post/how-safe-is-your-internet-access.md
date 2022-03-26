@@ -1,13 +1,13 @@
 +++
-author = "Raghav Kaushal"
-categories = ["SaveOurPrivacy", "Privacy"]
+author = 'Raghav Kaushal'
+categories = ['SaveOurPrivacy', 'Privacy']
 date = 2020-06-24T07:50:51Z
-description = ""
+description = ''
 draft = false
-slug = "how-safe-is-your-internet-access"
+slug = 'how-safe-is-your-internet-access'
 summary = "We wrote to the Committee on IT, the Speaker of the Lok Sabha, and the Chairman of the Rajya Sabha. We highlighted the presence of massive cybersecurity threats in India and the need for reinstating parliamentary deliberation for protecting citizens' rights. "
-tags = ["SaveOurPrivacy", "Privacy"]
-title = "How (cyber)safe are the Indian citizens? Think again and think harder. #SaveOurPrivacy"
+tags = ['SaveOurPrivacy', 'Privacy']
+title = 'How (cyber)safe are the Indian citizens? Think again and think harder. #SaveOurPrivacy'
 
 +++
 

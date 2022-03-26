@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Health Data"]
+author = 'Rohin Garg'
+categories = ['Health Data']
 date = 2021-06-17T06:12:29Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/1-2.png"
-slug = "analysing-the-ndhms-health-data-management-policy-part-1"
-summary = "We have drafted a working paper on the National Digital Health Mission’s Health Data Management Policy with the Centre for Health Equity, Law, and Policy. This post is part 1 of our analysis."
-tags = ["Health Data"]
-title = "Analysing the NDHM’s Health Data Management Policy: Part 1"
+image = 'https://internetfreedom.in/content/images/2021/06/1-2.png'
+slug = 'analysing-the-ndhms-health-data-management-policy-part-1'
+summary = 'We have drafted a working paper on the National Digital Health Mission’s Health Data Management Policy with the Centre for Health Equity, Law, and Policy. This post is part 1 of our analysis.'
+tags = ['Health Data']
+title = 'Analysing the NDHM’s Health Data Management Policy: Part 1'
 
 +++
 

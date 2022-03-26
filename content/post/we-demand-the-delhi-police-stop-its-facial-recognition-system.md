@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Surveillance", "SaveOurPrivacy", "Project Panoptic"]
+author = 'Apar Gupta'
+categories = ['Surveillance', 'SaveOurPrivacy', 'Project Panoptic']
 date = 2019-12-29T03:44:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/Twitter---Facial-Recognition-2--1.png"
-slug = "we-demand-the-delhi-police-stop-its-facial-recognition-system"
-summary = "We wrote to the Delhi Police demanding a complete halt and recall of Automated Facial Recognition System."
-tags = ["Surveillance", "SaveOurPrivacy", "Project Panoptic"]
+image = 'https://internetfreedom.in/content/images/2019/12/Twitter---Facial-Recognition-2--1.png'
+slug = 'we-demand-the-delhi-police-stop-its-facial-recognition-system'
+summary = 'We wrote to the Delhi Police demanding a complete halt and recall of Automated Facial Recognition System.'
+tags = ['Surveillance', 'SaveOurPrivacy', 'Project Panoptic']
 title = "The Delhi Police must stop it's facial recognition system"
 
 +++

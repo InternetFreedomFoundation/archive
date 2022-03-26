@@ -89,6 +89,8 @@ Further, the PIO has declined our request for access to documentation of the mee
 
 In absence of a written procedure developed without consultation with stakeholders in a non-transparent way indicates public disinterest on part of NIXI. Further, attempts to thwart information sought through right to information requests harms the spirit of the RTI Act, 2005. We have filed a first appeal against the response received to seek clarifications and to further transparency in public interests.
 
+<iframe src="https://drive.google.com/file/d/1JC8Rb-_FFGX_l9liBn6zXz4UymbKN9Dg/preview" width="540" height="675"></iframe>
+
 ### Important documents:
 
 1. NIXI’s undated notice on bulk booking. ([link](https://www.registry.in/registry/images/page/Bulk-Booking.pdf))

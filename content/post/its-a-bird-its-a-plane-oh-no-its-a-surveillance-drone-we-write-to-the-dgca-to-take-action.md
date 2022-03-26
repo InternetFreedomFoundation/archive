@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["SaveOurPrivacy", "Surveillance"]
+author = 'Apar Gupta'
+categories = ['SaveOurPrivacy', 'Surveillance']
 date = 2019-12-28T04:00:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/12/salad-1.png"
-slug = "its-a-bird-its-a-plane-oh-no-its-a-surveillance-drone-we-write-to-the-dgca-to-take-action"
-summary = "We wrote to the Office of the Director General of Civil Aviation urging for urgent action against police departments using illegal drones. "
-tags = ["SaveOurPrivacy", "Surveillance"]
-title = "The DGCA must take urgent action against the illegal use of surveillance drones."
+image = 'https://internetfreedom.in/content/images/2019/12/salad-1.png'
+slug = 'its-a-bird-its-a-plane-oh-no-its-a-surveillance-drone-we-write-to-the-dgca-to-take-action'
+summary = 'We wrote to the Office of the Director General of Civil Aviation urging for urgent action against police departments using illegal drones. '
+tags = ['SaveOurPrivacy', 'Surveillance']
+title = 'The DGCA must take urgent action against the illegal use of surveillance drones.'
 
 +++
 

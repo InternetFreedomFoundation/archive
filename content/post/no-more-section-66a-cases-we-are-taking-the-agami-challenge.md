@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["Section66A"]
+author = 'Apar Gupta'
+categories = ['Section66A']
 date = 2019-09-09T03:57:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/09/Screenshot-2019-09-06-at-12.44.54-PM.png"
-slug = "no-more-section-66a-cases-we-are-taking-the-agami-challenge"
-tags = ["Section66A"]
-title = "No more Section 66A Cases? We are building a \"Zombie Tracker\" with Civic Data Labs! #AgamiChallenge"
+image = 'https://internetfreedom.in/content/images/2019/09/Screenshot-2019-09-06-at-12.44.54-PM.png'
+slug = 'no-more-section-66a-cases-we-are-taking-the-agami-challenge'
+tags = ['Section66A']
+title = 'No more Section 66A Cases? We are building a "Zombie Tracker" with Civic Data Labs! #AgamiChallenge'
 
 +++
 

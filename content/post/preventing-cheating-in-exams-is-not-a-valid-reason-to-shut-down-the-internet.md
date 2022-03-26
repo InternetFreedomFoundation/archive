@@ -1,14 +1,14 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["internet shutdowns"]
+author = 'Farkhanda Zahoor'
+categories = ['internet shutdowns']
 date = 2020-02-27T07:17:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/WB-Internet-Shutdown-2.png"
-slug = "preventing-cheating-in-exams-is-not-a-valid-reason-to-shut-down-the-internet"
-summary = "We wrote to the West Bengal Government to apprise them that measures to suspend internet services to prevent cheating in exams is illegal"
-tags = ["internet shutdowns"]
-title = "Preventing cheating in exams is not a valid reason to shut down the Internet #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/02/WB-Internet-Shutdown-2.png'
+slug = 'preventing-cheating-in-exams-is-not-a-valid-reason-to-shut-down-the-internet'
+summary = 'We wrote to the West Bengal Government to apprise them that measures to suspend internet services to prevent cheating in exams is illegal'
+tags = ['internet shutdowns']
+title = 'Preventing cheating in exams is not a valid reason to shut down the Internet #KeepUsOnline'
 
 +++
 

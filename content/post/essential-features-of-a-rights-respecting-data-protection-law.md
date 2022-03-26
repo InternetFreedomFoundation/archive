@@ -1,14 +1,14 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["SaveOurPrivacy", "Surveillance"]
+author = 'Farkhanda Zahoor'
+categories = ['SaveOurPrivacy', 'Surveillance']
 date = 2020-02-28T04:59:49Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/02/Twitter.png"
-slug = "essential-features-of-a-rights-respecting-data-protection-law"
-summary = "IFF has made a submission to the Joint Committee on the Personal Data Protection Bill, 2019"
-tags = ["SaveOurPrivacy", "Surveillance"]
-title = "Essential Features of a Rights Respecting Data Protection Law #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/02/Twitter.png'
+slug = 'essential-features-of-a-rights-respecting-data-protection-law'
+summary = 'IFF has made a submission to the Joint Committee on the Personal Data Protection Bill, 2019'
+tags = ['SaveOurPrivacy', 'Surveillance']
+title = 'Essential Features of a Rights Respecting Data Protection Law #SaveOurPrivacy'
 
 +++
 

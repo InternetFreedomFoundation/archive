@@ -1,13 +1,13 @@
 +++
-author = "Sidharth Deb"
-categories = ["Net Neutrality", "savetheinternet", "DOT", "TRAI", "Telecom"]
+author = 'Sidharth Deb'
+categories = ['Net Neutrality', 'savetheinternet', 'DOT', 'TRAI', 'Telecom']
 date = 2020-07-01T06:34:08Z
-description = ""
+description = ''
 draft = false
-slug = "iff-writes-to-trai-reminding-them-that-users-must-be-at-the-centre-of-net-neutrality-savetheinternet"
-summary = "On June 29, 2020 IFF has shared a supplementary submission with TRAI on net neutrality monitoring and enforcement. The purpose behind this is to emphasise the importance of focusing on strong implementation and enforcement; and the centrality of public/user participation."
-tags = ["Net Neutrality", "savetheinternet", "DOT", "TRAI", "Telecom"]
-title = "IFF Writes To TRAI Reminding Them That Users Must Be At The Centre of Net Neutrality #SaveTheInternet"
+slug = 'iff-writes-to-trai-reminding-them-that-users-must-be-at-the-centre-of-net-neutrality-savetheinternet'
+summary = 'On June 29, 2020 IFF has shared a supplementary submission with TRAI on net neutrality monitoring and enforcement. The purpose behind this is to emphasise the importance of focusing on strong implementation and enforcement; and the centrality of public/user participation.'
+tags = ['Net Neutrality', 'savetheinternet', 'DOT', 'TRAI', 'Telecom']
+title = 'IFF Writes To TRAI Reminding Them That Users Must Be At The Centre of Net Neutrality #SaveTheInternet'
 
 +++
 

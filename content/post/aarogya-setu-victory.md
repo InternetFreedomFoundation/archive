@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["aarogyasetu"]
+author = 'Apar Gupta'
+categories = ['aarogyasetu']
 date = 2020-05-18T06:08:27Z
-description = ""
+description = ''
 draft = false
-slug = "aarogya-setu-victory"
-summary = "As lockdown 4.0 was extended, we recorded a small but significant win as the installation of Aarogya Setu has now been changed to a best effort basis. On May 2 we had sent a letter to the Ministry of Home Affairs calling the Ministry to roll back an order requiring the mandatory use of Aarogya Setu."
-tags = ["aarogyasetu"]
-title = "Statement: Victory! Aarogya Setu changes from mandatory to, “best efforts”."
+slug = 'aarogya-setu-victory'
+summary = 'As lockdown 4.0 was extended, we recorded a small but significant win as the installation of Aarogya Setu has now been changed to a best effort basis. On May 2 we had sent a letter to the Ministry of Home Affairs calling the Ministry to roll back an order requiring the mandatory use of Aarogya Setu.'
+tags = ['aarogyasetu']
+title = 'Statement: Victory! Aarogya Setu changes from mandatory to, “best efforts”.'
 
 +++
 

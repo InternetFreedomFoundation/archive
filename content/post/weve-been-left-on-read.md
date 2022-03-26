@@ -1,13 +1,13 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality", "savetheinternet"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality', 'savetheinternet']
 date = 2019-07-29T05:43:34Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/07/Capture-19.PNG"
-slug = "weve-been-left-on-read"
-summary = "With no response from the DOT and BSNL on continuing net neutrality violations, IFF has approached the issue with a three-pronged move.  "
-tags = ["Net Neutrality", "savetheinternet"]
+image = 'https://internetfreedom.in/content/images/2019/07/Capture-19.PNG'
+slug = 'weve-been-left-on-read'
+summary = 'With no response from the DOT and BSNL on continuing net neutrality violations, IFF has approached the issue with a three-pronged move.  '
+tags = ['Net Neutrality', 'savetheinternet']
 title = "We've been left on read : Lack of response from BSNL and DOT on Net Neutrality violations. #SaveTheInternet"
 
 +++

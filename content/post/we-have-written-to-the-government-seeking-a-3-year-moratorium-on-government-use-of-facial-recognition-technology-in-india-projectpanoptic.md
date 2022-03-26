@@ -1,13 +1,13 @@
 +++
-author = "Farkhanda Zahoor"
-categories = ["facial recognition"]
+author = 'Farkhanda Zahoor'
+categories = ['facial recognition']
 date = 2020-03-23T04:47:14Z
-description = ""
+description = ''
 draft = false
-slug = "we-have-written-to-the-government-seeking-a-3-year-moratorium-on-government-use-of-facial-recognition-technology-in-india-projectpanoptic"
-summary = "Use of facial recognition technology in India is on the rise. We shared a letter with the Ministries of Home Affairs and Law and Justice requesting for a halt on ongoing use of facial recognition systems by both the central government and state governments. "
-tags = ["facial recognition"]
-title = "IFF proposes a three year moratorium on the use of Facial Recognition Technology in India #ProjectPanoptic"
+slug = 'we-have-written-to-the-government-seeking-a-3-year-moratorium-on-government-use-of-facial-recognition-technology-in-india-projectpanoptic'
+summary = 'Use of facial recognition technology in India is on the rise. We shared a letter with the Ministries of Home Affairs and Law and Justice requesting for a halt on ongoing use of facial recognition systems by both the central government and state governments. '
+tags = ['facial recognition']
+title = 'IFF proposes a three year moratorium on the use of Facial Recognition Technology in India #ProjectPanoptic'
 
 +++
 

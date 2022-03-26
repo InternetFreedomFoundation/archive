@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "internet shutdowns", "Legal", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'internet shutdowns', 'Legal', 'Supreme Court']
 date = 2019-11-21T14:30:44Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Hey--now-that-we-have-eased-restrictions-in-Kashmir--please-don-t-ask-us-why-we-imposed-them-in-the-first-place-1.png"
-slug = "government-says-judicial-review-of-severity-of-the-restrictions-in-kashmir-during-august-is-an-academic-exercise"
+image = 'https://internetfreedom.in/content/images/2019/11/Hey--now-that-we-have-eased-restrictions-in-Kashmir--please-don-t-ask-us-why-we-imposed-them-in-the-first-place-1.png'
+slug = 'government-says-judicial-review-of-severity-of-the-restrictions-in-kashmir-during-august-is-an-academic-exercise'
 summary = "In yesterday's hearing, the Solicitor General argued that the telecom shutdown was necessary because digital platforms could be used for mobilisation by terrorists and separatists."
-tags = ["Filings", "internet shutdowns", "Legal", "Supreme Court"]
-title = "Government says judicial review of severity of the restrictions in Kashmir during August is an “academic exercise”"
+tags = ['Filings', 'internet shutdowns', 'Legal', 'Supreme Court']
+title = 'Government says judicial review of severity of the restrictions in Kashmir during August is an “academic exercise”'
 
 +++
 

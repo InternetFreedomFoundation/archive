@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Covid", "internet shutdowns", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Covid', 'internet shutdowns', 'Supreme Court']
 date = 2020-04-21T08:02:33Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/04/FMP-v.-J-K-hearing-21-April.png"
-slug = "supreme-court-directs-govt-to-file-reply-to-petition-seeking-4g-restoration-in-j-k"
-summary = "The Supreme Court has directed the Government to file its response to petitions seeking restoration of 4G internet in J&K by Sunday i.e. 26 April and the matter will be listed again next Monday i.e. 27 April. "
-tags = ["Covid", "internet shutdowns", "Supreme Court"]
-title = "Supreme Court directs Govt to file reply to petition seeking restoration of 4G internet in J&K #KeepUsOnline"
+image = 'https://internetfreedom.in/content/images/2020/04/FMP-v.-J-K-hearing-21-April.png'
+slug = 'supreme-court-directs-govt-to-file-reply-to-petition-seeking-4g-restoration-in-j-k'
+summary = 'The Supreme Court has directed the Government to file its response to petitions seeking restoration of 4G internet in J&K by Sunday i.e. 26 April and the matter will be listed again next Monday i.e. 27 April. '
+tags = ['Covid', 'internet shutdowns', 'Supreme Court']
+title = 'Supreme Court directs Govt to file reply to petition seeking restoration of 4G internet in J&K #KeepUsOnline'
 
 +++
 

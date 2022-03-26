@@ -1,14 +1,14 @@
 +++
-author = "Apar Gupta"
-categories = ["aarogyasetu", "Surveillance"]
+author = 'Apar Gupta'
+categories = ['aarogyasetu', 'Surveillance']
 date = 2020-05-06T13:08:15Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/05/Aarogya-Setu-A-path-to-health-or-jail-.png"
-slug = "we-contest-the-noida-authorities-direction-that-may-make-aarogya-setu-a-path-to-jail"
-summary = "Earlier today we facilitated a legal challenge to the Noida Authorities to revoke the mandatory imposition of Aarogya Setu under a threat of criminal imprisonment. "
-tags = ["aarogyasetu", "Surveillance"]
-title = "We legally contest the Noida authorities order of criminally prosecuting people who do not have Aarogya Setu #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2020/05/Aarogya-Setu-A-path-to-health-or-jail-.png'
+slug = 'we-contest-the-noida-authorities-direction-that-may-make-aarogya-setu-a-path-to-jail'
+summary = 'Earlier today we facilitated a legal challenge to the Noida Authorities to revoke the mandatory imposition of Aarogya Setu under a threat of criminal imprisonment. '
+tags = ['aarogyasetu', 'Surveillance']
+title = 'We legally contest the Noida authorities order of criminally prosecuting people who do not have Aarogya Setu #SaveOurPrivacy'
 
 +++
 

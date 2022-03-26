@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["Breaches", "Data Protection", "PDPB", "cyber security"]
+author = 'Krishnesh'
+categories = ['Breaches', 'Data Protection', 'PDPB', 'cyber security']
 date = 2021-06-11T06:47:10Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/Copy-of-Recent-data-breaches-in-India--1--1.png"
-slug = "our-recommendations-to-protect-indians-against-data-breaches"
-summary = "In view of the rise in data breaches, we write to MEITY with recommendations to prevent data breaches and provide redressal against them. "
-tags = ["Breaches", "Data Protection", "PDPB", "cyber security"]
-title = "Our recommendations to protect Indians against data breaches"
+image = 'https://internetfreedom.in/content/images/2021/06/Copy-of-Recent-data-breaches-in-India--1--1.png'
+slug = 'our-recommendations-to-protect-indians-against-data-breaches'
+summary = 'In view of the rise in data breaches, we write to MEITY with recommendations to prevent data breaches and provide redressal against them. '
+tags = ['Breaches', 'Data Protection', 'PDPB', 'cyber security']
+title = 'Our recommendations to protect Indians against data breaches'
 
 +++
 

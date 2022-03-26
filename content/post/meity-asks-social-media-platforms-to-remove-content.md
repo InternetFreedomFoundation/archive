@@ -1,13 +1,13 @@
 +++
-author = "Krishnesh"
-categories = ["big tech", "Censorship", "intermediary", "it act", "ITRules"]
+author = 'Krishnesh'
+categories = ['big tech', 'Censorship', 'intermediary', 'it act', 'ITRules']
 date = 2021-05-22T12:56:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/If-the-phrase-Indian-Variant-is-censored--4--1.png"
-slug = "meity-asks-social-media-platforms-to-remove-content"
-summary = "MEITY has written letters to social media platforms. These letters ask platforms to remove content. We write to MEITY asking them to withdraw these letters as they do not have a legal basis and they curb speech.  "
-tags = ["big tech", "Censorship", "intermediary", "it act", "ITRules"]
+image = 'https://internetfreedom.in/content/images/2021/05/If-the-phrase-Indian-Variant-is-censored--4--1.png'
+slug = 'meity-asks-social-media-platforms-to-remove-content'
+summary = 'MEITY has written letters to social media platforms. These letters ask platforms to remove content. We write to MEITY asking them to withdraw these letters as they do not have a legal basis and they curb speech.  '
+tags = ['big tech', 'Censorship', 'intermediary', 'it act', 'ITRules']
 title = "MEITY has no legal basis to ask social media platforms to remove content in middle of India's COVID crisis!"
 
 +++

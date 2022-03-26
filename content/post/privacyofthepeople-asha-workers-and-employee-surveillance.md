@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["PrivacyofThePeople", "PDPB", "Data Protection"]
+author = 'Rohin Garg'
+categories = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
 date = 2021-06-23T10:42:51Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/06/In-a-pandemic--ASHA-workers-safeguarding-healthcare-in-rural-and-marginalised-communities-now-resist-State-surveillance.-1.png"
-slug = "privacyofthepeople-asha-workers-and-employee-surveillance"
-summary = "In our new series #PrivacyofThePeople, we will look at the impact of the Personal Data Protection Bill, 2019 on different sections of society. In this post, we discuss how the Bill affects workplace surveillance at large through the ASHA workers’ recent fight for digital privacy and detail ."
-tags = ["PrivacyofThePeople", "PDPB", "Data Protection"]
-title = "#PrivacyofThePeople - ASHA Workers and Employee Surveillance"
+image = 'https://internetfreedom.in/content/images/2021/06/In-a-pandemic--ASHA-workers-safeguarding-healthcare-in-rural-and-marginalised-communities-now-resist-State-surveillance.-1.png'
+slug = 'privacyofthepeople-asha-workers-and-employee-surveillance'
+summary = 'In our new series #PrivacyofThePeople, we will look at the impact of the Personal Data Protection Bill, 2019 on different sections of society. In this post, we discuss how the Bill affects workplace surveillance at large through the ASHA workers’ recent fight for digital privacy and detail .'
+tags = ['PrivacyofThePeople', 'PDPB', 'Data Protection']
+title = '#PrivacyofThePeople - ASHA Workers and Employee Surveillance'
 
 +++
 

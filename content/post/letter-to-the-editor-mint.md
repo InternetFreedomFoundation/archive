@@ -1,12 +1,12 @@
 +++
-author = "Aravind R S"
-categories = ["Opinion"]
+author = 'Aravind R S'
+categories = ['Opinion']
 date = 2015-04-23T05:19:37Z
-description = ""
+description = ''
 draft = false
-slug = "letter-to-the-editor-mint"
-tags = ["Opinion"]
-title = "Letter to the editor - Mint"
+slug = 'letter-to-the-editor-mint'
+tags = ['Opinion']
+title = 'Letter to the editor - Mint'
 
 +++
 

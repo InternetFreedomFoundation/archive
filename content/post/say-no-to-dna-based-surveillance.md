@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["DNA Bill"]
+author = 'Rohin Garg'
+categories = ['DNA Bill']
 date = 2021-03-03T05:20:53Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/Say-no-to-DNA-based-surveillance--3.png"
-slug = "say-no-to-dna-based-surveillance"
-summary = "As a follow up to our analysis and outreach on the Report of the Standing Committee on the DNA Bill, 2019, we have written to the Department of Biotechnology. In our letter, we highlighted our concerns regarding privacy and surveillance, and asked that the Bill be redrafted."
-tags = ["DNA Bill"]
-title = "Say no to DNA based surveillance: On the report on the DNA Bill"
+image = 'https://internetfreedom.in/content/images/2021/03/Say-no-to-DNA-based-surveillance--3.png'
+slug = 'say-no-to-dna-based-surveillance'
+summary = 'As a follow up to our analysis and outreach on the Report of the Standing Committee on the DNA Bill, 2019, we have written to the Department of Biotechnology. In our letter, we highlighted our concerns regarding privacy and surveillance, and asked that the Bill be redrafted.'
+tags = ['DNA Bill']
+title = 'Say no to DNA based surveillance: On the report on the DNA Bill'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Data Protection", "Privacy"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Data Protection', 'Privacy']
 date = 2021-01-11T06:21:59Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/01/WhatsApp-Privacy-Policy-Inforgraphic.png"
-slug = "explainer-whatsapp-privacy-policy-changes-2021"
-summary = "The new privacy policy confirms that Facebook may now have access to messages shared with businesses on WhatsApp and it provides more insight into expansive meta data collection by WhatsApp."
-tags = ["Data Protection", "Privacy"]
-title = "Explainer: WhatsApp Privacy Policy Changes #SaveOurPrivacy"
+image = 'https://internetfreedom.in/content/images/2021/01/WhatsApp-Privacy-Policy-Inforgraphic.png'
+slug = 'explainer-whatsapp-privacy-policy-changes-2021'
+summary = 'The new privacy policy confirms that Facebook may now have access to messages shared with businesses on WhatsApp and it provides more insight into expansive meta data collection by WhatsApp.'
+tags = ['Data Protection', 'Privacy']
+title = 'Explainer: WhatsApp Privacy Policy Changes #SaveOurPrivacy'
 
 +++
 

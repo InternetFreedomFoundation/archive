@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["WhatTheBlock", "WebsiteBlocking", "Legal"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['WhatTheBlock', 'WebsiteBlocking', 'Legal']
 date = 2020-07-23T04:48:16Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/07/FFF-Representation-2-5.png"
-slug = "fridays-for-future-representation-to-delhi-police"
-summary = "Fridays for Future has written to the Delhi Police objecting to the blocking of its website for encouraging public participation in the consultation process for Draft EIA Notification 2020. "
-tags = ["WhatTheBlock", "WebsiteBlocking", "Legal"]
-title = "Fridays For Future India resists illegal website blocking #WhatTheBlock"
+image = 'https://internetfreedom.in/content/images/2020/07/FFF-Representation-2-5.png'
+slug = 'fridays-for-future-representation-to-delhi-police'
+summary = 'Fridays for Future has written to the Delhi Police objecting to the blocking of its website for encouraging public participation in the consultation process for Draft EIA Notification 2020. '
+tags = ['WhatTheBlock', 'WebsiteBlocking', 'Legal']
+title = 'Fridays For Future India resists illegal website blocking #WhatTheBlock'
 
 +++
 

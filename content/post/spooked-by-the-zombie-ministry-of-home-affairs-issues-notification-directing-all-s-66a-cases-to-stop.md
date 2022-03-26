@@ -1,14 +1,14 @@
 +++
-author = "Tanmay Singh"
-categories = ["66A", "Censorship", "criminal law", "cybercrime", "Legal", "mha", "Section66A", "Supreme Court", "zombietracker"]
+author = 'Tanmay Singh'
+categories = ['66A', 'Censorship', 'criminal law', 'cybercrime', 'Legal', 'mha', 'Section66A', 'Supreme Court', 'zombietracker']
 date = 2021-07-15T10:52:49Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/07/Copy-of-The-Supreme-Court-just-upheld-1.png"
-slug = "spooked-by-the-zombie-ministry-of-home-affairs-issues-notification-directing-all-s-66a-cases-to-stop"
-summary = "Prompted by our application, the Ministry of Home Affairs, on July 14, 2021 issued a notification directing all law enforcement authorities to stop registering new cases under Section 66A of the Information Technology Act, 2000 and to immediately withdraw all pending cases. "
-tags = ["66A", "Censorship", "criminal law", "cybercrime", "Legal", "mha", "Section66A", "Supreme Court", "zombietracker"]
-title = "Spooked by the Zombie? Ministry of Home Affairs issues notification directing all S.66A cases to stop"
+image = 'https://internetfreedom.in/content/images/2021/07/Copy-of-The-Supreme-Court-just-upheld-1.png'
+slug = 'spooked-by-the-zombie-ministry-of-home-affairs-issues-notification-directing-all-s-66a-cases-to-stop'
+summary = 'Prompted by our application, the Ministry of Home Affairs, on July 14, 2021 issued a notification directing all law enforcement authorities to stop registering new cases under Section 66A of the Information Technology Act, 2000 and to immediately withdraw all pending cases. '
+tags = ['66A', 'Censorship', 'criminal law', 'cybercrime', 'Legal', 'mha', 'Section66A', 'Supreme Court', 'zombietracker']
+title = 'Spooked by the Zombie? Ministry of Home Affairs issues notification directing all S.66A cases to stop'
 
 +++
 

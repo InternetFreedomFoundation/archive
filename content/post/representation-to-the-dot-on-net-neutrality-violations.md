@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Net Neutrality", "savetheinternet"]
+author = 'Joanne DCunha'
+categories = ['Net Neutrality', 'savetheinternet']
 date = 2019-03-28T07:32:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/04/sdhjakds.PNG"
-slug = "representation-to-the-dot-on-net-neutrality-violations"
-summary = "In light of the growing intensity of net neutrality violations, we make a formal representation to the Department of Telecommunications highlighting the need for an enforcement mechanism. "
-tags = ["Net Neutrality", "savetheinternet"]
-title = "Representation to the DOT on net neutrality violations."
+image = 'https://internetfreedom.in/content/images/2019/04/sdhjakds.PNG'
+slug = 'representation-to-the-dot-on-net-neutrality-violations'
+summary = 'In light of the growing intensity of net neutrality violations, we make a formal representation to the Department of Telecommunications highlighting the need for an enforcement mechanism. '
+tags = ['Net Neutrality', 'savetheinternet']
+title = 'Representation to the DOT on net neutrality violations.'
 
 +++
 

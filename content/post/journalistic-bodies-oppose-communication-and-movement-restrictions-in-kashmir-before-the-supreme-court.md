@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "Legal", "internet shutdowns", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'Legal', 'internet shutdowns', 'Supreme Court']
 date = 2019-11-20T07:40:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/How-do-we-reduce-crime-and-violence-in-India--Hint_-The-answer-does-not-involve-imposition-restrictions-on-all-communication-channels-and-all-public-movement.-1.png"
-slug = "journalistic-bodies-oppose-communication-and-movement-restrictions-in-kashmir-before-the-supreme-court"
+image = 'https://internetfreedom.in/content/images/2019/11/How-do-we-reduce-crime-and-violence-in-India--Hint_-The-answer-does-not-involve-imposition-restrictions-on-all-communication-channels-and-all-public-movement.-1.png'
+slug = 'journalistic-bodies-oppose-communication-and-movement-restrictions-in-kashmir-before-the-supreme-court'
 summary = "In today's hearing, Mr. Huzefa Ahmadi and Mr. Dushyant Dave advanced arguments on behalf of the Indian Journalists Union and Foundation for Media Professionals respectively. "
-tags = ["Filings", "Legal", "internet shutdowns", "Supreme Court"]
-title = "Journalistic bodies oppose communication and movement restrictions in Kashmir before the Supreme Court"
+tags = ['Filings', 'Legal', 'internet shutdowns', 'Supreme Court']
+title = 'Journalistic bodies oppose communication and movement restrictions in Kashmir before the Supreme Court'
 
 +++
 

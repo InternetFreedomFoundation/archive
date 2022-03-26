@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Coronavirus", "freespeech", "misinformation"]
+author = 'Anushka Jain'
+categories = ['Coronavirus', 'freespeech', 'misinformation']
 date = 2020-06-04T04:30:52Z
-description = ""
+description = ''
 draft = false
-slug = "we-wrote-to-the-mumbai-police-asking-them-to-review-and-amend-their-social-media-order-issued-under-s-144-crpc"
+slug = 'we-wrote-to-the-mumbai-police-asking-them-to-review-and-amend-their-social-media-order-issued-under-s-144-crpc'
 summary = "On May 23, 2020 the Mumbai Police issued an Order under S.144, CrPC. The order prohibits the spread of certain information through social media platforms. We have sent a representation to the Mumbai Police & the Maharashtra Home Dept. asking them to review and amend the order.\n"
-tags = ["Coronavirus", "freespeech", "misinformation"]
-title = "We wrote to the Mumbai Police asking them to review and amend their Social Media Regulation Order issued under S.144, CrPC #FreeToMeme"
+tags = ['Coronavirus', 'freespeech', 'misinformation']
+title = 'We wrote to the Mumbai Police asking them to review and amend their Social Media Regulation Order issued under S.144, CrPC #FreeToMeme'
 
 +++
 

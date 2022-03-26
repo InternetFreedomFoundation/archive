@@ -1,14 +1,14 @@
 +++
-author = "Yashaswini"
-categories = ["Access to Information", "Surveillance"]
+author = 'Yashaswini'
+categories = ['Access to Information', 'Surveillance']
 date = 2021-08-06T12:28:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Information-sought-is-not-available--1.png"
-slug = "information-sought-is-not-available-mha-claims-to-have-destroyed-all-records-when-asked-total-number-of-surveillance-orders"
+image = 'https://internetfreedom.in/content/images/2021/08/Information-sought-is-not-available--1.png'
+slug = 'information-sought-is-not-available-mha-claims-to-have-destroyed-all-records-when-asked-total-number-of-surveillance-orders'
 summary = "In response to IFF's RTI applications seeking data on the electronic surveillance authorised by the government, the MHA initially refused the information on the grounds of national security and now claims that it cannot provide the information because it simply does not have it. "
-tags = ["Access to Information", "Surveillance"]
-title = "\"Information sought is not available”: MHA claims to have destroyed all records when asked total number of Surveillance orders"
+tags = ['Access to Information', 'Surveillance']
+title = '"Information sought is not available”: MHA claims to have destroyed all records when asked total number of Surveillance orders'
 
 +++
 
@@ -60,6 +60,8 @@ We further highlight the unnecessary delay caused by the Ministry in its earlier
 
 IFF shall persist in its quest for seeking transparency and accountability from the government.
 
+<iframe src="https://drive.google.com/file/d/1e5YF67CSBVo8D0xQxnRcqBi3KJjUxKok/preview" width="580" height="480"></iframe>
+
 ### Important Documents
 
 1. CIC order in _Apar v. CPIO, MHA_ dated May 17, 2021 ([link](https://drive.google.com/file/d/1wfSoI7LMcw9tQbsg1MoBpflj2h6UPIUu/view?usp=sharing))
@@ -68,6 +70,8 @@ IFF shall persist in its quest for seeking transparency and accountability from 
 4. Previous blogpost, "IFF keeps pushing against secrecy in surveillance. CIC orders MHA to adjudicate on our request for transparency", dated May 19, 2021 ([link](https://internetfreedom.in/iff-keeps-pushing-against-secrecy-in-surveillance-cic-orders-mha-to-adjudicate-on-our-request-for-transparency/))
 
 > > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
 
 
 

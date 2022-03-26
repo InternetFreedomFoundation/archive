@@ -1,14 +1,14 @@
 +++
-author = "Joanne DCunha"
-categories = ["Data Protection"]
+author = 'Joanne DCunha'
+categories = ['Data Protection']
 date = 2019-11-27T05:44:47Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/11/Capture--5.png"
-slug = "dp"
+image = 'https://internetfreedom.in/content/images/2019/11/Capture--5.png'
+slug = 'dp'
 summary = "As the Personal Data Protection Bill, 2018 makes it way to Parliament, we showcase some of IFF's work in ensuring India has a well-established data protection framework."
-tags = ["Data Protection"]
-title = "How far have we come as India prepares for its much awaited data protection law."
+tags = ['Data Protection']
+title = 'How far have we come as India prepares for its much awaited data protection law.'
 
 +++
 

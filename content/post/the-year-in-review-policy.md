@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Policy"]
+author = 'Rohin Garg'
+categories = ['Policy', 'year in review', '2020']
 date = 2020-12-29T04:30:00Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/12/Year-End-Review--5---Policy--1--1.png"
-slug = "the-year-in-review-policy"
-summary = "2020 has been quite the eventful year, and the policy front was no different. Here is a quick breakdown of all that we achieved this year. For 2021, we hope to further increase our collaboration to increase the impact of digital rights across the spectrum of individual liberty and social welfare. "
-tags = ["Policy"]
-title = "2020 in Review: Policy Advocacy in the year of Covid"
+image = 'https://internetfreedom.in/content/images/2020/12/Year-End-Review--5---Policy--1--1.png'
+slug = 'the-year-in-review-policy'
+summary = '2020 has been quite the eventful year, and the policy front was no different. Here is a quick breakdown of all that we achieved this year. For 2021, we hope to further increase our collaboration to increase the impact of digital rights across the spectrum of individual liberty and social welfare. '
+tags = ['Policy', 'year in review', '2020']
+title = '2020 in Review: Policy Advocacy in the year of Covid'
 
 +++
 

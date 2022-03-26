@@ -1,13 +1,13 @@
 +++
-author = "Anushka Jain"
-categories = ["Project Panoptic"]
+author = 'Anushka Jain'
+categories = ['Project Panoptic']
 date = 2021-02-09T10:35:28Z
-description = ""
+description = ''
 draft = false
-slug = "the-increasing-use-of-facial-recognition-technology-in-india"
-summary = "In a letter to the Parliamentary Standing Committee, we relay our concerns to them and ask them to call relevant stakeholders such as ministry officials and privacy experts to depose before them. "
-tags = ["Project Panoptic"]
-title = "The Increasing Use of Facial Recognition Technology in India"
+slug = 'the-increasing-use-of-facial-recognition-technology-in-india'
+summary = 'In a letter to the Parliamentary Standing Committee, we relay our concerns to them and ask them to call relevant stakeholders such as ministry officials and privacy experts to depose before them. '
+tags = ['Project Panoptic']
+title = 'The Increasing Use of Facial Recognition Technology in India'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["ITRules", "it act"]
+author = 'Rohin Garg'
+categories = ['ITRules', 'it act']
 date = 2021-03-11T06:41:28Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/03/Constitutional-questions-against-unconstitutional-Rules-1.png"
-slug = "constitutional-questions-against-unconstitutional-rules"
-summary = "In light of concerns about the Information Technology Rules, 2021, we wrote to the Standing Committee on IT, detailing issues and recommendations we have and asking the Committee to put the same before the representatives of the ministries."
-tags = ["ITRules", "it act"]
-title = "Constitutional questions against unconstitutional Rules"
+image = 'https://internetfreedom.in/content/images/2021/03/Constitutional-questions-against-unconstitutional-Rules-1.png'
+slug = 'constitutional-questions-against-unconstitutional-rules'
+summary = 'In light of concerns about the Information Technology Rules, 2021, we wrote to the Standing Committee on IT, detailing issues and recommendations we have and asking the Committee to put the same before the representatives of the ministries.'
+tags = ['ITRules', 'it act']
+title = 'Constitutional questions against unconstitutional Rules'
 
 +++
 

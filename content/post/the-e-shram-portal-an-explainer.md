@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet", "digital Rights"]
+author = 'Rohin Garg'
+categories = ['accesstointernet', 'digital Rights']
 date = 2021-09-01T05:25:17Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/09/EShram-header-1.jpeg"
-slug = "the-e-shram-portal-an-explainer"
-summary = "On 26th August, 2021, the Labour Minister Bhupender Yadav launched the E-Shram portal. The portal will help unorganised workers receive social security benefits. We decided to create this explainer to help you understand what the portal is and what are the various issues facing the portal."
-tags = ["accesstointernet", "digital Rights"]
-title = "The E Shram Portal: An Explainer"
+image = 'https://internetfreedom.in/content/images/2021/09/EShram-header-1.jpeg'
+slug = 'the-e-shram-portal-an-explainer'
+summary = 'On 26th August, 2021, the Labour Minister Bhupender Yadav launched the E-Shram portal. The portal will help unorganised workers receive social security benefits. We decided to create this explainer to help you understand what the portal is and what are the various issues facing the portal.'
+tags = ['accesstointernet', 'digital Rights']
+title = 'The E Shram Portal: An Explainer'
 
 +++
 

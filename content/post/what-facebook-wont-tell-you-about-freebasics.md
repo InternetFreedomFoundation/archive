@@ -1,9 +1,9 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-12-28T05:04:10Z
-description = ""
+description = ''
 draft = false
-slug = "what-facebook-wont-tell-you-about-freebasics"
+slug = 'what-facebook-wont-tell-you-about-freebasics'
 title = "What Facebook won't tell you about FreeBasics"
 
 +++

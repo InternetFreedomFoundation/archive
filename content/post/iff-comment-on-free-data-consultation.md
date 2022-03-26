@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2016-06-29T08:26:00Z
-description = ""
+description = ''
 draft = false
-slug = "iff-comment-on-free-data-consultation"
-title = "IFF Submission to TRAI on the Free Data Consultation"
+slug = 'iff-comment-on-free-data-consultation'
+title = 'IFF Submission to TRAI on the Free Data Consultation'
 
 +++
 

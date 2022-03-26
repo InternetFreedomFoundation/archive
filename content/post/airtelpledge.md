@@ -1,12 +1,12 @@
 +++
-author = "SaveTheInternet.in Coalition"
-categories = ["Official Announcement"]
+author = 'SaveTheInternet.in Coalition'
+categories = ['Official Announcement']
 date = 2015-04-20T09:54:18Z
-description = ""
+description = ''
 draft = false
-slug = "airtelpledge"
-tags = ["Official Announcement"]
-title = "A Response to #airtelpledge"
+slug = 'airtelpledge'
+tags = ['Official Announcement']
+title = 'A Response to #airtelpledge'
 
 +++
 

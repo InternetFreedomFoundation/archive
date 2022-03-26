@@ -1,25 +1,20 @@
 +++
-author = "Sukhnidh Kaur"
-categories = ["COWIN", "vaccines", "Health Data", "joint statement"]
-date = 2021-05-11T05:17:18Z
-description = ""
+author = 'IFF Public Policy Team'
+categories = ['COWIN', 'vaccines', 'Health Data', 'joint statement']
+date = 2021-05-11T07:22:00Z
+description = ''
 draft = false
-slug = "joint-statement-ensure-equitable-access-to-covid-vaccines"
-summary = "As India battles the second wave of COVID-19, 1500+ people and organisations are calling on the government to ensure that the vaccination process focuses on increasing reach and accessibility, that there are no onerous ID requirements, and that health data is not misused."
-tags = ["COWIN", "vaccines", "Health Data", "joint statement"]
-title = "Joint Statement: Ensure equitable access to COVID-19 vaccines and health care resources"
+slug = 'joint-statement-ensure-equitable-access-to-covid-vaccines'
+tags = ['COWIN', 'vaccines', 'Health Data', 'joint statement']
+title = 'Joint Statement: Ensure equitable access to COVID-19 vaccines and health care resources'
 
 +++
 
 
 {{< gallery >}}
-{{< galleryImg  src="https://internetfreedom.in/content/images/2021/05/1-1.png" width="4800" height="2700" >}}{{< /gallery >}}
+{{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/1-1.png" width="4800" height="2700" >}}{{< /gallery >}}
 
-<div style="text-align:center;">
-<a href="https://internetfreedom.in/donate/" class="button">Donate to help sustain our work</a>
-</div>
-
-
+>>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>
 
 India is in a crisis. As people across the country battle the second wave of COVID-19, ensuring equitable, fast and easy access to healthcare, medicines and the vaccines is critical. The undersigned organizations and persons call on the Central Government, State Governments, Health Secretaries of the Union and the States, and the District Magistrates to ensure that the vaccination process focuses on increasing reach and accessibility, that there are no onerous ID requirements, including Aadhaar, for access to health services or vaccinations, and that health data is not misused.
 
@@ -34,7 +29,7 @@ On 23 April, 2021, the Government of India announced the “largest vaccination 
 * Those in the 18-45 age group can only register for the vaccine online, through the CoWIN platform, without an option to walk-in and register.
 
 {{< gallery caption="These measures will only exacerbate difficulties in accessing the vaccine." >}}
-{{< galleryImg  src="https://internetfreedom.in/content/images/2021/05/Screenshot---2021-05-11T103813.391.png" width="272" height="272" >}}{{< /gallery >}}
+{{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/Ez1aIn0UYAI6kAC.jpeg" width="1200" height="1200" >}}{{< /gallery >}}
 
 The [class and rural-urban divide](https://scroll.in/article/989081/a-stark-class-divide-is-emerging-in-indias-covid-19-vaccination-drive) in the previous vaccination phases have already been highlighted by civil society groups like the [All India People’s Science Network](https://aipsn.net/wp-content/uploads/2021/04/AIPSNStatementCovidSecondWave14Apr2021OnLrHd.pdf) and [others](https://timesofindia.indiatimes.com/india/the-poor-may-be-getting-left-behind-in-vaccination-drive/articleshow/81420727.cms). We echo these [concerns](https://aipsn.net/2021/04/21/government-unmasked-abdicates-vaccination-responsibility/):
 
@@ -47,14 +42,14 @@ Unless these conditions are changed, the “largest” vaccination drive could t
 
 Amidst distressing reports of hospitals running out of oxygen and medicines, there have been accounts that hospitals, private suppliers and state governments are mandating Aadhaar for access to diagnostics, medicines, oxygen supplies, and the vaccine. This must be stopped immediately. Onerous identity requirements cannot be made a precondition to access lifesaving resources.
 
-* In [Maharashtra](https://www.firstpost.com/india/maharashtra-makes-aadhaar-card-positive-test-doctors-prescription-mandatory-to-buy-covid-19-drugs-8588051.html), it is mandatory to show Aadhaar card, the results of a positive test and a doctor's prescription for citizens to purchase Remdesivir and Tocilizumab.
+* In [Maharashtra](https://www.firstpost.com/india/maharashtra-makes-aadhaar-card-positive-test-doctors-prescription-mandatory-to-buy-covid-19-drugs-8588051.html), it is mandatory to show Aadhaar card, the results of a positive test and a doctor’s prescription for citizens to purchase Remdesivir and Tocilizumab.
 * The Bombay High Court has made it mandatory for all those venturing out on the roads, including doctors and medical staff, in 11 districts of Marathwada, Maharashtra to [carry their Aadhaar cards](https://www.livelaw.in/news-updates/aadhaar-necessary-to-travel-during-lockdown-people-not-wearing-masks-super-spreaders-bombay-high-court-173167).
 * In [Ahmedabad](https://twitter.com/tv9gujarati/status/1386527254948159490), admission in AMC run COVID hospitals mandate needs Aadhaar card with local address.
 * In Gurgaon, on the [government’s emergency portal](https://covidggn.com/), persons cannot register for a hospital bed without Aadhaar cards that too with a Gurugram address.
 * Across multiple states [and cities](https://timesofindia.indiatimes.com/city/lucknow/long-queues-continue-outside-oxygen-plants/articleshow/82204609.cms), the Aadhaar card of the patient and attendant are being mandated to hand over oxygen cylinders.
 
 {{< gallery caption="Screenshot from Gurugram portal" >}}
-{{< galleryImg  src="https://internetfreedom.in/content/images/2021/05/Screenshot---2021-05-11T103829.035.png" width="272" height="119" >}}{{< /gallery >}}
+{{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/image.png" width="1878" height="386" >}}{{< /gallery >}}
 
 ### The pandemic cannot be used to test out new technology
 
@@ -72,8 +67,14 @@ The demand to safeguard health data is not an abstract right. It lies at the hea
 
 The undersigned persons and organisations call on the government to:
 
-1. **Increase access to vaccinations**a. Allow walk-in access for all vaccinations.b. Remove all onerous identity requirements for access to the vaccine.c. Ensure the vaccines are taken to eligible populations at community level.d. Ensure Vaccination certificates do not affect people's right to movement and access and further entrench inequities.
+1. **Increase access to vaccinations**a. Allow walk-in access for all vaccinations.b. Remove all onerous identity requirements for access to the vaccine.c. Ensure the vaccines are taken to eligible populations at community level.d. Ensure Vaccination certificates do not affect people’s right to movement and access and further entrench inequities.
 2. **Ensure there are no barriers, including mandating Aadhaar, for access to diagnostics, hospital beds, oxygen cylinders, medication or any other treatment.**
-3. **Protect people's rights over their data**a. Ensure the CoWin platform is not made mandatory for registrations for vaccinations.b. Ensure that vaccination is not used to as a way for hidden consent collection for health ID generation & data sharingc. Ensure that Proof of vaccination must not be linked to Digilocker, or Aarogya Setu.d. Move the Adverse Effect Following Immunisation (AEFI) reporting to a system without direct linkage to patient’s data. The alternate system must be built with participatory consultation, involving health care expertise and ground level involvement of state health departments, Hospitals and ICMR.
+3. **Protect people’s rights over their data**. a. Ensure the CoWin platform is not made mandatory for registrations for vaccinations.b. Ensure that vaccination is not used to as a way for hidden consent collection for health ID generation & data sharingc. Ensure that Proof of vaccination must not be linked to Digilocker, or Aarogya Setu.d. Move the Adverse Effect Following Immunisation (AEFI) reporting to a system without direct linkage to patient’s data. The alternate system must be built with participatory consultation, involving health care expertise and ground level involvement of state health departments, Hospitals and ICMR.
 4. **Permit vaccination for all without ID proof or proof of residence.**
+
+> > > <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_HLk5qU1K35hmPH" data-button_theme="brand-color" async> </script> </form>
+
+
+
+
 

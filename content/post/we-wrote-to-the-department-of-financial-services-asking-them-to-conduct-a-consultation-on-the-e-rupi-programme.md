@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["accesstointernet", "innovation"]
+author = 'Rohin Garg'
+categories = ['accesstointernet', 'innovation', 'Banking and Finance']
 date = 2021-08-30T07:51:20Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Twitter-e-Rupi-DoFS-1.jpeg"
-slug = "we-wrote-to-the-department-of-financial-services-asking-them-to-conduct-a-consultation-on-the-e-rupi-programme"
-summary = "We wrote to the Department of Financial Services about the E-Rupi. We pointed out several issues such as surveillance and financial exploitation, the lack of data protection, and exclusion. We suggested that a consultation be conducted, and that data protection norms be specified."
-tags = ["accesstointernet", "innovation"]
-title = "We wrote to the Department of Financial Services asking them to conduct a consultation on the E-Rupi programme"
+image = 'https://internetfreedom.in/content/images/2021/08/Twitter-e-Rupi-DoFS-1.jpeg'
+slug = 'we-wrote-to-the-department-of-financial-services-asking-them-to-conduct-a-consultation-on-the-e-rupi-programme'
+summary = 'We wrote to the Department of Financial Services about the E-Rupi. We pointed out several issues such as surveillance and financial exploitation, the lack of data protection, and exclusion. We suggested that a consultation be conducted, and that data protection norms be specified.'
+tags = ['accesstointernet', 'innovation', 'Banking and Finance']
+title = 'We wrote to the Department of Financial Services asking them to conduct a consultation on the E-Rupi programme'
 
 +++
 

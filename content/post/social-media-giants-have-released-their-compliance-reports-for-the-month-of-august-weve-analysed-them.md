@@ -1,13 +1,13 @@
 +++
-author = "Anandita Mishra"
-categories = ["compliance", "Social Media", "IT Rules", "report", "facebook", "transparency", "WhatsApp", "Twitter", "google", "youtube", "instagram"]
+author = 'Anandita Mishra'
+categories = ['compliance', 'Social Media', 'IT Rules', 'report', 'facebook', 'transparency', 'WhatsApp', 'Twitter', 'google', 'youtube', 'instagram', 'SocialMediaComplianceWatch']
 date = 2021-10-25T05:17:31Z
-description = ""
+description = ''
 draft = false
-slug = "social-media-giants-have-released-their-compliance-reports-for-the-month-of-august-weve-analysed-them"
-summary = "Google (including YouTube), Facebook, Instagram, WhatsApp and Twitter have released their reports in compliance with Rule 4(1)(d) of the IT Rules 2021 for the month of August."
-tags = ["compliance", "Social Media", "IT Rules", "report", "facebook", "transparency", "WhatsApp", "Twitter", "google", "youtube", "instagram"]
-title = "Social media giants have released their Compliance Reports for the month of August. We’ve analysed them."
+slug = 'social-media-giants-have-released-their-compliance-reports-for-the-month-of-august-weve-analysed-them'
+summary = 'Google (including YouTube), Facebook, Instagram, WhatsApp and Twitter have released their reports in compliance with Rule 4(1)(d) of the IT Rules 2021 for the month of August.'
+tags = ['compliance', 'Social Media', 'IT Rules', 'report', 'facebook', 'transparency', 'WhatsApp', 'Twitter', 'google', 'youtube', 'instagram', 'SocialMediaComplianceWatch']
+title = '#SocialMediaComplianceWatch: analysis of Social Media Compliance Reports of August, 2021'
 
 +++
 
@@ -19,7 +19,7 @@ title = "Social media giants have released their Compliance Reports for the mont
 
 ## tl;dr
 
-Google (including YouTube), Facebook, Instagram, WhatsApp and Twitter have released their reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 for the month of August. The reports highlight some interesting facts and figures, and, again, a massive number of automated takedowns. You can read our analysis of the previous reports [here](https://internetfreedom.in/big-tech-releases-its-transparency-reports-in-compliance-with-the-it-rules-heres-what-we-found/) and [here](https://internetfreedom.in/google-facebook-and-twitters-second-round-of-compliance-reports-an-analysis-2/), where we discussed the issue of non-publication of data on governmental removal orders.
+Google (including YouTube), Facebook, Instagram, WhatsApp and Twitter have released their reports in compliance with Rule 4(1)(d) of the Information Technology (Guidelines for Intermediaries and Digital Media Ethics Code) Rules, 2021 for the month of August, 2021. The latest of these reports was made available in October, 2021. The reports highlight some interesting facts and figures, and, again, a massive number of automated takedowns. You can read our analysis of the previous reports [here](https://internetfreedom.in/big-tech-releases-its-transparency-reports-in-compliance-with-the-it-rules-heres-what-we-found/) and [here](https://internetfreedom.in/google-facebook-and-twitters-second-round-of-compliance-reports-an-analysis-2/), where we discussed the issue of non-publication of data on governmental removal orders.
 
 
 

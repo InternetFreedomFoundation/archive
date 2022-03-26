@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-07-13T03:45:26Z
-description = ""
+description = ''
 draft = false
-slug = "complete-net-neutrality-in-india-one-step-closer-to-the-finish-line"
-title = "Complete Net Neutrality in India. One step closer to the finish line."
+slug = 'complete-net-neutrality-in-india-one-step-closer-to-the-finish-line'
+title = 'Complete Net Neutrality in India. One step closer to the finish line.'
 
 +++
 

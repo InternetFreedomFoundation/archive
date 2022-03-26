@@ -1,14 +1,14 @@
 +++
-author = "Rohin Garg"
-categories = ["Data Protection", "DataProtectionTop10", "PDPB"]
+author = 'Rohin Garg'
+categories = ['Data Protection', 'DataProtectionTop10', 'PDPB']
 date = 2021-05-21T06:33:38Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/05/PDPB-6-1.png"
-slug = "dataprotectionttop10-data-localisation-a-threat-to-free-and-open-internet"
-summary = "In part 6 of the #DataProtectionTop10 series, we look at the restrictions imposed by the PDPB on the transfer of personal data outside India. We recommend that the Bill explicitly define critical personal data and not impose undue restrictions that affect the open nature of the internet."
-tags = ["Data Protection", "DataProtectionTop10", "PDPB"]
-title = "#DataProtectionTop10: Data Localisation"
+image = 'https://internetfreedom.in/content/images/2021/05/PDPB-6-1.png'
+slug = 'dataprotectionttop10-data-localisation-a-threat-to-free-and-open-internet'
+summary = 'In part 6 of the #DataProtectionTop10 series, we look at the restrictions imposed by the PDPB on the transfer of personal data outside India. We recommend that the Bill explicitly define critical personal data and not impose undue restrictions that affect the open nature of the internet.'
+tags = ['Data Protection', 'DataProtectionTop10', 'PDPB']
+title = '#DataProtectionTop10: Data Localisation'
 
 +++
 

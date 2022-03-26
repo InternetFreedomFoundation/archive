@@ -1,14 +1,14 @@
 +++
-author = "Krishnesh"
-categories = ["Supreme Court", "Surveillance", "SaveOurPrivacy", "Privacy", "Legal"]
+author = 'Krishnesh'
+categories = ['Supreme Court', 'Surveillance', 'SaveOurPrivacy', 'Privacy', 'Legal', 'DBA']
 date = 2021-08-16T14:05:02Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2021/08/Pegasus-16-Aug-1.png"
-slug = "meity-filed-a-limited-affidavit-in-supreme-court-but-did-not-confirm-or-deny-if-the-government-used-pegasus"
-summary = "The Government has filed a limited affidavit before the SC which proposes to constitute a Committee of Experts but does not categorically comment on whether the government used the Pegasus Spyware. The SC has heard submissions on the limited affidavit and has listed the case for 17.08.2021. "
-tags = ["Supreme Court", "Surveillance", "SaveOurPrivacy", "Privacy", "Legal"]
-title = "MEITY filed a limited affidavit in Supreme Court without confirming or denying if the Government used Pegasus"
+image = 'https://internetfreedom.in/content/images/2021/08/Pegasus-16-Aug-1.png'
+slug = 'meity-filed-a-limited-affidavit-in-supreme-court-but-did-not-confirm-or-deny-if-the-government-used-pegasus'
+summary = 'The Government has filed a limited affidavit before the SC which proposes to constitute a Committee of Experts but does not categorically comment on whether the government used the Pegasus Spyware. The SC has heard submissions on the limited affidavit and has listed the case for 17.08.2021. '
+tags = ['Supreme Court', 'Surveillance', 'SaveOurPrivacy', 'Privacy', 'Legal', 'DBA']
+title = 'MEITY filed a limited affidavit in Supreme Court without confirming or denying if the Government used Pegasus'
 
 +++
 

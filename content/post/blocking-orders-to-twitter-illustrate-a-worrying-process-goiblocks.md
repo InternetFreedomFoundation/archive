@@ -1,10 +1,10 @@
 +++
-author = "IFF Public Policy Team"
+author = 'IFF Public Policy Team'
 date = 2017-09-08T05:52:10Z
-description = ""
+description = ''
 draft = false
-slug = "blocking-orders-to-twitter-illustrate-a-worrying-process-goiblocks"
-title = "Blocking orders to Twitter illustrate a worrying process #GOIBlocks"
+slug = 'blocking-orders-to-twitter-illustrate-a-worrying-process-goiblocks'
+title = 'Blocking orders to Twitter illustrate a worrying process #GOIBlocks'
 
 +++
 

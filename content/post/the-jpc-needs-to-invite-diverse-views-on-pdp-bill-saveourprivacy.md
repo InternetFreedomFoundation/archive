@@ -1,13 +1,13 @@
 +++
-author = "Raghav Kaushal"
-categories = ["SaveOurPrivacy"]
+author = 'Raghav Kaushal'
+categories = ['SaveOurPrivacy']
 date = 2020-08-27T06:25:09Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/JPC-Diversity-1.png"
-slug = "the-jpc-needs-to-invite-diverse-views-on-pdp-bill-saveourprivacy"
-summary = "The Personal Data Protection Bill (PDP) 2019, which is critical for the data privacy, is being considered by a special Joint Parliamentary Committee (JPC) and it must invite independent experts and civil society organisations for depositions. "
-tags = ["SaveOurPrivacy"]
+image = 'https://internetfreedom.in/content/images/2020/08/JPC-Diversity-1.png'
+slug = 'the-jpc-needs-to-invite-diverse-views-on-pdp-bill-saveourprivacy'
+summary = 'The Personal Data Protection Bill (PDP) 2019, which is critical for the data privacy, is being considered by a special Joint Parliamentary Committee (JPC) and it must invite independent experts and civil society organisations for depositions. '
+tags = ['SaveOurPrivacy']
 title = "Let's bring academics, experts and civil society to the table! #SaveOurPrivacy"
 
 +++

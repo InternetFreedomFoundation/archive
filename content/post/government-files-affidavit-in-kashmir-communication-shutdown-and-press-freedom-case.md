@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["Filings", "Legal", "Shutdown", "Supreme Court"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['Filings', 'Legal', 'Shutdown', 'Supreme Court']
 date = 2019-10-24T12:14:19Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2019/10/Anuradha-Bhasin-v.-UoI_24.10.2019-1.png"
-slug = "government-files-affidavit-in-kashmir-communication-shutdown-and-press-freedom-case"
-summary = "In Kashmir Communication Shutdown and Press Freedom Case, the Govt has argued that the restrictions are necessary because of terrorism and declined to provide any specific information to the Petitioner."
-tags = ["Filings", "Legal", "Shutdown", "Supreme Court"]
-title = "A cellphone signal at the end of the tunnel? SC may finally hear substantive challenges to telecommunications shutdown in Kashmir around November"
+image = 'https://internetfreedom.in/content/images/2019/10/Anuradha-Bhasin-v.-UoI_24.10.2019-1.png'
+slug = 'government-files-affidavit-in-kashmir-communication-shutdown-and-press-freedom-case'
+summary = 'In Kashmir Communication Shutdown and Press Freedom Case, the Govt has argued that the restrictions are necessary because of terrorism and declined to provide any specific information to the Petitioner.'
+tags = ['Filings', 'Legal', 'Shutdown', 'Supreme Court']
+title = 'A cellphone signal at the end of the tunnel? SC may finally hear substantive challenges to telecommunications shutdown in Kashmir around November'
 
 +++
 

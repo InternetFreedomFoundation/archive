@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2016-02-26T06:34:43Z
-description = ""
+description = ''
 draft = false
-slug = "response-to-rajeevc"
-title = "Response to Rajeev Chandrasekhar’s detailed comments to TRAI on the regulation on differential pricing"
+slug = 'response-to-rajeevc'
+title = 'Response to Rajeev Chandrasekhar’s detailed comments to TRAI on the regulation on differential pricing'
 
 +++
 

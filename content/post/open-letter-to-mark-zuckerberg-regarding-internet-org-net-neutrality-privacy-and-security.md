@@ -1,10 +1,10 @@
 +++
-author = "SaveTheInternet.in Coalition"
+author = 'SaveTheInternet.in Coalition'
 date = 2015-05-19T05:24:23Z
-description = ""
+description = ''
 draft = false
-slug = "open-letter-to-mark-zuckerberg-regarding-internet-org-net-neutrality-privacy-and-security"
-title = "Open Letter to Mark Zuckerberg Regarding Internet.org, Net Neutrality, Privacy, and Security"
+slug = 'open-letter-to-mark-zuckerberg-regarding-internet-org-net-neutrality-privacy-and-security'
+title = 'Open Letter to Mark Zuckerberg Regarding Internet.org, Net Neutrality, Privacy, and Security'
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-author = "Devdutta Mukhopadhyay"
-categories = ["freespeech", "RightToMeme"]
+author = 'Devdutta Mukhopadhyay'
+categories = ['freespeech', 'RightToMeme']
 date = 2020-08-07T05:00:01Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/08/Criminal-Law-Amendment-Committee-2-6.png"
-slug = "criminal-law-amendment-committee"
+image = 'https://internetfreedom.in/content/images/2020/08/Criminal-Law-Amendment-Committee-2-6.png'
+slug = 'criminal-law-amendment-committee'
 summary = "The Ministry of Home Affairs has established a Committee to recommend changes to Indian criminal law within six months. We must ensure the Committee's recommendations do not lead to arbitrary prosecution of internet users or have a chilling effect on online speech. "
-tags = ["freespeech", "RightToMeme"]
-title = "Major changes to Indian criminal law are underway! How can we use this process to defend and advance digital rights? #RightToMeme"
+tags = ['freespeech', 'RightToMeme']
+title = 'Major changes to Indian criminal law are underway! How can we use this process to defend and advance digital rights? #RightToMeme'
 
 +++
 

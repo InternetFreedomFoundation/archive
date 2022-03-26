@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["SaveOurPrivacy", "Data Protection"]
+author = 'Apar Gupta'
+categories = ['SaveOurPrivacy', 'Data Protection']
 date = 2020-01-24T11:52:33Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/01/logofiles-01.jpg"
-slug = "its-the-final-countdown-kinda-saveourprivacy"
-summary = "Joint parliamentary committee invites evidence on the Data Protection Bill, 2019."
-tags = ["SaveOurPrivacy", "Data Protection"]
+image = 'https://internetfreedom.in/content/images/2020/01/logofiles-01.jpg'
+slug = 'its-the-final-countdown-kinda-saveourprivacy'
+summary = 'Joint parliamentary committee invites evidence on the Data Protection Bill, 2019.'
+tags = ['SaveOurPrivacy', 'Data Protection']
 title = "It's the final countdown (kinda) on the Data Protection Bill #SaveOurPrivacy"
 
 +++
