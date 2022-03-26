@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T15:04:08Z
-description = ""
+description = ''
 draft = false
-slug = "issues-neutrality"
-title = "Net Neutrality"
+slug = 'issues-neutrality'
+title = 'Net Neutrality'
 
 +++
 

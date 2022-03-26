@@ -1,13 +1,13 @@
 +++
-author = "Aravind R S"
-categories = ["campaign", "fullwidth"]
+author = 'Aravind R S'
+categories = ['campaign', 'fullwidth']
 date = 2017-02-18T18:09:07Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2017/03/text8430.png"
-slug = "petition-test"
-tags = ["campaign", "fullwidth"]
-title = "Petition Test"
+image = 'https://internetfreedom.in/content/images/2017/03/text8430.png'
+slug = 'petition-test'
+tags = ['campaign', 'fullwidth']
+title = 'Petition Test'
 
 +++
 

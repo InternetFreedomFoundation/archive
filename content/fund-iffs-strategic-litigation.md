@@ -1,11 +1,11 @@
 +++
-author = "Farkhanda Zahoor"
+author = 'Farkhanda Zahoor'
 date = 2021-03-17T04:45:50Z
-description = ""
+description = ''
 draft = false
-slug = "fund-iffs-strategic-litigation"
+slug = 'fund-iffs-strategic-litigation'
 summary = "The Internet Freedom Foundation is hosting a fundraiser to grow the litigators network around digital rights in India. The aim of the fundraiser is to expand and extend IFF's strategic litigation resources and be able to provide legal assistance to groups requesting for specific help."
-title = "Fund IFF’s Strategic Litigation"
+title = 'Fund IFF’s Strategic Litigation'
 
 +++
 

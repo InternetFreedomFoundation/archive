@@ -1,11 +1,11 @@
 +++
-author = "Karthik"
+author = 'Karthik'
 date = 2019-05-04T09:51:10Z
-description = ""
+description = ''
 draft = false
-slug = "obvious-fundraise"
-summary = "Obvious is matching donations until the end of June 2019 upto Rs. 1,27,001."
-title = "Obvious is helping us fundraise!"
+slug = 'obvious-fundraise'
+summary = 'Obvious is matching donations until the end of June 2019 upto Rs. 1,27,001.'
+title = 'Obvious is helping us fundraise!'
 
 +++
 

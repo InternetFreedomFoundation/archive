@@ -1,13 +1,13 @@
 +++
-author = "Aravind R S"
-categories = ["campaign"]
+author = 'Aravind R S'
+categories = ['campaign']
 date = 2017-03-19T10:26:49Z
-description = ""
+description = ''
 draft = false
-image = "https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png"
-slug = "org-def"
-tags = ["campaign"]
-title = "Digital Empowerment Foundation"
+image = 'https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png'
+slug = 'org-def'
+tags = ['campaign']
+title = 'Digital Empowerment Foundation'
 
 +++
 

@@ -28,7 +28,7 @@ title = 'IFF needs your help! Keep us going'
     content: '';
     display: block;
     background: #a64;
-    width: calc((2091914/ 3000000) * 100%);
+    width: calc((2485729/ 3000000) * 100%);
     height: 100%;
     border-radius: 9px;
 }
@@ -37,7 +37,7 @@ title = 'IFF needs your help! Keep us going'
 <div id="progress">
 </div>
 
-<p style="text-align:center;">We have raised Rs. 20,91,914/30,00,000 so far</p>
+<p style="text-align:center;">We have raised Rs. 24,85,729/30,00,000 so far</p>
 
 <div style="text-align:center;">
     <a href="https://internetfreedom.in/donate/" class="button">MAKE YOUR CONTRIBUTION TODAY!</a>

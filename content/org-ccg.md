@@ -1,13 +1,13 @@
 +++
-author = "Aravind R S"
-categories = ["campaign"]
+author = 'Aravind R S'
+categories = ['campaign']
 date = 2017-03-19T10:13:46Z
-description = ""
+description = ''
 draft = false
-image = "https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png"
-slug = "org-ccg"
-tags = ["campaign"]
-title = "Centre for Communication Governance"
+image = 'https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png'
+slug = 'org-ccg'
+tags = ['campaign']
+title = 'Centre for Communication Governance'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-09-04T18:35:29Z
-description = ""
+description = ''
 draft = false
-slug = "thanks"
-title = "Thank you!"
+slug = 'thanks'
+title = 'Thank you!'
 
 +++
 

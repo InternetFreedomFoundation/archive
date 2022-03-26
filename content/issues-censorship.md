@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T15:05:37Z
-description = ""
+description = ''
 draft = false
-slug = "issues-censorship"
-title = "Censorship and Free Expression"
+slug = 'issues-censorship'
+title = 'Censorship and Free Expression'
 
 +++
 

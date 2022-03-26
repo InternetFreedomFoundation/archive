@@ -1,13 +1,13 @@
 +++
-author = "Aravind R S"
-categories = ["campaign"]
+author = 'Aravind R S'
+categories = ['campaign']
 date = 2017-03-15T15:46:16Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2017/03/sti.png"
-slug = "email-test"
-tags = ["campaign"]
-title = "Email Test"
+image = 'https://internetfreedom.in/content/images/2017/03/sti.png'
+slug = 'email-test'
+tags = ['campaign']
+title = 'Email Test'
 
 +++
 

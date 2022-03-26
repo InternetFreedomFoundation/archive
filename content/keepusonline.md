@@ -1,13 +1,13 @@
 +++
-author = "SaveTheInternet.in Coalition"
-categories = ["campaign"]
+author = 'SaveTheInternet.in Coalition'
+categories = ['campaign']
 date = 2017-03-19T04:15:07Z
-description = ""
+description = ''
 draft = false
-image = "https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png"
-slug = "keepusonline"
-tags = ["campaign"]
-title = "Keep Us Online"
+image = 'https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png'
+slug = 'keepusonline'
+tags = ['campaign']
+title = 'Keep Us Online'
 
 +++
 

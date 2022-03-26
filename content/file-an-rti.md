@@ -1,13 +1,13 @@
 +++
-author = "Apar Gupta"
-categories = ["RTI"]
+author = 'Apar Gupta'
+categories = ['RTI']
 date = 2020-06-27T13:51:13Z
-description = ""
+description = ''
 draft = false
-slug = "file-an-rti"
+slug = 'file-an-rti'
 summary = "IFF consistently uses the Right to Information Act to demand transparency and accountability from government authorities. We have put together some of the instances where we have successfully used the RTI Act to extract information.\n"
-tags = ["RTI"]
-title = "Digital Transparency : We file RTIs"
+tags = ['RTI']
+title = 'Digital Transparency : We file RTIs'
 
 +++
 

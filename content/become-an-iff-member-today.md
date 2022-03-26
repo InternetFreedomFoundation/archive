@@ -1,11 +1,11 @@
 +++
-author = "Shivani Singh"
+author = 'Shivani Singh'
 date = 2020-06-02T07:08:23Z
-description = ""
+description = ''
 draft = false
-slug = "become-an-iff-member-today"
-summary = "Help IFF retain its autonomy, transparency and independence by helping us reach our goal of 50 new member sign-ups this month. Adding 50 more members will make a big impact on our finances and will help us go a long way. Consider becoming a member today!"
-title = "We need 50. Become an IFF member today!"
+slug = 'become-an-iff-member-today'
+summary = 'Help IFF retain its autonomy, transparency and independence by helping us reach our goal of 50 new member sign-ups this month. Adding 50 more members will make a big impact on our finances and will help us go a long way. Consider becoming a member today!'
+title = 'We need 50. Become an IFF member today!'
 
 +++
 

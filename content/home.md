@@ -1,11 +1,11 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T13:08:57Z
-description = ""
+description = ''
 draft = false
-image = "https://internetfreedom.in/content/images/2020/04/iff_logo_horizontal_black-2.png"
-slug = "home"
-title = "Home"
+image = 'https://internetfreedom.in/content/images/2020/04/iff_logo_horizontal_black-2.png'
+slug = 'home'
+title = 'Home'
 
 +++
 

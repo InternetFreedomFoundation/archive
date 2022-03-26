@@ -1,12 +1,12 @@
 +++
-author = "Aravind R S"
-categories = ["campaign"]
+author = 'Aravind R S'
+categories = ['campaign']
 date = 2017-02-15T17:05:39Z
-description = ""
+description = ''
 draft = false
-slug = "campaign-test"
-tags = ["campaign"]
-title = "Campaign Test Page"
+slug = 'campaign-test'
+tags = ['campaign']
+title = 'Campaign Test Page'
 
 +++
 

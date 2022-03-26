@@ -1,13 +1,13 @@
 +++
-author = "IFF Public Policy Team"
-categories = ["campaign"]
+author = 'IFF Public Policy Team'
+categories = ['campaign']
 date = 2017-03-19T11:44:33Z
-description = ""
+description = ''
 draft = false
-image = "https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png"
-slug = "shutdowns-petition"
-tags = ["campaign"]
-title = "Keep Us Online Petition"
+image = 'https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png'
+slug = 'shutdowns-petition'
+tags = ['campaign']
+title = 'Keep Us Online Petition'
 
 +++
 

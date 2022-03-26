@@ -1,11 +1,11 @@
 +++
-author = "Karthik"
+author = 'Karthik'
 date = 2020-02-14T10:02:40Z
-description = ""
+description = ''
 draft = false
-slug = "amod"
-summary = "Amod Malviya is matching donations until the end of March, 2020 upto Rs. 300,000"
-title = "Budget for Internet Freedom this March with a 1:1 Matching Fundraiser!"
+slug = 'amod'
+summary = 'Amod Malviya is matching donations until the end of March, 2020 upto Rs. 300,000'
+title = 'Budget for Internet Freedom this March with a 1:1 Matching Fundraiser!'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-09-25T08:57:45Z
-description = ""
+description = ''
 draft = false
-slug = "transparency-and-finances"
-title = "Transparency and Finances"
+slug = 'transparency-and-finances'
+title = 'Transparency and Finances'
 
 +++
 

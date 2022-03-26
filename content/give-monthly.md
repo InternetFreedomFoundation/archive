@@ -1,11 +1,11 @@
 +++
-author = "Farkhanda Zahoor"
+author = 'Farkhanda Zahoor'
 date = 2021-07-02T04:58:37Z
-description = ""
+description = ''
 draft = false
-slug = "give-monthly"
-summary = "To help us further our mission, we are now setting up a goal to reach 50 new monthly members starting at just Rs.100/month in the month of July. We want your support to help us raise awareness and funds for our work as it’s extremely crucial for us."
-title = "Become an Internet Freedom Recurring Donor"
+slug = 'give-monthly'
+summary = 'To help us further our mission, we are now setting up a goal to reach 50 new monthly members starting at just Rs.100/month in the month of July. We want your support to help us raise awareness and funds for our work as it’s extremely crucial for us.'
+title = 'Become an Internet Freedom Recurring Donor'
 
 +++
 

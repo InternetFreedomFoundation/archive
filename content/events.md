@@ -1,10 +1,10 @@
 +++
-author = "Raman Jit Singh Chima"
+author = 'Raman Jit Singh Chima'
 date = 2019-11-22T12:38:26Z
-description = ""
+description = ''
 draft = false
-slug = "events"
-title = "Events"
+slug = 'events'
+title = 'Events'
 
 +++
 

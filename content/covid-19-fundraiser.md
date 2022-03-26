@@ -1,11 +1,11 @@
 +++
-author = "Shivani Singh"
+author = 'Shivani Singh'
 date = 2020-05-04T05:01:04Z
-description = ""
+description = ''
 draft = false
-slug = "covid-19-fundraiser"
+slug = 'covid-19-fundraiser'
 summary = "The Internet Freedom  Foundation is hosting a  fundraiser to secure the salary of one staff member at  IFF for one year.\n"
-title = "Help fundamental rights survive Covid-19. Fund Digital Rights. Fund IFF."
+title = 'Help fundamental rights survive Covid-19. Fund Digital Rights. Fund IFF.'
 
 +++
 

@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-09-02T11:34:58Z
-description = ""
+description = ''
 draft = false
-slug = "donation-terms"
-title = "Online Donation Terms and Conditions"
+slug = 'donation-terms'
+title = 'Online Donation Terms and Conditions'
 
 +++
 

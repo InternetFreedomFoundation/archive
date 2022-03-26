@@ -1,13 +1,13 @@
 +++
-author = "Aravind R S"
-categories = ["campaign"]
+author = 'Aravind R S'
+categories = ['campaign']
 date = 2017-03-19T10:03:07Z
-description = ""
+description = ''
 draft = false
-image = "https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png"
-slug = "shutdowns-faq"
-tags = ["campaign"]
-title = "FAQ on Internet Shutdowns"
+image = 'https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png'
+slug = 'shutdowns-faq'
+tags = ['campaign']
+title = 'FAQ on Internet Shutdowns'
 
 +++
 

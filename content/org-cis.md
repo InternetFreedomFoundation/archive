@@ -1,13 +1,13 @@
 +++
-author = "Aravind R S"
-categories = ["campaign"]
+author = 'Aravind R S'
+categories = ['campaign']
 date = 2017-03-19T10:21:09Z
-description = ""
+description = ''
 draft = false
-image = "https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png"
-slug = "org-cis"
-tags = ["campaign"]
-title = "Centre for Internet and Society"
+image = 'https://keepusonline.in/files/keepusonline.in/images/keepusonline_banner.png'
+slug = 'org-cis'
+tags = ['campaign']
+title = 'Centre for Internet and Society'
 
 +++
 

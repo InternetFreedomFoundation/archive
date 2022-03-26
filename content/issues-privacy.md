@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T15:06:58Z
-description = ""
+description = ''
 draft = false
-slug = "issues-privacy"
-title = "Online Privacy and Encryption"
+slug = 'issues-privacy'
+title = 'Online Privacy and Encryption'
 
 +++
 

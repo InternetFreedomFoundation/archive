@@ -1,11 +1,11 @@
 +++
-author = "Farkhanda Zahoor"
+author = 'Farkhanda Zahoor'
 date = 2020-07-13T05:01:00Z
-description = ""
+description = ''
 draft = false
-slug = "iff-device-drive"
-summary = "The Internet Freedom Device Drive hopes to be able to raise about Rs. 10,00,000 for IFF to be able to purchase 5 laptops, software licenses, YubiKeys and high speed internet connection for all the staff members for a year. "
-title = "Internet Freedom Device Drive!"
+slug = 'iff-device-drive'
+summary = 'The Internet Freedom Device Drive hopes to be able to raise about Rs. 10,00,000 for IFF to be able to purchase 5 laptops, software licenses, YubiKeys and high speed internet connection for all the staff members for a year. '
+title = 'Internet Freedom Device Drive!'
 
 +++
 

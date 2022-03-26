@@ -1,12 +1,12 @@
 +++
 author = 'Shivani Singh'
-categories = ['PoSHPolicy', 'HR-Policies']
+categories = ['PoSHPolicy', 'HR-Policies', 'Gender']
 date = 2021-10-05T05:11:11Z
 description = ''
 draft = false
 slug = 'iff-posh-policy'
 summary = "This is IFF's Anti Sexual Harassment Policy in the workplace. "
-tags = ['PoSHPolicy', 'HR-Policies']
+tags = ['PoSHPolicy', 'HR-Policies', 'Gender']
 title = 'IFF PoSH Policy'
 
 +++

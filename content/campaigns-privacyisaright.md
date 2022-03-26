@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T15:34:20Z
-description = ""
+description = ''
 draft = false
-slug = "campaigns-privacyisaright"
-title = "Privacy Is A Right"
+slug = 'campaigns-privacyisaright'
+title = 'Privacy Is A Right'
 
 +++
 

@@ -26,7 +26,7 @@ title = 'Help Krupa fundraise for IFF'
     content: '';
     display: block;
     background: #a64;
-    width: calc((7500/ 35000) * 100%);
+    width: calc((26000/ 35000) * 100%);
     height: 100%;
     border-radius: 9px;
 }
@@ -35,7 +35,7 @@ title = 'Help Krupa fundraise for IFF'
 <div id="progress">
 </div>
 
-<p style="text-align:center;">We have raised Rs. 7500 out of Rs.35000 so far</p>
+<p style="text-align:center;">We have raised Rs. 26000 out of Rs.35000 so far</p>
 
 <div style="text-align:center;">
     <a href="https://internetfreedom.in/donate/" class="button">MAKE YOUR CONTRIBUTION TODAY!</a>

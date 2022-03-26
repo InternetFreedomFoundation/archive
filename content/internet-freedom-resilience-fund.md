@@ -1,11 +1,11 @@
 +++
-author = "Farkhanda Zahoor"
+author = 'Farkhanda Zahoor'
 date = 2021-01-12T08:30:57Z
-description = ""
+description = ''
 draft = false
-slug = "internet-freedom-resilience-fund"
-summary = "We are in the process of building the Internet Freedom Resilience Fund that can provide us a financial runway for the next two years and bring organisational stability."
-title = "Internet Freedom Resilience Fund"
+slug = 'internet-freedom-resilience-fund'
+summary = 'We are in the process of building the Internet Freedom Resilience Fund that can provide us a financial runway for the next two years and bring organisational stability.'
+title = 'Internet Freedom Resilience Fund'
 
 +++
 

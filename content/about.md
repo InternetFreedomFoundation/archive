@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T18:55:54Z
-description = ""
+description = ''
 draft = false
-slug = "about"
-title = "About IFF"
+slug = 'about'
+title = 'About IFF'
 
 +++
 
@@ -72,15 +72,15 @@ As a legal entity we operate on principles of transparency, inclusion and commun
 **Staff**
 Apar Gupta - Executive Director
 Tanmay Singh - Litigation Counsel
+Anandita Mishra - Associate Litigation Counsel and Case Intake Manager
+Krishnesh Bapat - Associate Litigation Counsel
 Anushka Jain - Associate Counsel - Surveillance and Transparency 
-Rohin Garg - Associate Policy Counsel
+Rohin Garg - Associate Policy Counsel - Regulation and Social Welfare
 Shivani Singh - Operations and Digital Security Manager 
 Farkhanda Zahoor - Fundraising and Communications Manager
-Archismita Choudhury - Communications and Outreach Associate
-Krishnesh Bapat - CCG Digital Fellow
-Sukhnidh Kaur - Digital Literacy Fellow
-Yashaswini Basu - Privacy and Right To Information Fellow
+Mira J - Community Fundraising Associate
 DK Rai - Office Manager 
+Ashlesh Biradar - Digital Literacy Fellow 
 
 **Of-Counsels and Legal Fellows**
 Vrinda Bhandari - Of-Counsel
@@ -88,17 +88,17 @@ Abhinav Sekhri - Of-Counsel
 Sanjana Srikumar - Legal Fellow 
 IFF's legal work is supported by several counsel and senior advocates appearing *pro bono*.
 
-Previous staffers at IFF include Joanne D'Cunha, Sidharth Deb and Devdutta Mukhopadhyay 
+Previous staffers at IFF include Joanne D'Cunha, Sidharth Deb, Devdutta Mukhopadhyay, Sukhnidh Kaur, Yashaswini Basu and Archismita Choudhury. 
 
 **Interns**
 
-Current interns at IFF include: Anushree Joshi, Eryn Wali, Tanvi Roy and Deepika Nandagudi Srinivasa
+Current interns at IFF include: Gyan Tripathi 
 
-Previous interns at IFF have included: Tanvi Vipra, Devdutta Mukhopadhyay, Jatin Jain, Rishabh Kalra, Shruti Sharma, Shivani Singh, Yaqoob Alam, Ashi Mehta, Priyanshi Dixit, Avani Airan, Raghav Kaushal, Rohit Gupta, Shehlat Wani, Anushree Verma, Sonalakshi Naidu, Rohan Matthew, Samarth Malik and Fathima VN.
+Previous interns at IFF have included: Tanvi Vipra, Devdutta Mukhopadhyay, Jatin Jain, Rishabh Kalra, Shruti Sharma, Shivani Singh, Yaqoob Alam, Ashi Mehta, Priyanshi Dixit, Avani Airan, Raghav Kaushal, Rohit Gupta, Shehlat Wani, Anushree Verma, Sonalakshi Naidu, Rohan Matthew, Samarth Malik, Fathima VN, Anushree Joshi, Eryn Wali, Tanvi Roy, Deepika Nandagudi Srinivasa, Ashlesh Biradar. Asish Singh and Simrandeep Singh
 
 **Trustees**
 As a public charitable trust, the IFF is governed by a Board of Trustees. The current trustees are: [Apar Gupta](https://twitter.com/apar1984), [Aravind Ravi Sulekha](https://twitter.com/aravindet), [Karthik Balakrishnan](https://twitter.com/karthikb351), [Rachita Taneja](https://twitter.com/visualfumble), [Raman Jit Singh Chima](https://twitter.com/tame_wildcard). 
-For 2018-21, Raman Jit Singh Chima and Karthik Balakrishnan were elected to serve as Chair and Co-Chair respectively of the Board of Trustees. 
+For 2021-24, Rachita Taneja and Aravind Ravi Sulekha were elected to serve as Chair and Co-Chair respectively of the Board of Trustees. 
 
 Past trustees have included: and [Rohin Dharmakumar](https://twitter.com/r0h1n),[Kiran Jonnalagadda](https://twitter.com/jackerhack), [Nikhil Pahwa](https://twitter.com/nixxin)
 

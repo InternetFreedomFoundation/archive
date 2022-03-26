@@ -1,10 +1,10 @@
 +++
-author = "Apar Gupta"
+author = 'Apar Gupta'
 date = 2018-10-03T09:26:25Z
-description = ""
+description = ''
 draft = false
-slug = "jobs-and-internships"
-title = "Jobs and Internships"
+slug = 'jobs-and-internships'
+title = 'Jobs and Internships'
 
 +++
 
@@ -21,7 +21,8 @@ title = "Jobs and Internships"
 
 We are hiring for the following position currently:
 
-1. **Community Fundraising Associate** - To view the job description and submit your candidature, please [apply here](https://internet-freedom-foundation.breezy.hr/p/455907d028ee-community-fundraising-officer).
+1. **Civic Literacy and Communications Associate** - To view the job description and submit your candidature, please [apply here](https://iff.breezy.hr/p/fcba0b335ad2-civic-literacy-and-communications-associate).
+2. **Policy Director** - To view the job description and submit your candidature, please [apply here](https://internet-freedom-foundation.breezy.hr/p/580f9ba3c2da-policy-director).
 
 Due to the vast number of applications we receive, we will only consider candidates that apply via the link mentioned above. Please note that we will not consider any applications sent in via email or any other channel. This is so we can streamline our hiring process internally and don't miss out on any applications from interested candidates. If you have any questions regarding the positions, please write to us at jobs@internetfreedom.in.
 
@@ -29,9 +30,7 @@ Internet Freedom Foundation is an equal opportunity employer and welcomes a dive
 
 ---
 
-## Internships
-
-**Important Note: We thank applicants for their interest but we are not looking for legal or policy interns currently. This page will be updated once we have vacancies for legal or policy interns. However, we are accepting applications from individuals with experience in video editing, design and web development.**
+## Internships  ****
 
 Depending on our capacity and need, we work with interns from domains not restricted to technology, policy or law. For instance, are you an online campaigner? Or are you a whiz at web design, infographics or illustrations? Or do you make really good Youtube videos for civic education? Apply to us. We need your help.
 
@@ -39,5 +38,5 @@ All internship positions are usually at our office in Delhi. However, due to Cov
 
 So if you have ideas on how to advance core values of human freedom and the promise of technology, [send us an application](mailto:jobs@internetfreedom.in) with your resume, a covering letter describing your interest and how you would you like to contribute to IFF. Any applications without a covering letter which includes a statement explaining their interest in digital rights will be summarily rejected. We accept applications on a rolling basis and we encourage you to apply 45-60 days before your preferred internship dates.
 
-_Page last edited on June 09, 2021._
+_Page last edited on August 26, 2021._
 

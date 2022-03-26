@@ -1,10 +1,10 @@
 +++
-author = "Aravind R S"
+author = 'Aravind R S'
 date = 2016-06-04T15:29:48Z
-description = ""
+description = ''
 draft = false
-slug = "campaigns"
-title = "Campaigns & Projects"
+slug = 'campaigns'
+title = 'Campaigns & Projects'
 
 +++
 
@@ -22,7 +22,7 @@ In any campaign or project, our aims are to:
 Campaigns we have been a part of include:
 
 * [SaveOurPrivacy.in](https://saveourprivacy.in)
-* [KeepUsOnline.in](https://internetfreedom.in/https://keepusonline.in) 
+* [KeepUsOnline.in](https://internetfreedom.in/keepusonline) 
 * [SaveTheInternet.in](https://internetfreedom.in/campaigns-savetheinternet)  [[Campaign website]](http://savetheinternet.in)
 * [SpeechBill.in](https://speechbill.in)
 * [Privacy Is A Right](https://internetfreedom.in/campaigns-privacyisaright)  [[Campaign website]](http://privacyisaright.in)
@@ -31,4 +31,5 @@ Projects we have been a part of include:
 
 * [Project Panoptic](https://panoptic.in/)
 * [Zombie Tracker](https://zombietracker.in)
+* [Digital Patrakar Defence Clinic](https://patrakardefence.in/)
 
