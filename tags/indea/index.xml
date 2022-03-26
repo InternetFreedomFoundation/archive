@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>InDEA on Internet Freedom Foundation</title>
+    <link>https://archive.internetfreedom.in/tags/indea/</link>
+    <description>Recent content in InDEA on Internet Freedom Foundation</description>
+    <image>
+      <url>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 26 Feb 2022 11:42:34 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/tags/indea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A flawed idea of InDEA!</title>
+      <link>https://archive.internetfreedom.in/post/a-flawed-idea-of-indea/</link>
+      <pubDate>Sat, 26 Feb 2022 11:42:34 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/a-flawed-idea-of-indea/</guid>
+      <description>IFF submitted comments in the ongoing consultation for India Digital Ecosystem Architecture (InDEA) 2.0 released by the MeitY in January 2022. Our core approach is towards ensuring that the rollout of the architecture happens in a manner that safeguards the rights of the user.</description>
+    </item>
+    
+  </channel>
+</rss>
