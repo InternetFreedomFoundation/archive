@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Banking and Finance on Internet Freedom Foundation</title>
+    <link>https://archive.internetfreedom.in/categories/banking-and-finance/</link>
+    <description>Recent content in Banking and Finance on Internet Freedom Foundation</description>
+    <image>
+      <url>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://archive.internetfreedom.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Nov 2021 07:19:22 +0000</lastBuildDate><atom:link href="https://archive.internetfreedom.in/categories/banking-and-finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#PrivacyOfThePeople: Small borrowers and digital lending apps</title>
+      <link>https://archive.internetfreedom.in/post/privacyofthepeople-small-borrowers-and-digital-lending-apps/</link>
+      <pubDate>Mon, 08 Nov 2021 07:19:22 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/privacyofthepeople-small-borrowers-and-digital-lending-apps/</guid>
+      <description>In the latest post in our #PrivacyOfThePeople series, we look at the impact of the Personal Data Protection Bill, 2019 on digital lending application users. We examine both illegal and ‘legal’ lending apps and look at how the data protection bill will impact digital lending.</description>
+    </item>
+    
+    <item>
+      <title>Explained: RBI&#39;s Account Aggregator Framework</title>
+      <link>https://archive.internetfreedom.in/post/explainer-account-aggregator-framework-saveourprivacy/</link>
+      <pubDate>Thu, 28 Oct 2021 05:15:11 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/explainer-account-aggregator-framework-saveourprivacy/</guid>
+      <description>The RBI’s Account Aggregator framework went live on 2nd September this year. The government has claimed that the framework will have a transformative impact on the financial ecosystem. In this explainer, we take a look at what this framework really is and highlight certain issues that may arise.</description>
+    </item>
+    
+    <item>
+      <title>We wrote to the Department of Financial Services asking them to conduct a consultation on the E-Rupi programme</title>
+      <link>https://archive.internetfreedom.in/post/we-wrote-to-the-department-of-financial-services-asking-them-to-conduct-a-consultation-on-the-e-rupi-programme/</link>
+      <pubDate>Mon, 30 Aug 2021 07:51:20 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/we-wrote-to-the-department-of-financial-services-asking-them-to-conduct-a-consultation-on-the-e-rupi-programme/</guid>
+      <description>We wrote to the Department of Financial Services about the E-Rupi. We pointed out several issues such as surveillance and financial exploitation, the lack of data protection, and exclusion. We suggested that a consultation be conducted, and that data protection norms be specified.</description>
+    </item>
+    
+    <item>
+      <title>The E-Rupi Scheme: An Explainer</title>
+      <link>https://archive.internetfreedom.in/post/the-e-rupi-scheme-an-explainer/</link>
+      <pubDate>Sat, 21 Aug 2021 05:55:51 +0000</pubDate>
+      
+      <guid>https://archive.internetfreedom.in/post/the-e-rupi-scheme-an-explainer/</guid>
+      <description>Recently, the PM launched the E-Rupi voucher programme. Given that these vouchers are supposed to transform the digital payments system and assist in vaccine delivery, we thought we’d create an explainer on the scheme. This is our attempt at helping people understanding the programme.</description>
+    </item>
+    
+  </channel>
+</rss>
