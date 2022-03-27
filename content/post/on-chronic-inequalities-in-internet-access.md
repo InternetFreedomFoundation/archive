@@ -31,7 +31,7 @@ The [Indian Telecom Services Performance Indicators report for April – June, 2
 
 The table below displays the monthly growth of broadband subscribers in 2020 based on TRAI’s [monthly subscription reports](https://www.trai.gov.in/release-publication/reports/telecom-subscriptions-reports).
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-3.png" caption=`"Internet Broadband (≥ 512 Kbps download speed) in 2020"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-3.png" caption=`Internet Broadband (≥ 512 Kbps download speed) in 2020` >}}
 
 ## Gaps in availability persist
 

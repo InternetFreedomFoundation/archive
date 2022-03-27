@@ -13,7 +13,7 @@ title = 'We strongly condemn the communications blackout in Jammu and Kashmir an
 +++
 
 
-{{< figure src="https://lh4.googleusercontent.com/OiCfVHNX5E__isMTwEYvpUkNYkfOHlX4AB5Uh6auF1BpKjOGqgFNrI7OD6UDI-HZSUASEXlbUNDab8wbfp6F4X0lHExHdhX9IF-0oNgsc7JHpr-UP7_qUBRKp17gdJ9JL52rr7ZS" caption=`""` >}}
+{{< figure src="https://lh4.googleusercontent.com/OiCfVHNX5E__isMTwEYvpUkNYkfOHlX4AB5Uh6auF1BpKjOGqgFNrI7OD6UDI-HZSUASEXlbUNDab8wbfp6F4X0lHExHdhX9IF-0oNgsc7JHpr-UP7_qUBRKp17gdJ9JL52rr7ZS" caption=`` >}}
 
 
 

@@ -25,7 +25,7 @@ Several press reports have emerged that such lists are being circulated on socia
 
 These lists are not uniform and while may not contain the name of the person do contain personally identifiable information such as the addresses and the relatives of such persons. It is enabling discrimination, denial of essential health care and food items and even leading to instances where persons placed under quarantine are being placed under pressure of eviction by landlords and apartment societies.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/03/Capture-e1585341038542-1024x340.jpg" caption=`"Screengrab from the website of the Karnataka State Government Portal"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/03/Capture-e1585341038542-1024x340.jpg" caption=`Screengrab from the website of the Karnataka State Government Portal` >}}
 
 **"Vaishnav Jan To Tene Kahiye"**
 

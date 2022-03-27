@@ -67,7 +67,7 @@ The consultation paper contains several proposals for the commercialization and 
 
 * **Staying away from “DEPA”:** We cautioned against the consent architecture being proposed through the application of the [DEPA](https://www.niti.gov.in/) framework. Our primary submission is that it lacks any legal backing, and thus doesn’t provide for any remedies. Additionally, the technical architecture as proposed within the consultation paper is as per an infographic from “iSPIRIT Developers”. This “consent architecture” is more about data exploitation that meaningful consent that is backed with legal guarantees. For instance it aims to facilitate the sharing of telecom data with other service providers for purposes such as credit scoring for “flow-based credit” or, “insurance”. Telecom data aggregation will pose certain risks without an enforceable data protection law or authority to monitor and provide legal remedies. 
 
-{{< figure src="https://lh6.googleusercontent.com/agI8ILwZdhOIDU41fuvq8Jhh5NK9sl7VfbIdiFW9yut9PAtCV7hTG61UQ8lYk5sVwfRa5tYVa2ZG9ssfw7zJtx0Q9FNElPV_aLq7Y7ReRAsWlPBK8i2PS5EABgzB3BqpAMgrX2f4" caption=`"Figure 1: Implementation of Consented Sharing of Telecom Data"` >}}
+{{< figure src="https://lh6.googleusercontent.com/agI8ILwZdhOIDU41fuvq8Jhh5NK9sl7VfbIdiFW9yut9PAtCV7hTG61UQ8lYk5sVwfRa5tYVa2ZG9ssfw7zJtx0Q9FNElPV_aLq7Y7ReRAsWlPBK8i2PS5EABgzB3BqpAMgrX2f4" caption=`Figure 1: Implementation of Consented Sharing of Telecom Data` >}}
 
 
 

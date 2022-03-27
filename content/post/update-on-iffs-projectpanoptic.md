@@ -36,11 +36,11 @@ The resource will essentially be a website which will consist of an interactive 
 
 IFF has teamed up with [DataKind Bangalore](https://www.datakind.org/chapters/datakind-blr) to build this public resource. By clicking on this [link](https://projects.invisionapp.com/share/H4XRZE1A3Y8#/screens/422371418) you can access the interactive wireframe for the project. The resource is being built with the help of a team of talented and socially conscious volunteers which includes [Vivek Shrinivasan](https://www.linkedin.com/in/vivek-shrinivasan/), [Srivalya Elluru](https://www.linkedin.com/in/srivalya-elluru-a82982ba/), [Srihari Pramod](https://www.linkedin.com/in/sriharipramod/), [Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-4b330abb/) and [Romit Jain](https://www.linkedin.com/in/romitjain7/). Below are tentative wireframes for the resource.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/07/02_zoomed_in_map-2.png" caption=`"Map of India (zoomed in)"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/07/02_zoomed_in_map-2.png" caption=`Map of India (zoomed in)` >}}
 
 
 
-{{< figure src="https://internetfreedom.in/content/images/2020/07/03_state_details.png" caption=`"Wireframe of information display for a specific project"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/07/03_state_details.png" caption=`Wireframe of information display for a specific project` >}}
 
 
 

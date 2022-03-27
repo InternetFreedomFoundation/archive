@@ -12,7 +12,7 @@ title = 'SC directs States, UTs and High Courts to reply to PUCL’s Application
 +++
 
 
-{{< gallery caption="" >}}
+{{< gallery caption=`` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/08/States--Union-Territories-and-Registrar-General-of-High-Courts-why-is-a-zombie-section-still-running-6.png" width="1600" height="900" >}}{{< /gallery >}}
 
 >>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>

@@ -39,7 +39,7 @@ This is why we have sent a legal notice to the Broadcasts Engineering Consultant
 
 The first item sought to be procured is the “_Personnel Tracking GPS Solution_” for the ostensible health and safety of medical professionals and, “_rescue teams_”. The data collected through the, “_cloud based software application_” will be stored in a “_data centre… in India_”.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/04/Infographics---BECIL.png" caption=`""` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/04/Infographics---BECIL.png" caption=`` >}}
 
 Specifically, there are three illegal features of this system as per the, “_Solution Objective_”, that will be implemented through a “_wrist watch/I-card/App_”.
 

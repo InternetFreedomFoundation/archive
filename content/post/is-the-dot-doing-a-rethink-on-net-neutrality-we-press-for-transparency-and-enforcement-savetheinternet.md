@@ -56,7 +56,7 @@ In order to counter such regressive impacts on India’s net neutrality regime, 
 
 The DoT cited fiscal constraints and the need to prevent ‘avoidable expenditure’. Firstly, relegating net neutrality to the status of an avoidable item may be a gross error on the part of the department for the reasons indicated above. Secondly, the latest [budgetary figures](https://www.indiabudget.gov.in/doc/eb/sbe13.pdf) themselves belie the Department’s claims, as they show that the expenditure on regulatory bodies constitutes a negligible part of the department’s expenditure.
 
-{{< gallery caption="" >}}
+{{< gallery caption=`` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/08/DoT-image.png" width="647" height="447" >}}{{< /gallery >}}
 
 As can be seen in the table above, expenditure on regulatory bodies constitutes a minuscule part of the DoT’s total expenditure (0.39% in the Budget estimates for FY 2021-22). Indeed, even if one were to restrict the scope of analysis to the Establishment Expenditure of the Centre, expenditure on regulatory bodies would constitute only 1.40% of the total Central Establishment Expenditure

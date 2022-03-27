@@ -47,7 +47,7 @@ We sound like a broken record every time we put the words “strong passwords”
 
 ### Passphrases >>> Passwords
 
-{{< gallery caption="Source: https://xkcd.com/936/" >}}
+{{< gallery caption=`Source: https://xkcd.com/936/` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/09/password_strength-1.png" width="740" height="601" >}}{{< /gallery >}}
 
 This is a really important one. [Passphrases](https://freedom.press/training/three-types-of-passphrases/) are secret keys consisting of a sequence of words or other text as a form of authentication. The reason why passphrases are more widely recommended than passwords are because they are long, easy to remember and hard to guess. An added advantage that most Indians have is also the ability to speak 2 or more languages. You can even set a passphrase in your native language, which will be very difficult for people who don’t speak your mother tongue to crack! [Here's a cool tool by EFF that let's you generate random passphrases easily](https://www.eff.org/dice).

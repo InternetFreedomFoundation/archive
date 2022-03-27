@@ -13,7 +13,7 @@ title = "Will India's Healthcare Data Be Protected? #PrivacyOfThePeople"
 +++
 
 
-{{< gallery caption="<em>Will India's Incoming Data Protection Law Protect You From Insurance Fraud? No, and if your data gets stolen, companies don't need to inform you either.</em>" >}}
+{{< gallery caption=`<em>Will India's Incoming Data Protection Law Protect You From Insurance Fraud? No, and if your data gets stolen, companies don't need to inform you either.</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/07/Health-data--PrivacyofthePeople.png" width="1280" height="720" >}}{{< /gallery >}}
 
 >>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>

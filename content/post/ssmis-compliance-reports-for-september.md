@@ -42,10 +42,10 @@ The reports continue to lack true transparency as the SSMIs have failed to repor
 
 ## What does the data on proactive monitoring reveal?
 
-{{< gallery caption="Graph 1: Facebook - Proactive rate of content actioned for different policy areas" >}}
+{{< gallery caption=`Graph 1: Facebook - Proactive rate of content actioned for different policy areas` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/12/Facebook_Proactive-rate-of-content-actioned.-.png" width="960" height="544" >}}{{< /gallery >}}
 
-{{< gallery caption="Graph 2: Instagram - Proactive rate of content actioned for different policy areas&nbsp;" >}}
+{{< gallery caption=`Graph 2: Instagram - Proactive rate of content actioned for different policy areas&nbsp;` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/12/Instagram_-Proactive-rate-of-content-actioned.-.png" width="842" height="521" >}}{{< /gallery >}}
 
 As per its reports (which now has a Meta logo instead!), Facebook and Instagram adopt the metrics of (i) ‘content actioned’ which measures the number of pieces of content (such as posts, photos, videos or comments) that they take action on for going against their standards and guidelines, (ii) proactive rate which refers to the percentage of ‘content actioned’ that they detected proactively before any user reported for the same. This metric is problematic because the proactive rate only gives a percentage of that content on which action was taken, and excludes all content on Facebook (which may otherwise be an area of concern) on which action was not taken. This problem in the metric becomes a glaring concern in light of the [documents](https://drive.google.com/file/d/1CZrCqyCHJ7L1EHPeorGBoQpKhKFRrMC5/view) leaked by Frances Haugen which show that Facebook has boasted of proactive removal of over 90% of identified hate speech in its “transparency reports” when internal records showed that “as little as 3-5% of hate” speech was actually removed. These documents confirm what civil society organizations have been [asserting](https://www.technologyreview.com/2021/11/20/1039076/facebook-google-disinformation-clickbait/) for years, that Facebook has been fueling hate speech around the world because of its failure to moderate content and its use of algorithms to amplify inflammatory content.
@@ -62,10 +62,10 @@ Data on proactive monitoring for the other SSMIs is as follows:
 
 ## What does the data on the complaints received reveal?
 
-{{< gallery caption="Graph 3: Facebook - Percentage of user complaints addressed" >}}
+{{< gallery caption=`Graph 3: Facebook - Percentage of user complaints addressed` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/12/Facebook_--Percentage-of-user-grievances-addressed.png" width="1646" height="482" >}}{{< /gallery >}}
 
-{{< gallery caption="Graph 4: Instagram - Percentage of user complaints addressed&nbsp;" >}}
+{{< gallery caption=`Graph 4: Instagram - Percentage of user complaints addressed&nbsp;` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/12/Instagram_-Percentage-of-user-grievances-addressed.-.png" width="1272" height="523" >}}{{< /gallery >}}
 
 In the case of Google, 97.1% of the complaints received and 99.9% of content removal action was taken for reasons of copyright and trademark infringement. This is no different from the last report where also 99.9% of such content was taken down. Other reasons for content removal included graphic sexual content (11), court order (10), counterfeit (5), defamation (2), and impersonation (2). A recent trend of ‘complaint bombing’ content for copyright infringement on YouTube is being seen in India which is being misused to suppress dissent and criticism. We have written more about it [here](https://internetfreedom.in/iff-writes-to-google-india-about-recent-instances-of-youtube-copyright-strikes/).

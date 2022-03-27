@@ -28,14 +28,14 @@ Through a Right to Information (RTI) request which was transferred to the Depart
 
 On February 8, 2021, we filed a RTI request with MTNL asking them to provide us with information pertaining to websites, URLs or applications blocked pursuant to any order/decree/judgment passed by a competent court during 2020 and 2021.
 
-{{< gallery caption="RTI request filed with MTNL on website blocking dated February 8, 2021" >}}
+{{< gallery caption=`RTI request filed with MTNL on website blocking dated February 8, 2021` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/03/Screenshot-2021-03-31-at-2.25.15-PM-1.png" width="1946" height="1491" >}}{{< /gallery >}}
 
 Our request was further transferred from MTNL to DoT, from DoT to Director General (Telecom) HQ and finally from Director General (Telecom) HQ back to DoT.
 
 In response to the transferred request bearing reference no. DOTEL/R/T/21/00132, the DoT provided a reply dated March 4, 2021. In their response, the DoT states that, "94 blocking orders issued by DoT during 2020 & 2021 pursuant to orders of different Hon'ble courts. 3725 website/URL blocked or access disabled pursuant to these orders." They also attached an [annexure](https://drive.google.com/file/d/1gn24xiTW3ggjWGDut4ywzhHNb4w0VeLu/view?usp=sharing) which contained the list of cases pursuant to which DoT issued these orders.
 
-{{< gallery caption="Response received from DoT on website blocking dated March 4, 2021" >}}
+{{< gallery caption=`Response received from DoT on website blocking dated March 4, 2021` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/03/Screenshot-2021-03-31-at-2.35.37-PM.png" width="1955" height="1575" >}}{{< /gallery >}}
 
 We also filed a First Appeal against this response, asking the First Appellate authority to direct the CPIO to share with us the specific court orders pursuant to which the blocking orders were issued.

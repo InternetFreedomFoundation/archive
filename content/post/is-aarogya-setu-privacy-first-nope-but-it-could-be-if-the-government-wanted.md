@@ -68,7 +68,7 @@ Therefore, we need to adhere to two principles:
 
 **Aarogya Setu compares unfavourably to Singapore and MIT**
 
-{{< figure src="https://lh5.googleusercontent.com/cQilR1IHmLlYUWw6aJBMLt6aKf6g4LUIOEabyZwgo46KRHa8Kn9L2N4p9u9aAdbTI4h92Yc-TFsPWd18Dysf95XHTF8WZJOffUTGAjnfvE5fLgIU537bv5KsICFdHkBiw8kr_jFA" caption=`""` >}}
+{{< figure src="https://lh5.googleusercontent.com/cQilR1IHmLlYUWw6aJBMLt6aKf6g4LUIOEabyZwgo46KRHa8Kn9L2N4p9u9aAdbTI4h92Yc-TFsPWd18Dysf95XHTF8WZJOffUTGAjnfvE5fLgIU537bv5KsICFdHkBiw8kr_jFA" caption=`` >}}
 
 Consider the following aspects.
 

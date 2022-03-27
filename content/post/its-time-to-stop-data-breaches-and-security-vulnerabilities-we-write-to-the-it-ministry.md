@@ -37,7 +37,7 @@ The details of this vulnerability are truly shocking and reveal the following.
 
 **Can we go beyond bald denials and towards securing public, digital systems?**
 
-{{< figure src="https://internetfreedom.in/content/images/2020/06/Screenshot-2020-06-03-at-3.45.57-AM.png" caption=`"Credit : <a href="https://braindedindia.wordpress.com/about/">Braided Times</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/06/Screenshot-2020-06-03-at-3.45.57-AM.png" caption=`Credit : <a href="https://braindedindia.wordpress.com/about/">Braided Times</a>` >}}
 
 Some issues emerge from this cyber security incident on which we make specific recommendations:
 

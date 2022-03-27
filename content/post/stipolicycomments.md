@@ -29,11 +29,11 @@ As the world proceeds further into the 21st century, it is clear that the future
 
 As per S&T indicators collected and compiled by NSTMIS, DST, GoI in 2019, India’s GERD has been stagnant to just 0.7% of the GDP for the last 5 years. When compared to 31 most developing & developed countries, India ranks at a concerning 26th position standing last among the BRICS nations.
 
-{{< figure src="https://lh3.googleusercontent.com/Kg-WF6IHJufXTKz-gNeAuxByzZy_sATFSIa4HhM_x0MBzkeDvWxe3dKu7aBfeFmG0IBqXukyBFzPmJg7Hi4JcMJArHaoDrNVXeWT1Kp4Ep2UR1yzRNPTeQ5W0eccpiej6ltHd4ul" caption=`"<em>Source:</em> Research and Development Statistics, 2019-20"` >}}
+{{< figure src="https://lh3.googleusercontent.com/Kg-WF6IHJufXTKz-gNeAuxByzZy_sATFSIa4HhM_x0MBzkeDvWxe3dKu7aBfeFmG0IBqXukyBFzPmJg7Hi4JcMJArHaoDrNVXeWT1Kp4Ep2UR1yzRNPTeQ5W0eccpiej6ltHd4ul" caption=`<em>Source:</em> Research and Development Statistics, 2019-20` >}}
 
 Further, the S&T indicators highlight the need to set clear fiscal targets to increase India’s per capita expenditure on research & development from 47.2 (current PPP$) to 300 (current PPP$) coming slightly above the current world’s average in next 5 years.
 
-{{< figure src="https://lh4.googleusercontent.com/LOvzV0GNBww2W_BrwoIXRfboy1d-lcDAp5wCBhWODNNjCCNg7MCvbhc4bfZRaGG6Gr_g3nM-YNo7r3JxqFNnjGX-mkhP4RFNlNwLHy73J_Ug3Rcoq2xhPH_scYWlqCaBKPngFWTm" caption=`"<em>Source:</em> S&amp;T Indicators Tables, 2019-20"` >}}
+{{< figure src="https://lh4.googleusercontent.com/LOvzV0GNBww2W_BrwoIXRfboy1d-lcDAp5wCBhWODNNjCCNg7MCvbhc4bfZRaGG6Gr_g3nM-YNo7r3JxqFNnjGX-mkhP4RFNlNwLHy73J_Ug3Rcoq2xhPH_scYWlqCaBKPngFWTm" caption=`<em>Source:</em> S&amp;T Indicators Tables, 2019-20` >}}
 
 Meanwhile, in spite of recent strides, private sector investment in R&D remains low: in 2004-05, the private sector accounted for 28% of research spend; it was 40% in 2016-17. Indian corporate hesitancy about spending on R&D is well documented, with most private sector entities having  “a limited risk-appetite to invest in futuristic technology.”
 

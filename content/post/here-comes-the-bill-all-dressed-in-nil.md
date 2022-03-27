@@ -13,7 +13,7 @@ title = 'Here comes the Bill, all dressed in Nil #SaveOurPrivacy'
 +++
 
 
-{{< figure src="https://internetfreedom.in/content/images/2019/12/poster-3.png" caption=`"Poster can be ordered from here and is designed by <a href="https://www.kultureshop.in/">Kulture Shop</a>. Gifted by Sangeeta Chakrovorty, an IFF member who enriches our growing community. Want to become a IFF member? <a href="https://internetfreedom.in/donate/">Sign up here</a>."` >}}
+{{< figure src="https://internetfreedom.in/content/images/2019/12/poster-3.png" caption=`Poster can be ordered from here and is designed by <a href="https://www.kultureshop.in/">Kulture Shop</a>. Gifted by Sangeeta Chakrovorty, an IFF member who enriches our growing community. Want to become a IFF member? <a href="https://internetfreedom.in/donate/">Sign up here</a>.` >}}
 
 ### Tl:dr
 

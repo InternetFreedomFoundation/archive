@@ -40,12 +40,12 @@ A 2016 report published by Privacy International on [The Global Surveillance Ind
 
 For example, this graph looks at the number of surveillance companies created each year from 1945 to 2015.
 
-{{< gallery caption="Source: Privacy International" >}}
+{{< gallery caption=`Source: Privacy International` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/08/Screenshot-2021-08-04-at-12.30.34-PM.png" width="1436" height="796" >}}{{< /gallery >}}
 
 Or this table, featured in the same report which looks at industry actors involved in surveillance.
 
-{{< gallery caption="Source: Privacy International" >}}
+{{< gallery caption=`Source: Privacy International` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/08/Screenshot-2021-08-04-at-12.29.52-PM.png" width="1484" height="944" >}}{{< /gallery >}}
 
 [Multiple reports published in 2021](https://telecom.economictimes.indiatimes.com/news/spyware-for-sale-the-booming-trade-in-surveillance-tech-like-pegasus/84665107) also suggest that NSO is merely one player in the surveillance industry globally. In fact, researchers say that these tools are getting cheaper everyday making it easy for not just top intelligence agencies to purchase such spyware but also can be procured easily by smaller governments and local police agencies.

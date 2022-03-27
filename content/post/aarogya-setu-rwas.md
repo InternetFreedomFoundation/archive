@@ -26,7 +26,7 @@ Resident Welfare Associations ('RWAs') have nominated themselves as the first li
 
 ### Is it a bird? Is it a plane? No, it is RWAman!
 
-{{< figure src="https://internetfreedom.in/content/images/2020/06/RWA-Comic.jpeg" caption=`"Credit: https://twitter.com/penpencildraw&nbsp;"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/06/RWA-Comic.jpeg" caption=`Credit: https://twitter.com/penpencildraw&nbsp;` >}}
 
 Media reports indicate that Resident Welfare Associations (‘RWAs’) in several cities have made use of the Aarogya Setu mobile app a precondition for residents and visitors such as domestic workers, drivers, delivery persons, service providers etc. As you may know, Aarogya Setu is a COVID-19 surveillance app launched by the Indian government which has been heavily criticized for privacy, security and exclusion related concerns.  IFF has opposed mandatory imposition of Aarogya Setu on the [litigation](https://internetfreedom.in/kerala-hc-hears-challenges-against-mandatory-imposition-of-aarogya-setu/), [policy](https://internetfreedom.in/we-studied-the-protocol-and-no-this-doesnt-sufficiently-protect-your-privacy/), [RTI](https://internetfreedom.in/aarogya-setu-through-the-right-to-information-lens/) and [public advocacy](https://internetfreedom.in/45-organizations-and-105-prominent-individuals-push-back-against-the-coercion-of-aarogya-setu/) fronts. But before we delve into the legality of rules made by RWAs which mandate use of Aarogya Setu, let us first understand what is the legal status of RWAs themselves.
 

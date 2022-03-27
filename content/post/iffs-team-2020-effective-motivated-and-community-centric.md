@@ -11,7 +11,7 @@ title = 'IFF’s Team 2020  : Effective, motivated and community centric'
 +++
 
 
-{{< figure src="https://internetfreedom.in/content/images/2020/02/WhatsApp-Image-2020-02-04-at-19.53.05-2.jpeg" caption=`"Team IFF! (L-R: Devdutta Mukhopadhyay, Shivani Singh, Farkhanda Zahoor, Sidharth Deb, D.K. Rai, Apar Gupta)"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/02/WhatsApp-Image-2020-02-04-at-19.53.05-2.jpeg" caption=`Team IFF! (L-R: Devdutta Mukhopadhyay, Shivani Singh, Farkhanda Zahoor, Sidharth Deb, D.K. Rai, Apar Gupta)` >}}
 
 Does our work need to pick up pace, quality, and impact? We believe it does. Many, if not most Indians today face challenges to their fundamental rights as our society transforms with the growing adoption of technology. This is a problem statement we studied closely over last year and decided to scale up and assemble a team of motivated, talented staffers that work on delivering on our public commitments. Today, through this post we introduce our 2020 team.
 

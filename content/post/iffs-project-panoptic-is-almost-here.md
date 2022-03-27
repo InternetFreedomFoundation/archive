@@ -39,7 +39,7 @@ IFF has been working tirelessly in ensuring that we keep a track of all the FRT 
 
 
 
-{{< figure src="https://lh4.googleusercontent.com/SnwvIz3_tGrC3sEgHxFkrAz8UhW6Hk0oILMiMR33UippZHhLr6QKUHIhMUFKxrKuLfQICnjlIV5AaSrKW6eS5UJFVvJ2H6yY0yClCsuq7PwxGbssvWkA9FyorG5YOY25XfqVlDYT" caption=`"This image is for illustration purposes only."` >}}
+{{< figure src="https://lh4.googleusercontent.com/SnwvIz3_tGrC3sEgHxFkrAz8UhW6Hk0oILMiMR33UippZHhLr6QKUHIhMUFKxrKuLfQICnjlIV5AaSrKW6eS5UJFVvJ2H6yY0yClCsuq7PwxGbssvWkA9FyorG5YOY25XfqVlDYT" caption=`This image is for illustration purposes only.` >}}
 
 
 

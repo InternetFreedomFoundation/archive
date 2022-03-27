@@ -28,7 +28,7 @@ On 23 April, 2021, the Government of India announced the “largest vaccination 
 * Persons in the 18-45 age group will not be provided vaccination by the Central Government but will instead have to be taken care of by the state governments (whether paid or without payment).
 * Those in the 18-45 age group can only register for the vaccine online, through the CoWIN platform, without an option to walk-in and register.
 
-{{< gallery caption="These measures will only exacerbate difficulties in accessing the vaccine." >}}
+{{< gallery caption=`These measures will only exacerbate difficulties in accessing the vaccine.` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/Ez1aIn0UYAI6kAC.jpeg" width="1200" height="1200" >}}{{< /gallery >}}
 
 The [class and rural-urban divide](https://scroll.in/article/989081/a-stark-class-divide-is-emerging-in-indias-covid-19-vaccination-drive) in the previous vaccination phases have already been highlighted by civil society groups like the [All India People’s Science Network](https://aipsn.net/wp-content/uploads/2021/04/AIPSNStatementCovidSecondWave14Apr2021OnLrHd.pdf) and [others](https://timesofindia.indiatimes.com/india/the-poor-may-be-getting-left-behind-in-vaccination-drive/articleshow/81420727.cms). We echo these [concerns](https://aipsn.net/2021/04/21/government-unmasked-abdicates-vaccination-responsibility/):
@@ -48,7 +48,7 @@ Amidst distressing reports of hospitals running out of oxygen and medicines, the
 * In Gurgaon, on the [government’s emergency portal](https://covidggn.com/), persons cannot register for a hospital bed without Aadhaar cards that too with a Gurugram address.
 * Across multiple states [and cities](https://timesofindia.indiatimes.com/city/lucknow/long-queues-continue-outside-oxygen-plants/articleshow/82204609.cms), the Aadhaar card of the patient and attendant are being mandated to hand over oxygen cylinders.
 
-{{< gallery caption="Screenshot from Gurugram portal" >}}
+{{< gallery caption=`Screenshot from Gurugram portal` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/image.png" width="1878" height="386" >}}{{< /gallery >}}
 
 ### The pandemic cannot be used to test out new technology

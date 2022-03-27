@@ -46,7 +46,7 @@ While we are appreciative of the Supreme Court's order, in the granular view of 
 
 A prototype '[zombie tracker](http://www.civicdatalab.in/judiciary_experiments/case_studies/66a_explorer.html)' we have been working on with Civic Data Labs, show that there are fresh case registrations in Maharashtra and we fear that many more cases still pending across the country.
 
-{{< figure src="https://internetfreedom.in/content/images/2019/10/Capture-6.PNG" caption=`"A mock up of an early alpha version of the, "Zombie Tracker""` >}}
+{{< figure src="https://internetfreedom.in/content/images/2019/10/Capture-6.PNG" caption=`A mock up of an early alpha version of the, "Zombie Tracker"` >}}
 
 IFF is committed to erasing Section 66A from FIRs (first information reports) and court dockets to the best of our ability. As always we will continue to update you with any actions we intend to take and any results we manage to shake.
 

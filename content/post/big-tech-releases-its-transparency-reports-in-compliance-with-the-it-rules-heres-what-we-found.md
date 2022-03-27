@@ -13,7 +13,7 @@ title = 'Big Tech releases its transparency reports in compliance with the IT Ru
 +++
 
 
-{{< gallery caption="<em>Are you being followed by the Government? Here are some staggering details we found from the first round of IT Rules reports.</em>" >}}
+{{< gallery caption=`<em>Are you being followed by the Government? Here are some staggering details we found from the first round of IT Rules reports.</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/07/Copy-of-16th-July-Design.png" width="4800" height="2700" >}}{{< /gallery >}}
 
 >>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>

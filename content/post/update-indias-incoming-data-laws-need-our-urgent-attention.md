@@ -13,7 +13,7 @@ title = 'Update: India’s incoming data laws need our urgent attention'
 +++
 
 
-{{< gallery caption="<em>The Parliament Is In Session. And India's Incoming Data Laws need your urgent attention.</em>" >}}
+{{< gallery caption=`<em>The Parliament Is In Session. And India's Incoming Data Laws need your urgent attention.</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/07/The-Parliament-is-in-Session.png" width="1600" height="900" >}}{{< /gallery >}}
 
 >>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>

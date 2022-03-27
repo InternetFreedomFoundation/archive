@@ -27,15 +27,15 @@ As we informed you yesterday, the Data Protection Bill, 2019 is finally  steppin
 
 SaveOurPrivacy has worked since May, 2018 as a framework for civil society groups to put forward demands on data protection and surveillance reform. Powered by IFF and comprising of many organisations and volunteers it has prepared a public analysis of the Data Protection Bill, 2019.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.32.45-AM.png" caption=`"<a href="https://saveourprivacy.in/media/all/Brief-PDP-Bill-25.12.2020.pdf">Click here to download (PDF file)</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.32.45-AM.png" caption=`<a href="https://saveourprivacy.in/media/all/Brief-PDP-Bill-25.12.2020.pdf">Click here to download (PDF file)</a>` >}}
 
 This brief runs you through the legislative history of the bill and the past parlimentary efforts to bring a model privacy law in India. These are six key facts that we think you should know.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.40.39-AM.png" caption=`"<a href="https://saveourprivacy.in/media/all/Brief-PDP-Bill-25.12.2020.pdf">Click here to download (PDF file)</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.40.39-AM.png" caption=`<a href="https://saveourprivacy.in/media/all/Brief-PDP-Bill-25.12.2020.pdf">Click here to download (PDF file)</a>` >}}
 
 It further includes a summary that highlights the top 10 issues with the present version of the Data Protection Bill, 2019. We urge you to go through this and circulate it widely. We have made every effort to break down legal jargon and make it as simple and accessible as possible.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.40.25-AM.png" caption=`"<a href="https://saveourprivacy.in/media/all/Brief-PDP-Bill-25.12.2020.pdf">click here to download (PDF file)</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/01/Screenshot-2020-01-25-at-11.40.25-AM.png" caption=`<a href="https://saveourprivacy.in/media/all/Brief-PDP-Bill-25.12.2020.pdf">click here to download (PDF file)</a>` >}}
 
 In the coming weeks the SaveOurPrivacy volunteers will create further  materials to aid public understanding and participation before this  Joint Parliamentary Committee. Here is to more (data) power to the  people!
 

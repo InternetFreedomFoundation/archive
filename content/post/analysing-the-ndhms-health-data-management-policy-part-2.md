@@ -13,7 +13,7 @@ title = 'Analysing the NDHM’s Health Data Management Policy: Part 2'
 +++
 
 
-{{< gallery caption="<em>A 'Yes' once isn't a 'Yes' forever: Consent, coercion, and confidentiality in India's incoming Health Data Management Policy</em>" >}}
+{{< gallery caption=`<em>A 'Yes' once isn't a 'Yes' forever: Consent, coercion, and confidentiality in India's incoming Health Data Management Policy</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/07/NDHM-2-Twitter.png" width="4800" height="2700" >}}{{< /gallery >}}
 
 >>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>

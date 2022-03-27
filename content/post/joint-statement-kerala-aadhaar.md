@@ -35,7 +35,7 @@ The joint statement prepared by [RethinkAadhaar](https://internetfreedom.in/p/f6
 
 > The purpose of preventing fraud cannot and should not be carried out by breaches to privacy, dignity and autonomy of individuals, especially in the absence of any clear basis in law. As a constitutional body, the Government of Kerala, and the KPSC are bound to uphold the rule of law and the judgements of the Supreme Court, and should withdraw the notification, and clarify that Aadhaar verification remains optional."
 
-{{< figure src="https://internetfreedom.in/content/images/2020/06/Aadhaar-Baalak--Adarsh-Baalak-800px.jpg" caption=`""Aadhaar Balak" credits to Research &amp; Action. <a href="http://rethinkaadhaar.in/resources">Sourced from Rethink Aadhaar.</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/06/Aadhaar-Baalak--Adarsh-Baalak-800px.jpg" caption=`"Aadhaar Balak" credits to Research &amp; Action. <a href="http://rethinkaadhaar.in/resources">Sourced from Rethink Aadhaar.</a>` >}}
 
 ### IFF's work on Aadhaar and Digital Identity
 

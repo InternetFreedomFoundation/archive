@@ -23,7 +23,7 @@ As per a press report in the Quint, the communication shutdowns in Kashmir was p
 
 The Quint on October 14, 2019 in a press report by Shushovan Sircar informed that residents of Kashmir holding postpaid connections were given access to their connections after a communication shutdown that lasted over two months. However, although these voice calling facilities were made available, the only way users were able to make use of their subscriptions were if they cleared payments worth two months of shutdown. Further, an update to the report informed that as a ‘special gesture’ Airtel waived postpaid charges for specifically Airtel Thanks customers only.
 
-{{< figure src="https://internetfreedom.in/content/images/2019/10/Capture-7.PNG" caption=`"<a href="https://www.thequint.com/news/india/airtel-waive-off-postpaid-dues-august-september-jammu-and-kashmir">Airtel to Waive Aug-Sept Dues in Kashmir as ‘Special Gesture’</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2019/10/Capture-7.PNG" caption=`<a href="https://www.thequint.com/news/india/airtel-waive-off-postpaid-dues-august-september-jammu-and-kashmir">Airtel to Waive Aug-Sept Dues in Kashmir as ‘Special Gesture’</a>` >}}
 
 In light of this targetted application of the waiver, we write to the DOT on the need to provide regulatory directions to ISPs on the waiving of fees charged during the communication shutdown in order for it to be carried out uniformly across service providers.
 

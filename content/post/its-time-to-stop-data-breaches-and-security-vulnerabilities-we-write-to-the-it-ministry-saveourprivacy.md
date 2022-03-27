@@ -28,7 +28,7 @@ The Parliamentary Standing Committee is a vital body to inform the law making pr
 
 We have highlighted this in our a letter we first wrote on June 10, 2020 making our case. This has been explained [at length in this blogpost](https://internetfreedom.in/get-up-stand-up-for-our-privacy-rights/) and also acknowledged by the Chairperson of the Committee, Dr. Shashi Tharoor.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/06/Screenshot-2020-06-04-at-6.05.57-PM.png" caption=`"<a href="https://twitter.com/ShashiTharoor/status/1259472308881645568?s=20">Link</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/06/Screenshot-2020-06-04-at-6.05.57-PM.png" caption=`<a href="https://twitter.com/ShashiTharoor/status/1259472308881645568?s=20">Link</a>` >}}
 
 Subsequent to this, a notice was published a few days back announcing the Committee would indeed be meeting on June 10, 2020 and would be holding a hearing with officials from the Ministry of Electronics and Information Technology. The subject for this would be citizens data security and privacy. We believe this hearing can be conducted either in person or through remote conference keeping in mind the urgency of the issue as well as accounting for the safety and wellness of the members. Stopping the functioning of parliamentary committees would impact not only the quality of law making but severely undermine the functioning of our democracy.
 

@@ -34,23 +34,23 @@ We call this a preliminary analysis because this requires inputs and peer review
 
 Let us first start with the basics. What have been the growth trends in voice and data use across operators? Both voice and data usage have seen a significant increase in the past few years. The sharp rise also coincides with the launch of Jio---as an example, industry-wide voice usage saw a 2% year-on-year fall in 16Q2, but since then has increased by 166% (Graph 1).
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.32.11-PM.png" caption=`"Graph 1 - Growth in voice calling"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.32.11-PM.png" caption=`Graph 1 - Growth in voice calling` >}}
 
 Also, the growth of data usage has been spectacular. Again this sharp rise has been since 16Q2 which is when Reliance Jio has launched services. Do notice this is against all teleco operators as is also evident from TRAI data which shows an increasing rate of quarter on quarter growth (Graph 2).
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.32.46-PM.png" caption=`"Graph 2 - Growth in usage per user"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.32.46-PM.png" caption=`Graph 2 - Growth in usage per user` >}}
 
 **Is there financial stress in the Telecom Sector?**
 
 There are two core metrics to understand revenue and profitability in the telecom industry. The first is ARPU (average revenue per user) defined as the total revenue divided by the number of subscribers. Three graphs below give the aggregate ARPU for all services provided by Telecos (Graph 3).
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.33.15-PM.png" caption=`"Graph 3 - ARPU"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.33.15-PM.png" caption=`Graph 3 - ARPU` >}}
 
 We have sub-divided into VARPU (voice average revenue per user in Graph 4) and DARPU (data average revenue per user in Graph 5).
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.33.58-PM.png" caption=`"Graph 4 (VARPU) "` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.33.58-PM.png" caption=`Graph 4 (VARPU) ` >}}
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.33.58-PM-1.png" caption=`"Graph 5 (DARPU)"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.33.58-PM-1.png" caption=`Graph 5 (DARPU)` >}}
 
 It is again important to consider that the numbers change drastically after Jio’s launch in 16Q2. Industry-wide ARPU saw a year-on-year increase of 5% for 16Q2, a quarterly decline of 15% by 16Q3, and a year-on-year 33% decline for 17Q2.
 
@@ -60,7 +60,7 @@ The fall (quarter-on-quarter, of 15% for Airtel and 14% for Idea) in 17Q3 is to 
 
 The second metric to measure the health of telecom firms is EBITDA. Earnings before interest, tax, depreciation and amortisation (EBITDA) is a measure of a company's operating performance. Essentially, it's a way to evaluate a company's performance without having to factor in financing decisions, accounting decisions or tax environments. We have set this out in Graph No. 6 below.
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.35.24-PM.png" caption=`"Graph 6 : EBITDA"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-8.35.24-PM.png" caption=`Graph 6 : EBITDA` >}}
 
 As with everything prior, there is a noticeable change in trends around 16Q2 (when telcos started aggressively pricing their plans and providing unlimited voice bundles with data plans). As with ARPU, the fall (quarter-on-quarter, of 11% for Airtel and 19% for Idea) in 17Q3 is to a large extent attributable to the reduction in the interconnect usage charges. In their quarterly reports, Airtel says this accounts for a 4% fall in EBITDA, while Idea says this accounts for a 15% fall in EBITDA.
 
@@ -70,11 +70,11 @@ This is another aspect where not a lot of data exists publicly. We only have som
 
 The only rough estimate we could find was to just use the capex (capital expenditure) figures of telecom companies from the quarterly reports (See Graph 7). Even this is not clear as to how much goes towards building data networks. For instance the Idea reports here at least explicitly say that "_the majority of this goes towards 4G expansion_".
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-7.53.09-PM.png" caption=`"Graph 7 : CAPEX"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-7.53.09-PM.png" caption=`Graph 7 : CAPEX` >}}
 
 Idea also reports the number of 2G and 3G+4G cell sites they added that quarter. This is also graphed up (See Graph 8). We acknowledge that, it's hard to get a more specific picture, but then if there is an actual need for investment, a clear, public statement with data should be made.
 
-{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-7.54.33-PM.png" caption=`"Graph 8: Number of sites added"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2018/12/Screenshot-2018-12-06-at-7.54.33-PM.png" caption=`Graph 8: Number of sites added` >}}
 
 At the same time there are other independent programs specific to telecom players such as Airtel's [Project Leap](is also deploying a range of innovative technology solutions including small cells, indoor solutions, Wi-Fi hotspots and carrier aggregation technologies to improve network experience inside buildings. ) announced in 2016 with a plan for an investment of 600,000 million rupees over the next three years. So far the gross capex is Rs. 387,546 mil, and a year's left. Airtel also has a capex forecast of Rs. 250,000 mil for this year of which it is roughly halfway there at Rs. 128,213 mil. Vodafone Idea (not just Idea -- the merged entity) has a [capex guidance for Rs. 270,000 mil](https://www.livemint.com/Industry/2We3x084sh5ER83bYbxp7I/Airtel-to-invest-Rs25000-crore-in-201718-to-boost-4G-netwo.html), ) for the next year.
 

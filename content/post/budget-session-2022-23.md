@@ -40,15 +40,15 @@ Table 2: Budgetary allocations for specific items
 
 The substantial jump in total allocation may be attributed to Rs. 52,702.3 crores earmarked for Other Central Sector Expenditure, which reflects an enormous 1091.4% increase from the Revised Estimate 2021-22 (Rs. 4,423.6 crores). This 1091.4% increase is primarily on account of the monetary support designated to the [loss-making state-owned firm](https://www.ndtv.com/business/govt-to-infuse-rs-44-720-cr-into-bsnl-in-2022-23-rs-3-300-cr-for-vrs-2742294), BSNL (Rs. 44,720 crores), which accounts for 84.8% of the total expenditure on Other Central Sector Schemes. As both BSNL and MTNL struggle financially, the government has also decided to allocate Rs. 3,300 crores to implement the Voluntary Retirement Scheme (VRS). Another significant move was the increase in capital expenditure allocation for Support to Public Sector Undertakings from Rs. 80 crores to Rs. 44,920 crores, which is a massive jump of 56050%.
 
-{{< figure src="https://lh4.googleusercontent.com/9dP2LqxkO1E3pPBk_RlbpfOmxNlrjeo66cytpnIfTOVBuEaj_RlGlvbBPmgcoUS3Wn5DEz084s1xEJHLUCQGtiVv4NEzU92smpgmZraNWNfGo0zlDlqNQYQ79Dl_C9j1aNeDUm51" caption=`"Figure 1: Total allocation to Other Central Sector Expenditure"` >}}
+{{< figure src="https://lh4.googleusercontent.com/9dP2LqxkO1E3pPBk_RlbpfOmxNlrjeo66cytpnIfTOVBuEaj_RlGlvbBPmgcoUS3Wn5DEz084s1xEJHLUCQGtiVv4NEzU92smpgmZraNWNfGo0zlDlqNQYQ79Dl_C9j1aNeDUm51" caption=`Figure 1: Total allocation to Other Central Sector Expenditure` >}}
 
 Assessment of the Central Sector Schemes’ budget allocation reveals that the total expenditure decreased from Rs. 13,616.92 crores in Revised Estimates 2021-2022 to Rs. 11,678 crores in Budget Estimates 2022-2023, which is a reduction of 14.23%. Herein, the transfer to the [USOF](https://dot.gov.in/universal-service-obligation-fund-usof) increased from Rs. 8,300 crores to Rs. 9000 crores, which is vital as India aims to bridge the urban-rural divide by providing seamless telecom connectivity to the unconnected areas. Moreover, the Government has designated Rs. 7000 crore out of the total allocation to USOF as capital expenditure. Increased allocation towards this fund, especially for capital expenditure, is highly appreciable as it shows the Government’s intent to work towards digitizing India by augmenting telecom infrastructure.
 
-{{< figure src="https://lh3.googleusercontent.com/CqYnesPH01QyIfjixso7UtF0yFy1rD3fEDvjq5FZAs2Ezcls411FljiQJdAzDYJILkTIVXvp_NoiHKetFZsYuLvYoP-Op5Nzwig98MWU7dFP3UQMKZrumQX1F-HdiQZB2YdBVnDf" caption=`"Figure 2: Net Total Allocation to USOF"` >}}
+{{< figure src="https://lh3.googleusercontent.com/CqYnesPH01QyIfjixso7UtF0yFy1rD3fEDvjq5FZAs2Ezcls411FljiQJdAzDYJILkTIVXvp_NoiHKetFZsYuLvYoP-Op5Nzwig98MWU7dFP3UQMKZrumQX1F-HdiQZB2YdBVnDf" caption=`Figure 2: Net Total Allocation to USOF` >}}
 
 An allocation of Rs. 10 crores for the 5G Connectivity Test marked a 455.5% increase from the previous year’s allocation of Rs. 1.8 crores. The Finance Minister [announced](https://economictimes.indiatimes.com/industry/telecom/telecom-policy/centre-to-announce-pli-scheme-in-the-5g-space-auction-this-year-announces-finance-minister/articleshow/89267694.cms) that, in a push for 5G technology, the Government will launch a new production-linked incentive scheme. Thus, an impressive initial allocation of Rs. 527.68 crores for the ‘Production Linked Incentive (PLI) Scheme to Promote Telecom and Networking Products Manufacturing in India’ is par for the course. 
 
-{{< figure src="https://lh4.googleusercontent.com/Wo14fNNaSAueXnLY_HI6KLpge_uVVoz2mU8DYu4nSCXPpbEaIqSslZ6X7yBDhGo9Ojpl1vTodVeUvA0qrIBMTi_iG8F3H2pNlF5SaZs84AzAb7eL8dpFDfxJN_tDu8X1Wkdb_bIo" caption=`"Figure 3: Total allocation to Central Sector Schemes/ Projects"` >}}
+{{< figure src="https://lh4.googleusercontent.com/Wo14fNNaSAueXnLY_HI6KLpge_uVVoz2mU8DYu4nSCXPpbEaIqSslZ6X7yBDhGo9Ojpl1vTodVeUvA0qrIBMTi_iG8F3H2pNlF5SaZs84AzAb7eL8dpFDfxJN_tDu8X1Wkdb_bIo" caption=`Figure 3: Total allocation to Central Sector Schemes/ Projects` >}}
 
 
 
@@ -56,7 +56,7 @@ An allocation of Rs. 10 crores for the 5G Connectivity Test marked a 455.5% incr
 
 In another positive move, the allocation to [NDHM](https://nha.gov.in/assets/uploads/NDHM_Strategy_Overview.pdf) under the Ministry of Health and Family Welfare has been witnessing a consistent increase in allocations since 2020-2021. The allocation in the Budget Estimate 2021-2022 was Rs. 30 crores, which increased to Rs. 75 crores in the Revised Estimate 2021-2022. Budgetary allocation to NHM in 2022-2023 brought a pleasant surprise with a massive 166.6% increase (Rs. 200 crores).
 
-{{< figure src="https://lh3.googleusercontent.com/4A13Sujq9YTEVcD1GTlsV_DJqa894w9OyO4QuR6PkW2We1r0HK7VqZx3Uzty7OTifgnVXl2P8Aa-doJTUldYmEes9lIhW1nzkfC7Wa8MC0ngYHPbjc4sjrqOPtK1ByIgEA2n3Vjv" caption=`"Figure 4: Net total allocation to NDHM"` >}}
+{{< figure src="https://lh3.googleusercontent.com/4A13Sujq9YTEVcD1GTlsV_DJqa894w9OyO4QuR6PkW2We1r0HK7VqZx3Uzty7OTifgnVXl2P8Aa-doJTUldYmEes9lIhW1nzkfC7Wa8MC0ngYHPbjc4sjrqOPtK1ByIgEA2n3Vjv" caption=`Figure 4: Net total allocation to NDHM` >}}
 
 
 
@@ -68,19 +68,19 @@ Table 2: Budgetary allocations for specific items
 
 The MeitY witnessed a 49.25% increase in allocation with Rs. 14,300 crores being allocated to it as compared to the Revised Estimates of the previous year. This increase can be attributed to the allocations to the Digital India program, which received Rs.10,676 crores this year and its share in the total budget increased to 74.66% in the 2022-2023 Budget Estimates from 66.67% in the 2021-2022 Revised Estimates. This increase is largely due to the introduction of PLI Scheme for Large Scale Electronics and IT Hardware, which has been allocated Rs. 5,300 crores for 2022-2023. This scheme has been introduced to boost domestic manufacturing and attract large investments in Mobile Phones & Specified Electronic Components, and IT Hardware respectively.
 
-{{< figure src="https://lh3.googleusercontent.com/Zbb-sVsxsCKsgWO-rgPWZbzOWohb2DaHrSRwBz5nsM8OVLN3sCnwuuJ9EA-tbZMZioj5mPr7dMyUfZCdz5POUuOty5CQpIU8Z6suWdmM6OVaozicNyxqtSJxlnwFjEnYhQn2GCMf" caption=`"Figure 4: Share of the Digital India Program in the Total Budget Allocation"` >}}
+{{< figure src="https://lh3.googleusercontent.com/Zbb-sVsxsCKsgWO-rgPWZbzOWohb2DaHrSRwBz5nsM8OVLN3sCnwuuJ9EA-tbZMZioj5mPr7dMyUfZCdz5POUuOty5CQpIU8Z6suWdmM6OVaozicNyxqtSJxlnwFjEnYhQn2GCMf" caption=`Figure 4: Share of the Digital India Program in the Total Budget Allocation` >}}
 
 There has also been an increase in allocation to autonomous bodies. The most notable change has been in allocation to the Unique Identification Authority of India (UIDAI), which has received Rs. 1,110 crores, which is 25.43% higher than the 2021-2022 Revised Estimates and 81.08% higher than the 2021-2022 Budget Estimates. As we highlighted in our [Legislative Brief for the Budget Session](https://internetfreedom.in/legislative-brief-budget-session-2022/),  the UIDAI budget Estimate for 2021-2022 was the lowest amount allocated to it since its establishment. 
 
-{{< figure src="https://lh4.googleusercontent.com/gtvX3DYR1ucQtxBG2gzXmxbsbKybkyK28jei4TQoG9SntWogCG0iujckSl5a_74TzWxYm6Q5kOkaHB_Bp3qUwkdAJn5xl2Oj_KmqNR5s_UwxUGQtaveflvPsf-FwM_FsvF4Opx98" caption=`"Figure 5: Allocations to the UIDAI"` >}}
+{{< figure src="https://lh4.googleusercontent.com/gtvX3DYR1ucQtxBG2gzXmxbsbKybkyK28jei4TQoG9SntWogCG0iujckSl5a_74TzWxYm6Q5kOkaHB_Bp3qUwkdAJn5xl2Oj_KmqNR5s_UwxUGQtaveflvPsf-FwM_FsvF4Opx98" caption=`Figure 5: Allocations to the UIDAI` >}}
 
 In an unwelcome change, allocation to the Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA) has decreased by 16.67% as compared to both the Revised and Budget Estimates for 2021-2022. Since PMGDISHA aims at helping adults with low technological literacy develop the skills they need to interact in an increasingly digital world, it is especially concerning that allocations to it are at an all time low since 2018-2019. The allocations made to this scheme must increase in order to ensure its effective progress and robust digital literacy in the country.
 
-{{< figure src="https://lh5.googleusercontent.com/MkdSLJs6bFQGxz3UMZA9HamIt71qXB3auMh2txfzDhTP3HEJHGziXMbarqDkfP1MCa2QuvvGAvwsMS2OazlWcrKeeaWkXRIkIUywOBebm2aRyKwRSXZZTUmhzdteV2ssTuW1PNAQ" caption=`"Figure 6: Allocation to the PMGDISHA"` >}}
+{{< figure src="https://lh5.googleusercontent.com/MkdSLJs6bFQGxz3UMZA9HamIt71qXB3auMh2txfzDhTP3HEJHGziXMbarqDkfP1MCa2QuvvGAvwsMS2OazlWcrKeeaWkXRIkIUywOBebm2aRyKwRSXZZTUmhzdteV2ssTuW1PNAQ" caption=`Figure 6: Allocation to the PMGDISHA` >}}
 
 Perplexingly, the allocation to Promotions of Digital Payments has plummeted to Rs. 250 crores as compared to Rs. 1,500 crores allocated to it in the 2021-2022 Revised Estimates, reflecting a massive decline of 86.67%. It must be noted that allocations increased sharply in 2021-2022, which witnessed a jump of 186.54% as compared to the  2020-2021 Actual Expenditure which stood at Rs. 523.48 crores. However, the allocations for 2022-2023 are still 61.79% lower than the 2020-2021 Actual Expenditure. This change is despite the Finance Minister noting in their [Budget speech](https://www.indiabudget.gov.in/doc/Budget_Speech.pdf) that “the financial support for digital payment ecosystem announced in the previous Budget will continue in 2022-23. This will encourage further adoption of digital payments_._”
 
-{{< figure src="https://lh4.googleusercontent.com/eLvV9dcd9lAMLik2DG8tCZ_Gs32VEfnk2ve-C0IlKxDxvmcsF8zrCyy0DBkHYFpEdsOcaWESztGHzEFDfxeL3VVUwu0ysTwUHMvvSjY3f_g9s8zmGp-uqsF4ZNX0UVlmnwW2lwog" caption=`"Figure 7: Allocation to Promotion of Digital Payments"` >}}
+{{< figure src="https://lh4.googleusercontent.com/eLvV9dcd9lAMLik2DG8tCZ_Gs32VEfnk2ve-C0IlKxDxvmcsF8zrCyy0DBkHYFpEdsOcaWESztGHzEFDfxeL3VVUwu0ysTwUHMvvSjY3f_g9s8zmGp-uqsF4ZNX0UVlmnwW2lwog" caption=`Figure 7: Allocation to Promotion of Digital Payments` >}}
 
 ### The Ministry of Information and Broadcasting
 
@@ -92,7 +92,7 @@ The 2022-2023 Budget Estimates, net of receipts and recoveries, for the MIB is R
 
 A marginal increase (9.4%) in spending on Information and Publicity may be noticed, with Rs 472.08 crores being allocated (compared to Rs. 431.23 crores in the Revised Estimates of 2021-2022). However, spending on the same has fluctuated over the years. While the Revised Estimate was a 6.4% decrease over the Budgetary Estimates of 2021-2022 (Rs. 460.77 crores), it was a 30.8% increase over the Actual Spending in 2019-2020.
 
-{{< figure src="https://lh3.googleusercontent.com/rm87BG1aq6Ub0ONWV01uqNJQ-sjPMPpg919VoGnaUhYOOZ_POppgK6eIApy24CguznwQCrhikJUNOHm5TSlVxyw_uIsZh6FOh163RcXS5_kjibQNOKcfGWoJpbhc0-8_eknbV2Pa" caption=`"Figure 9: Total Budget allocations for Information and Publicity"` >}}
+{{< figure src="https://lh3.googleusercontent.com/rm87BG1aq6Ub0ONWV01uqNJQ-sjPMPpg919VoGnaUhYOOZ_POppgK6eIApy24CguznwQCrhikJUNOHm5TSlVxyw_uIsZh6FOh163RcXS5_kjibQNOKcfGWoJpbhc0-8_eknbV2Pa" caption=`Figure 9: Total Budget allocations for Information and Publicity` >}}
 
 The main thrust of the increase under the expenditure on schemes comes from two budget heads: Broadcasting Infrastructure Network Development and Development Communication and Dissemination of Filmic Content. Looking at the Other Central Sector Schemes’ budget, the total expenditure increased negligibly from Rs. 3,376.62 crores to Rs. 3,980.77 crores.
 

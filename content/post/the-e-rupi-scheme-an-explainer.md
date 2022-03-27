@@ -28,7 +28,7 @@ The E-Rupi is a [digital payment instrument](https://pib.gov.in/PressReleasePage
 
 At present, E-Rupi vouchers will be used to help with the government’s COVID-19 vaccination rollout. At present, according to the NPCI, [11 major national banks](https://www.npci.org.in/what-we-do/upi/erupi-live-partners) can issue E-Rupi vouchers and [1641 hospitals](https://www.npci.org.in/PDF/npci/e-rupi/live-hospitals.pdf) are currently accepting E-Rupi vouchers as payment.
 
-{{< gallery caption="List of banks that can issue and acquire E-Rupi vouchers" >}}
+{{< gallery caption=`List of banks that can issue and acquire E-Rupi vouchers` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/08/NPCI-e-RUPI-Issuers-and-Acquirers-August-9-2021-1.png" width="1301" height="585" >}}{{< /gallery >}}
 
 However, further use-cases of E-Rupi have also been contemplated:

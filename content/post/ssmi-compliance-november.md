@@ -46,12 +46,12 @@ For November, Twitter has listed new initiatives, projects, and updates to impro
 
 ### Revelations made in the data on proactive monitoring:
 
-{{< gallery caption="Graph 1: Facebook - Proactive rate of content actioned for different policy areas" >}}
+{{< gallery caption=`Graph 1: Facebook - Proactive rate of content actioned for different policy areas` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/Facebook_Proactive-rate-of-content-actioned.-.png" width="959" height="544" >}}{{< /gallery >}}
 
 
 
-{{< gallery caption="Graph 2: Instagram - Proactive rate of content actioned for different policy areas&nbsp;" >}}
+{{< gallery caption=`Graph 2: Instagram - Proactive rate of content actioned for different policy areas&nbsp;` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/Instagram_-Proactive-rate-of-content-actioned.-.png" width="842" height="521" >}}{{< /gallery >}}
 
 In our previous [post](https://internetfreedom.in/compliance-report-oct/) we discussed how despite [disclosures](https://drive.google.com/file/d/1CZrCqyCHJ7L1EHPeorGBoQpKhKFRrMC5/view) made by Frances Haugen, Facebook and Instagram have not changed the metrics adopted for reporting proactive takedowns. Facebook and Instagram, in their reports, adopt the metrics of (i) ‘content actioned’ which measures the number of pieces of content (such as posts, photos, videos or comments) that they take action on for going against their standards and guidelines; and (ii) proactive rate which refers to the percentage of ‘content actioned’ that they detected proactively before any user reported the same. This metric is misleading because the proactive rate only gives a percentage of that content on which action was taken, and excludes all content on Facebook (which may otherwise be an area of concern) on which action was not taken.
@@ -68,12 +68,12 @@ Data on proactive monitoring for the other SSMIs is as follows:
 
 ### What does the data on the complaints received reveal?
 
-{{< gallery caption="Graph 3: Facebook - Percentage of user complaints addressed" >}}
+{{< gallery caption=`Graph 3: Facebook - Percentage of user complaints addressed` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/Facebook_--Percentage-of-user-grievances-addressed.png" width="1646" height="482" >}}{{< /gallery >}}
 
 *The data seems to be incorrect as the number of grievances addressed is more than the number of grievances received
 
-{{< gallery caption="Graph 4: Instagram - Percentage of user complaints addressed&nbsp;" >}}
+{{< gallery caption=`Graph 4: Instagram - Percentage of user complaints addressed&nbsp;` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/02/Instagram_-Percentage-of-user-grievances-addressed.---1-.png" width="1406" height="523" >}}{{< /gallery >}}
 
 In the case of Google, 96.8% of the complaints received and 99.7 % of content removal action was taken for reasons of copyright and trademark infringement. This is around 3% lesser from the last report where 99.5% of such content was taken down. Other reasons for content removal included circumvention (131), court order (56), and graphic sexual content (5). We have written about the trend of ‘complaint bombing’ of content for copyright infringement on YouTube to suppress dissent and criticism [here](https://internetfreedom.in/iff-writes-to-google-india-about-recent-instances-of-youtube-copyright-strikes/). Content removals based on court orders increased to 56  after an increase in October (49) from the other months when it remained at 10, 12, 4, 6, and nil since the addition of this parameter to the report in May.

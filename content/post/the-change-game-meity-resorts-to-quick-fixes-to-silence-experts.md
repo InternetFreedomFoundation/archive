@@ -46,9 +46,9 @@ Hence, our recommendation to MeitY was to reconsider implementing the Draft Data
 
 We submitted our comments to MeitY on March 4, 2022. To our great surprise, on March 6, 2022, we noticed that MeitY had made substantial changes to their webpage for the Draft Data Access Policy consultation and the underlying policy documents. Upon further inspection, we observed that the metadata of the [Background Note](https://www.meity.gov.in/writereaddata/files/Background%20Note%20for%20India%20Data%20Accessibility%20and%20Use%20Policy.pdf) showed that the document was created on February 17, 2022, but modified on February 23, 2022. Similarly, the [policy document](https://www.meity.gov.in/writereaddata/files/Draft%20India%20Data%20Accessibility%20and%20Use%20Policy_0.pdf) was created on February 17, 2022, and modified on February 26, 2022.
 
-{{< figure src="https://internetfreedom.in/content/images/2022/03/Background-Note.png" caption=`"Document Properties of the Background Note"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2022/03/Background-Note.png" caption=`Document Properties of the Background Note` >}}
 
-{{< figure src="https://internetfreedom.in/content/images/2022/03/Policy-Document.png" caption=`"Document Properties of the Draft India Data Accessibility and Use Policy, 2022"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2022/03/Policy-Document.png" caption=`Document Properties of the Draft India Data Accessibility and Use Policy, 2022` >}}
 
 Shocked with the changes made in a covert manner, IFF filed an [RTI](https://drive.google.com/file/d/13WMNPNPHCaL0C79WrKDtFlumpyf0hZQx/view) request on March 7, 2022 with MeitY asking the reason behind each change as well as the date and time when the changes were made. Additionally, we made another [submission](https://drive.google.com/file/d/1OMxmoLEfGIo61dO0HE71btuk2uOpPeLm/view) to MeitY on March 17, 2022 expressing our concern about the public consultation process followed by them. Below is a brief table on some of the key differences between the [old](https://drive.google.com/file/d/1AfJZzyRT-B5OaNyMAyGkYjiCqDOK0FIN/view) and [present](https://drive.google.com/file/d/1aDmzQ0qQbbghOTOqiM-F8Bqs6OLnWzqO/view?usp=drive_open) versions of the Draft Data Access Policy document. Any text added or changed in both the versions has been italicised.
 

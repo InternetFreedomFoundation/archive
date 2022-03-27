@@ -31,7 +31,7 @@ Despite this, we were informed by digital news media publishers that the MIB has
 
 The MIB [replied](https://drive.google.com/file/d/14EQ0M3sIjuMiwwvJz99OGx_ca8zxZcEF/view) to our RTI application on 14.01.2022, and has provided some answers, but has also left many questions unanswered.
 
-{{< figure src="https://lh6.googleusercontent.com/T6B6sjuVRHwSFB6OVDSbEBRA7hT7fRRSy9RNrRCUPqMr7mtD_cShiSBugx3pwNSNaFj9MzPQsAAYBRs7d79QW-xVTGoxYNf0IoLG0cN_RXJKMede_YA7Svs_JalrM4B80adLPjkx" caption=`""` >}}
+{{< figure src="https://lh6.googleusercontent.com/T6B6sjuVRHwSFB6OVDSbEBRA7hT7fRRSy9RNrRCUPqMr7mtD_cShiSBugx3pwNSNaFj9MzPQsAAYBRs7d79QW-xVTGoxYNf0IoLG0cN_RXJKMede_YA7Svs_JalrM4B80adLPjkx" caption=`` >}}
 
 ### What the RTI response revealed
 

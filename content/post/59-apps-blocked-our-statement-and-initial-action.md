@@ -59,17 +59,17 @@ i. With DeitY and DoT on the ban
 
 In our requests dated June 30, 2020 with Ref. No.s DITEC/R/E/20/00519 (DeitY) and DOTEL/R/E/20/00577 (DoT), we asked these two authorities to provide us with copies of the actual order issued by MeitY banning these applications, since currently we only have a press release and not the actual order. Obtaining the order is crucial since it contains the reasons for the ban which are important when we try to assess the legality and validity of the ban. We also asked them whether the process which is stated under S.69A of the IT Act and the Blocking Rules, 2009 for blocking of websites was followed in the implementation of this ban. This process includes giving notice, having a hearing and providing a reasoned order for blocking.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_723.jpeg" caption=`"RTI Ref. No. DITEC/R/E/20/00519 filed with DeitY dated 30.6.2020"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_723.jpeg" caption=`RTI Ref. No. DITEC/R/E/20/00519 filed with DeitY dated 30.6.2020` >}}
 
 In the press release, it is stated that the blocking was being done because MeitY had "received many complaints various sources including several reports about misuse of some mobile apps available on Android and iOS platforms for stealing and surreptitiously transmitting users’ data in an unauthorized manner to servers which have locations outside India." In our request, we asked them to provide us copies of these complaints. Additionally, we asked them whether they had carried out any objective assessments on the privacy impact of these applications and to provide us with a copy of the reports of these assessments if they had been carried out.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_724.jpeg" caption=`"RTI Ref. No. DOTEL/R/E/20/00577 filed with DoT dated 30.6.2020"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_724.jpeg" caption=`RTI Ref. No. DOTEL/R/E/20/00577 filed with DoT dated 30.6.2020` >}}
 
 ii. With DeitY for obtaining information from CERT-IN
 
 In our request dated June 30, 2020 with Ref. No. DITEC/R/E/20/00521, we asked DeitY to provide us with information about the role played by CERT-IN in the implementation of the ban. According to the press release, CERT-IN "has also received many representations from citizens regarding security of data and breach of privacy impacting upon public order issues". Thus, we asked them to provide us with a copy of all the representations that they have received which flag such concerns about the blocked applications. Additionally, we asked them to provide us with the minutes of the any meetings that they held wherein this issue was discussed as a measure of increasing transparency and accountability. Finally, we asked them whether CERT-IN had carried out any objective assessments on the privacy impact of these applications and to provide us with a copy of the reports of these assessments if they had been carried out.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_725.jpeg" caption=`"RTI Ref. No. DITEC/R/E/20/00521 filed with DeitY dated 30.6.2020"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_725.jpeg" caption=`RTI Ref. No. DITEC/R/E/20/00521 filed with DeitY dated 30.6.2020` >}}
 
 B. Right to Information Requests with MHA
 
@@ -77,7 +77,7 @@ In our request dated June 30, 2020 with Ref. No. MHOME/R/E/20/03251, we asked MH
 
 We also asked them to provide us with the minutes of the any meetings that I4C held wherein this issue was discussed. Additionally, we asked them whether I4C had carried out any objective assessments on the privacy impact of these applications and to provide us with a copy of the reports of these assessments if they had been carried out. Finally, we asked them to provide us with a copy of all the correspondence which took place between the MHA and MeitY with regard to the ban.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_726.jpeg" caption=`"RTI Ref. No. MHOME/R/E/20/03251 filed with MHA dated 30.6.2020"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/07/fullsizeoutput_726.jpeg" caption=`RTI Ref. No. MHOME/R/E/20/03251 filed with MHA dated 30.6.2020` >}}
 
 **IFF's video explainers on the ban**
 

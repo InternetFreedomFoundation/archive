@@ -21,7 +21,7 @@ PUBG entered the mainstream lexicon in which the Hon'ble Prime Minister on Janua
 
 It is important to take a step back this moment and consider the wider academic literature on the subject. The top three cited meta studies on Google Scholar on the general impact of gaming on adolescents indicate varying outcomes. Some even suggest benefits such as development and improvement of hand eye co-ordination (_remember the old Atari's?_).
 
-{{< figure src="https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-14-at-2.44.42-PM.png" caption=`"<a href="https://scholar.google.co.in/scholar?hl=en&amp;as_sdt=0,5&amp;q=meta+study+video+games+adolescent">Link the studies</a>"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2019/03/Screenshot-2019-03-14-at-2.44.42-PM.png" caption=`<a href="https://scholar.google.co.in/scholar?hl=en&amp;as_sdt=0,5&amp;q=meta+study+video+games+adolescent">Link the studies</a>` >}}
 
 Yes, we may be completely wrong in our inferences, but believe that this may be a matter for parental caution, and social debate but certainly not penal law. We explain the dangerous consequences of approaching this as a legal issue below.
 

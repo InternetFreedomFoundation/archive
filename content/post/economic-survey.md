@@ -31,7 +31,7 @@ On the whole, the Survey does seem to recognise the risks posed by the indiscree
 
 Given the central role accorded the health sector by the Survey, the acknowledgement that "unregulated private enterprise can create significant negative effects" is key (even more so in the health sector). Issues of data privacy and access loom even larger in the case of private healthcare, and so it is also heartening to see moves towards increasing public expenditure. In a pandemic ravaged economy, not only will such steps generate strong fiscal multipliers but also solve issues of access, exclusion, and affordability. However, the need to ensure the protection of citizens' data still remains, if only to ensure that the receipt of constitutional welfare benefits does not become predicated upon the invasion of privacy.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-4.png" caption=`"Source: Economic Survey 2020-21"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-4.png" caption=`Source: Economic Survey 2020-21` >}}
 
 ## Commodification of data
 
@@ -41,11 +41,11 @@ The Economic Survey 2020-21 is to be commended for focusing on access and equity
 
 One important trend in healthcare that was witnessed over the last year is the burgeoning adoption of telemedicine and eConsultations. As might be expected, these were given a huge fillip by the lockdown.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-5.png" caption=`"Source: Economic Survey 2020-21"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-5.png" caption=`Source: Economic Survey 2020-21` >}}
 
 As the Survey itself notes, apart from an optimal level of health infrastructure ,the smooth functioning of telemedicine depends on robust internet connectivity. In light of this, the importance given to healthcare implies an equivalent level of importance for internet access. Furthermore, given the increasingly digital nature of the modern economy, internet access is a vital component of daily life. Thus,  it is essential that the fundamentalness of access to internet be acknowledged by the Survey and that internet access be recognised as a 'basic necessity'.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-6.png" caption=`"Source: Economic Survey 2020-21"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-6.png" caption=`Source: Economic Survey 2020-21` >}}
 
 The Survey point out the progress being made towards improving the deep [digital divide](https://internetfreedom.in/on-chronic-inequalities-in-internet-access/) that exists within the country:  overall teledensity, the number of internet subscribers, and average wireless data consumption per month are all increasing, while average data costs are falling. The Centre's BharatNet project has also established full network infrastructure in 93% of the targeted Gram Panchayats.
 
@@ -55,7 +55,7 @@ However, given the aforementioned significance of internet access, it is regrett
 
 The COVID-19 pandemic has hastened the use of remote-learning and distance-learning technologies. While to some extent necessitated, the widespread adoption of such technologies will inevitably result in an educational divide across various groups, with low income rural children being impacted the most.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-9.png" caption=`"Source: Economic Survey 2020-21"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-9.png" caption=`Source: Economic Survey 2020-21` >}}
 
 To remedy this, the Centre has undertake several initiatives to improve digital technology for education, including establishing the PM eVIDYA scheme to unify all digital education efforts and increasing budgetary support to States for digital education initiatives. Such efforts may not be enough, as may be witnessed by increased dropout rates [due to a lack of resources](https://www.thehindubusinessline.com/opinion/editorial/online-education-with-scanty-access-to-the-internet-the-poor-are-excluded/article32185041.ece), and so significant budgetary capacity must be allocated to ensure that a generation of students receive the education they deserve.
 
@@ -65,11 +65,11 @@ Additionally, the increasing use of facial recognition technology through procto
 
 The lack of R&D investment has also been acknowledged, especially given the size of India's economy and its level of development. A key reason for this is low gross domestic expenditure on R&D (GERD).
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-7.png" caption=`"Source: Economic Survey 2020-21"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-7.png" caption=`Source: Economic Survey 2020-21` >}}
 
 The Survey also indicates a poor performance with respect to capacity, with the levels of researchers and R&D personnel being low compared to India's population.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/01/image-8.png" caption=`"Source: Economic Survey 2020-21"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/01/image-8.png" caption=`Source: Economic Survey 2020-21` >}}
 
 The National Science Foundation of the US has said that 80% of the jobs that will be created in the next decade will require some amount of mathematical and scientific skills. Resolving these twin issues will play a key part in [developing a thriving scientific community, fostering innovation, and ensuring that India's economy is well equipped for the 21st century](https://internetfreedom.in/stipolicycomments/).
 

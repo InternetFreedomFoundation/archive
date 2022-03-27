@@ -53,7 +53,7 @@ The framework aims to design architecture in a manner so that it can be reused i
 
 All of these architectural patterns are bonded together by the InDEA 2.0 Master Plan (refer to Figure 1).
 
-{{< figure src="https://lh5.googleusercontent.com/6U8iNJxRt8UVRuYGwP1sWpeSFjLTE45v6TZNmmx9JwZYo8Wrhrm-8u79xiHykVVQ_6S6KXP_LuV3-mdX0qgR1XgVjWdNkBwIoM87qCw7gQn56rzzSGhTj3xJgOAJp520rHS6PbQz" caption=`"Figure 1 (Source: InDEA 2.0)"` >}}
+{{< figure src="https://lh5.googleusercontent.com/6U8iNJxRt8UVRuYGwP1sWpeSFjLTE45v6TZNmmx9JwZYo8Wrhrm-8u79xiHykVVQ_6S6KXP_LuV3-mdX0qgR1XgVjWdNkBwIoM87qCw7gQn56rzzSGhTj3xJgOAJp520rHS6PbQz" caption=`Figure 1 (Source: InDEA 2.0)` >}}
 
 
 

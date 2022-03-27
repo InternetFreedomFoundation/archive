@@ -21,7 +21,7 @@ IFF wrote to the Jammu and Kashmir Government and Ministry of Home Affairs seeki
 
 ### Free and Open Internet for All
 
-{{< figure src="https://internetfreedom.in/content/images/2020/03/ToT-Tweet.png" caption=`"(Screenshot of ToI's tweet before it was deleted)"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/03/ToT-Tweet.png" caption=`(Screenshot of ToI's tweet before it was deleted)` >}}
 
 Yesterday, the Times of India tweeted that 4G internet services had been restored in Jammu and Kashmir but it subsequently deleted the tweet and published another [article](https://timesofindia.indiatimes.com/times-fact-check/news/fake-alert-order-claiming-4g-internet-to-be-restored-in-jammu-alone-is-fake/articleshow/74814962.cms) about this information being false. This led to considerable confusion and it once again brought into sharp focus the continued deprivation of rights suffered by the people of Jammu and Kashmir.
 

@@ -45,28 +45,28 @@ Here, we discuss the four key takeaways from our connectivity tracker report for
 
 The telecom sector witnessed a significant drop in wireless subscribers between August and September 2021, from 1186.72 million to 1166.02 million (wireline figures have mostly stayed the same). The significance of the drop can be witnessed from the fact that for the months for which we have collected data (January 2020 - October 2021), the drop in September is both the highest (positive or negative) gross change - 20.43 million - and the highest (positive or negative) percentage change - 1.69% - in month-on-month total subscriber figures.
 
-{{< gallery caption="Source: Telecom Regulatory Authority of India<em>, Telecom Subscription Reports</em>" >}}
+{{< gallery caption=`Source: Telecom Regulatory Authority of India<em>, Telecom Subscription Reports</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/01/1-3.png" width="620" height="380" >}}{{< /gallery >}}
 
 ### Internet subscribers in India: Slowed growth in September
 
 There was a slow-down in growth in the total number of internet subscribers in September 2021, with the number of internet subscribers increasing by only 5.8 lakhs compared to June 2021. While this slowdown is not as strong as the decline in telephone subscribers, a look at quarterly growth rates shows that the slowdown is marked: the quarter-on-quarter growth rate for September (0.07%) is the lowest in our dataset, and is much lower than the compound monthly growth rate for the period under study.
 
-{{< gallery caption="Source: Telecom Regulatory Authority of India<em>, Performance Indicators Reports</em>" >}}
+{{< gallery caption=`Source: Telecom Regulatory Authority of India<em>, Performance Indicators Reports</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/01/2.png" width="620" height="383" >}}{{< /gallery >}}
 
 ### Inequalities in access: Too many children left behind
 
 With the advent of online learning brought about by the COVID-19 pandemic, India witnessed a deepening of the digital divide as only a small class of children with access to the internet and smart devices were able to continue learning. [The School Children’s Online and Offline Learning](https://ruralindiaonline.org/en/library/resource/locked-out-emergency-report-on-school-education/) (“SCHOOL”) survey revealed the extent of this digital divide which especially affected rural children from Dalit & Adivasi communities. According to the survey,  55% of Scheduled Caste (SC)/Schedule Tribe (ST) children live in a house without a smartphone, compared with 38% of other rural children who live in a house without a smartphone. 43% of SC/ST children are not studying at all, and only 4% of them are studying online regularly, compared with 15% of children in other rural households who study online regularly. 83% of SC/ST parents feel that their child’s ability to read and write has declined during the lockout whereas 66% of other rural parents feel similarly.
 
-{{< gallery caption="Source<em>: Locked out: Emergency Report on Online Education.</em>" >}}
+{{< gallery caption=`Source<em>: Locked out: Emergency Report on Online Education.</em>` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2022/01/3-1.png" width="447" height="625" >}}{{< /gallery >}}
 
 ### Government schemes to increase internet access: Piecemeal progress and persistent problems
 
 We looked at the progress of the various schemes being undertaken by the government to improve internet access. While there has been slow progress, certain issues remain. Under the Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA) scheme – approved by the Government of India in 2017 to promote digital literacy in rural India by training 6 crores rural households to operate computer or digital access devices – [2,32,438 PMGDISHA training centers](http://164.100.24.220/loksabhaquestions/annex/177/AU2904.pdf) have been made operational. A total of [5.36 Crore candidates](http://164.100.24.220/loksabhaquestions/annex/177/AS41.pdf) have been enrolled under the PMGDISHA Scheme, out of this, 4.54 Crore candidates have been trained and 3.37 Crore candidates have been duly certified as of 1st December 2021. The [category-wise breakup](http://164.100.24.220/loksabhaquestions/annex/177/AS41.pdf) of the beneficiaries (as of 24th November 2021) is given below:
 
-{{< figure src="https://internetfreedom.in/content/images/2022/01/image-5.png" caption=`"Starred question no. 41; Lok Sabha"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2022/01/image-5.png" caption=`Starred question no. 41; Lok Sabha` >}}
 
 ### Tracking internet shutdowns: we need your help
 

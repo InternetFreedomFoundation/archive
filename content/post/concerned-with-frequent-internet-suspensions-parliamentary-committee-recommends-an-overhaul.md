@@ -37,7 +37,7 @@ Amongst other things, the Committee enquired the authorities - 1) whether the Un
 
 In the report, the Committee has noted the responses of the authorities. Incidentally, the Committee has also noted the [submissions made by IFF](https://internetfreedom.in/statement-j-k-internet-restrictions-anniversary/) on 4th August, 2020 highlighting the ill effects of internet shutdowns. In our submissions, we had questioned whether internet shutdowns lead to better law and order outcomes, and had pointed out that research had demonstrated that internet shutdowns were ineffective in pacifying protests and have the unintended consequence of incentivising violent forms of collective actions which require less communication.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/12/Screenshot--42-.png" caption=`"Pg 18; <em>Suspension of telecom services/internet and its impact</em>; Standing Committee on Information Technology; 1st December, 2021"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/12/Screenshot--42-.png" caption=`Pg 18; <em>Suspension of telecom services/internet and its impact</em>; Standing Committee on Information Technology; 1st December, 2021` >}}
 
 ### Recommendations
 

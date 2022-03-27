@@ -37,7 +37,7 @@ The contempt petition was scheduled for substantive oral arguments today i.e. 11
 
 In its additional affidavit, the government has stated that the Special Committee held its third meeting on 10 August 2020 where it found that the threat perception in Jammu & Kashmir continues to be high and that internet speed restrictions did not have any impact on COVID-19 control measures, education or business. However, the Special Committee has decided that 4G mobile internet may be restored in select low risk areas in the below mentioned manner.
 
-{{< figure src="https://internetfreedom.in/content/images/2020/08/UoI-Additional-Affidavit-1.png" caption=`"Decision of the Special Committee"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2020/08/UoI-Additional-Affidavit-1.png" caption=`Decision of the Special Committee` >}}
 
 ### What happened during today's hearing?
 

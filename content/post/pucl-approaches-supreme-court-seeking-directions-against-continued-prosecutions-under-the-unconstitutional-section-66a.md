@@ -13,7 +13,7 @@ title = 'PUCL approaches Supreme Court seeking directions against continued pros
 +++
 
 
-{{< gallery caption="" >}}
+{{< gallery caption=`` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/07/Copy-of-Twitter-66Act-Update--1-.png" width="4800" height="2700" >}}{{< /gallery >}}
 
 >>>> <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HLkgeWGQLMuddp" async> </script> </form>

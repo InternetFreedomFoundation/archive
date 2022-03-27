@@ -58,7 +58,7 @@ The last suggestion related to the FAQ page, which had been updated in the time 
 
 We are also happy to note that changes to the COWIN platform are already underway to promote accessibility of the portal and thereby the vaccines to larger sections of the population. Recently, we observed that the COWIN platform was available in languages other than English, as suggested in our May 11, 2021 briefing note.
 
-{{< figure src="https://internetfreedom.in/content/images/2021/06/Language-Screenshot.jpeg" caption=`"A screenshot of the CoWIN website, accessed on a mobile phone, showing alternative langauge options."` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/06/Language-Screenshot.jpeg" caption=`A screenshot of the CoWIN website, accessed on a mobile phone, showing alternative langauge options.` >}}
 
 We believe that incremental change is possible through sustained advocacy and collaboration. Our goal in assisting Mr. Rao was to offer solutions that would be easiest to implement, but would simultaneously cause the biggest impact. We are grateful to Mr. Rao for placing our suggestions before the Delhi High Court. The order has reaffirmed our resolve to continue to find solutions to immediate short-term concerns, while we use strategic litigation to tackle long-term problems as well.
 

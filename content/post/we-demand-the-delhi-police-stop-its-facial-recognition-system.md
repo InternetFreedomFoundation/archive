@@ -23,7 +23,7 @@ In 2017 a petition came to be filed in the Hon'ble High Court of Delhi docketed 
 
 The software for the facial recognition system as per the Indian Express report was sourced from M/s Innefu Labs Private Limited which claims [on its website](https://www.innefu.com/law-enforcement/) offers various law enforcement solutions. These include capabilities for “_a 360 degree monitoring, AI driven predictive intelligence solution_” titled as, “_Prophecy_”. We shudder at the thought that this is a vendor to the Delhi Police.
 
-{{< figure src="https://internetfreedom.in/content/images/2019/12/Screenshot-2019-12-28-at-10.46.55-PM.png" caption=`"Screengrab from Innefu System's Website"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2019/12/Screenshot-2019-12-28-at-10.46.55-PM.png" caption=`Screengrab from Innefu System's Website` >}}
 
 However, this that did not lead to much success with at least three orders of the Hon'ble High Court recording it's dissatisfaction with the facial recognition system as late as August 23, 2019. We already know such technologies are highly unreliable and scarce state resources should be used cautiously only after feasibility and rights based assessments. Stepping back, since even this High Court case contains no clear direction for the use of facial recognition software, even for instances of locating missing children a question arises, "_What is the legal authority under which this facial recognition system is being implemented?_".
 

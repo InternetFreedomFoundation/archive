@@ -42,11 +42,11 @@ The reports lack true transparency as the significant social media intermediarie
 
 ## What does the data on proactive monitoring reveal?
 
-{{< figure src="https://internetfreedom.in/content/images/2021/10/FB---Proactive-Rate.png.png" caption=`"Graph 1: Facebook - Proactive rate of content actioned for different policy areas"` >}}
+{{< figure src="https://internetfreedom.in/content/images/2021/10/FB---Proactive-Rate.png.png" caption=`Graph 1: Facebook - Proactive rate of content actioned for different policy areas` >}}
 
 
 
-{{< gallery caption="Graph 2: Instagram - Proactive rate of content actioned for different policy areas" >}}
+{{< gallery caption=`Graph 2: Instagram - Proactive rate of content actioned for different policy areas` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/10/Instagram_-Proactive-rate-of-content-actioned.--1.png" width="842" height="521" >}}{{< /gallery >}}
 
 As per its reports, Facebook and Instagram adopt the metrics of (i) ‘content actioned’ which measures the number of pieces of content (such as posts, photos, videos or comments) that they take action on for going against their standards and guidelines, (ii) proactive rate which refers to the percentage of ‘content actioned’ that they detected proactively before any user reported for the same. The proactive rate for actioning of content for bullying and harassment stands at 50.9%, which is an improvement from previous month’s 42.3%. This figure is particularly low as compared to 8 other issues (including hate speech and violent content) where the rate is more than 95%. This means that maximum user complaints were received under this category, and that Facebook is consistently failing to curb the menace of bullying and harassment.
@@ -69,12 +69,12 @@ As per the reports, Facebook, Google, Instagram, Twitter and WhatsApp all receiv
 
 ## **What does the data on the complaints received reveal?**
 
-{{< gallery caption="Graph 3: Facebook - Percentage of user complaints addressed" >}}
+{{< gallery caption=`Graph 3: Facebook - Percentage of user complaints addressed` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/10/Facebook_--Percentage-of-user-grievances-addressed-1.png" width="1144" height="482" >}}{{< /gallery >}}
 
 
 
-{{< gallery caption="Graph 4: Instagram - Percentage of user complaints addressed&nbsp;" >}}
+{{< gallery caption=`Graph 4: Instagram - Percentage of user complaints addressed&nbsp;` >}}
 {{< galleryImg  src="https://internetfreedom.in/content/images/2021/10/Instagram_-Percentage-of-user-grievances-addressed.--2.png" width="1074" height="523" >}}{{< /gallery >}}
 
 In the case of Google, 97.9% of the complaints received and 99.9% of content removal action was taken for reasons of copyright and trademark infringement. This is no different from the last report where also 99% of such content was taken down. Other reasons for content removal included court order (4), circumvention (3), counterfeit (1), graphic sexual content (1), impersonation (1) and other legal (1). A recent trend of ‘complaint bombing’ content for copyright infringement on YouTube is being seen in India which is being misused to suppress dissent and criticism. We have written more about it [here](https://internetfreedom.in/iff-writes-to-google-india-about-recent-instances-of-youtube-copyright-strikes/).
