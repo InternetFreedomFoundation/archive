@@ -206,7 +206,9 @@
       
       <guid>https://archive.internetfreedom.in/post/ap-gov-students-data-leak/</guid>
       <description>tl;dr
-Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vulnerability exposing the sensitive personal information of minors. This existed on the website of the Directorate of Government Examinations, Government of Andhra Pradesh’s for the 2021 examinations. While this functionality itself has been removed, to prevent it from occurring again assisted by Sai, we have written to them and CERT-In.</description>
+Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vulnerability exposing the sensitive personal information of minors. This existed on the website of the Directorate of Government Examinations, Government of Andhra Pradesh’s for the 2021 examinations. While this functionality itself has been removed, to prevent it from occurring again assisted by Sai, we have written to them and CERT-In.
+Background
+On 22nd December 2021, cyber-security researcher Sai Sravan Prabhala reached out to us, to bring to our notice a vulnerability in the Andhra Pradesh Directorate of Government Examination website which put the sensitive personal information of minors at risk of misuse.</description>
     </item>
     
     <item>
@@ -396,7 +398,7 @@ Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vuln
       
       <guid>https://archive.internetfreedom.in/post/policy-review-2021/</guid>
       <description>tl;dr Throughout 2021, we have tried to respond to the various policy initiatives and projects launched by the Central and State governments with meaningful and privacy-respecting policy analysis. We have also utilized the Right to Information Act, 2005 to bring accountability in the working of every public authority.
-Consultations Parliamentary engagement The importance of digital rights has grown leaps and bounds in recent times.</description>
+Consultations Parliamentary engagement The importance of digital rights has grown leaps and bounds in recent times. As such it is anticipated that the Parliament will deliberate upon some of the most important concerns related to digital rights.</description>
     </item>
     
     <item>
@@ -450,7 +452,7 @@ Consultations Parliamentary engagement The importance of digital rights has grow
       <pubDate>Wed, 22 Dec 2021 07:32:44 +0000</pubDate>
       
       <guid>https://archive.internetfreedom.in/post/shutdowns-report-dot-mha/</guid>
-      <description>tl;dr The Standing Committee on Communication and Information Technology (‘Standing Committee’) released its report on ‘Suspension of telecom services/internet and its impact (‘Report’) on December 1, 2021 highlighting several important recommendations taking into account the guidelines issued by the Supreme Court in Anuradha Bhasin v Union of India, and representations made by various stakeholders (including IFF) working on the issue of internet shutdowns.</description>
+      <description>tl;dr The Standing Committee on Communication and Information Technology (‘Standing Committee’) released its report on ‘Suspension of telecom services/internet and its impact (‘Report’) on December 1, 2021 highlighting several important recommendations taking into account the guidelines issued by the Supreme Court in Anuradha Bhasin v Union of India, and representations made by various stakeholders (including IFF) working on the issue of internet shutdowns. Previously, we summarised the recommendations in the Report.</description>
     </item>
     
     <item>
@@ -4090,7 +4092,7 @@ While these revelations have left many of us shaken, we must demand transparency
       
       <guid>https://archive.internetfreedom.in/post/bsnls-claim-we-have-dnd-mechanisms/</guid>
       <description>Highlights
- Background: Over the last couple of months, IFF has been writing representations and filing RTIs on the very apparent code injecting BSNL continues to the engage in. Recently, we wrote to BSNL once again based on insights provided by IFF&amp;rsquo;s pro-active supporters. New update: BSNL provides another response to an RTI we filed in August on which shed some light to some of the processes they apply while they admittedly engage in code injections.</description>
+Background: Over the last couple of months, IFF has been writing representations and filing RTIs on the very apparent code injecting BSNL continues to the engage in. Recently, we wrote to BSNL once again based on insights provided by IFF&amp;rsquo;s pro-active supporters. New update: BSNL provides another response to an RTI we filed in August on which shed some light to some of the processes they apply while they admittedly engage in code injections.</description>
     </item>
     
     <item>
@@ -4984,7 +4986,7 @@ Last November, the TRAI made recommendations to expressly prohibit discriminator
       <guid>https://archive.internetfreedom.in/post/we-demand-disclosure-on-indias-shutdown-law-keepusonline/</guid>
       <description>Last week we made considerable progress in our mission to reform India’s Internet Shutdown laws. This work has been extensively covered by The Wire in an opinion piece titled, “The Worst Aspect of India’s Internet Shutdowns Is the Official Secrecy About It”, and “Jan Gan Man Ki Baat, Episode No. 271”.
 A Short Recap
- Noticing a growth in the frequency of internet shutdowns and constrained by the lack of movement for reform, on April 22, 2018, we sent a petition to several government ministries and the Prime Minister’s Office (PMO).</description>
+Noticing a growth in the frequency of internet shutdowns and constrained by the lack of movement for reform, on April 22, 2018, we sent a petition to several government ministries and the Prime Minister’s Office (PMO).</description>
     </item>
     
     <item>
@@ -5051,7 +5053,7 @@ Given this continuing concern, we have written to the Prime Minister’s Office 
       
       <guid>https://archive.internetfreedom.in/post/iff-urges-justice-srikrishna-to-uphold-privacy/</guid>
       <description>Today, the Internet Freedom Foundation, an organization born from the SaveTheInternet.in movement for Net Neutrality, filed its submission to the Justice Srikrishna Committee on Data Protection. This committee which has been tasked with framing India&amp;rsquo;s data protection law is an important step in ensuring the online privacy for people in India.
- Earlier IFF through the, &amp;ldquo;Privacy is a Right&amp;rdquo; page had summarised a voluminous white paper and outlined how the public could engage with it (link).</description>
+Earlier IFF through the, &amp;ldquo;Privacy is a Right&amp;rdquo; page had summarised a voluminous white paper and outlined how the public could engage with it (link).</description>
     </item>
     
     <item>
@@ -5237,7 +5239,7 @@ The Internet Freedom Foundation (IFF) hopes to carry on this work organisational
       <description>July 5, 2016
 The Internet Freedom Foundation (IFF) made its submissions on the TRAI&amp;rsquo;s pre-consultation on Net Neutrality.
 We specifically requested the TRAI to approach any future consultation on net neutrality in the following manner:
-  A clear roadmap should be prescribed for network neutrality rulemaking in India. All existing consultations should be closed with specific recommendations. The reasons for conducting future consultations should be flagged and reasoned expressly, so that members of the public and other stakeholders in this issue can meaningfully engage and contribute.</description>
+A clear roadmap should be prescribed for network neutrality rulemaking in India. All existing consultations should be closed with specific recommendations. The reasons for conducting future consultations should be flagged and reasoned expressly, so that members of the public and other stakeholders in this issue can meaningfully engage and contribute.</description>
     </item>
     
     <item>
@@ -5308,8 +5310,8 @@ On January 1, TRAI had instructed Facebook to share a message with their support
       <pubDate>Mon, 28 Dec 2015 05:04:10 +0000</pubDate>
       
       <guid>https://archive.internetfreedom.in/post/what-facebook-wont-tell-you-about-freebasics/</guid>
-      <description>The top 10 facts about FreeBasics   There are other successful models (this, this, this) for providing free Internet access to people, without giving a competitive advantage to Facebook. Free Basics is the worst of our options.
-  Facebook doesn’t pay for Free Basics, telecom operators do. Where do they make money from? From users who pay. By encouraging people to choose Free Basics, Facebook reduces the propensity to bring down data costs for paid Internet access.</description>
+      <description>The top 10 facts about FreeBasics There are other successful models (this, this, this) for providing free Internet access to people, without giving a competitive advantage to Facebook. Free Basics is the worst of our options.
+Facebook doesn’t pay for Free Basics, telecom operators do. Where do they make money from? From users who pay. By encouraging people to choose Free Basics, Facebook reduces the propensity to bring down data costs for paid Internet access.</description>
     </item>
     
     <item>
@@ -5360,7 +5362,7 @@ Need more Internet Industry support. FB spending lots of money promoting Interne
       
       <guid>https://archive.internetfreedom.in/post/24-hours-to-save-netneutrality-2/</guid>
       <description>Update: We have 5 more days to comment. The deadline for comments on MyGov has been extended to 20th August. Some sample comments below. The process:
- Registeron the MyGov.in website Sign into MyGov.in Visit the net neutrality pageand submit a response.  Yesterday: In April, you spoke out in support of an open internet. We’re writing to you because it is time to make our voices heard again.
+Register on the MyGov.in website Sign into MyGov.in Visit the net neutrality page and submit a response. Yesterday: In April, you spoke out in support of an open internet. We’re writing to you because it is time to make our voices heard again.
 Despite our 1 million+ emails, the Department of Telecommunications released a draft report with recommendations which appear to favour the creation of a license raj for Internet voice calls and other communication services in India, and can allow telecom operators to create private walled gardens using Zero Rating.</description>
     </item>
     
@@ -5371,10 +5373,9 @@ Despite our 1 million+ emails, the Department of Telecommunications released a d
       
       <guid>https://archive.internetfreedom.in/post/the-standing-committee-on-it-is-planning-to-look-into-issues-of-net-neutrality-and-call-drops/</guid>
       <description>To Flipkart, Google, Microsoft and Cleartrip,
-You&amp;rsquo;ve been invited to depose before the Parliamentary Standing Committee on Net Neutrality, according to a notice on the Standing Committee website(via @ianuragthakur).
+You&amp;rsquo;ve been invited to depose before the Parliamentary Standing Committee on Net Neutrality, according to a notice on the Standing Committee website (via @ianuragthakur).
 We, at Savetheinternet.in, would strongly urge you to take a stand in favour of Net Neutrality: against any form of discrimination by access providers, whether in terms of speed, availability or price of access to specific sites.
-We can help
-At SaveTheInternet.</description>
+We can help</description>
     </item>
     
     <item>
@@ -5434,9 +5435,8 @@ This debate is not really being carried out in a way it should be.</description>
       <pubDate>Fri, 24 Apr 2015 03:29:30 +0000</pubDate>
       
       <guid>https://archive.internetfreedom.in/post/questions-journalists-can-ask-the-coai-and-telecom-ceos-today/</guid>
-      <description>Today&amp;rsquo;s the last day for filing your submissionswith the TRAI on its Consultation paper for Internet applications and services.
-The Cellular Operators Association of India, and the Telecom industry CEOs, who pushed for this consultation, are hosting a press conference today in Delhi at Hotel Lalit at 11.30 AM, probably announcing &amp;lsquo;Sabka Internet&amp;rsquo;, for which they have polled Indian mobile users in a disingenuous manner (more on that here).
-Here are some questions that we would ask the telecom companies, had we been there.</description>
+      <description>Today&amp;rsquo;s the last day for filing your submissions with the TRAI on its Consultation paper for Internet applications and services.
+The Cellular Operators Association of India, and the Telecom industry CEOs, who pushed for this consultation, are hosting a press conference today in Delhi at Hotel Lalit at 11.30 AM, probably announcing &amp;lsquo;Sabka Internet&amp;rsquo;, for which they have polled Indian mobile users in a disingenuous manner (more on that here).</description>
     </item>
     
     <item>
@@ -5445,7 +5445,7 @@ Here are some questions that we would ask the telecom companies, had we been the
       <pubDate>Thu, 23 Apr 2015 11:37:26 +0000</pubDate>
       
       <guid>https://archive.internetfreedom.in/post/one-million-submissions/</guid>
-      <description>Unprecedented public response in India’s policy making history Citizens, businesses, startups and political leaders demand #NetNeutrality Volunteer-led “Save The Internet” Showcases Internet-enabled Model of Public Participation  23 April, Delhi - The SaveTheInternet.in Coalition, a group of over 50 volunteers from across India, concerned about safeguarding an open Internet and net neutrality, today announced that over one million email submissions had been sent to India’s telecom regulatory body, the Telecom Regulatory Authority of India (TRAI), via savetheinternet.</description>
+      <description>Unprecedented public response in India’s policy making history Citizens, businesses, startups and political leaders demand #NetNeutrality Volunteer-led “Save The Internet” Showcases Internet-enabled Model of Public Participation 23 April, Delhi - The SaveTheInternet.in Coalition, a group of over 50 volunteers from across India, concerned about safeguarding an open Internet and net neutrality, today announced that over one million email submissions had been sent to India’s telecom regulatory body, the Telecom Regulatory Authority of India (TRAI), via savetheinternet.</description>
     </item>
     
     <item>
@@ -5475,7 +5475,7 @@ Aakriti Bhargava, Akshay S Dinesh, Amba Kak, Apar Gupta, Aravind Ravi-Sulekha, A
       <guid>https://archive.internetfreedom.in/post/letter-to-the-editor-mint/</guid>
       <description>Sir,
 this is with reference to an opinion piece in the Mint: Leave the Internet Alone.
-The authors appear to be misled regarding the campaign for Net Neutrality in India, although there isn’t a specific reference to Savetheinternet.inand the group of volunteers that seeded it. The draft responses we have published on our site request allowing for legitimate network management without paid prioritization, while requesting the enforcement of transparency to ensure prevention of discrimination.</description>
+The authors appear to be misled regarding the campaign for Net Neutrality in India, although there isn’t a specific reference to Savetheinternet.in and the group of volunteers that seeded it. The draft responses we have published on our site request allowing for legitimate network management without paid prioritization, while requesting the enforcement of transparency to ensure prevention of discrimination.</description>
     </item>
     
     <item>
@@ -5504,7 +5504,7 @@ Who can hate free stuff? Why would we deny someone else getting something for fr
       <pubDate>Tue, 21 Apr 2015 06:32:31 +0000</pubDate>
       
       <guid>https://archive.internetfreedom.in/post/about-2/</guid>
-      <description>Who we are  We are not a company or any kind of formal entity. We are a group of volunteers. There are over 50 of us. We are apolitical and, as a collective, unaffiliated with any political party or organisation. Our belief in net neutrality is above whatever political affiliations individual members have. We are not aligned with any company, industry association or non-government organisation. We come from various backgrounds, from various parts of India, each with different skills and talents.</description>
+      <description>Who we are We are not a company or any kind of formal entity. We are a group of volunteers. There are over 50 of us. We are apolitical and, as a collective, unaffiliated with any political party or organisation. Our belief in net neutrality is above whatever political affiliations individual members have. We are not aligned with any company, industry association or non-government organisation. We come from various backgrounds, from various parts of India, each with different skills and talents.</description>
     </item>
     
     <item>
@@ -5514,7 +5514,8 @@ Who can hate free stuff? Why would we deny someone else getting something for fr
       
       <guid>https://archive.internetfreedom.in/post/airtelpledge/</guid>
       <description>On April 18th, Airtel sent a letter, called #airtelpledge (read), to all its employees and all its postpaid users, making some claims and promises about Airtel Zero. We’re addressing a few claims made in the letter here:
-  Airtel said that it is committed to Net Neutrality. However, Airtel cannot be committed to Net Neutrality while simultaneously violating it. The TRAI consultation paper (read) itself says on page 77:</description>
+Airtel said that it is committed to Net Neutrality. However, Airtel cannot be committed to Net Neutrality while simultaneously violating it. The TRAI consultation paper (read) itself says on page 77:
+“In other words, NN implies that there cannot be any price discrimination between suppliers of content and also among the customers that access such content.</description>
     </item>
     
   </channel>

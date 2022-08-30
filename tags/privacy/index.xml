@@ -71,7 +71,9 @@
       
       <guid>https://archive.internetfreedom.in/post/ap-gov-students-data-leak/</guid>
       <description>tl;dr
-Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vulnerability exposing the sensitive personal information of minors. This existed on the website of the Directorate of Government Examinations, Government of Andhra Pradesh’s for the 2021 examinations. While this functionality itself has been removed, to prevent it from occurring again assisted by Sai, we have written to them and CERT-In.</description>
+Sai Sravan Prabhala, a cyber-security researcher, informed us of a critical vulnerability exposing the sensitive personal information of minors. This existed on the website of the Directorate of Government Examinations, Government of Andhra Pradesh’s for the 2021 examinations. While this functionality itself has been removed, to prevent it from occurring again assisted by Sai, we have written to them and CERT-In.
+Background
+On 22nd December 2021, cyber-security researcher Sai Sravan Prabhala reached out to us, to bring to our notice a vulnerability in the Andhra Pradesh Directorate of Government Examination website which put the sensitive personal information of minors at risk of misuse.</description>
     </item>
     
     <item>
