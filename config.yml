@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Internet Freedom Foundation
-  description: "ExampleSite description"
+  description: "An Archive of internetfreedom.in"
   keywords: [IFF]
   author: Internet Freedom Foundation
   # author: ["Me", "You"] # multiple authors
